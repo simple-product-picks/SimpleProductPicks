@@ -49,7 +49,7 @@ The Revodok Pro 210 is the value sweet spot in this category, and it's honestly 
 
 **Cons**
 - ✗ HDMI-only display output; there is no DisplayPort option
-- ✗ Build quality trails the rest of its scorecard, as the 7/10 build score reflects
+- ✗ Build quality is the weakest part of it
 
 **Who it's for:** Home and hybrid workers building a two-monitor desk on a sensible budget.
 **Who it's not for:** Anyone needing three displays or top-tier transfer speeds for large files.

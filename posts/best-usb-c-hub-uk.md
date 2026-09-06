@@ -38,7 +38,7 @@ Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 8/10
 
 What keeps it off a 10: There is no SD or microSD reader, so offloading camera cards means a separate reader or a bigger hub.
 
-If your desk is really just a monitor, a couple of USB accessories and the laptop's own charger, a 5-in-1 is plenty, and the extras on a bigger hub are just weight in the bag. This Anker keeps it to a 4K HDMI output, two USB-A ports and a USB-C port Anker rates for up to 85W pass-through, all in a slab you can drop in a laptop sleeve. Anker's record on build is the reason it scores as well as it does here. What you give up is wired Ethernet and any card reader, so it suits people whose networking is Wi-Fi and whose files arrive over the cloud rather than off a camera card.
+If your desk is really just a monitor, a couple of USB accessories and the laptop's own charger, a 5-in-1 is plenty, and the extras on a bigger hub are just weight in the bag. This Anker keeps it to a 4K HDMI output, two USB-A ports and a USB-C port Anker rates for up to 85W pass-through, all in a slab you can drop in a laptop sleeve. Anker's track record on build is what makes a hub this plain worth having. What you give up is wired Ethernet and any card reader, so it suits people whose networking is Wi-Fi and whose files arrive over the cloud rather than off a camera card.
 
 **Pros**
 - ✓ Covers a 4K monitor and two USB-A accessories, which is all many desks need

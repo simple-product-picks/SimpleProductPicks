@@ -17,7 +17,7 @@ This is the no-asterisk answer. Nothing Apple quotes for the iPhone 17, wired or
 **Pros**
 - ✓ Clears every charging figure Apple quotes for the iPhone 17, wired and magnetic
 - ✓ Folding pins on the plug that ends up living in an iPhone bag
-- ✓ The highest build score of the three on our rubric, at 10 out of 10
+- ✓ Best-built of the three picks here
 
 **Cons**
 - ✗ One USB-C port, so everything else in the house waits its turn

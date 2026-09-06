@@ -88,7 +88,7 @@ For most people the **[UGREEN USB C to 2.5G Ethernet Adapter](https://www.amazon
 
 ## USB-C network adapter, Ethernet dongle or Ethernet adapter: is there a difference?
 
-No. Retailers and manufacturers use all three names for the same thing: a small device with a USB-C plug on one end and an RJ45 Ethernet socket on the other. Some listings call it a USB-C to Gigabit Ethernet adapter, some a USB-C network adapter, and plenty of buyers just search for an Ethernet dongle. Whatever it is called, it does one job: it gives a device that has no Ethernet port a wired network connection through USB-C. The things that genuinely separate one from another are the speed class it supports, whether it is plug and play on your operating system, and how well it is built for a life in a laptop bag. Those three feed directly into the scores above.
+No. Retailers and manufacturers use all three names for the same thing: a small device with a USB-C plug on one end and an RJ45 Ethernet socket on the other. Some listings call it a USB-C to Gigabit Ethernet adapter, some a USB-C network adapter, and plenty of buyers just search for an Ethernet dongle. Whatever it is called, it does one job: it gives a device that has no Ethernet port a wired network connection through USB-C. The things that genuinely separate one from another are the speed class it supports, whether it is plug and play on your operating system, and how well it is built for a life in a laptop bag. Those three are what separate one adapter from another, and they are what we judged these on.
 
 ## Gigabit, 2.5G or 5G: which speed do you actually need?
 
