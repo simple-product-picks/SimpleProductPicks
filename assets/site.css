@@ -572,6 +572,13 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 .spp-handson { font-size: 15px; margin: 0 0 12px; }
 .spp-handson b { font-weight: 700; }
 
+/* -- "How we test" pointer under the first scorecard (2026-09-06) --- */
+.score-note {
+  font-size: 13.5px; line-height: 1.5; color: var(--muted);
+  margin: -2px 0 14px;
+}
+.score-note a { font-weight: 600; text-decoration: underline; }
+
 /* -- Sticky bottom CTA bar ---------------------------------------- */
 .sticky-cta {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
@@ -885,16 +892,19 @@ body.sticky-dismissed .sticky-cta { display: none; }
     flex: 1 1 100%;
     width: 100%;
     margin: 0;
-    gap: 4px;
-    flex-wrap: wrap;
+    gap: 3px;
+    /* one row, never two: five entries fit a 390px phone, and a narrower
+       screen scrolls the row instead of stacking a lone link underneath */
+    flex-wrap: nowrap;
     justify-content: space-between;
-    overflow-x: visible;
+    overflow-x: auto;
   }
   .site-nav a {
     display: inline-flex; align-items: center; justify-content: center;
+    flex: 0 0 auto;
     min-height: 40px;
-    padding: 8px 9px;
-    font-size: 13px;
+    padding: 8px 7px;
+    font-size: 12.5px;
     border-radius: 10px;
   }
   .theme-toggle {
