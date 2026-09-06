@@ -99,7 +99,7 @@ A: No. Apple quotes its 50%-in-20-minutes figure against a 40-watt adapter or hi
 A: Apple rates the Air from a 20-watt adapter upwards for 50% in half an hour, a gentler bar than the iPhone 17's. All three picks clear it, so choose on size and ports instead of wattage.
 
 **Q: What wattage do I need for MagSafe on an iPhone 17?**
-A: Apple quotes 50% in 30 minutes from a 30-watt adapter or higher paired with its MagSafe Charger, and rates MagSafe and Qi2 wireless at up to 25 watts on the iPhone 17 and up to 20 watts on the Air. All three picks meet or clear that 30-watt bar, so the puck and the phone set the ceiling rather than the plug.
+A: Apple quotes 50% in 30 minutes from a 30-watt adapter or higher paired with its MagSafe Charger, and rates MagSafe and Qi2 wireless at up to 25 watts on the iPhone 17 and up to 20 watts on the Air. All three picks meet or clear that 30-watt bar, so the puck and the phone set the ceiling rather than the plug. If you're wondering how those two names differ, our [Qi2 vs MagSafe explainer](qi2-vs-magsafe-explained.html) covers it.
 
 **Q: Will a more powerful charger damage my iPhone?**
 A: No. USB-C Power Delivery is a negotiation, so the phone asks for what it wants and the charger holds the rest in reserve. The cable is the part worth checking, since it can only pass what it is rated to carry, and our [USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers that end.

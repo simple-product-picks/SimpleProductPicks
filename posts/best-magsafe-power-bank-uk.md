@@ -93,7 +93,7 @@ Magnetic banks live or die on the wireless standard they actually carry, so that
 ## FAQ
 
 **Q: What's the difference between MagSafe-compatible and Qi2?**
-A: "MagSafe-compatible" usually means the magnets line up but the charging is plain Qi at 7.5W. Qi2 is the certified standard that delivers 15W to compatible iPhones, and the newer Qi2 25W class raises that again - but only iPhone 16 and 17-era handsets can use the full 25W.
+A: "MagSafe-compatible" usually means the magnets line up but the charging is plain Qi at 7.5W. Qi2 is the certified standard that delivers 15W to compatible iPhones, and the newer Qi2 25W class raises that again - but only iPhone 16 and 17-era handsets can use the full 25W. Our [Qi2 vs MagSafe explainer](qi2-vs-magsafe-explained.html) unpacks how the standard and the brand relate.
 
 **Q: Will a magnetic power bank work through my phone case?**
 A: Through a MagSafe-compatible case, yes - the magnets are designed for it. Thick, rugged or non-magnetic cases weaken or break the grip, so caseless or a thin magnetic case is the safe assumption.

@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.co.uk/feed-chargers.xml" rel="self" type="application/rss+xml" />
   <description>UK buying guides for USB-C and GaN chargers. Every link verified against the live Amazon UK listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 01 Sep 2026 01:48:11 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 01:45:56 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.co.uk/posts_html/best-100w-gan-charger-uk.html</link>
@@ -62,6 +62,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-usb-c-car-charger-uk.html</guid>
     <pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
     <description>Best usb c car charger in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
+  </item>
+  <item>
+    <title>Qi2 vs MagSafe Explained UK 2026</title>
+    <link>https://simpleproductpicks.co.uk/posts_html/qi2-vs-magsafe-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/qi2-vs-magsafe-explained.html</guid>
+    <pubDate>Sun, 06 Sep 2026 08:00:00 +0000</pubDate>
+    <description>Qi2 vs MagSafe explained in plain English for UK buyers: what each name means, why they charge an iPhone at the same speed, and which one you actually need.</description>
   </item>
 </channel>
 </rss>
