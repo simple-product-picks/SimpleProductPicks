@@ -15,3 +15,6 @@ package.json
 # Build/edit backup snapshots (kept locally, never published)
 *.bak_*
 
+
+# local pre-mutation page backups (never published)
+backups/
