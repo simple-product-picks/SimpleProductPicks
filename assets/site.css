@@ -856,9 +856,9 @@ body.sticky-dismissed .sticky-cta { display: none; }
 /* MOBILE PASS (2026-09-02) - round 1. Nothing in THIS block applies  */
 /* above 760px; the deliberate desktop tightening came later (rounds  */
 /* 2 and 3) and lives in the base rules + the tail block below.       */
-/* Operator on two phones: "clutter of text, can't even see the       */
-/* light/dark theme button, nav buttons cut off". Guarded by the      */
-/* 390px MOBILE PASS in audit_rendered.js.                            */
+/* The phone problems it fixes: crowded text, a light/dark toggle     */
+/* you could not see, and nav links running off the edge. The         */
+/* reference width is 390px.                                          */
 /* ================================================================= */
 
 /* -- Header: brand + toggle on row 1, nav links on row 2 ------------ */
@@ -960,8 +960,7 @@ body.sticky-dismissed .sticky-cta { display: none; }
    hero tightened. Round 3: "the Updated September 2026 badge is way too in your face and
    too close to the headline"; "does everything need as much size, width, height as it
    has?"; "the scrolling strip under the hero is a good idea" -> the strip is now the base.
-   Floors held throughout (nav 40px, other tap targets 36px, body text 15px) - the mobile
-   pass in audit_rendered.js fails the build if any of them is crossed. */
+   Minimum sizes held throughout: nav 40px, other tap targets 36px, body text 15px. */
 
 /* -- Sub-copy: no orphan last line, at any width ------------------- */
 .home-hero p { text-wrap: balance; text-wrap: pretty; }
@@ -1008,8 +1007,8 @@ body.sticky-dismissed .sticky-cta { display: none; }
 }
 
 /* -- Round 3 SIZE PASS: header ------------------------------------- */
-/* 86px total: 2 + 40 (brand row) + 40 (nav row) + 3 + 1px border. Nav links stay at the
-   gate's 40px floor; the toggle fills the brand row. */
+/* 86px total: 2 + 40 (brand row) + 40 (nav row) + 3 + 1px border. Nav links keep their
+   40px minimum height; the toggle fills the brand row. */
 @media (max-width: 760px) {
   .site-header .wrap { padding-top: 2px; padding-bottom: 3px; }
   .brand-title, .back-link { min-height: 40px; }
@@ -1043,7 +1042,7 @@ body.sticky-dismissed .sticky-cta { display: none; }
 }
 
 /* -- Round 3 SIZE PASS: post cards on phones ----------------------- */
-/* Title 16px (above the gate's 15px body floor), "Read guide" 14px (a control label,
+/* Title 16px (above the 15px minimum for body copy), "Read guide" 14px (a control label,
    not body copy), 12px card padding, so roughly two cards land in a screen. */
 @media (max-width: 700px) {
   .post-card { padding: 12px; }
@@ -1057,7 +1056,7 @@ body.sticky-dismissed .sticky-cta { display: none; }
 }
 
 /* -- Round 3: sticky-bar dismiss button was a 28px tap target ------ */
-/* Caught by the tap-target check the moment it was added to the rendered gate. Phone
+/* 28px sat under the 36px minimum tap target, so it is 36px here. Phone
    only, so the desktop bar is unchanged. */
 @media (max-width: 700px) {
   .sticky-close { width: 36px; height: 36px; }
@@ -1082,8 +1081,8 @@ body.sticky-dismissed .sticky-cta { display: none; }
 /* desktop". Two things only: a scroll cue on the phone chip strip,  */
 /* and a desktop rhythm pass (spacing scale 8/12/16/24/32, one hero  */
 /* action row, calmer cards, lighter footer). No colour token moves, */
-/* no structural change - DESIGN-CANON 2/3/4 are untouched. This     */
-/* block is byte-identical on every Picks site.                      */
+/* no structural change - the colour tokens and the page structure   */
+/* stay exactly as they were.                                        */
 /* ================================================================= */
 
 /* -- Phone: the chip strip tells you it scrolls -------------------- */
@@ -1203,8 +1202,8 @@ body.sticky-dismissed .sticky-cta { display: none; }
 @media (max-width: 700px) {
   /* Phone category bar: slightly smaller glyph, and the icon-to-label gap goes back to 6px.
      An emoji carries its own side bearing; an SVG does not, so the 4px the emoji chips used
-     reads as touching once the glyph is a real icon. Chip height is unchanged (36px floor,
-     enforced by the mobile pass in audit_rendered.js). */
+     reads as touching once the glyph is a real icon. Chip height is unchanged (36px
+     minimum tap target). */
   .hero-cat { gap: 6px; }
   .hero-cat .chip-ico { width: 16px; height: 16px; }
 }
@@ -1214,7 +1213,7 @@ body.sticky-dismissed .sticky-cta { display: none; }
    "Picks", transparent PNG that sits on the navy header), replacing the old mark-64 icon +
    text. 28px tall keeps the header on ONE row at desktop; the phone step below matches the
    old 13.5px text footprint so the theme toggle and nav stay in the viewport at 390px.
-   ONE BRAND PER PAGE (DESIGN-CANON 4): the header carries it, no page body repeats it -
+   ONE BRAND PER PAGE: the header carries it, no page body repeats it -
    the 404's old body mark was removed in the same pass. */
 .brand-wordmark { display: block; width: 268px; height: 28px; }
 @media (max-width: 640px) {
@@ -1222,13 +1221,10 @@ body.sticky-dismissed .sticky-cta { display: none; }
 }
 
 /* -- Answer-first verdict + links-checked line + team byline ---------------------------
-   2026-09-05, work order item 5 (operator: CTR + trust + featured snippet). The quick verdict
-   a reader (and a snippet) should get before the comparison table, the visible proof the links
-   were checked, and the site-team byline. All three are GENERATED by each site's enhance
-   pipeline from products_verified.json + that site's verification log (scriptsnswer_first.py,
-   byte-identical on every site) - never hand-authored into a page. Tokens only, so each site
-   paints it in its own palette in both themes; spacing on the 8/12/16/24 scale (DESIGN-CANON
-   3b) and body copy 16px desktop / 15px phone (canon 4b). */
+   The quick verdict a reader (and a search snippet) should get before the comparison
+   table, the visible note that the links were checked, and the site-team byline.
+   Tokens only, so each theme paints it in its own palette; spacing on the
+   8/12/16/24 scale and body copy 16px desktop / 15px phone. */
 .post-byline { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
 .answer-first {
   background: var(--bg-soft);
