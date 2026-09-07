@@ -12,7 +12,7 @@ Scorecard: Capability 8/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
 What keeps it off a 10: That 2.5G ceiling counts for nothing unless your broadband and network support it, and there are no hub ports or pass-through power.
 
-UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter is the right call for most people. It converts a single USB-C port into a 2.5Gbps RJ45 Ethernet connection, giving you headroom beyond standard Gigabit for UK home broadband, video calls, and large file transfers. It's plug and play, and the compact form factor makes it an easy permanent resident in a laptop bag.
+UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter is the right call for most people. It converts a single USB-C port into a 2.5Gbps RJ45 Ethernet connection, giving you headroom beyond standard Gigabit for UK home broadband, video calls, and large file transfers. It's plug and play, and the compact form factor makes it an easy permanent resident in a laptop bag. We lead with it as the buy-once choice: on a sub-Gigabit line it still delivers everything the line has, and it is the one adapter here you would not replace if that line gets faster. If you would rather pay the least today, the Gigabit pick below is the honest answer.
 
 **Pros**
 - ✓ 2.5Gbps Ethernet gives headroom beyond standard Gigabit adapters
@@ -98,15 +98,15 @@ Match the adapter to the slowest link in your chain, not the fastest number on t
 
 1. Plug the adapter into a USB-C port that supports data. Most laptop ports do, but some charge-only ports on docks and monitors will not recognise it.
 2. Run an Ethernet cable from the RJ45 socket on the adapter to a spare LAN port on your router, mesh node or switch. Any Cat5e or better cable handles Gigabit; Cat6 is the comfortable choice for 2.5G and above.
-3. Wait a few seconds. Windows 11 and macOS pick up plug-and-play adapters automatically and switch to the wired connection on their own.
+3. Wait a few seconds. Current versions of Windows and macOS pick up plug-and-play adapters automatically and switch to the wired connection on their own.
 4. Turn Wi-Fi off while you are wired. Both systems prefer Ethernet when it is available, but switching Wi-Fi off removes any doubt and stops the laptop hopping between the two.
 5. Run a speed test. If the result is far below what you expect, the usual culprits are a slow router LAN port, an old cable, or the adapter sitting in a charge-only port.
 
 ## Will a USB-C Ethernet adapter work with my device?
 
-- **MacBook Air and MacBook Pro:** yes, on every USB-C model. macOS supports common adapter chipsets without extra software.
+- **MacBook Air and MacBook Pro:** yes, on the USB-C models. macOS handles common adapter chipsets without extra software.
 - **Windows laptops:** yes, on any USB-C port that carries data. Ultraportables with only USB-C ports are the main reason these adapters exist.
-- **USB-C iPads (iPad Pro from 2018, iPad Air from 2020, iPad mini 6 and iPad 10th gen):** yes, iPadOS supports wired networking through a USB-C Ethernet adapter, which is handy for big downloads or stable video calls.
+- **iPads with a USB-C port:** yes, iPadOS supports wired networking through a USB-C Ethernet adapter, which is handy for big downloads or stable video calls.
 - **Steam Deck:** yes, either directly or through a dock; for the dock route see our [USB-C hub for Steam Deck](best-usb-c-hub-for-steam-deck.html) guide.
 - **Android phones and tablets:** most current models support it, though a handful of budget phones lack the software support and will simply not see the adapter.
 - **Chromebooks:** yes, ChromeOS handles standard adapters automatically.
