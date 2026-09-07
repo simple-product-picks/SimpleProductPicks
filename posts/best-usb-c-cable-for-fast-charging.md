@@ -64,12 +64,12 @@ Scorecard: Capability 10/10 - Versatility 5/10 - Build 10/10 - Value 8/10
 
 What keeps it off a 10: The full 240W only counts if your charger and device support EPR, so phone-only owners get capability they will never actually use.
 
-The Anker Prime USB C to USB C Cable 240W is what you buy when the laptop, not the phone, is the demanding one. Its 240W rating, which Anker pegs to the newer USB Power Delivery EPR (Extended Power Range) standard, gives it the headroom to fast-charge high-wattage laptops, docks and accessories that would max out lesser cables. The upcycled-braided nylon jacket is rated for high bend durability, keeping it tough enough for travel and constant plugging and unplugging over a 1.8m length.
+The Anker Prime USB C to USB C Cable 240W is what you buy when the laptop, not the phone, is the demanding one. Its 240W rating puts it in the Extended Power Range (EPR) class of USB Power Delivery, which gives it the headroom to fast-charge high-wattage laptops, docks and accessories that would max out lesser cables. The upcycled-braided nylon jacket is rated for high bend durability, keeping it tough enough for travel and constant plugging and unplugging over a 1.8m length.
 
 **Pros**
 - ✓ 240W rating supports high-wattage laptops and the latest USB-PD EPR devices
 - ✓ High-bend-durability build made to survive heavy daily and travel use
-- ✓ Upcycled-braided nylon jacket for a tougher, more sustainable lead
+- ✓ Upcycled-braided nylon jacket for a tougher lead
 
 **Cons**
 - ✗ The full 240W is only useful if your charger and device support EPR
