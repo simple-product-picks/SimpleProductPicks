@@ -84,7 +84,7 @@ This is the same UGREEN dongle idea as our overall pick with a better converter 
 
 ## Quick verdict
 
-For most people the **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, pairing solid build with broad compatibility for wired headphones and aux leads. (The Apple dongle is the better-built of the two; the UGREEN's broader compatibility record keeps it the safer default.) If you just want the jack back with no fuss, the **[Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B0D7MN4W7H?linkCode=ll2&tag=souvlakia-21)** is the value pick. If your headphones and sources can show it, the **[UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz)](https://www.amazon.co.uk/dp/B0CG5FTHT9?linkCode=ll2&tag=souvlakia-21)** is the spec step up in conversion.
+For most people the **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, pairing a slim in-line build with a DAC UGREEN rates at 24bit/96kHz. (The Apple dongle is the sturdier one-piece design; the UGREEN's stated conversion figure and pocketable body keep it our default.) If you just want the jack back with no fuss, the **[Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B0D7MN4W7H?linkCode=ll2&tag=souvlakia-21)** is the value pick. If your headphones and sources can show it, the **[UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz)](https://www.amazon.co.uk/dp/B0CG5FTHT9?linkCode=ll2&tag=souvlakia-21)** is the spec step up in conversion.
 
 ## How we chose
 
