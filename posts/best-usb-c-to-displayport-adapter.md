@@ -12,7 +12,7 @@ Scorecard: Capability 9/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
 What keeps it off a 10: Video only appears if your laptop or tablet supports DisplayPort Alt Mode, and its port, not the adapter alone, sets the resolution ceiling.
 
-The UGREEN USB C to DisplayPort 1.4 Adapter is the right call for most gaming-monitor setups, with full DisplayPort 1.4 support in a compact plug-in adapter. The standard carries enough bandwidth for 4K at high refresh and supports HDR and Display Stream Compression, making this a strong match for gaming monitors and productivity multi-display work. UGREEN is a well-established name in charging and connectivity accessories, and the adapter relies on your device's USB-C DisplayPort Alt Mode to pass a clean video signal.
+The UGREEN USB C to DisplayPort 1.4 Adapter is the right call for most gaming-monitor setups, with full DisplayPort 1.4 support in a compact plug-in adapter. DisplayPort 1.4 carries the bandwidth for 8K at 60Hz or 4K at high refresh, and supports HDR and Display Stream Compression, making this a strong match for gaming monitors and productivity multi-display work. UGREEN is a well-established name in charging and connectivity accessories, and the adapter relies on your device's USB-C DisplayPort Alt Mode to pass a clean video signal.
 
 **Pros**
 - ✓ DisplayPort 1.4 supports high-resolution, high-refresh-rate output for gaming and pro displays
