@@ -1,6 +1,6 @@
 # Best MagSafe Power Bank UK 2026
 
-A magnetic power bank snaps onto the back of an iPhone and charges it with no cable in sight, which is exactly what you want on a train or walking between meetings. The catch is the wattage trap: plenty of "MagSafe-compatible" banks charge at just 7.5W, Qi2-certified ones manage the standard's full 15W. The newest Qi2 25W class goes faster still, but only on recent iPhones. This guide picks three magnetic banks that get the standards right. If you'd rather have the faster wired kind, our [power bank for iPhone 15 guide](best-power-bank-for-iphone-15.html) covers that side.
+A magnetic power bank snaps onto the back of an iPhone and charges it with no cable in sight, which is exactly what you want on a train or walking between meetings. The catch is the wattage trap: a bank that only sticks on charges over plain Qi, which Apple rates at up to 7.5W on an iPhone, while Qi2 certification brings the standard's full 15W. The newest Qi2 25W class goes faster still, but only on recent iPhones. This guide picks three magnetic banks that get the standards right. If you'd rather have the faster wired kind, our [power bank for iPhone 15 guide](best-power-bank-for-iphone-15.html) covers that side.
 
 ## Top picks
 
@@ -93,16 +93,16 @@ Magnetic banks live or die on the wireless standard they actually carry, so that
 ## FAQ
 
 **Q: What's the difference between MagSafe-compatible and Qi2?**
-A: "MagSafe-compatible" usually means the magnets line up but the charging is plain Qi at 7.5W. Qi2 is the certified standard that delivers 15W to compatible iPhones, and the newer Qi2 25W class raises that again - but only iPhone 16 and 17-era handsets can use the full 25W. Our [Qi2 vs MagSafe explainer](qi2-vs-magsafe-explained.html) unpacks how the standard and the brand relate.
+A: "MagSafe-compatible" usually means the magnets line up but the charging is plain Qi, which Apple rates at up to 7.5W on an iPhone. Qi2 is the certified standard, and the Wireless Power Consortium sets it at 15W; the newer Qi2 25W class raises that again, though Apple lists 25W only on the iPhone 17, 17 Pro, 17 Pro Max, 16 Plus and 16 Pro Max. Our [Qi2 vs MagSafe explainer](qi2-vs-magsafe-explained.html) unpacks how the standard and the brand relate.
 
 **Q: Will a magnetic power bank work through my phone case?**
 A: Through a MagSafe-compatible case, yes - the magnets are designed for it. Thick, rugged or non-magnetic cases weaken or break the grip, so caseless or a thin magnetic case is the safe assumption.
 
 **Q: How many charges will a 10000mAh magnetic bank give an iPhone?**
-A: Fewer wirelessly than wired - some energy is lost as heat, so expect roughly one and a half full charges over the magnets versus closer to two through the cable; halve that for the 5000mAh budget pick. If raw endurance matters more than convenience, a bigger wired bank from our [long flights guide](best-power-bank-for-long-flights.html) stretches further.
+A: Fewer wirelessly than wired - some energy is lost as heat, so the same bank gets you noticeably less over the magnets than through the cable, and the 5000mAh budget pick starts with half the cell of the others. If raw endurance matters more than convenience, a bigger wired bank from our [long flights guide](best-power-bank-for-long-flights.html) stretches further.
 
 **Q: Can I take one of these on a plane?**
-A: Yes - even the 10000mAh picks (roughly 37Wh) sit comfortably under the usual 100Wh cabin-baggage limit, and the 5000mAh budget pick is smaller still. Keep it in hand luggage, never checked bags, and check your airline's own rules if you're carrying several.
+A: Yes, with the usual care. Check the watt-hour figure printed on the bank against your airline's limit, keep it in hand luggage rather than checked bags, and check the rules again if you're carrying several.
 
 ---
 
