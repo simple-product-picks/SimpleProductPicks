@@ -36,7 +36,7 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
-What keeps it off a 10: You will typically supply your own charging cable, which is one more thing to remember when you pack the bag.
+What keeps it off a 10: Both of its ports are USB-C, so an older USB-A cable has nothing to plug into while you are away.
 
 The UGREEN 65W GaN is the pick when bag weight matters more than port count, with two ports and enough power for a laptop as well as a phone. 65W is comfortably in ultrabook territory, so it can serve as a single charger for a work-and-play trip. UGREEN is a respected charging brand, and the two-port layout means you can top up a phone and a laptop from one plug.
 
