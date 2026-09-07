@@ -14,11 +14,11 @@ What keeps it off a 10: Being a 25000mAh battery it is heavier than a slim trave
 
 Hands-on: We own this one and it is the bank we take on long flights: two built-in retractable USB-C cables plus a third USB-C port cover a phone, a tablet and a laptop at once, and it has held up to daily use and travel without wear.
 
-With a 25000mAh capacity, this Anker is sized to recharge most phones several times over a long flight. It'll keep a tablet or laptop going too. Its three USB-C ports each deliver up to 100W, so it can fast-charge a laptop, a tablet, and a phone at once rather than making you choose. The built-in retractable cables mean there's less to pack and less to lose down a seat gap, and a 25000mAh pack still fits in a carry-on. Anker is a well-established name in portable charging, and this is a genuine in-seat charging hub for a traveller carrying several devices.
+With a 25000mAh capacity, this Anker is sized to recharge most phones several times over a long flight. It'll keep a tablet or laptop going too. Anker's listing gives it 165W across three USB-C ports, so a laptop can take a fast charge while a tablet and a phone top up beside it rather than waiting their turn. The built-in retractable cables mean there's less to pack and less to lose down a seat gap, and a 25000mAh pack still fits in a carry-on. Anker is a well-established name in portable charging, and this is a genuine in-seat charging hub for a traveller carrying several devices.
 
 **Pros**
 - ✓ 25000mAh capacity recharges most phones multiple times and tops up a laptop on a single trip
-- ✓ Triple 100W USB-C ports fast-charge a laptop, tablet, and phone simultaneously
+- ✓ 165W across three USB-C ports, per Anker's listing, charges a laptop, tablet and phone at the same time
 - ✓ Built-in retractable cables cut down on what you have to carry and untangle
 
 **Cons**
