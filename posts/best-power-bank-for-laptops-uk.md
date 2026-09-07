@@ -12,7 +12,7 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: The built-in cables fix the layout, so you are tied to UGREEN's port arrangement, and it is heavier than a phone-sized pack.
 
-The Nexode is the one we'd point most people to, because it settles the thing that trips up laptop charging: the cable. Its USB-C output runs up to 140W, which matches the 140W adapter Apple lists for the 16-inch MacBook Pro, and because one of its two built-in cables is itself rated to 140W, you get that speed without hunting for a compatible lead. The second built-in cable handles up to 65W for a tablet or a smaller laptop, and there's still a spare USB-C port and a USB-A for a phone or earbuds, so four things can charge together. A small display shows what's going in and out. At 25000mAh, which UGREEN rates at 90Wh, it stays inside the usual 100Wh cabin-baggage limit.
+The Nexode is the one we'd point most people to, because it settles the thing that trips up laptop charging: the cable. The 165W in its name is the total across its outputs; a single USB-C port runs up to 140W, which matches the 140W adapter Apple lists for the 16-inch MacBook Pro, and because one of its two built-in cables is itself rated to 140W, you get that speed without hunting for a compatible lead. The second built-in cable handles up to 65W for a tablet or a smaller laptop, and there's still a spare USB-C port and a USB-A for a phone or earbuds, so four things can charge together. A small display shows what's going in and out. At 25000mAh, which UGREEN rates at 90Wh, it stays inside the usual 100Wh cabin-baggage limit.
 
 **Pros**
 - ✓ 140W USB-C output charges a 16-inch MacBook Pro at the speed it's built for
