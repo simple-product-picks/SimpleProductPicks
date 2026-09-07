@@ -12,7 +12,7 @@ Scorecard: Capability 8/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
 What keeps it off a 10: HDMI output is the whole job here: no extra USB or card-reader ports, and your device has to charge separately.
 
-The Anker USB-C to HDMI Cable is our standout because it does the one job most people need in the simplest way possible. It's a single 0.9m lead that plugs a USB-C device straight into an HDMI display, with no dongle hanging off the port. It runs 4K output at a smooth 60Hz refresh rate. That matters for desktop work and video, where the more common 30Hz connections can feel laggy when moving windows or the cursor. The nylon-braided cord is built to survive being coiled into a bag and pulled out again. It's compatible with Thunderbolt 5, 4 and 3 as well as standard USB-C video output. Anker is a long-established charging and accessory brand, and a direct cable like this keeps the whole setup to one tidy connection.
+The Anker USB-C to HDMI Cable is our standout because it does the one job most people need in the simplest way possible. It's a single 0.9m lead that plugs a USB-C device straight into an HDMI display, with no dongle hanging off the port. It runs 4K output at a smooth 60Hz refresh rate. That matters for desktop work and video: many cheaper adapters cap 4K at 30Hz, which can feel laggy when moving windows or the cursor. The nylon-braided cord is built to survive being coiled into a bag and pulled out again. It's compatible with Thunderbolt 5, 4 and 3 as well as standard USB-C video output. Anker is a long-established charging and accessory brand, and a direct cable like this keeps the whole setup to one tidy connection.
 
 **Pros**
 - ✓ 4K resolution at 60Hz for smooth, sharp output to a monitor or TV
@@ -93,7 +93,7 @@ For HDMI, we judged each pick on what actually reaches the screen: resolution an
 ## FAQ
 
 **Q: Do I need an adapter that supports 4K at 60Hz?**
-A: If you mainly browse, work in documents or watch video, 4K at 60Hz gives smoother motion and a more comfortable feel. Basic 4K adapters often run at 30Hz, so check the spec if smoothness matters to you.
+A: If you mainly browse, work in documents or watch video, 4K at 60Hz gives smoother motion and a more comfortable feel. Cheaper 4K adapters can cap out at 30Hz, so check the spec if smoothness matters to you.
 
 **Q: Will a USB-C to HDMI adapter work with my phone or tablet?**
 A: It depends on whether your device's USB-C port supports video output (often called DisplayPort Alt Mode), so check your device's specifications, as not every USB-C port can drive an external display.
