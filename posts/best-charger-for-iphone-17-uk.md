@@ -1,6 +1,6 @@
 # Best Charger For iPhone 17 UK 2026
 
-Apple quotes a number for the iPhone 17 that sounds expensive: up to 50% charge in 20 minutes, "with 40W adapter or higher", and that adapter is "available separately". A published charge test calms it down. Macworld ran an iPhone 17 up from flat and watched it draw around 26 watts, reaching 41% in twenty minutes on Apple's own 40W/60W Dynamic Power Adapter and 42% on a 61W one. The phone sets the pace, not the plug. So the useful question isn't which charger is fastest. It's how many things you want charging at once, how small the plug has to be, and whether you mind owning one that sits under the figure printed on Apple's spec sheet. All three picks below charge an iPhone 17 quickly. They differ in what else they can do while they're at it.
+Apple quotes a number for the iPhone 17 that sounds expensive: up to 50% charge in 20 minutes, "with 40W adapter or higher", and that adapter is "available separately". A published charge test calms it down. Macworld ran an iPhone 17 up from flat and watched it draw around 26 watts, reaching 41% in twenty minutes on Apple's own 40W Dynamic Power Adapter and 42% on a 61W one. The phone sets the pace, not the plug. So the useful question isn't which charger is fastest. It's how many things you want charging at once, how small the plug has to be, and whether you mind owning one that sits under the figure printed on Apple's spec sheet. All three picks below charge an iPhone 17 quickly. They differ in what else they can do while they're at it.
 
 ## Top picks
 
@@ -88,7 +88,7 @@ For most iPhone 17 owners the **[Anker Nano 45W USB C Charger (Foldable)](https:
 
 ## How we chose
 
-We started with Apple's own spec sheets rather than the marketing. The iPhone 17 and 17 Pro quote 50% in 20 minutes from a 40-watt adapter or higher; the iPhone Air asks for 20 watts and half an hour; MagSafe wants 30 watts or more on either. Then we read Macworld's charge test, which found the phone drawing far less than the adapter was rated to give. That reframes the whole category: past the mid-to-high twenties Macworld measured, you're buying ports, size and build, not speed. So we weighed how flat each plug folds, how many devices it can serve at once, and whether its extra features do anything for an iPhone in particular. We take no payment for placement. Do check each listing for what's in the box, since Apple's figures assume a USB-C cable and we don't verify what ships with any plug.
+We started with Apple's own spec sheets rather than the marketing. The iPhone 17 quotes 50% in 20 minutes from a 40-watt adapter or higher; the iPhone Air asks for 20 watts and half an hour; MagSafe wants 30 watts or more on either. Then we read Macworld's charge test, which found the phone drawing far less than the adapter was rated to give. That reframes the whole category: past the mid-to-high twenties Macworld measured, you're buying ports, size and build, not speed. So we weighed how flat each plug folds, how many devices it can serve at once, and whether its extra features do anything for an iPhone in particular. We take no payment for placement. Do check each listing for what's in the box, since Apple's figures assume a USB-C cable and we don't verify what ships with any plug.
 
 ## FAQ
 
