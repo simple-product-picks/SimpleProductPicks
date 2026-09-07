@@ -64,7 +64,7 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: Size and output are overkill if you only ever top up a phone, and travelling light is not what this pack is for.
 
-This is the ceiling of what a 20000mAh-class bank can push out over USB-C. Anker rates the Prime's total output at 220W, with either USB-C port capable of 140W on its own - enough to feed a 16-inch laptop at full speed while the second port fast-charges a phone. A USB-A port covers legacy leads, the display reads out live wattage, and the companion app keeps those numbers on your phone. If USB-C output is the spec you're buying on, nothing else here comes close.
+This is the ceiling of what a 20000mAh-class bank can push out over USB-C. Anker rates the Prime's total output at 220W, with either USB-C port capable of 140W on its own, which matches the adapter Apple lists for a 16-inch MacBook Pro, while the second port fast-charges a phone. A USB-A port covers legacy leads, the display reads out live wattage, and the companion app keeps those numbers on your phone. If USB-C output is the spec you're buying on, nothing else here comes close.
 
 **Pros**
 - ✓ 140W from a single USB-C port, per Anker's rating - full-speed charging for big laptops
