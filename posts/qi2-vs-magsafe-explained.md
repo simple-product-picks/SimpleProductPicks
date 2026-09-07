@@ -4,7 +4,7 @@
 
 MagSafe is Apple's name for the magnetic wireless charging on the iPhone. It is a ring of magnets in the phone that pulls a charger into the same spot every time, so the coils line up and the charge stays steady instead of sliding off. It arrived with the iPhone 12, which is still where Apple's MagSafe compatibility list starts.
 
-Qi2 is the wireless charging standard from the Wireless Power Consortium, the industry group behind the older Qi charging most phones already use. Its headline addition is that same magnetic ring: the Consortium says Qi2 devices use magnetic attachment technology that aligns devices and chargers perfectly. Apple shipped the magnet ring first, and what Qi2 adds is that any brand can now certify a product against it.
+Qi2 is the wireless charging standard from the Wireless Power Consortium, the industry group behind the older Qi charging most phones already use. Its headline addition is that same magnetic ring: the Consortium says Qi2 devices feature magnetic attachment technology which aligns devices and chargers perfectly. Apple shipped the magnet ring first, and what Qi2 adds is that any brand can now certify a product against it.
 
 That's the whole relationship: MagSafe is Apple's version, Qi2 is the version everyone else can use too.
 
@@ -30,7 +30,7 @@ Qi2 casts wider. It brings the magnetic snap to any phone built to the standard,
 
 For an iPhone, stop worrying about the label. A Qi2-certified charger and an Apple-branded MagSafe one behave the same, so choose on the things you can actually see. The shape, and whether it stands the phone up or lays it flat. What comes in the box, cable included. And the wall adapter you pair it with, because that's what sets your real speed. Our [MagSafe power bank guide](best-magsafe-power-bank-uk.html) and [MagSafe car charger guide](best-magsafe-car-charger-uk.html) pick specific ones on exactly those terms.
 
-On Android the question changes shape. Check first whether your phone carries the magnet ring itself or only works magnetically with a case, because that decides whether you're buying a charger or a charger plus a case. Either way a Qi2 pad is the safer buy than an Apple-branded MagSafe one, which will still charge the phone but is built around a fit your handset may not have.
+On Android the question changes shape. Check first whether your phone carries the magnet ring itself, because that decides whether you are buying a charger or a charger and a magnetic case to go with it. Either way a Qi2 pad is the safer buy than an Apple-branded MagSafe one, which will still charge the phone but is built around a fit your handset may not have.
 
 One trap is worth knowing before you spend. Plenty of cheap "magnetic" chargers aren't Qi2 underneath at all, and on an iPhone that costs you real speed: Apple's own guidance is that many Qi-certified chargers charge an iPhone at rates up to 7.5 watts, against the 15W a Qi2 pad reaches. A magnet ring is no promise of the faster figure, so look for the words "Qi2 certified". And remember the pad is only half the kit. You still supply the wall plug that feeds it, which our [iPhone charger guide](best-charger-for-iphone-17-uk.html) covers.
 
