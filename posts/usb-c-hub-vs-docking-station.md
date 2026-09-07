@@ -95,7 +95,7 @@ We focused on the specs that actually matter for this category: the number and t
 ## FAQ
 
 **Q: What is the difference between a USB C hub and a docking station?**
-A: A hub is compact and usually adds a handful of ports through one cable, ideal for travel, while a docking station does more, often driving extra displays, wired Ethernet and laptop charging so a single cable runs your whole desk.
+A: A hub is compact and usually adds a handful of ports through one cable, ideal for travel, while a docking station does more - extra displays, wired Ethernet and more power back to the laptop - so a single cable runs your whole desk.
 
 **Q: Do I need Power Delivery passthrough?**
 A: If your laptop charges over USB C and you only have the one port, PD passthrough is worth it so the hub can charge the laptop while also running your peripherals from the same connection.
