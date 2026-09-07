@@ -2,7 +2,7 @@
 
 Trying to decide between a compact USB C hub and a full docking station for your laptop setup? This guide breaks down the difference, then picks three solid options to suit different desks and needs. Plain English, no jargon for the sake of it.
 
-A USB C hub is small, bus-powered and great for travel, adding a few ports through one cable. A docking station does more: it typically drives more displays, handles wired Ethernet, and pushes power back to your laptop so one cable runs everything. Below are our picks across both camps. The quick decision: laptop lives on one desk with two screens and wired internet, buy the dock; laptop moves every day and you just need HDMI plus charging in a pocketable shape, buy the hub; caught between the two, that's exactly what our premium pick is for. Already sold on a full dock? Our [best USB-C docking stations guide](best-usb-c-docking-station-uk.html) goes deeper.
+A USB C hub is small and travel-friendly, adding a few ports through one cable, usually including a passthrough port that keeps the laptop charged. A docking station does more: it typically drives more displays, handles wired Ethernet, and pushes power back to your laptop so one cable runs everything. Below are our picks across both camps. The quick decision: laptop lives on one desk with two screens and wired internet, buy the dock; laptop moves every day and you just need HDMI plus charging in a pocketable shape, buy the hub; caught between the two, that's exactly what our premium pick is for. Already sold on a full dock? Our [best USB-C docking stations guide](best-usb-c-docking-station-uk.html) goes deeper.
 
 ## Top picks
 
