@@ -88,7 +88,7 @@ For most UK drivers, the **[Belkin BoostCharge MagSafe Car Vent Mount (Charger I
 
 ## How we chose
 
-A car charger has two jobs: hold the phone steady and keep it charged. So we weighed wireless output (up to 15W across our picks, with Qi2 support on the premium pick), the strength and reliability of the magnetic MagSafe hold, mounting style, and how well each suits everyday UK driving and sat-nav use. We weighed build quality and brand track record against straightforward value. If the Qi2 name is new to you, our [Qi2 vs MagSafe explainer](qi2-vs-magsafe-explained.html) sets out how Apple's brand and the open standard relate. Each mount links to its Amazon UK listing; check the current price and have a quick look at whether it suits your car's vents before ordering.
+A car charger has two jobs: hold the phone steady and keep it charged. So we weighed wireless output (up to 15W on the picks that state it, with Qi2 support on the premium pick), the strength and reliability of the magnetic MagSafe hold, mounting style, and how well each suits everyday UK driving and sat-nav use. We weighed build quality and brand track record against straightforward value. If the Qi2 name is new to you, our [Qi2 vs MagSafe explainer](qi2-vs-magsafe-explained.html) sets out how Apple's brand and the open standard relate. Each mount links to its Amazon UK listing; check the current price and have a quick look at whether it suits your car's vents before ordering.
 
 ## FAQ
 
