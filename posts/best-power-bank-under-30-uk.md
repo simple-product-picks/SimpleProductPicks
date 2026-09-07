@@ -20,7 +20,7 @@ The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh c
 - ✓ Ultra-slim form factor with USB-C in/out plus a USB-A port
 
 **Cons**
-- ✗ Fast charging only benefits devices that support PD or QC
+- ✗ 22.5W is the slowest output of the three picks here
 - ✗ 10000mAh won't stretch to tablet recharges or multi-day trips
 
 **Who it's for:** Anyone wanting a light, low-bulk power bank with fast charging for daily phone top-ups.
@@ -93,7 +93,7 @@ Budget banks live or die on the basics: real capacity (all three are 10000mAh, e
 ## FAQ
 
 **Q: How many phone charges does a 10000mAh power bank give?**
-A: For most modern smartphones a 10000mAh bank delivers roughly one to two full charges, depending on your phone's battery size and charging losses. Need more than that? Our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) covers bigger packs.
+A: Enough for more than a single top-up on most phones, though the exact figure turns on your phone's battery size and on the energy lost as heat. The watt-hour rating printed on the bank, set against your phone's battery, is the honest way to check. Need more than that? Our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) covers bigger packs.
 
 **Q: What does the Qi2 25W rating on the UGREEN MagFlow mean?**
 A: It refers to the maximum wireless charging output when the bank is snapped magnetically onto a Qi2 / MagSafe-compatible iPhone; the same bank also offers up to 30W wired PD via its built-in cable, and non-compatible phones simply charge at their normal rate.
