@@ -2,9 +2,9 @@
 
 ## What each name means
 
-MagSafe is Apple's name for the magnetic wireless charging on the iPhone. It arrived with the iPhone 12 in 2020: a ring of magnets in the phone that pulls a charger into the same spot every time, so the coils line up and the charge stays steady instead of sliding off.
+MagSafe is Apple's name for the magnetic wireless charging on the iPhone. It is a ring of magnets in the phone that pulls a charger into the same spot every time, so the coils line up and the charge stays steady instead of sliding off. It arrived with the iPhone 12, which is still where Apple's MagSafe compatibility list starts.
 
-Qi2 is the wireless charging standard from the Wireless Power Consortium, the industry group behind the older Qi charging most phones already use. The Consortium announced it in early 2023, and its headline addition is that same magnetic ring. It calls the mechanism the Magnetic Power Profile, and describes its job as making sure phone and charger end up perfectly aligned. Apple had shipped the magnet ring three years earlier, and what Qi2 adds is that any brand can now certify a product against it.
+Qi2 is the wireless charging standard from the Wireless Power Consortium, the industry group behind the older Qi charging most phones already use. Its headline addition is that same magnetic ring: the Consortium says Qi2 devices use magnetic attachment technology that aligns devices and chargers perfectly. Apple shipped the magnet ring first, and what Qi2 adds is that any brand can now certify a product against it.
 
 That's the whole relationship: MagSafe is Apple's version, Qi2 is the version everyone else can use too.
 
@@ -24,7 +24,7 @@ With speed settled, what's left is fit: which phones each one actually grips.
 
 Here MagSafe is the narrower of the two. It works fully on an iPhone, and Apple's own cases and mounts are built around that exact fit, so accessories that match it are easy to find. Rest a MagSafe charger against an Android phone with no magnets of its own, though, and it drops back to ordinary, slower Qi with nothing holding it in place.
 
-Qi2 casts wider. It brings the magnetic snap to any phone built to the standard, and it works on an iPhone just as happily. Very few Android phones actually carry the ring: Google's Pixel 10 and Pixel 11 ranges are the best-known that do, and Google's advice on them is that magnetic attachment works best with no case, or with a case designed for Qi2. For the rest, the Consortium added a Qi2 Ready tier in 2025, covering phones that only give you the full Qi2 experience paired with an approved case. Without either, an Android phone still charges. It just lies flat on the pad rather than snapping on.
+Qi2 casts wider. It brings the magnetic snap to any phone built to the standard, and it works on an iPhone just as happily. Very few Android phones actually carry the ring: Google lists its Pixelsnap magnetic accessories for the Pixel 10 and Pixel 11 ranges, and its advice there is that the magnetic attachment and wireless charging work best with no case, or with a case designed for Qi2. On a phone without the ring, a Qi2 pad still charges it. It just lies flat on the pad rather than snapping on.
 
 ## Which should you buy?
 
@@ -37,10 +37,10 @@ One trap is worth knowing before you spend. Plenty of cheap "magnetic" chargers 
 ## FAQ
 
 **Q: Is MagSafe faster than Qi2?**
-A: No. On an iPhone the two hit the same ceilings, and Apple's own figures show the handset is what fixes them: up to 15W on an iPhone 15 or earlier and on the iPhone 17e, and up to 25W on the iPhone 17, 17 Pro, 17 Pro Max, 16 Plus and 16 Pro Max, and only with a 30W or greater adapter behind the pad. The name on the charger decides nothing.
+A: No. On an iPhone the two hit the same ceilings, and Apple's own figures show the handset is what fixes them, from 12W on the smallest older models up to 25W on the iPhone 17, and only with a 30W or greater adapter behind the pad. The ladder further up this page gives Apple's figure for each model, including the ones that sit between those two. The name on the charger decides nothing.
 
 **Q: Will a Qi2 charger work with my iPhone?**
-A: Yes. The magnet ring and the power profile are shared, so an iPhone 12 or later charges on a Qi2 pad the same way it does on an Apple MagSafe one.
+A: Yes. The magnet ring and the power profile are shared, so an iPhone with MagSafe magnets charges on a Qi2 pad the same way it does on an Apple MagSafe one.
 
 **Q: Does Qi2 work with Android phones?**
 A: Yes, if the handset was built for it. Where it wasn't, a Qi2 pad still charges the phone at ordinary Qi speeds. What you lose is the alignment, and with it the cases and mounts that hang off the magnets.
