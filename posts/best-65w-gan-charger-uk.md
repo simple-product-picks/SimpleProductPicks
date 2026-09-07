@@ -12,7 +12,7 @@ Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
 What keeps it off a 10: Peak speed drops when all three ports are working, and it is bigger than a single-port plug for one-device users.
 
-The Anker 67W is the most versatile pick here, packing three ports into a genuinely compact body. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone and a third device topped up at once. The 67W output leaves headroom for fast charging across the lot. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package. It's also our top pick for [Samsung S24 owners](best-charger-for-samsung-s24-uk.html), whose phones use PPS for their fastest speeds.
+The Anker 67W is the most versatile pick here, packing three ports into a genuinely compact body. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone and a third device topped up at once. The 67W output leaves headroom for fast charging across the lot. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package. It's also our top pick for [Samsung S24 owners](best-charger-for-samsung-s24-uk.html), and Anker lists PPS support on this one.
 
 **Pros**
 - ✓ Three ports let you charge multiple devices from a single wall plug
