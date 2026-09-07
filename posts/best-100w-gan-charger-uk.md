@@ -21,7 +21,7 @@ The Anker 100W is our standout because it pairs serious single-port output with 
 
 **Cons**
 - ✗ The smart display adds a little bulk versus a bare three-port brick
-- ✗ A USB-C cable rated for full output may need to be supplied separately
+- ✗ Its third port is USB-A, so two USB-C devices at once is the limit
 
 **Who it's for:** Anyone who wants one charger to handle a laptop and accessories with clear feedback on what's being delivered.
 **Who it's not for:** Minimalists who only ever charge a single phone and don't need the display or extra ports.
@@ -64,7 +64,7 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
 What keeps it off a 10: You only see the full 140W when one high-draw laptop has the output to itself, and it is overkill if nothing you own charges above 100W.
 
-This is the step past the 100W class. The Anker 140W can push its full output through a single USB-C port using PD 3.1, which is what a 16-inch MacBook Pro needs to charge at the speed its own brick manages. You get four ports (three USB-C plus one USB-A) against the overall pick's three, and the smart-display idea grows into a small touchscreen with touch controls showing live output. If your laptop is the hungry kind, this is the one brick in the guide that never holds it back.
+This is the step past the 100W class. The Anker 140W can push its full output through a single USB-C port using PD 3.1, which is the wattage Apple lists for the 16-inch MacBook Pro's fastest charge. You get four ports (three USB-C plus one USB-A) against the overall pick's three, and the smart-display idea grows into a small touchscreen with touch controls showing live output. If your laptop is the hungry kind, this is the one brick in the guide that never holds it back.
 
 **Pros**
 - ✓ 140W single-port output (PD 3.1) charges laptops the 100W class can't feed at full speed
