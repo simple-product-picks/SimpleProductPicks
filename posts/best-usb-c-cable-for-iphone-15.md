@@ -47,7 +47,7 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 
 **Cons**
 - ✗ The short 0.5m length is not ideal if you charge far from the socket
-- ✗ A separate USB-C power adapter is still needed
+- ✗ USB-C at both ends, so it will not charge from an older USB-A plug
 
 **Who it's for:** Commuters and households who want a couple of tidy, short braided cables to keep in different places.
 **Who it's not for:** Anyone who needs a single long cable to reach across a room.
