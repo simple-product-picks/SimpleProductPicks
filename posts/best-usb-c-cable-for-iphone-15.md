@@ -21,7 +21,7 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 **Cons**
 - ✗ A single cable, so heavy users may want to buy more than one
-- ✗ 100W is its ceiling, so it cannot carry the 240W the premium pick here is rated for
+- ✗ You'll need a separate USB-C charger if you don't already own one
 
 **Who it's for:** Anyone who wants one durable, high-headroom 1m cable that works across phone, tablet, and laptop.
 **Who it's not for:** People who want several cables in one go or need a longer reach.
@@ -47,7 +47,7 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 
 **Cons**
 - ✗ The short 0.5m length is not ideal if you charge far from the socket
-- ✗ No built-in E-Marker chip on the spec list, unlike the overall pick above
+- ✗ A separate USB-C power adapter is still needed
 
 **Who it's for:** Commuters and households who want a couple of tidy, short braided cables to keep in different places.
 **Who it's not for:** Anyone who needs a single long cable to reach across a room.
