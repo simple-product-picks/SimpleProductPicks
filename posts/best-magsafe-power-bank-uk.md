@@ -21,7 +21,7 @@ The MagGo is the magnetic bank that earns a place on the desk as well as in a ba
 
 **Cons**
 - ✗ Wireless tops out at 15W, and the newer 25W class now exists for recent iPhones
-- ✗ Like all magnetic banks, wireless top-ups drain the cell faster than its wired port does
+- ✗ With the stand and the display it is the bulkiest of the three to leave snapped on a phone
 
 **Who it's for:** iPhone owners who want snap-on charging with a stand for desk, travel and video calls.
 **Who it's not for:** Anyone chasing the fastest possible wireless numbers on an iPhone 16 or 17.
