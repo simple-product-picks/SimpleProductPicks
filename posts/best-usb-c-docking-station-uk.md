@@ -14,7 +14,7 @@ Scorecard: Capability 10/10 - Versatility 10/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: Anker pitches extended triple display at Windows machines, so Mac owners may find some screen combinations only mirror.
 
-The Anker Nano is the dock we'd point most people at now. Thirteen connections cover essentially every desk need: triple display output through two HDMI ports and a DisplayPort, 10Gbps USB-C for fast external drives, wired Ethernet, SD and TF card slots and audio, with 100W of laptop charging coming down the same single cable. The party trick is the detachable front hub - a 6-in-1 block that pops out and leaves with the laptop, so the desk stays wired while a travel hub rides in the bag. One caveat worth knowing: Anker pitches extended triple display at Windows machines, with Macs mirroring on some combinations, so check your laptop's display support.
+The Anker Nano is the dock we'd point most people at now. Anker's 13-in-1 count covers essentially every desk need: triple display output through two HDMI ports and a DisplayPort, 10Gbps USB-C for fast external drives, wired Ethernet, SD and TF card slots and audio, with 100W of laptop charging coming down the same single cable. The party trick is the detachable front hub - a 6-in-1 block that pops out and leaves with the laptop, so the desk stays wired while a travel hub rides in the bag. One caveat worth knowing: Anker pitches extended triple display at Windows machines, with Macs mirroring on some combinations, so check your laptop's display support.
 
 **Pros**
 - ✓ Triple display output (2x HDMI + DisplayPort) for serious multi-monitor desks
