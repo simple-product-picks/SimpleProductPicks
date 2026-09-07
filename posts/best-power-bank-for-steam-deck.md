@@ -1,6 +1,6 @@
 # Best Power Bank For Steam Deck UK 2026
 
-The Steam Deck runs its battery down fast, so the right power bank is what turns a short gaming session into an all-day one. The trick isn't raw capacity; it's a USB-C port that can hold the Deck's 45W while you're actually playing, and a cable that doesn't dangle across the grips. This guide picks three power banks that do both: a balanced all-rounder, a compact value pick, and a big-capacity pack for the longest sessions.
+The Steam Deck runs its battery down fast, so the right power bank is what turns a short gaming session into an all-day one. The trick isn't raw capacity; it's a USB-C port that can hold the 45W of Valve's own Steam Deck power supply while you're actually playing, and a cable that doesn't dangle across the grips. This guide picks three power banks that do both: a balanced all-rounder, a compact value pick, and a big-capacity pack for the longest sessions.
 
 ## Top picks
 
@@ -38,7 +38,7 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: You supply your own USB-C cable here, and while 65W easily covers the Deck it falls short of what a large laptop would want from a single bank.
 
-If you just want a dependable pack that charges the Deck while you play, the INIU covers it in a lighter, more compact body. Its 65W USB-C output sits comfortably above the Deck's 45W, so the console keeps gaining charge mid-session rather than only holding steady, and the same port doubles as the input to refill the bank. Two USB-A ports sit alongside it for a controller dongle or a phone lead. It's the most compact 20000mAh pack here, which is why INIU calls it its smallest, and on the same 20000mAh cell it carries about the same real capacity as our top pick. The one thing it leaves out is a cable, so pack a USB-C lead rated for 60W or more; our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for.
+If you just want a dependable pack that charges the Deck while you play, the INIU covers it in a lighter, more compact body. Its 65W USB-C output sits comfortably above the Deck's 45W, so the console keeps gaining charge mid-session rather than only holding steady, and the same port doubles as the input to refill the bank. Two USB-A ports sit alongside it for a controller dongle or a phone lead. It's the most compact 20000mAh pack here, which is what INIU's own ultra-compact billing points at, and on the same 20000mAh cell it carries about the same real capacity as our top pick. The one thing it leaves out is a cable, so pack a USB-C lead rated for 60W or more; our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for.
 
 **Pros**
 - ✓ 65W USB-C clears the Deck's 45W with headroom to spare
@@ -93,7 +93,7 @@ A Steam Deck asks two things of a power bank: a USB-C port that can hold its 45W
 ## FAQ
 
 **Q: What wattage power bank do I need for a Steam Deck?**
-A: The Deck ships with a 45W USB-C charger and won't pull more than that, so any bank with a sustained 45W or higher USB-C output will charge it, even while you play. A little headroom helps, so a 65W or higher port holds 45W comfortably without straining.
+A: Valve ships the Deck with a 45W USB-C power supply and the console won't pull more than that, so any bank with a sustained 45W or higher USB-C output will charge it, even while you play. A little headroom helps, so a 65W or higher port holds 45W comfortably without straining.
 
 **Q: Can I charge the Steam Deck while playing?**
 A: Yes, as long as the bank's USB-C port can sustain around 45W. All three picks here clear that, so the battery keeps filling during a session rather than just holding level. A plain USB-C cable rated for 60W or more is all you need.
