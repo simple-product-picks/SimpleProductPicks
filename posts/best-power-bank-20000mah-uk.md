@@ -1,6 +1,6 @@
 # Best Power Bank 20000mAh UK 2026
 
-A 20000mAh power bank is the sweet spot for UK travellers and heavy phone users: enough capacity for several full phone top-ups or a tablet recharge, while still being airline-friendly. This guide covers three solid picks for different needs, whether you want a compact all-rounder, a sensible value option, or a high-wattage laptop-capable powerhouse.
+A 20000mAh power bank is the sweet spot for UK travellers and heavy phone users: enough capacity for several full phone top-ups or a tablet recharge, while still being light enough to carry all day. This guide covers three solid picks for different needs, whether you want a compact all-rounder, a sensible value option, or a high-wattage laptop-capable powerhouse.
 
 ## Top picks
 
@@ -96,7 +96,7 @@ At 20000mAh the capacity question is already settled, so we judged on the rest: 
 ## FAQ
 
 **Q: Can I take a 20000mAh power bank on a flight from the UK?**
-A: Yes, 20000mAh is well within the typical 100Wh airline limit for carry-on, but always carry it in your hand luggage and check your specific airline's rules before you fly. Flying long-haul often? Our [power banks for long flights guide](best-power-bank-for-long-flights.html) picks specifically for cabin use.
+A: Yes, in hand luggage rather than a checked bag. Check the watt-hour figure printed on the bank against your own airline's limit before you fly, since airlines set their own. Flying long-haul often? Our [power banks for long flights guide](best-power-bank-for-long-flights.html) picks specifically for cabin use.
 
 **Q: What does the wattage (65W or 145W) actually change?**
 A: Higher wattage means faster charging and the ability to power more demanding devices like laptops; 65W is ample for phones, tablets, and smaller laptops, while 145W is aimed at more demanding USB-C laptops.
