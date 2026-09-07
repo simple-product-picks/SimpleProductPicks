@@ -12,11 +12,11 @@ Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: It is wired-only with no MagSafe-style wireless charging, and the built-in cable ties you to its fixed length and fitting.
 
-The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Delivery output, which is enough to fast-charge an iPhone 15. The 10000mAh cell gives you roughly a couple of full iPhone charges in a pocket-sized shell, the 30W PD rating means you're not waiting around for a slow trickle, and the charging cable is built into the pack itself, so there's nothing extra to pack. It's the sweet spot of speed, capacity, and portability for most iPhone 15 owners.
+The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Delivery output, which is enough to fast-charge an iPhone 15. The 10000mAh cell sits in a pocket-sized shell, the 30W PD rating means you're not waiting around for a slow trickle, and the charging cable is built into the pack itself, so there's nothing extra to pack. It's the sweet spot of speed, capacity, and portability for most iPhone 15 owners.
 
 **Pros**
 - ✓ 30W USB-C Power Delivery fast-charges an iPhone 15
-- ✓ 10000mAh capacity covers up to two full phone charges
+- ✓ 10000mAh cell in a shell that still fits a coat pocket
 - ✓ Built-in USB-C cable means there's nothing extra to carry
 
 **Cons**
@@ -93,10 +93,10 @@ An iPhone 15 needs surprisingly little to charge well: enough mAh for a day or t
 ## FAQ
 
 **Q: How many times will a 10000mAh power bank charge an iPhone 15?**
-A: A 10000mAh pack will typically give an iPhone 15 roughly one and a half to two full charges, depending on real-world efficiency and how you use the phone while charging.
+A: More than one, but how much more depends on energy lost as heat and on whether you keep using the phone while it charges. Compare the watt-hour figure printed on the bank with your iPhone's own battery capacity if you want a firmer number.
 
 **Q: Do I need a 30W power bank to fast-charge an iPhone 15?**
-A: No - the iPhone 15 fast-charges over USB-C Power Delivery without needing the full 30W. Both the 22.5W INIU and the 30W Nano fast-charge it; the Nano's 30W simply adds headroom to spare.
+A: No. Both the 22.5W INIU and the 30W Nano fast-charge an iPhone 15 over USB-C Power Delivery. What the Nano's extra output buys is a quicker top-up and headroom for a tablet or a future phone, and it is the one with a cable built in, which is why it leads here.
 
 **Q: What is Qi2 and is it the same as MagSafe?**
 A: Qi2 is a wireless charging standard that uses magnetic alignment similar to Apple's MagSafe, letting a compatible pack snap onto the back of an iPhone 15 for cable-free charging. Our premium MagGo pick is exactly that: Qi2-certified magnetic wireless. If magnetic charging is the whole point for you, our [MagSafe power bank guide](best-magsafe-power-bank-uk.html) compares three across the 15W and 25W classes.
