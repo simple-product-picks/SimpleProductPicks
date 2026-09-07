@@ -93,7 +93,7 @@ A car charger has two jobs: hold the phone steady and keep it charged. So we wei
 ## FAQ
 
 **Q: Will a MagSafe car charger work with my iPhone?**
-A: MagSafe magnetic charging works with iPhone 12 and later; older iPhones can still rest on the magnet but won't get the full MagSafe alignment and may need a compatible case or adapter.
+A: Apple's MagSafe Charger list runs from the iPhone 12 upwards, so those are the handsets with the magnets built in. Older iPhones can still rest on the magnet but won't get the full MagSafe alignment, and may need a compatible case or adapter.
 
 **Q: Do I need a separate adapter to power a MagSafe car charger?**
 A: Most wireless car chargers draw power via a USB car adapter and cable, so check what's included and make sure your car socket and adapter can supply enough power; see the product page on Amazon UK for details.
