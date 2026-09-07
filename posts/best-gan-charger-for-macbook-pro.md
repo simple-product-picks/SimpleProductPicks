@@ -15,7 +15,7 @@ What keeps it off a 10: The 100W is a single-port figure, so plugging anything e
 The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C, which is a full-speed charge from a single port without reaching for the bulky stock adapter. Apple lists a 140W adapter for the 16-inch MacBook Pro, so a 100W charger still charges that machine, just not at its fastest rate. The smart display shows live wattage, so you can confirm your laptop is actually pulling full power. Three ports mean a phone and earbuds can top up alongside it. GaN internals keep the whole thing compact and travel-friendly.
 
 **Pros**
-- ✓ Full 100W output suits 14-inch and 16-inch MacBook Pro models
+- ✓ Full 100W charges a 14-inch MacBook Pro at the rate Apple lists for it, and still charges a 16-inch
 - ✓ Three ports (2x USB-C, 1x USB-A) charge a laptop, phone and accessory together
 - ✓ Smart display confirms real-time wattage so you know it is delivering full power
 
