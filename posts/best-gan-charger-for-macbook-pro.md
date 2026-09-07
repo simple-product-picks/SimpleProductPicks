@@ -20,7 +20,7 @@ The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C
 - ✓ Smart display confirms real-time wattage so you know it is delivering full power
 
 **Cons**
-- ✗ A suitable USB-C charging cable may need to be bought separately
+- ✗ 100W is its single-port ceiling, so a 16-inch MacBook Pro charges below the 140W Apple lists for it
 - ✗ Larger and heavier than a single-port charger if you only ever charge one device
 
 **Who it's for:** Anyone with a 14-inch MacBook Pro who wants full-speed charging plus spare ports for other kit, or a 16-inch owner happy to trade top charging speed for a much smaller brick.
@@ -72,7 +72,7 @@ The UGREEN Nexode Pro 100W pairs full 100W output with UGREEN's GaNInfinity chip
 - ✓ Three ports (2x USB-C, 1x USB-A) power a laptop and two extra devices
 
 **Cons**
-- ✗ A USB-C cable may not be included and could need buying separately
+- ✗ Its 100W is a single-port figure, so the laptop's share drops once a second device joins it
 - ✗ More charger than a single-laptop user strictly needs
 
 **Who it's for:** Power users who want maximum speed and enough ports to run a whole desk or travel setup from one plug.
