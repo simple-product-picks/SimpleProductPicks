@@ -1,6 +1,6 @@
 # Best USB-C Car Charger UK 2026
 
-Every car charger quotes a wattage. The number most people never check is the fuse behind the cigarette lighter socket. It's typically 10 or 15 amps at 12 volts, which caps your socket at roughly 120 to 180 watts before the fuse blows. None of the three chargers here will trip that limit under normal use, but the distinction matters once you start charging a laptop and a phone at the same time. The picks below are ordered by how much of that power budget they fill: one that keeps things simple, one that splits the current across two ports, and one that tries to run the whole car off four.
+Every car charger quotes a wattage. The number most people never check is the fuse behind the cigarette lighter socket. Ratings vary by car, commonly 10A to 20A, and at 12 volts that caps the socket somewhere between roughly 120 and 240 watts. Only the highest-output pick here comes near the bottom of that range, and only with several devices drawing at once. The picks below are ordered by how much of that power budget they fill: one that keeps things simple, one that splits the current across two ports, and one that tries to run the whole car off four.
 
 ## Top picks
 
@@ -12,11 +12,11 @@ Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
 What keeps it off a 10: The built-in cable serves one device, so a passenger's phone queues behind yours, and the retracting mechanism can wear out.
 
-Anker lists this as a 75W car charger with its USB-C cable built into the body and a retractable mechanism that reels it back in when you unplug. The cable is the point here. There's nothing to forget, nothing to untangle from the glovebox, and no spare lead rattling around the centre console. 75W is more than any phone draws, and Anker's own spec quotes it as compatible with iPhones, iPads and Galaxy handsets. The built-in cable does mean one device at a time, though. If the passenger's phone also needs a charge, you will be passing yours back.
+Anker lists this as a 75W car charger with its USB-C cable built into the body and a retractable mechanism that reels it back in when you unplug. The cable is the point here. There's nothing to forget, nothing to untangle from the glovebox, and no spare lead rattling around the centre console. 75W is more than any phone draws. The built-in cable does mean one device at a time, though. If the passenger's phone also needs a charge, you will be passing yours back.
 
 **Pros**
 - ✓ Built-in retractable USB-C cable with nothing extra to buy or lose
-- ✓ 75W is more than any phone draws, and Anker lists iPad and Galaxy support alongside iPhone
+- ✓ 75W is more than any phone draws, so the socket is never the bottleneck
 - ✓ Ultra-compact body sits low in the socket without blocking neighbouring controls
 
 **Cons**
@@ -88,7 +88,7 @@ For most UK drivers, the **[Anker 75W USB C Car Charger (Retractable Cable)](htt
 
 ## How we chose
 
-We started with what actually limits a car charger: the 12V cigarette lighter socket and the fuse behind it. Most UK cars fuse that socket at 10A or 15A, which caps real-world draw at around 120 to 180 watts regardless of what the charger is rated for. With that ceiling in mind, we picked chargers that cover three different load shapes: a single phone (the Anker), a phone plus a second device (the INIU), and a laptop plus everything else (the UGREEN). We checked every link against the live Amazon UK listing the day we wrote this, scored each pick on the criteria we publish, and left port counts and wattage claims as the makers list them. We take no payment for placement and we do not display any data we have not verified ourselves. If you need a [cable for the USB-C port](best-usb-c-cable-for-fast-charging.html), our cable guide covers that end.
+We started with what actually limits a car charger: the 12V cigarette lighter socket and the fuse behind it. Fuse ratings vary by car, commonly 10A to 20A, so the real-world ceiling is roughly 120 to 240 watts regardless of what the charger is rated for, and your owner's manual has the figure for yours. With that ceiling in mind, we picked chargers that cover three different load shapes: a single phone (the Anker), a phone plus a second device (the INIU), and a laptop plus everything else (the UGREEN). We checked every link against the live Amazon UK listing the day we wrote this, scored each pick on the criteria we publish, and left port counts and wattage claims as the makers list them. We take no payment for placement and we do not display any data we have not verified ourselves. If you need a [cable for the USB-C port](best-usb-c-cable-for-fast-charging.html), our cable guide covers that end.
 
 ## FAQ
 
