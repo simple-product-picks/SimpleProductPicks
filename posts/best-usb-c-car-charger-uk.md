@@ -1,6 +1,6 @@
 # Best USB-C Car Charger UK 2026
 
-Every car charger quotes a wattage. The number most people never check is the fuse behind the cigarette lighter socket. Ratings vary by car, commonly 10A to 20A, and at 12 volts that caps the socket somewhere between roughly 120 and 240 watts. Only the highest-output pick here comes near the bottom of that range, and only with several devices drawing at once. The picks below are ordered by how much of that power budget they fill: one that keeps things simple, one that splits the current across two ports, and one that tries to run the whole car off four.
+Every car charger quotes a wattage. The number most people never check is the fuse behind the cigarette lighter socket. Ratings vary by car, commonly 10A to 20A, and at 12 volts that caps the socket somewhere between roughly 120 and 240 watts. Only the highest-output pick here can pass the bottom of that range, and only with several devices drawing at once. The picks below are ordered by how much of that power budget they fill: one that keeps things simple, one that splits the current across two ports, and one that tries to run the whole car off four.
 
 ## Top picks
 
@@ -16,7 +16,7 @@ Anker lists this as a 75W car charger with its USB-C cable built into the body a
 
 **Pros**
 - ✓ Built-in retractable USB-C cable with nothing extra to buy or lose
-- ✓ 75W is more than any phone draws, so the socket is never the bottleneck
+- ✓ 75W is more than any phone draws, and Anker lists iPad and Galaxy support alongside iPhone
 - ✓ Ultra-compact body sits low in the socket without blocking neighbouring controls
 
 **Cons**
