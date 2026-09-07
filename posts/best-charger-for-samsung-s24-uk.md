@@ -12,7 +12,7 @@ Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
 What keeps it off a 10: The 67W is a total shared across the three ports, so the S24 gets less than that whenever something else is plugged in.
 
-The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. It is also the only pick here that Anker lists with PPS, which is the mode the S24 uses for its quickest charging; the other two charge it over standard USB-C Power Delivery.
+The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. It is also the only one of the three Anker lists with PPS support, on top of the standard USB-C Power Delivery all three carry.
 
 **Pros**
 - ✓ 67W of total output handles the S24 plus a second or third device
@@ -38,7 +38,7 @@ Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
 What keeps it off a 10: Once three or more gadgets need the same plug you are stuck, since only two ports are on offer here.
 
-The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third port. With 65W shared across two ports and GaN efficiency, it delivers ample power to fast-charge the S24 and run a second device such as a laptop or tablet. UGREEN lists PD 3.0 and QC 4.0 for this plug rather than PPS, so it charges the S24 over standard USB-C Power Delivery rather than the phone's quickest mode.
+The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third port. With 65W shared across two ports and GaN efficiency, it delivers ample power to fast-charge the S24 and run a second device such as a laptop or tablet. UGREEN lists PD 3.0 and QC 4.0 for this plug, so the S24 charges over standard USB-C Power Delivery here.
 
 **Pros**
 - ✓ 65W is more than enough to fast-charge the Galaxy S24 over USB-C Power Delivery
@@ -47,7 +47,7 @@ The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third 
 
 **Cons**
 - ✗ Two ports may not be enough if you charge many devices at once
-- ✗ No PPS on UGREEN's spec list, so the S24 charges at standard USB-C speeds here
+- ✗ UGREEN lists this one for Power Delivery, so the S24 charges at standard USB-C speeds
 
 **Who it's for:** Buyers who want dependable fast charging for the S24 and one extra device without overspending.
 **Who it's not for:** Households needing to charge three or more gadgets from a single plug.
@@ -64,7 +64,7 @@ Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: It is bulkier than a basic single-port plug, so minimalist carry is where this three-port charger stops making sense.
 
-The UGREEN Nexode Pro 100W suits a busier desk, where the S24 is only one of the things on charge. Its 100W ceiling and three ports mean it can fast-charge the S24 while simultaneously powering a USB-C laptop and a second mobile device. The Nexode Pro line uses GaN for a compact footprint relative to the power on offer, and Power Delivery covers the S24's fast charging with plenty in reserve. UGREEN does not list PPS for this one either, so the phone charges over standard USB-C rather than its quickest mode.
+The UGREEN Nexode Pro 100W suits a busier desk, where the S24 is only one of the things on charge. Its 100W ceiling and three ports mean it can fast-charge the S24 while simultaneously powering a USB-C laptop and a second mobile device. The Nexode Pro line uses GaN for a compact footprint relative to the power on offer, and Power Delivery covers the S24's fast charging with plenty in reserve. UGREEN lists this one for Power Delivery, so the S24 charges over standard USB-C here too.
 
 **Pros**
 - ✓ 100W total output drives a laptop, the S24 and a third device together
@@ -72,7 +72,7 @@ The UGREEN Nexode Pro 100W suits a busier desk, where the S24 is only one of the
 - ✓ GaN internals pack high wattage into a manageable size
 
 **Cons**
-- ✗ The S24 tops out at standard USB-C speeds here, as this plug is not listed with PPS
+- ✗ 100W across three ports is more plug than a phone-and-earbuds household will ever call on
 - ✗ Bulkier than a basic single-port plug for minimalist carry
 
 **Who it's for:** S24 owners who also charge a USB-C laptop and want one charger to run everything.
@@ -93,7 +93,7 @@ Charging a Galaxy S24 well comes down to a short list: total wattage, number of 
 ## FAQ
 
 **Q: How many watts does a Samsung Galaxy S24 need to fast-charge?**
-A: The S24 fast-charges over USB-C Power Delivery, and all three picks here supply far more wattage than a phone on its own will draw. Its quickest mode is PPS, though, and only the Anker 67W lists PPS support.
+A: The S24 fast-charges over USB-C Power Delivery, and all three picks here supply far more wattage than a phone on its own will draw, so the phone is the limiting factor rather than the plug.
 
 **Q: What is a GaN charger and why does it matter?**
 A: GaN (gallium nitride) lets a charger deliver high wattage in a smaller, cooler-running body than older silicon designs, which is why these plugs stay compact despite their power.
