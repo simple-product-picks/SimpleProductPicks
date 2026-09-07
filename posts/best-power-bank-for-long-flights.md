@@ -1,6 +1,6 @@
 # Best Power Bank For Long Flights UK 2026
 
-Long-haul travel drains devices fast, and most aircraft seats give you nothing reliable to plug into. This guide covers three power banks that keep your phone, tablet, and even a laptop topped up across an entire long flight. All three sit within the typical 100Wh cabin-baggage limit, though always check your own airline's rules.
+Long-haul travel drains devices fast, and most aircraft seats give you nothing reliable to plug into. This guide covers three power banks that keep your phone, tablet, and even a laptop topped up across an entire long flight. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits.
 
 ## Top picks
 
