@@ -47,7 +47,7 @@ The UGREEN 65W GaN is the pick when bag weight matters more than port count, wit
 
 **Cons**
 - ✗ Total wattage is shared, so charging two devices splits the available power
-- ✗ No USB-A port, so anything still on an older lead needs a USB-C cable of its own
+- ✗ Two ports only, so a tablet or a watch waits its turn on a trip
 
 **Who it's for:** Travellers who want one charger to cover a laptop plus a phone and keep their bag light.
 **Who it's not for:** Anyone needing three or more ports for a tablet, watch and earbuds too.
@@ -72,7 +72,7 @@ This is the do-it-all pick: 100W across three ports means it can power a demandi
 - ✓ Smart display shows real-time power delivery across ports
 
 **Cons**
-- ✗ Larger and heavier than a single-port travel charger
+- ✗ The 100W is a single-port figure, so a laptop drops back once the other two ports are busy
 - ✗ The wattage display is overkill if you only ever charge one device
 
 **Who it's for:** Frequent travellers and remote workers charging a laptop plus multiple devices.
