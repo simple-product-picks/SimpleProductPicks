@@ -10,7 +10,7 @@ Looking for a charger that keeps your Samsung Galaxy S24 topped up quickly and s
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
-What keeps it off a 10: A USB-C cable may not be in the box, so check what you already own before the S24 needs its first charge.
+What keeps it off a 10: The 67W is a total shared across the three ports, so the S24 gets less than that whenever something else is plugged in.
 
 The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. It is also the only pick here that Anker lists with PPS, which is the mode the S24 uses for its quickest charging; the other two charge it over standard USB-C Power Delivery.
 
