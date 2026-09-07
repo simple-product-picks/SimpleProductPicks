@@ -12,7 +12,7 @@ Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 8/10
 
 What keeps it off a 10: Its 145W output is far more than a Steam Deck's 45W draw, so on the Deck alone most of that headroom sits unused, and the built-in cable ties you to UGREEN's fixed port layout.
 
-The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB-C cable is built into the pack, so there's no separate lead to snake across the grips or leave behind, and it feeds the Deck at the 45W the console is built to take. UGREEN rates the pack at 145W across its three outputs, well beyond a Deck on its own, but that spare headroom means you can keep a phone or a friend's handheld topped up on the same trip without either slowing down. At 20000mAh, which UGREEN lists at 72Wh, it holds roughly a full extra Deck charge and then some, and stays inside the 100Wh cabin-baggage limit for flights. An 80W input also means the bank itself refills quickly between sessions when you feed it a strong enough charger.
+The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB-C cable is built into the pack, so there's no separate lead to snake across the grips or leave behind, and it feeds the Deck at the 45W the console is built to take. UGREEN rates the pack at 145W across its three outputs, well beyond a Deck on its own, but that spare headroom means you can keep a phone or a friend's handheld topped up on the same trip without either slowing down. At 20000mAh it holds roughly a full extra Deck charge and then some. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits. An 80W input also means the bank itself refills quickly between sessions when you feed it a strong enough charger.
 
 **Pros**
 - ✓ Built-in USB-C cable keeps the Deck's lead attached to the pack, not snagging the grips
@@ -64,7 +64,7 @@ Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: At 25000mAh and triple-100W it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use.
 
-For the longest hauls, whether a flight, a festival or a full day of handheld play, the Anker carries the most in one pack. At 25000mAh, which Anker rates at 90Wh, it holds comfortably more than a full extra Deck charge, and its built-in retractable USB-C cables mean the lead you need is already part of the pack. Anker rates each of its three USB-C connections at up to 100W and 165W in total, so you can charge the Deck, a laptop and a phone together without a bag full of separate bricks. The trade is bulk: it's the heaviest pack here by a distance, closer to something you set on the table beside you than clip to the Deck itself. It also stays under the 100Wh cabin limit, so it flies; our [best power bank for long flights](best-power-bank-for-long-flights.html) guide works through the airline maths if that's your main use.
+For the longest hauls, whether a flight, a festival or a full day of handheld play, the Anker carries the most in one pack. At 25000mAh it holds comfortably more than a full extra Deck charge, and its built-in retractable USB-C cables mean the lead you need is already part of the pack. Anker rates each of its three USB-C connections at up to 100W, so you can charge the Deck, a laptop and a phone together without a bag full of separate bricks. The trade is bulk: it's the heaviest pack here by a distance, closer to something you set on the table beside you than clip to the Deck itself. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits, and our [best power bank for long flights](best-power-bank-for-long-flights.html) guide covers the same ground if that's your main use.
 
 **Pros**
 - ✓ The most capacity here, for the longest runtime before you need a wall socket
@@ -88,7 +88,7 @@ For most Steam Deck owners the **[UGREEN Nexode Power Bank 20000mAh 145W](https:
 
 ## How we chose
 
-A Steam Deck asks two things of a power bank: a USB-C port that can hold its 45W draw so the battery keeps filling while you play, not just idles, and enough real capacity to add meaningful hours. We looked for sustained 45W-plus output rather than headline peak figures, since a port that only touches 45W for a moment, or splits its power away the instant a second device is plugged in, won't keep a Deck going. We weighed how the cable is handled, because a lead dangling over the grips is a genuine annoyance on a handheld, and we kept every pick under the 100Wh airline limit. Capacity we treated as gaming hours, not just milliamp-hours: as a rough guide a 72Wh bank holds around a full extra Deck charge, though real playtime depends on the game and screen brightness. Every link goes to the Amazon UK listing so you can check the current port wattages against your own Deck.
+A Steam Deck asks two things of a power bank: a USB-C port that can hold its 45W draw so the battery keeps filling while you play, not just idles, and enough real capacity to add meaningful hours. We looked for sustained 45W-plus output rather than headline peak figures, since a port that only touches 45W for a moment, or splits its power away the instant a second device is plugged in, won't keep a Deck going. We weighed how the cable is handled, because a lead dangling over the grips is a genuine annoyance on a handheld. If you fly, check the watt-hour figure printed on the bank before you go; airlines set their own limits. Capacity we treated as gaming hours, not just milliamp-hours: as a rough guide a 72Wh bank holds around a full extra Deck charge, though real playtime depends on the game and screen brightness. Every link goes to the Amazon UK listing so you can check the current port wattages against your own Deck.
 
 ## FAQ
 
@@ -99,7 +99,7 @@ A: The Deck ships with a 45W USB-C charger and won't pull more than that, so any
 A: Yes, as long as the bank's USB-C port can sustain around 45W. All three picks here clear that, so the battery keeps filling during a session rather than just holding level. A plain USB-C cable rated for 60W or more is all you need.
 
 **Q: Can I take a Steam Deck power bank on a flight?**
-A: Every pick here stays under the 100Wh limit airlines set for carry-on, so all three are fine in hand luggage, but power banks must never go in checked bags. Always check your airline's own rules before you fly.
+A: Check the watt-hour figure printed on the bank before you fly; airlines set their own limits. Power banks must always travel in cabin baggage, never in checked bags.
 
 ---
 
