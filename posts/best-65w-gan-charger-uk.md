@@ -1,6 +1,6 @@
 # Best 65W GaN Charger UK 2026
 
-Looking for a compact, fast wall charger to replace a bulky laptop brick? This UK buying guide covers the best 65W-class GaN chargers, picking a standout all-rounder, a sensible-value option, and a do-it-all premium choice for travellers and multi-device households. Our top pick is listed at 67W rather than 65W: we treat 65W to 67W as one class, for the reason the How we chose section sets out below.
+Looking for a compact, fast wall charger to replace a bulky laptop brick? This UK buying guide covers the best 65W-class GaN chargers, picking a standout all-rounder, a sensible-value option, and a single-port premium choice for travellers who want the smallest plug. Our top pick is listed at 67W rather than 65W: two watts makes no difference to what a laptop or phone will actually draw, so we treat 65W to 67W as one class.
 
 ## Top picks
 
