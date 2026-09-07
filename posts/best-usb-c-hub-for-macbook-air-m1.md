@@ -1,6 +1,6 @@
 # Best USB C Hub For MacBook Air M1 UK 2026
 
-The MacBook Air M1 is a brilliant machine, but its single pair of USB-C ports fills up fast. This guide rounds up the best USB-C hubs to add HDMI, USB-A, card readers and more to your M1 Air, so you can connect a monitor, drive and peripherals without juggling dongles. If you're weighing hubs in general rather than for the Air in particular, our [best USB-C hubs guide](best-usb-c-hub-uk.html) sorts them by how many ports you'll actually fill.
+The MacBook Air M1 is a brilliant machine, but Apple gives it two Thunderbolt / USB 4 ports and they fill up fast. This guide rounds up the best USB-C hubs to add HDMI, USB-A, card readers and more to your M1 Air, so you can connect a monitor, drive and peripherals without juggling dongles. If you're weighing hubs in general rather than for the Air in particular, our [best USB-C hubs guide](best-usb-c-hub-uk.html) sorts them by how many ports you'll actually fill.
 
 ## Top picks
 
@@ -88,7 +88,7 @@ For most M1 Air owners the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](
 
 ## How we chose
 
-The Air itself wrote the checklist: 4K HDMI for external displays, pass-through Power Delivery wattage so the laptop keeps charging, the mix of USB-A and USB-C data ports, card readers, and standards like Gigabit Ethernet and 10Gbps transfer. We weighed UK everyday fit, portability and overall value across light users and creators. With only two ports on the Air it's worth choosing once and well, so follow the links and check each hub's current price and stock on Amazon UK before you commit.
+The Air itself wrote the checklist: 4K HDMI for external displays, pass-through Power Delivery wattage so the laptop keeps charging, the mix of USB-A and USB-C data ports, card readers, and standards like Gigabit Ethernet and 10Gbps transfer. We weighed UK everyday fit, portability and overall value across light users and creators. With only those two ports on the Air it's worth choosing once and well, so follow the links and check each hub's current price and stock on Amazon UK before you commit.
 
 ## FAQ
 
