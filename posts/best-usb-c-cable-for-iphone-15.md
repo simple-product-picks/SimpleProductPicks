@@ -21,7 +21,7 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 **Cons**
 - ✗ A single cable, so heavy users may want to buy more than one
-- ✗ You'll need a separate USB-C charger if you don't already own one
+- ✗ 100W is its ceiling, so it cannot carry the 240W the premium pick here is rated for
 
 **Who it's for:** Anyone who wants one durable, high-headroom 1m cable that works across phone, tablet, and laptop.
 **Who it's not for:** People who want several cables in one go or need a longer reach.
@@ -47,7 +47,7 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 
 **Cons**
 - ✗ The short 0.5m length is not ideal if you charge far from the socket
-- ✗ A separate USB-C power adapter is still needed
+- ✗ No built-in E-Marker chip on the spec list, unlike the overall pick above
 
 **Who it's for:** Commuters and households who want a couple of tidy, short braided cables to keep in different places.
 **Who it's not for:** Anyone who needs a single long cable to reach across a room.
@@ -64,7 +64,7 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: On a standard iPhone 15 the data speed goes to waste, because the phone itself is USB 2.0 whatever cable you use.
 
-This is the everything-cable. Anker's 515 carries USB4, which means 240W charging headroom and 40Gbps data down the same 1m lead. For an iPhone 15 Pro or Pro Max that data path matters: ProRes clips offload over a wired connection many times faster than on the USB 2.0 leads most people charge with (the Pro models support USB 3 speeds; the standard iPhone 15 sticks to USB 2.0 whatever the cable). It also covers the rest of the desk - the same lead drives laptop charging, fast SSDs, and, per Anker's rating, even an 8K display.
+This is the everything-cable. Anker's 515 carries USB4, which means 240W charging headroom and 40Gbps data down the same 1m lead. For an iPhone 15 Pro or Pro Max that data path matters. Apple rates the Pro's USB-C connector at USB 3, up to 10Gb/s, against USB 2 at up to 480Mb/s on the standard iPhone 15. So a wired ProRes offload is a different job on each, whatever the cable. It also covers the rest of the desk - the same lead drives laptop charging, fast SSDs, and, per Anker's rating, even an 8K display.
 
 **Pros**
 - ✓ Full USB4 bandwidth easily covers the iPhone 15 Pro's USB 3 speeds, so wired ProRes and photo offloads stop crawling
