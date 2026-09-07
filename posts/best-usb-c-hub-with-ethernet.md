@@ -38,7 +38,7 @@ Scorecard: Capability 6/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: Its data ports run at standard speed rather than the 10Gbps the premium pick manages, so big transfers take longer.
 
-The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essentials without fuss. You get wired Ethernet plus a useful mix of everyday ports, all from a brand with a long track record in charging and connectivity accessories. It's a clean way to add wired networking to a slim laptop.
+The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essentials without fuss. You get Gigabit Ethernet, a 4K HDMI output, two USB-A ports and a spare USB-C data port, with 65W of pass-through charging on the USB-C input. It's a clean way to add wired networking to a slim laptop.
 
 **Pros**
 - ✓ Wired Ethernet adds a stable connection without a separate dongle
@@ -72,7 +72,7 @@ The Anker 8-in-1 is the step up for heavy movers of data, adding 10Gbps USB port
 - ✓ Wired Ethernet for a stable connection alongside the fast data lanes
 
 **Cons**
-- ✗ More ports and capability than light users actually need
+- ✗ 85W pass-through charges less hard than the overall pick's 100W
 - ✗ Larger footprint than a basic single-Ethernet adapter
 
 **Who it's for:** Creators and heavy multitaskers who want fast 10Gbps data and wired Ethernet in one dock.
