@@ -64,10 +64,10 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: This is the largest and heaviest pack in the guide, and more capability than anyone charging a single laptop actually needs.
 
-The Prime is for the person whose bag holds two power-hungry machines. Both of its USB-C ports run at up to 140W on their own, so you can charge two 16-inch laptops at full speed together, or a laptop and a tablet with room to spare; Anker rates the whole pack at 250W. A 27650mAh cell, which Anker lists at 99.56Wh, is about as much battery as you can take through airport security without special approval, and a colour display plus a companion app show exactly what each port is doing. Anker includes a 140W-rated USB-C cable in the box, so the full-speed lead is sorted from the start.
+The Prime is for the person whose bag holds two power-hungry machines. Either USB-C port runs at up to 140W on its own, so whichever machine you plug in first charges at full speed; Anker rates the whole pack at 250W across its three ports, which is enough for a big laptop and a tablet at once. A 27650mAh cell, which Anker lists at 99.56Wh, is about as much battery as you can take through airport security without special approval, and a colour display plus a companion app show exactly what each port is doing. Anker includes a 140W-rated USB-C cable in the box, so the full-speed lead is sorted from the start.
 
 **Pros**
-- ✓ Two 140W USB-C ports charge two large laptops at full speed at the same time
+- ✓ Either USB-C port will drive a 16-inch laptop at its full 140W, with 250W across the pack for everything else
 - ✓ 27650mAh sits just under the 100Wh cabin limit for air travel
 - ✓ Includes a 140W-rated USB-C cable, and its display and app show live input and output
 
