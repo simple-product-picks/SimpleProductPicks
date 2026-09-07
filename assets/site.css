@@ -569,6 +569,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
   transition: opacity .15s, transform .15s; white-space: normal;
 }
 .hands-on:hover::after, .hands-on:focus::after, .hands-on:focus-visible::after { opacity: 1; transform: none; }
+.row-caveat { color: var(--muted); font-size: 0.85em; font-weight: 400; }
 .spp-handson { font-size: 15px; margin: 0 0 12px; }
 .spp-handson b { font-weight: 700; }
 
