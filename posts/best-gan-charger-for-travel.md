@@ -21,7 +21,7 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 
 **Cons**
 - ✗ Total wattage is shared, so charging several devices splits the available power
-- ✗ Cables are typically supplied separately
+- ✗ With two USB-C ports, a third USB-C device has to charge from the USB-A port instead
 
 **Who it's for:** Travellers who want one charger to handle a laptop, phone and a third device from a single wall socket.
 **Who it's not for:** Minimalists who only ever need to charge a single phone.
@@ -47,7 +47,7 @@ The UGREEN 65W GaN is the pick when bag weight matters more than port count, wit
 
 **Cons**
 - ✗ Total wattage is shared, so charging two devices splits the available power
-- ✗ You will typically need to supply your own charging cable
+- ✗ No USB-A port, so anything still on an older lead needs a USB-C cable of its own
 
 **Who it's for:** Travellers who want one charger to cover a laptop plus a phone and keep their bag light.
 **Who it's not for:** Anyone needing three or more ports for a tablet, watch and earbuds too.
@@ -74,7 +74,6 @@ This is the do-it-all pick: 100W across three ports means it can power a demandi
 **Cons**
 - ✗ Larger and heavier than a single-port travel charger
 - ✗ The wattage display is overkill if you only ever charge one device
-- ✗ Cables are typically not bundled in the box
 
 **Who it's for:** Frequent travellers and remote workers charging a laptop plus multiple devices.
 **Who it's not for:** Light packers who charge one device at a time and want the smallest plug possible.
@@ -97,7 +96,7 @@ Packing light forces trade-offs, so we judged each charger on: real wattage (65W
 A: GaN (gallium nitride) is a semiconductor that handles power more efficiently than older silicon, so chargers run cooler and pack the same wattage into a much smaller, lighter body that's ideal for a carry-on.
 
 **Q: Will a UK GaN charger work abroad?**
-A: The charger itself usually accepts a wide input voltage range, so it works on most grids, but you'll need a plug adapter for the local socket type since UK plugs differ from those in Europe, the US and elsewhere. For the flight itself, when there's no socket at all, a [travel power bank](best-power-bank-for-long-flights.html) fills the gap.
+A: Check the small print on the plug for a 100-240V input before you rely on it abroad. You will also need a plug adapter for the local socket type, since UK plugs differ from those in Europe, the US and elsewhere. For the flight itself, when there's no socket at all, a [travel power bank](best-power-bank-for-long-flights.html) fills the gap.
 
 **Q: How much wattage do I need to charge a laptop while travelling?**
 A: Many ultrabooks charge happily at 65W, while more demanding laptops are better served by a [100W charger](best-100w-gan-charger-uk.html); check your laptop's own charger rating as a guide before choosing.
