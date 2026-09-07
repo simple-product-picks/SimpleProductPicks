@@ -22,10 +22,10 @@ This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into 
 
 **Cons**
 - ✗ A single HDMI means one external display at a time
-- ✗ Pass-through charging can be slightly slower than plugging the charger straight into the Deck
+- ✗ No spare USB-C data port, so wired accessories all go through its USB-A ports
 
 **Who it's for:** Steam Deck owners who want one reliable hub for TV play, wired internet and charging without clutter.
-**Who it's not for:** Anyone needing two external monitors at once.
+**Who it's not for:** Anyone needing two external monitors at once, which is the job of the premium Revodok Pro 210 below.
 
 [Check price](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
 
@@ -66,7 +66,7 @@ Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
 What keeps it off a 10: For a Deck that only ever plugs into the telly, this dock brings more ports than that setup will use.
 
-The Revodok Pro 210 is the do-it-all dock, turning a Steam Deck into a full desktop station. With its ten functions spanning HDMI, wired Ethernet, additional USB-C and USB-A ports, card slots, and USB-C power delivery, it handles a complete monitor-keyboard-mouse-network setup from one connection. The broad port array makes it the most capable choice here for anyone who docks the Deck as a daily machine. Torn between a hub and a full dock? Our [USB-C hub vs docking station](usb-c-hub-vs-docking-station.html) explainer settles it.
+The Revodok Pro 210 is the do-it-all dock, turning a Steam Deck into a full desktop station. With its ten functions spanning two HDMI outputs that UGREEN rates for dual 4K at 60Hz, wired Ethernet, additional USB-C and USB-A ports, card slots, and USB-C power delivery, it handles a complete monitor-keyboard-mouse-network setup from one connection. It is also the only pick here that can drive two external displays at once. The broad port array makes it the most capable choice here for anyone who docks the Deck as a daily machine. Torn between a hub and a full dock? Our [USB-C hub vs docking station](usb-c-hub-vs-docking-station.html) explainer settles it.
 
 **Pros**
 - ✓ Ten functions in one docking station for a full desktop setup
