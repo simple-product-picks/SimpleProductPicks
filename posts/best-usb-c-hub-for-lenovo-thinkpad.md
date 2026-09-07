@@ -1,6 +1,6 @@
 # Best USB C Hub For Lenovo ThinkPad UK 2026
 
-Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB-C hubs and docking stations chosen with ThinkPad owners in mind, from a do-it-all dock to a sensible everyday hub. Whether you need extra display outputs, wired networking, or just a tidy way to plug in your essentials, there's a pick here for you. Not sure a hub is even the right tool? Our [hub vs docking station guide](usb-c-hub-vs-docking-station.html) settles that question first.
+Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB-C hubs and docking stations that suit a USB-C ThinkPad, from a do-it-all dock to a sensible everyday hub. We have not tested them on a ThinkPad ourselves, so what you get still depends on what your own machine's USB-C port supports. Whether you need extra display outputs, wired networking, or just a tidy way to plug in your essentials, there's a pick here for you. Not sure a hub is even the right tool? Our [hub vs docking station guide](usb-c-hub-vs-docking-station.html) settles that question first.
 
 ## Top picks
 
