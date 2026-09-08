@@ -73,7 +73,7 @@ The UGREEN Nexode Pro 100W suits a busier desk, where the S24 is only one of the
 
 **Cons**
 - ✗ 100W across three ports is more plug than a phone-and-earbuds household will ever call on
-- ✗ Bulkier than a basic single-port plug for minimalist carry
+- ✗ UGREEN quotes its headline charging time against a MacBook Pro, not a Galaxy phone
 
 **Who it's for:** S24 owners who also charge a USB-C laptop and want one charger to run everything.
 **Who it's not for:** Light users who never need more than phone-level wattage.
