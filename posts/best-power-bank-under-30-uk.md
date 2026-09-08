@@ -6,9 +6,11 @@ In the budget bracket the real question is which corners get cut. Here it's most
 
 ### 1. INIU Power Bank 10000mAh 22.5W Slim - Best Overall
 
-**SPP Score: 8.2 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
+**SPP Score: 8.8 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
 
-Scorecard: Capability 7.8/10 - Versatility 7.8/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: The budget bracket asks what gets cut, and 10000mAh with 22.5W fast charging keeps a phone going daily.
 
 What keeps it off a 10: Its 10000mAh will not stretch to tablet recharges or multi-day trips, and the fast charging only helps devices that support PD or QC.
 
@@ -21,7 +23,7 @@ The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh c
 
 **Cons**
 - ✗ 22.5W is the slowest output of the three picks here
-- ✗ 10000mAh won't stretch to tablet recharges or multi-day trips
+- ✗ No built-in cable here, so a USB-C lead still has to go in the bag
 
 **Who it's for:** Anyone wanting a light, low-bulk power bank with fast charging for daily phone top-ups.
 **Who it's not for:** Heavy users who need to recharge a tablet or several devices repeatedly.
@@ -32,9 +34,11 @@ The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh c
 
 ### 2. Anker Zolo Power Bank 10000mAh 30W - Best Budget
 
-**SPP Score: 8.1 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
+**SPP Score: 8.5 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
 
-Scorecard: Capability 7.8/10 - Versatility 7.4/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 8.0/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: 30W and a built-in USB-C cable mean nothing extra to buy or carry in this bracket.
 
 What keeps it off a 10: Its integrated cable cannot be swapped out if it wears, which is the trade for never having to pack a lead.
 
@@ -47,7 +51,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependa
 
 **Cons**
 - ✗ 30W output is phone-grade - don't expect it to charge a laptop
-- ✗ An integrated cable cannot be swapped out if it wears
+- ✗ The attached cable fixes the reach, so the pack has to sit beside the phone
 
 **Who it's for:** Buyers who want fast charging and a built-in cable without paying for extras.
 **Who it's not for:** Those who prefer to bring their own cable or want the thinnest possible shape.
@@ -58,9 +62,11 @@ The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependa
 
 ### 3. UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W) - Best Premium
 
-**SPP Score: 8.3 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
 
-Scorecard: Capability 8.3/10 - Versatility 8.3/10 - Build 8.3/10 - Value 8.3/10
+Scorecard: Capability 8.5/10 - Versatility 8.5/10 - Build 8.5/10 - Value 8.5/10 - Fit 7.6/10
+
+Fit for this guide: Cable-free magnetic charging plus 30W wired suits iPhone owners wanting both in one budget-bracket bank.
 
 What keeps it off a 10: Full magnetic alignment and speed depend on having a MagSafe-compatible iPhone, so Android owners gain nothing from the wireless side.
 
@@ -72,7 +78,7 @@ The UGREEN MagFlow is the most capable pick because it charges two ways from one
 - ✓ 10000mAh capacity covers a full smartphone recharge with headroom
 
 **Cons**
-- ✗ Full Qi2 magnetic alignment and speed depend on a MagSafe-compatible iPhone
+- ✗ Its 25W wireless side sits below the 30W it manages wired, so the cable is quicker
 - ✗ Magnetic wireless charging adds a little bulk over a plain wired-only bank
 
 **Who it's for:** iPhone users who want cable-free magnetic charging plus a wired fast option in one bank.
