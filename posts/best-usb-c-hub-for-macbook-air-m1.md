@@ -21,7 +21,7 @@ The M1 Air's own USB-C ports are scarce and one usually goes to the charger; thi
 
 **Cons**
 - ✗ No Ethernet port, so wired networking needs a different hub
-- ✗ Slightly bulkier than a single-port adapter to carry around
+- ✗ A single HDMI, so a second screen has to be a USB-C display instead
 
 **Who it's for:** M1 Air owners who want one tidy hub that covers display, charging, USB-A and card reading.
 **Who it's not for:** Anyone who needs a wired Ethernet connection or the fastest possible data transfer.
