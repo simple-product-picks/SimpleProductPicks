@@ -20,7 +20,7 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 - ✓ Compact, single-cable design suits a tidy desk or travel bag
 
 **Cons**
-- ✗ A compact 7-in-1 hub has fewer outputs than a full-size docking station
+- ✗ Gigabit Ethernet here, so a multi-gig line will not reach its full speed
 - ✗ General-purpose ports rather than the fastest 10Gbps data standard
 
 **Who it's for:** Hybrid and home-office workers who want wired Ethernet and the everyday ports from one tidy hub.
@@ -47,7 +47,7 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 
 **Cons**
 - ✗ Fewer total ports than the larger hubs in this guide
-- ✗ Data ports are standard speed, without the 10Gbps transfers of the premium pick
+- ✗ No card reader at all, so camera cards need a separate one
 
 **Who it's for:** Buyers who want a dependable, no-frills hub that handles wired internet and everyday peripherals.
 **Who it's not for:** Power users who need 10Gbps transfers or a high port count.
