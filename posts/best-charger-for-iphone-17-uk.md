@@ -46,7 +46,7 @@ The measured figures make this the interesting pick. If an iPhone 17 draws in th
 - ✓ Clears what Apple asks for on the iPhone Air outright
 
 **Cons**
-- ✗ Sits below the 40-watt adapter Apple's 20-minute figure is quoted against
+- ✗ 30W matches Apple's 30-watt MagSafe bar exactly rather than clearing it, so there is no margin
 - ✗ The least headroom of the three, so it's the first one you would outgrow
 
 **Who it's for:** iPhone Air owners, whose 20-watt bar this clears outright, and anyone adding a bedside or weekend-bag plug.
