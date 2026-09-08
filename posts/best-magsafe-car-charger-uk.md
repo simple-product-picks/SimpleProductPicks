@@ -12,8 +12,6 @@ Scorecard: Capability 8.5/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: A driver wants a ready-to-use magnetic mount, and this one includes the car charger and cable.
 
-What keeps it off a 10: Vent mounting does not suit every vehicle's vent design, so check yours before you count on this one.
-
 Belkin's BoostCharge MagSafe Car Vent Mount is the balanced all-rounder. It arrives as a complete kit, with its own car charger and cable in the box, so there's nothing extra to buy. The MagSafe-compatible magnetic hold snaps your iPhone into place and keeps it steady. The air-vent mount doubles as a hands-free holder, keeping the screen in view for navigation. For most UK drivers it strikes the right balance of secure grip, everyday convenience and a familiar charging brand.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.9/10 - Versatility 8.9/10 - Build 8.5/10 - Value 9.4/10 
 
 Fit for this guide: Vent or dashboard mounting and 15W magnetic charging cover the essentials for holding a phone in the car.
 
-What keeps it off a 10: You still have to supply a USB-C power source in the car, and a wired plug will beat it when you are in a hurry.
-
 The ESR HaloLock is the sensible-value choice that covers the essentials: MagSafe-compatible magnetic alignment and up to 15W of fast wireless output in a tidy package. Strong magnets keep your iPhone snapped firmly in place, and it ships with both air-vent and dashboard mounting options so you can position it where it suits your car. It delivers the core convenience of snapping your iPhone into place and charging hands-free without extra frills.
 
 **Pros**
@@ -67,8 +63,6 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 Scorecard: Capability 9.4/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: Qi2 15W wireless suits the subset of drivers who specifically want the newer standard in the car.
-
-What keeps it off a 10: Even Qi2 15W wireless trails a cable for rapid top-ups, and it is more kit than a simpler setup needs.
 
 Belkin's BoostCharge Pro is the step-up option, bringing the newer Qi2 standard to your car. Magnetic snap-on alignment pairs with up to 15W of wireless output for compatible iPhones. It mounts to your car's air vent and doubles as a holder, keeping your phone where you can see it for navigation while it tops up. A 1.5m [USB-C cable](best-usb-c-cable-for-fast-charging.html) is included in the box, and the MagSafe-compatible magnetic hold keeps the phone in the optimal charging position. For drivers who want the most capable charge on offer here, the faster Qi2 15W output is the reason to move up from the all-round pick.
 

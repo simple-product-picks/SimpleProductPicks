@@ -12,8 +12,6 @@ Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: Wired internet plus the ports a slim laptop drops is the ask, and Gigabit Ethernet with 4K HDMI answers it.
 
-What keeps it off a 10: A compact 7-in-1 has fewer outputs than a full-size docking station, so a growing desk eventually outgrows it.
-
 The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit Ethernet with 4K HDMI, three USB-A ports, an SD slot and 100W power delivery in one compact unit. A single USB-C connection to your laptop keeps everything tidy while you add wired networking and your usual peripherals. For a typical home-office or hybrid-working setup, this is the most balanced all-rounder here.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: Gigabit Ethernet, 4K HDMI and 65W charging give wired internet to a laptop that needs nothing more.
 
-What keeps it off a 10: Its data ports run at standard speed rather than the 10Gbps the premium pick manages, so big transfers take longer.
-
 The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essentials without fuss. You get Gigabit Ethernet, a 4K HDMI output, two USB-A ports and a spare USB-C data port, with 65W of pass-through charging on the USB-C input. It's a clean way to add wired networking to a slim laptop.
 
 **Pros**
@@ -67,8 +63,6 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: Ethernet arrives here alongside 10Gbps data ports that a reader after wired internet alone will not use.
-
-What keeps it off a 10: Next to a plain Ethernet adapter it has a larger footprint, with more ports than a light user will plug into.
 
 The Anker 8-in-1 is the step up for heavy movers of data, adding 10Gbps USB ports so large file transfers and external SSDs feel genuinely fast. Alongside the speedy data lanes you still get wired Ethernet and the broadest port count in this guide. For creators and anyone who moves a lot of data, the extra bandwidth and ports justify the step up.
 

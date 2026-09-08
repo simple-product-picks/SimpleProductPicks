@@ -12,8 +12,6 @@ Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: An iPad Pro used as a workstation wants display, charging and cards, and 4K HDMI, 85W PD and SD cover that.
 
-What keeps it off a 10: No wired Ethernet is built in, so an iPad that needs a steady network connection has to look at another pick.
-
 Connected to an iPad Pro, this Anker 7-in-1 gets the tablet closest to a desktop: the 4K HDMI output drives an external monitor while 85W power delivery keeps the iPad charging through the same single cable. The SD and microSD slots earn their keep on a tablet, pulling camera cards straight into your photo library without a separate reader, while drives and accessories hang off the same unit. Anker is a long-established name in charging and connectivity gear, which makes it an easy default recommendation.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: Wired Ethernet, 4K HDMI and an SD slot cover an iPad desk that needs a steady network connection.
 
-What keeps it off a 10: It has no 10Gbps data ports, so shifting big video files to an external SSD will feel slow.
-
 The UGREEN Revodok earns its place by adding the one thing the overall pick lacks: Gigabit Ethernet, which steadies video calls and big downloads when the iPad's Wi-Fi is the weak link. With 100W power delivery on its USB-C input, it has plenty of headroom to keep an iPad Pro topped up while you work. It's a practical pick for anyone who'd rather plug in than gamble on Wi-Fi; if wired networking is the whole point, our [USB-C hub with Ethernet](best-usb-c-hub-with-ethernet.html) guide compares more options.
 
 **Pros**
@@ -67,8 +63,6 @@ The UGREEN Revodok earns its place by adding the one thing the overall pick lack
 Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 7.6/10
 
 Fit for this guide: Eight connections including 10Gbps ports serve an iPad only when large files are part of the job.
-
-What keeps it off a 10: Eight functions add size and weight that a casual iPad user who only wants HDMI will simply carry around.
 
 If your iPad Pro workflow means moving large video files to an external SSD, the 10Gbps USB-C and USB-A ports on this Anker 8-in-1 are the reason to step up, alongside HDMI output and wired Ethernet. Slower hubs bottleneck exactly there, so the extra bandwidth is the difference you'll actually feel. With eight functions in one unit, it suits demanding setups that need every connection covered at once.
 

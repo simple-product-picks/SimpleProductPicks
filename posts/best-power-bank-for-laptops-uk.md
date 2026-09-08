@@ -12,8 +12,6 @@ Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: Laptop charging is the question, and 140W PD3.1 with two built-in cables answers it without packing extras.
 
-What keeps it off a 10: The built-in cables fix the layout, so you are tied to UGREEN's port arrangement, and it is heavier than a phone-sized pack.
-
 The Nexode is the one we'd point most people to, because it settles the thing that trips up laptop charging: the cable. The name says 165W, but the number that matters for a laptop is the 140W a single USB-C port runs at, which matches the 140W adapter Apple lists for the 16-inch MacBook Pro, and because one of its two built-in cables is itself rated to 140W, you get that speed without hunting for a compatible lead. The second built-in cable handles up to 65W for a tablet or a smaller laptop, and there's still a spare USB-C port and a USB-A for a phone or earbuds, so four things can charge together. A small display shows what's going in and out. UGREEN rates the 25000mAh cell at 90Wh; check that figure against your own airline's limit before you fly.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: 100W over a single USB-C output covers an ultrabook or 14-inch laptop from a 25000mAh pack.
 
-What keeps it off a 10: A 16-inch MacBook Pro charges below its top speed because 100W falls short of the 140W it can draw, and it has no built-in cable.
-
 If you don't need the very top wattage, INIU's 25000mAh pack covers most laptops without the headroom you may never use. Its single USB-C port pushes up to 100W, which fast-charges the great majority of ultrabooks and 14-inch laptops, and tops up a 16-inch MacBook Pro quickly even though it can't reach that machine's full 140W ceiling. A second USB-C and a USB-A sit alongside it for a phone or a pair of earbuds, and the 25000mAh capacity matches our top pick for staying power between mains sessions. You bring your own cable here, and at 100W a standard USB-C lead is all it needs - a higher-rated cable only comes into play once you go past 100W.
 
 **Pros**
@@ -67,8 +63,6 @@ If you don't need the very top wattage, INIU's 25000mAh pack covers most laptops
 Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: 250W total and dual 140W USB-C exceed one laptop, fitting professionals running several devices at once.
-
-What keeps it off a 10: This is the largest and heaviest pack in the guide, and more capability than anyone charging a single laptop actually needs.
 
 The Prime is for the person who wants the most output and the biggest cell in one pack. Either USB-C port runs at up to 140W on its own, so whichever machine you plug in first charges at full speed; Anker rates the whole pack at 250W across its three ports, which is enough for a big laptop and a tablet at once. A 27650mAh cell, which Anker lists at 99.56Wh, is the largest here by some way, and a colour display plus a companion app show exactly what each port is doing. Anker includes a 140W-rated USB-C cable in the box, so the full-speed lead is sorted from the start.
 

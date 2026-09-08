@@ -12,8 +12,6 @@ Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: A Deck session wants a pack with the cable already attached, and this one holds the 45W the Deck draws while you play.
 
-What keeps it off a 10: Its 145W output is far more than a Steam Deck's 45W draw, so on the Deck alone most of that headroom sits unused, and the built-in cable ties you to UGREEN's fixed port layout.
-
 The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB-C cable is built into the pack, so there's no separate lead to snake across the grips or leave behind, and it feeds the Deck at the 45W the console is built to take. UGREEN rates the pack at 145W across its three outputs, well beyond a Deck on its own, but that spare headroom means you can keep a phone or a friend's handheld topped up on the same trip without either slowing down. At 20000mAh it holds roughly a full extra Deck charge and then some. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits. An 80W input also means the bank itself refills quickly between sessions when you feed it a strong enough charger.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: 65W USB-C covers a Deck's draw in an ultra-compact 20000mAh body, though a laptop alongside it wants more output.
 
-What keeps it off a 10: You supply your own USB-C cable here, and while 65W easily covers the Deck it falls short of what a large laptop would want from a single bank.
-
 If you just want a dependable pack that charges the Deck while you play, the INIU covers it in a lighter, more compact body. Its 65W USB-C output sits comfortably above the Deck's 45W, so the console keeps gaining charge mid-session rather than only holding steady, and the same port doubles as the input to refill the bank. Two USB-A ports sit alongside it for a controller dongle or a phone lead. It's the most compact 20000mAh pack here, which is why INIU's own listing calls it the smallest 20000mAh pack it makes, and on the same 20000mAh cell it carries about the same real capacity as our top pick. The one thing it leaves out is a cable, so pack a USB-C lead rated for 60W or more; our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for.
 
 **Pros**
@@ -67,8 +63,6 @@ If you just want a dependable pack that charges the Deck while you play, the INI
 Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: 25000mAh and three USB-C outputs suit players carrying a laptop and phone as well as the Deck.
-
-What keeps it off a 10: At 25000mAh and 165W across three ports it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use.
 
 For the longest hauls, whether a flight, a festival or a full day of handheld play, the Anker carries the most in one pack. At 25000mAh it holds comfortably more than a full extra Deck charge, and its built-in retractable USB-C cables mean the lead you need is already part of the pack. Anker's listing gives it 165W across three USB-C ports, so the Deck can take a fast charge while a laptop or phone tops up beside it, without a bag full of separate bricks. The trade is bulk: it's the heaviest pack here by a distance, closer to something you set on the table beside you than clip to the Deck itself. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits, and our [best power bank for long flights](best-power-bank-for-long-flights.html) guide covers the same ground if that's your main use.
 

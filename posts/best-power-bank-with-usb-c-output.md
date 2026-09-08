@@ -12,8 +12,6 @@ Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: USB-C output is the question here, and 145W from three ports plus a built-in cable answers it.
 
-What keeps it off a 10: Three-port output shares the total wattage, so each device gets less at full load when everything is plugged in together.
-
 The UGREEN Nexode Power Bank 20000mAh 145W is the bank most people should start with, pairing a generous 20000mAh capacity with up to 145W of output across three outputs. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means one decision fewer when you pack, and 80W input gets the bank itself back to full quickly. With three-port output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.0/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: For phone charging over USB-C, 30W and a built-in cable suit commuters who want nothing extra packed.
 
-What keeps it off a 10: Both the capacity and the output stay modest for power-hungry laptops, so this suits keeping a phone alive rather than several devices at once.
-
 The Anker Zolo Power Bank 10000mAh 30W covers the essentials without the bulk. Its 10000mAh capacity is the classic everyday size, small enough to drop into a bag or large pocket, and 30W high-speed output is enough to fast-charge a phone. The built-in USB-C cable is always there when you need it, and the separate USB-C port handles charging in and out. If you mainly need to keep a phone alive through a long day, this does the job cleanly.
 
 **Pros**
@@ -67,8 +63,6 @@ The Anker Zolo Power Bank 10000mAh 30W covers the essentials without the bulk. I
 Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: 220W total, with 140W from one USB-C port, is past what most readers need but suits a big laptop and phone from one pack.
-
-What keeps it off a 10: Size and output are overkill if you only ever top up a phone, and travelling light is not what this pack is for.
 
 This is the ceiling of what a 20000mAh-class bank can push out over USB-C. Anker rates the Prime's total output at 220W, with either USB-C port capable of 140W on its own, which matches the adapter Apple lists for a 16-inch MacBook Pro, while the second port fast-charges a phone. A USB-A port covers legacy leads, the display reads out live wattage, and the companion app keeps those numbers on your phone. If USB-C output is the spec you're buying on, nothing else here comes close.
 

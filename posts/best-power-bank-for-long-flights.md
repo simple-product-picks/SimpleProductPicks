@@ -12,8 +12,6 @@ Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: A long-haul bag wants one pack for laptop, phone and tablet, and 25000mAh spans three USB-C outputs.
 
-What keeps it off a 10: Being a 25000mAh battery it is heavier than a slim travel pack, and you must confirm your airline's watt-hour rules before flying.
-
 Hands-on: We own this one and it is the bank we take on long flights: two built-in retractable USB-C cables plus a third USB-C port cover a phone, a tablet and a laptop at once, and it has held up to daily use and travel without wear.
 
 With a 25000mAh capacity, this Anker is sized to recharge most phones several times over a long flight. It'll keep a tablet or laptop going too. Anker's listing gives it 165W across three USB-C ports, so a laptop can take a fast charge while a tablet and a phone top up beside it rather than waiting their turn. The built-in retractable cables mean there's less to pack and less to lose down a seat gap, and a 25000mAh pack still fits in a carry-on. Anker is a well-established name in portable charging, and this is a genuine in-seat charging hub for a traveller carrying several devices.
@@ -42,8 +40,6 @@ Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: Laptop-capable 87W and a built-in USB-C cable cover a flight from a 20000mAh pack.
 
-What keeps it off a 10: At 87W it sits below the highest-wattage packs, which counts for the most power-hungry laptops but not for a phone or tablet.
-
 The 20000mAh capacity gives you the multi-charge headroom that long flights demand, and an 87W maximum output is enough to charge many laptops as well as phones and tablets. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means one fewer thing to remember, and there's a second USB-C port plus a USB-A port for charging more than one device at a time. It's the pick for travellers who want laptop-capable wattage and integrated-cable convenience without stepping up to a larger pack.
 
 **Pros**
@@ -69,8 +65,6 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: 220W total and app control go beyond one flight's charging, though at 72Wh it sits under the limit most airlines set.
-
-What keeps it off a 10: Unlike the other two picks here it has no built-in cable, so your own leads still have to go in the bag.
 
 The Prime is the flagship pick, pairing a 20100mAh cell - which Anker lists at about 72Wh, worth checking against your own airline's limit - with 220W of total output. Anker rates either USB-C port at up to 140W alone, matching the adapter Apple lists for a 16-inch MacBook Pro, and the front display shows exactly what's flowing in and out. It's built for the traveller whose seat becomes an office: laptop, tablet and phone can all draw fast charge from one brick, and the companion app mirrors the readout even when the pack's tucked in the seat pocket.
 

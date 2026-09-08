@@ -40,8 +40,6 @@ Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: A dual-monitor desk fits this hub when the second screen takes USB-C video, as its own listing states.
 
-What keeps it off a 10: For a two-monitor desk the second screen has to come over USB-C, because only one HDMI port is on board.
-
 This Anker 7-in-1 is the budget route to two screens, with one catch: the second display has to arrive over USB-C. It delivers a 4K HDMI output plus 85W Power Delivery for charging, all in a compact 7-in-1 form. For a dual-monitor setup, you pair its HDMI output with a second USB-C display, making it a tidy option for simpler two-screen arrangements.
 
 **Pros**
@@ -67,8 +65,6 @@ This Anker 7-in-1 is the budget route to two screens, with one catch: the second
 Scorecard: Capability 8.9/10 - Versatility 9.4/10 - Build 9.4/10 - Value 8.5/10 - Fit 8.0/10
 
 Fit for this guide: Two HDMI outputs and 100W charging cover a two-screen desk that does not need Ethernet or card slots.
-
-What keeps it off a 10: Card slots and Ethernet are missing here, so a fixed desk that needs them wants a full docking station.
 
 For the most capable compact option, this Anker 7-in-1 puts two HDMI outputs on a single small hub, so you can run a genuine dual-monitor setup without a bulky dock. It pairs that with 100W Power Delivery to keep your laptop topped up while you work. It's the pick for people who want full dual-display capability in a portable, well-built shell.
 

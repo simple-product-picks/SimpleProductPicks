@@ -12,8 +12,6 @@ Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: Most laptops need a screen, wired internet and a few USB-A ports, and this 7-in-1 covers exactly that.
 
-What keeps it off a 10: One HDMI output means a single external screen, so a two-monitor desk needs the bigger dock instead.
-
 Seven ports is the count that covers most laptop desks, and this UGREEN spreads them sensibly. You get a 4K HDMI output for a monitor, a Gigabit Ethernet socket for a stable wired connection, and three USB-A ports for the mouse, keyboard and the odd memory stick. Add an SD reader and a USB-C port UGREEN rates for up to 100W pass-through charging. That's enough to turn a port-starved laptop into a proper desk without stepping up to a bulkier dock. Ethernet is the part people forget they wanted until their video call drops on Wi-Fi, and having it built in means one fewer thing to buy. Need only that one socket? Our [USB-C hub with Ethernet](best-usb-c-hub-with-ethernet.html) guide narrows the field to hubs that lead with it.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: A 5-in-1 with 4K HDMI and two USB-A ports fits a desk that plugs in nothing else.
 
-What keeps it off a 10: There is no SD or microSD reader, so offloading camera cards means a separate reader or a bigger hub.
-
 If your desk is really just a monitor, a couple of USB accessories and the laptop's own charger, a 5-in-1 is plenty, and the extras on a bigger hub are just weight in the bag. This Anker keeps it to a 4K HDMI output, two USB-A ports and a USB-C port Anker rates for up to 85W pass-through, all in a slab you can drop in a laptop sleeve. Anker's track record on build is what makes a hub this plain worth having. What you give up is wired Ethernet and any card reader, so it suits people whose networking is Wi-Fi and whose files arrive over the cloud rather than off a camera card.
 
 **Pros**
@@ -67,8 +63,6 @@ If your desk is really just a monitor, a couple of USB accessories and the lapto
 Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: A 10-in-1 dock with two HDMI outputs and Ethernet is more hub than a single-screen desk fills.
-
-What keeps it off a 10: Both display outputs are HDMI, so a DisplayPort monitor needs an adapter before it will work with this dock.
 
 This is where a hub becomes a docking station. The Revodok Pro 210 is a 10-in-1, and the headline is two HDMI outputs that UGREEN rates for dual 4K at 60Hz, so you can run a genuine two-screen desk from a single cable to the laptop. Around that you get wired Ethernet, a full set of USB-C and USB-A ports, and both SD and microSD readers, with the 100W pass-through UGREEN lists, to keep the laptop charged. It's the pick for people who dock in the morning and don't want to think about ports again until home time. If you'd rather see the biggest desk docks on their own, our [USB-C docking station guide](best-usb-c-docking-station-uk.html) goes deeper on that class.
 

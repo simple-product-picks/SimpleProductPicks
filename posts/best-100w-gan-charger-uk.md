@@ -12,8 +12,6 @@ Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10 
 
 Fit for this guide: Readers here want 100W from one plug, and this three-port GaN charger rates 100W on a single port.
 
-What keeps it off a 10: Its smart display adds a little bulk, so minimalists who only ever charge one phone are paying for a readout they never use.
-
 The Anker 100W is our standout because it pairs serious single-port output with genuine real-world usefulness. The built-in smart display shows live wattage so you can see exactly how power is being split across the two USB-C ports and one USB-A port, and GaN internals keep the whole thing compact enough to live in a bag. For most people charging a laptop plus a couple of accessories, this hits the right balance of power, ports and footprint.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: This guide's 100W bar is met, and four ports plus a foldable UK plug suit charging several devices.
 
-What keeps it off a 10: There is no live readout, and the full 100W gets shared out once several ports are busy.
-
 The UGREEN Nexode 100W wins this trio on port count, and that's exactly the point of it. With four ports (three USB-C plus one USB-A) and a foldable UK plug, it is built for travelling light while still keeping a full set of devices topped up. GaN technology keeps it compact, and the single port can still push up to 100W when you need maximum speed for a laptop.
 
 **Pros**
@@ -67,8 +63,6 @@ The UGREEN Nexode 100W wins this trio on port count, and that's exactly the poin
 Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: A 100W guide does not ask for 140W, so this PD 3.1 charger suits only 140W-class laptops.
-
-What keeps it off a 10: You only see the full 140W when one high-draw laptop has the output to itself, and it is overkill if nothing you own charges above 100W.
 
 This is the step past the 100W class. The Anker 140W can push its full output through a single USB-C port using PD 3.1, which is the wattage Apple lists for the 16-inch MacBook Pro's fastest charge. You get four ports (three USB-C plus one USB-A) against the overall pick's three, and the smart-display idea grows into a small touchscreen with touch controls showing live output. If your laptop is the hungry kind, this is the one brick in the guide that never holds it back.
 

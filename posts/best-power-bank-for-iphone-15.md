@@ -12,8 +12,6 @@ Scorecard: Capability 8.0/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: An iPhone 15 wants fast wired charging in a pocketable pack, and 10000mAh arrives with the cable attached.
 
-What keeps it off a 10: It is wired-only with no MagSafe-style wireless charging, and the built-in cable ties you to its fixed length and fitting.
-
 The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Delivery output, which is enough to fast-charge an iPhone 15. The 10000mAh cell sits in a pocket-sized shell, the 30W PD rating means you're not waiting around for a slow trickle, and the charging cable is built into the pack itself, so there's nothing extra to pack. It's the sweet spot of speed, capacity, and portability for most iPhone 15 owners.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: An ultra-slim 10000mAh pack with 22.5W suits an iPhone 15 owner who already carries USB-C cables.
 
-What keeps it off a 10: Top-ups run a touch slower at 22.5W than the 30W pick above, and you must supply and carry your own lead.
-
 The INIU is the bare-basics route to the same 10000mAh: no built-in cable, just a genuinely slim pack that rides in a pocket next to the phone. Its 22.5W PD and QC fast charging keeps an iPhone 15 topping up quickly, and with USB-C in and out plus a USB-A port it works with whichever [USB-C cable](best-usb-c-cable-for-iphone-15.html) you already own. If the overall pick's built-in cable is a feature you'd never use, this is the same capacity without the extras.
 
 **Pros**
@@ -67,8 +63,6 @@ The INIU is the bare-basics route to the same 10000mAh: no built-in cable, just 
 Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.5/10
 
 Fit for this guide: Qi2 magnetic charging and a foldable stand serve iPhone 15 owners who want no cable involved.
-
-What keeps it off a 10: Wired output peaks at 27W, a shade under the 30W wired picks, and charging over the magnets loses some energy as heat.
 
 The MagGo is the pick that finally answers the wireless question. It's Qi2-certified, so it snaps magnetically onto the back of an iPhone 15 and charges at the standard's full 15W with no cable involved. A foldable stand tilts the phone for a desk or bedside table while it tops up, and the small smart display shows charge status at a glance. When you'd rather plug in, wired USB-C runs at up to 27W by Anker's rating, which still fast-charges an iPhone 15.
 

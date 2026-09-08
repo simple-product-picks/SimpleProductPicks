@@ -12,8 +12,6 @@ Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: Carry-on charging wants one plug for laptop and phone, and 65W across three ports folds flat.
 
-What keeps it off a 10: Charge a laptop, phone and third device together and the shared wattage splits, so nothing reaches its quickest pace.
-
 The UGREEN Nexode delivers 65W across three ports, so it can serve as a single charger for a laptop plus a phone and one more device on the move. With two USB-C ports and one USB-A, it takes modern and older cables alike, and the foldable UK plug tucks flat into a bag. GaN (gallium nitride) internals keep it compact and cooler than an older silicon brick, while PD 3.0 and PPS support means it can fast-charge a wide range of phones and ultrabooks.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: Two USB-C ports cover a laptop and phone abroad from an ultra-compact plug that keeps the bag light.
 
-What keeps it off a 10: Both of its ports are USB-C, so an older USB-A cable has nothing to plug into while you are away.
-
 The UGREEN 65W GaN is the pick when bag weight matters more than port count, with two ports and enough power for a laptop as well as a phone. 65W is comfortably in ultrabook territory, so it can serve as a single charger for a work-and-play trip. Two USB-C ports is the whole design: one plug, a laptop and a phone, and nothing else to carry.
 
 **Pros**
@@ -67,8 +63,6 @@ The UGREEN 65W GaN is the pick when bag weight matters more than port count, wit
 Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: 100W and a smart display are more than a travel plug needs unless a laptop travels with several devices.
-
-What keeps it off a 10: It is larger and heavier than a single-port travel charger, which is real weight in a carry-on you are trying to keep light.
 
 This is the do-it-all pick: 100W across three ports means it can power a demanding laptop and still have headroom for a phone and a tablet. The smart display shows live output so you can see how power is being distributed, which is genuinely useful when juggling several devices in a hotel room. GaN internals keep a 100W charger this capable down to a travel-friendly size.
 

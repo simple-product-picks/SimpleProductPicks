@@ -12,8 +12,6 @@ Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10 
 
 Fit for this guide: An S24 owner wanting one plug for the phone plus other gadgets gets 67W and three ports here.
 
-What keeps it off a 10: The 67W is a total shared across the three ports, so the S24 gets less than that whenever something else is plugged in.
-
 The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. It is also the only one of the three Anker lists with PPS support, on top of the standard USB-C Power Delivery all three carry.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: Fast charging for the S24 and one other device comes from two USB-C ports in an ultra-compact plug.
 
-What keeps it off a 10: Once three or more gadgets need the same plug you are stuck, since only two ports are on offer here.
-
 The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third port. With 65W shared across two ports and GaN efficiency, it delivers ample power to fast-charge the S24 and run a second device such as a laptop or tablet. UGREEN lists PD 3.0 and QC 4.0 for this plug, so the S24 charges over standard USB-C Power Delivery here.
 
 **Pros**
@@ -67,8 +63,6 @@ The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third 
 Scorecard: Capability 9.4/10 - Versatility 7.1/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: 100W is more than an S24 asks for, and suits owners who also charge a USB-C laptop.
-
-What keeps it off a 10: It is bulkier than a basic single-port plug, so minimalist carry is where this three-port charger stops making sense.
 
 The UGREEN Nexode Pro 100W suits a busier desk, where the S24 is only one of the things on charge. Its 100W ceiling and three ports mean it can fast-charge the S24 while simultaneously powering a USB-C laptop and a second mobile device. The Nexode Pro line uses GaN for a compact footprint relative to the power on offer. UGREEN lists this one for Power Delivery, so the S24 fast-charges over standard USB-C with plenty in reserve.
 

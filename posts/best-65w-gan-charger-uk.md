@@ -12,8 +12,6 @@ Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10 
 
 Fit for this guide: This guide wants a 65W-class plug, and 67W across three ports covers a laptop and a phone together.
 
-What keeps it off a 10: Peak speed drops when all three ports are working, and it is bigger than a single-port plug for one-device users.
-
 The Anker 67W is the most versatile pick here, packing three ports into a genuinely compact body. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone and a third device topped up at once. The 67W output leaves headroom for fast charging across the lot. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package. It's also our top pick for [Samsung S24 owners](best-charger-for-samsung-s24-uk.html), and Anker lists PPS support on this one.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: Two USB-C ports and an ultra-compact UK plug meet the 65W brief for daily use and travel.
 
-What keeps it off a 10: Output is split between the two ports when both are in use, so a laptop and a phone share one 65W budget.
-
 The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug that does the job. Its two ports and ultra-compact UK plug make it an easy everyday carry, and its 65W output is enough to fast-charge most modern laptops, tablets and phones. UGREEN reckons it's around half the size of a standard laptop brick, so it slips into a bag with room to spare.
 
 **Pros**
@@ -67,8 +63,6 @@ The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug
 Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.5/10 - Fit 8.0/10
 
 Fit for this guide: This guide asks for 65W, and this GaN II plug gives it from a single port sized for a traveller charging one device.
-
-What keeps it off a 10: One port means it charges a single device at a time, which rules it out for a household topping up several gadgets.
 
 The Anker Nano II 65W is the choice for travellers who want maximum single-port performance in the smallest possible package. Its GaN II technology shrinks a full 65W output into a tiny shell, and a single dedicated USB-C port keeps power focused on one device at a time. It's a focused, single-port tool rather than a multi-device hub, which is exactly why it stays so small.
 

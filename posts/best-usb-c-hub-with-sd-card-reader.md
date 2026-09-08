@@ -12,8 +12,6 @@ Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: Card work is the point of this guide, and a 170MB/s SD and microSD reader sits on this hub.
 
-What keeps it off a 10: There is no Ethernet port, so a wired desk connection still needs a separate adapter alongside this hub.
-
 This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader with a broad 8-in-1 set of connections, so you can offload camera cards and connect drives, displays and peripherals from a single port. UGREEN is a well-known name in charging and connectivity accessories, and the all-in-one layout suits anyone who wants one adapter to cover most everyday jobs.
 
 **Pros**
@@ -41,8 +39,6 @@ Scorecard: Capability 9.4/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: SD and microSD slots with 4K HDMI and 100W charging cover card imports on a MacBook desk.
 
-What keeps it off a 10: The dual-plug body needs adjacent USB-C ports on the host, so a single-port Windows laptop is the wrong home for it.
-
 The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug design that slots neatly into a MacBook's side-by-side USB-C ports for a flush, stable fit. It covers the essentials cleanly with a 7-in-2 set of connections including SD card support. For more Air-friendly options, see our [USB-C hub for MacBook Air M1](best-usb-c-hub-for-macbook-air-m1.html) guide.
 
 **Pros**
@@ -69,8 +65,6 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: It carries SD and microSD alongside Ethernet and 10Gbps ports that a card reader guide does not require.
-
-What keeps it off a 10: If you live on Wi-Fi, the Ethernet port only adds bulk to something meant to travel light.
 
 This Anker 8-in-1 is the desk-dock option of the three, adding wired Ethernet for stable networking alongside everything else. With 10Gbps USB connectivity and SD card support in an 8-in-1 layout, it works as a capable desk dock as well as a travel hub.
 

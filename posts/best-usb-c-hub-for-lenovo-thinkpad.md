@@ -40,8 +40,6 @@ Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: One 4K HDMI output, USB-A and card slots suit a ThinkPad running a single external screen.
 
-What keeps it off a 10: A single HDMI output rules it out for anyone running two ThinkPad monitors from one cable.
-
 This Anker 7-in-1 hub is the sensible-value choice that covers the essentials without overcomplicating things. It pairs a 4K HDMI output with 85W USB-C Power Delivery, so you can drive an external display while keeping charge flowing through to your laptop. Anker is a trusted charging brand, and this hub focuses on the connections most people actually reach for day to day.
 
 **Pros**
@@ -67,8 +65,6 @@ This Anker 7-in-1 hub is the sensible-value choice that covers the essentials wi
 Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: Ethernet and 10Gbps ports go past what a ThinkPad with a mouse and one screen asks for.
-
-What keeps it off a 10: Its lone HDMI output caps you at one screen, the trade for a compact hub with fewer total connections.
 
 The Anker 8-in-1 is the do-it-all pick for ThinkPad users who want speed alongside connectivity. It combines wired Ethernet with 10Gbps data, so you get reliable networking plus fast transfers to external SSDs and drives. With eight connections in one compact unit, it handles demanding workflows without the bulk of a full desktop dock.
 

@@ -12,8 +12,6 @@ Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10 
 
 Fit for this guide: A MacBook Pro wants matching wattage in a plug you can carry, and this GaN charger delivers 100W from a single port.
 
-What keeps it off a 10: The 100W is a single-port figure, so plugging anything else into it drops what the MacBook Pro gets.
-
 The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C, which is a full-speed charge from a single port without reaching for the bulky stock adapter. Apple lists a 140W adapter for the 16-inch MacBook Pro, so a 100W charger still charges that machine, just not at its fastest rate. The smart display shows live wattage, so you can confirm your laptop is actually pulling full power. Three ports mean a phone and earbuds can top up alongside it. GaN internals keep the whole thing compact and travel-friendly.
 
 **Pros**
@@ -40,8 +38,6 @@ Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: A 13-inch MacBook Pro sits within 65W, so this pocketable two-port plug covers it without the bulk.
 
-What keeps it off a 10: 65W falls short of what a 14-inch or 16-inch MacBook Pro can draw, and there is no USB-A port for older kit.
-
 The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges those machines at full speed and skips everything you don't need. Its two USB-C ports let you charge the laptop and a phone at once, and the GaN design keeps it light and pocketable for commuting.
 
 **Pros**
@@ -67,8 +63,6 @@ The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges tho
 Scorecard: Capability 9.4/10 - Versatility 7.1/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: 100W single-port plus three ports runs a whole desk, more than one MacBook Pro alone requires.
-
-What keeps it off a 10: If a single laptop is all you plug in, this is more charger than the job strictly needs.
 
 The UGREEN Nexode Pro 100W pairs full 100W output with UGREEN's GaNInfinity chip, which the company rates to take a MacBook Pro 14 from flat to 50% in around 27 minutes. The three ports cover a laptop, phone and a third accessory at once, so it can run a whole desk or travel kit from a single plug. It is the most capable charger here for a multi-device setup.
 
