@@ -20,7 +20,7 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 - ✓ Foldable UK plug and GaN build keep it travel-friendly
 
 **Cons**
-- ✗ Total wattage is shared, so charging several devices splits the available power
+- ✗ 65W covers ultrabooks, but a more demanding laptop wants a bigger plug than this
 - ✗ With two USB-C ports, a third USB-C device has to charge from the USB-A port instead
 
 **Who it's for:** Travellers who want one charger to handle a laptop, phone and a third device from a single wall socket.
