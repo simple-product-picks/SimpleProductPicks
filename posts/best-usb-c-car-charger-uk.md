@@ -72,7 +72,7 @@ UGREEN lists this car charger at 150W total with PD at 140W across four ports. T
 - ✓ Genuinely useful step up for drivers who work from a parked car between meetings
 
 **Cons**
-- ✗ 150W pushes close to or past the fuse limit on some cars (check your cigarette lighter's fuse rating)
+- ✗ With 140W going to one port, the other three share what is left of 150W
 - ✗ The largest body of the three, and it sits deeper in the socket
 
 **Who it's for:** Drivers who charge a laptop from the car, or anyone regularly powering three or four devices at once.
