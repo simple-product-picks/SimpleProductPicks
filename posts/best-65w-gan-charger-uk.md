@@ -73,7 +73,7 @@ The Anker Nano II 65W is the choice for travellers who want maximum single-port 
 
 **Cons**
 - ✗ Only one port, so it cannot charge multiple devices simultaneously
-- ✗ No USB-A port, and check the listing for whether a cable is included
+- ✗ No USB-A port, so anything still on an older lead needs a USB-C cable of its own
 
 **Who it's for:** Frequent travellers who charge one device at a time and prize the smallest footprint.
 **Who it's not for:** Households that need to charge several devices from a single wall plug.

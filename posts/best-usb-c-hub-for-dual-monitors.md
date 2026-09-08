@@ -72,7 +72,7 @@ For the most capable compact option, this Anker 7-in-1 puts two HDMI outputs on 
 - ✓ Portable 7-in-1 form that still covers a true two-screen setup
 
 **Cons**
-- ✗ Fewer card-reader and legacy ports than a full docking station
+- ✗ Two USB-A ports and one USB-C for data, where the 10-in-1 top pick also fits Ethernet and card slots
 - ✗ No Ethernet or card slots, so a fixed desk that needs them is back to a full dock
 
 **Who it's for:** Users who want true two-HDMI output in a portable form factor.

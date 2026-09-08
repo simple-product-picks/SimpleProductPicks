@@ -72,7 +72,7 @@ The UGREEN Nexode Pro 100W pairs full 100W output with UGREEN's GaNInfinity chip
 - ✓ Three ports (2x USB-C, 1x USB-A) power a laptop and two extra devices
 
 **Cons**
-- ✗ Its 100W is a single-port figure, so the laptop's share drops once a second device joins it
+- ✗ The 27-minute half-charge figure is UGREEN's own for a 14-inch MacBook Pro, not a 16-inch
 - ✗ More charger than a single-laptop user strictly needs
 
 **Who it's for:** Power users who want maximum speed and enough ports to run a whole desk or travel setup from one plug.

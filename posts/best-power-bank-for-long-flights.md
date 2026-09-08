@@ -66,7 +66,7 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: Unlike the other two picks here it has no built-in cable, so your own leads still have to go in the bag.
 
-The Prime is the flagship pick, pairing a 20100mAh cell - about 72Wh, comfortably inside cabin-baggage rules - with 220W of total output. Anker rates either USB-C port at up to 140W alone, matching the adapter Apple lists for a 16-inch MacBook Pro, and the front display shows exactly what's flowing in and out. It's built for the traveller whose seat becomes an office: laptop, tablet and phone can all draw fast charge from one brick, and the companion app mirrors the readout even when the pack's tucked in the seat pocket.
+The Prime is the flagship pick, pairing a 20100mAh cell - which Anker lists at about 72Wh, worth checking against your own airline's limit - with 220W of total output. Anker rates either USB-C port at up to 140W alone, matching the adapter Apple lists for a 16-inch MacBook Pro, and the front display shows exactly what's flowing in and out. It's built for the traveller whose seat becomes an office: laptop, tablet and phone can all draw fast charge from one brick, and the companion app mirrors the readout even when the pack's tucked in the seat pocket.
 
 **Pros**
 - ✓ 220W total output fast-charges laptops as well as phones and tablets
@@ -74,7 +74,7 @@ The Prime is the flagship pick, pairing a 20100mAh cell - about 72Wh, comfortabl
 - ✓ Display and companion app show real-time input and output
 
 **Cons**
-- ✗ Its 20100mAh cell is smaller than the 25000mAh winner's, so it runs down first on a long-haul day
+- ✗ A 20100mAh cell holds well under the 25000mAh winner's, so a laptop-and-tablet day leaves less in reserve
 - ✗ No built-in cable, unlike the other two picks here, so you must pack your own leads
 
 **Who it's for:** Multi-device travellers who want the fastest in-seat charging and a live readout of what the pack is doing.

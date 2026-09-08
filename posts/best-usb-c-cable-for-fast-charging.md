@@ -47,7 +47,7 @@ The Anker USB C to USB C Cable 100W is the value buy that doesn't skimp on the e
 
 **Cons**
 - ✗ USB 2.0 data speeds, so not the pick for fast file transfers
-- ✗ At 1.8m it is a longer lead than a bedside socket or a pocket power bank really wants
+- ✗ 100W is its ceiling, so it cannot carry the 140W-and-up charge an EPR laptop asks for
 
 **Who it's for:** Phone and tablet owners who want fast, certified charging in a tough braided lead without paying for extras.
 **Who it's not for:** People who need high-speed data transfer over the same cable.
@@ -64,7 +64,7 @@ Scorecard: Capability 10/10 - Versatility 5/10 - Build 10/10 - Value 8/10
 
 What keeps it off a 10: The full 240W only counts if your charger and device support EPR, so phone-only owners get capability they will never actually use.
 
-The Anker Prime USB C to USB C Cable 240W is what you buy when the laptop, not the phone, is the demanding one. Its 240W rating puts it in the Extended Power Range (EPR) class of USB Power Delivery, which gives it the headroom to fast-charge high-wattage laptops, docks and accessories that would max out lesser cables. The upcycled-braided nylon jacket is rated for high bend durability, keeping it tough enough for travel and constant plugging and unplugging.
+The Anker Prime USB C to USB C Cable 240W is what you buy when the laptop, not the phone, is the demanding one. Anker rates it at 240W, which puts it in the Extended Power Range (EPR) class of USB Power Delivery, which gives it the headroom to fast-charge high-wattage laptops, docks and accessories that would max out lesser cables. The upcycled-braided nylon jacket is rated for high bend durability, keeping it tough enough for travel and constant plugging and unplugging.
 
 **Pros**
 - ✓ 240W rating supports high-wattage laptops and the latest USB-PD EPR devices

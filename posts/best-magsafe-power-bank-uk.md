@@ -24,7 +24,7 @@ The MagGo is the magnetic bank that earns a place on the desk as well as in a ba
 - ✗ With the stand and the display it is the bulkiest of the three to leave snapped on a phone
 
 **Who it's for:** iPhone owners who want snap-on charging with a stand for desk, travel and video calls.
-**Who it's not for:** Anyone chasing the fastest possible wireless numbers on an iPhone 16 or 17.
+**Who it's not for:** Anyone with a handset Apple lists at 25W who wants every watt of it.
 
 [Check price](https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21)
 
@@ -72,7 +72,7 @@ The MagFlow is the pick for the newest iPhones. It carries the Qi2 25W standard,
 - ✓ Battery display plus PD 30W wired output round it out
 
 **Cons**
-- ✗ Per UGREEN's compatibility notes, the full 25W needs an iPhone 16 or 17-era handset - older models cap at 15W
+- ✗ The full 25W needs a handset Apple lists for it - an iPhone 17, or a 16 Plus or 16 Pro Max; everything older caps at 15W
 - ✗ The built-in cable can't be swapped if it frays, unlike a separate lead
 
 **Who it's for:** iPhone 17 owners, and iPhone 16 Plus and 16 Pro Max owners, whose handsets Apple lists at the full 25W.
