@@ -26,7 +26,7 @@ The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C
 - ✗ Larger and heavier than a single-port charger if you only ever charge one device
 
 **Who it's for:** Anyone with a 14-inch MacBook Pro who wants full-speed charging plus spare ports for other kit, or a 16-inch owner happy to trade top charging speed for a much smaller brick.
-**Who it's not for:** Minimalists who only charge one device and want the smallest possible plug.
+**Who it's not for:** Minimalists who charge one device and would rather carry the lightest plug they can find.
 
 [Check price](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
 
@@ -38,7 +38,7 @@ The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C
 
 Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.5/10
 
-Fit for this guide: A 13-inch MacBook Pro is covered by 65W over two USB-C ports in an ultra-compact plug.
+Fit for this guide: A 13-inch MacBook Pro sits within 65W, so this pocketable two-port plug covers it without the bulk.
 
 What keeps it off a 10: 65W falls short of what a 14-inch or 16-inch MacBook Pro can draw, and there is no USB-A port for older kit.
 
@@ -90,7 +90,7 @@ The UGREEN Nexode Pro 100W pairs full 100W output with UGREEN's GaNInfinity chip
 
 ## Quick verdict
 
-For most MacBook Pro owners the **[Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)** is the pick to beat, delivering full 100W plus a handy wattage display and spare ports. If you run a 13-inch model and want the sensible-value option, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials in a lighter package. Step up to the **[UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)** if you want the most capable all-rounder. Packing it for trips more than desks? Our [travel GaN charger guide](best-gan-charger-for-travel.html) looks at the same problem from the carry-on side.
+For most MacBook Pro owners the **[Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)** is the one to buy: full 100W, a wattage display and spare ports for a phone. Running a 13-inch model? The lighter **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** is the sensible-value route. When one plug has to run the whole desk, laptop included, the **[UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)** is the most capable of the three. Packing it for trips more than desks? Our [travel GaN charger guide](best-gan-charger-for-travel.html) looks at the same problem from the carry-on side.
 
 ## How we chose
 
@@ -101,7 +101,7 @@ A MacBook Pro charger lives or dies on a few things: total wattage matched to ea
 **Q: How many watts does my MacBook Pro need?**
 A: Apple lists a 61W adapter for the 13-inch MacBook Pro, 67W to 96W for the 14-inch, and 140W for the 16-inch. A 100W charger therefore covers the 13-inch and 14-inch at full speed, and still charges a 16-inch, just not at its fastest rate.
 
-**Q: What is a GaN charger and why does it matter?**
+**Q: Why does GaN matter in a MacBook Pro charger?**
 A: Gallium nitride switches faster and wastes less energy as heat than the silicon in older adapters, so the same wattage fits in a brick that goes in a jacket pocket. All three picks on this page use it.
 
 **Q: Do these chargers come with a cable?**

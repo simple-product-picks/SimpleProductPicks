@@ -92,11 +92,11 @@ This 8-in-1 Anker is the halfway house the hub-or-dock debate forgets: wired Eth
 
 ## Quick verdict
 
-For most people setting up a proper desk, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** is the standout, putting display, data and wired networking behind a single cable. If you want the sensible-value option that still drives a 4K monitor and charges your laptop, the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** covers the essentials neatly. Faster-data and wired-network users should look at the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)**.
+**[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** is where the docking-station camp makes its case: display, data and wired networking behind a single cable, for anyone setting up a proper desk. **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** answers for the hub camp, driving a 4K monitor and charging the laptop from something that travels light. **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)** sits between the two, adding wired networking and quicker transfers while staying hub-sized.
 
 ## How we chose
 
-We focused on the specs that actually matter for this category: the number and type of ports, display output, whether wired Ethernet is included, data transfer speed, Power Delivery passthrough, and how portable the unit is. We weighed UK home and hybrid-working setups, where one tidy cable to the laptop is often the goal, and balanced capability against sensible value. Whichever camp you land in, every pick links straight to the live Amazon UK listing so you can weigh up the current price before you buy.
+The specs that decide this category are the number and type of ports, display output, whether wired Ethernet is included, data transfer speed, Power Delivery passthrough, and how portable the unit is. We weighed UK home and hybrid-working setups, where one tidy cable to the laptop is often the goal, and balanced capability against sensible value. Whichever camp you land in, every pick links straight to the live Amazon UK listing so you can weigh up the current price before you buy.
 
 ## FAQ
 
