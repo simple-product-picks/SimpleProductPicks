@@ -47,7 +47,7 @@ The Anker USB C to USB C Cable 100W is the value buy that doesn't skimp on the e
 
 **Cons**
 - ✗ USB 2.0 data speeds, so not the pick for fast file transfers
-- ✗ Charging speed still depends on your charger and device supporting Power Delivery
+- ✗ At 1.8m it is a longer lead than a bedside socket or a pocket power bank really wants
 
 **Who it's for:** Phone and tablet owners who want fast, certified charging in a tough braided lead without paying for extras.
 **Who it's not for:** People who need high-speed data transfer over the same cable.
@@ -72,7 +72,7 @@ The Anker Prime USB C to USB C Cable 240W is what you buy when the laptop, not t
 - ✓ Upcycled-braided nylon jacket for a tougher lead
 
 **Cons**
-- ✗ The full 240W is only useful if your charger and device support EPR
+- ✗ A single lead, so there is no spare for a second room or the bag
 - ✗ More capability than a basic phone-only user actually needs
 
 **Who it's for:** Power users with high-wattage laptops or EPR-capable gear who want maximum charging headroom.
