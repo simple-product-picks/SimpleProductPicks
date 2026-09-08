@@ -6,9 +6,11 @@ Turning an iPad Pro into a proper workstation usually comes down to one accessor
 
 ### 1. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Overall
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our all-round pick.
+**SPP Score: 9.2 / 10** - 7-in-1 connectivity. Our all-round pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: An iPad Pro used as a workstation wants display, charging and cards, and 4K HDMI, 85W PD and SD cover that.
 
 What keeps it off a 10: No wired Ethernet is built in, so an iPad that needs a steady network connection has to look at another pick.
 
@@ -32,9 +34,11 @@ Connected to an iPad Pro, this Anker 7-in-1 gets the tablet closest to a desktop
 
 ### 2. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Budget
 
-**SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
+**SPP Score: 8.8 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: Wired Ethernet, 4K HDMI and an SD slot cover an iPad desk that needs a steady network connection.
 
 What keeps it off a 10: It has no 10Gbps data ports, so shifting big video files to an external SSD will feel slow.
 
@@ -58,9 +62,11 @@ The UGREEN Revodok earns its place by adding the one thing the overall pick lack
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 7.6/10
+
+Fit for this guide: Eight connections including 10Gbps ports serve an iPad only when large files are part of the job.
 
 What keeps it off a 10: Eight functions add size and weight that a casual iPad user who only wants HDMI will simply carry around.
 

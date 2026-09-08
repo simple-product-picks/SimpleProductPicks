@@ -39,7 +39,7 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want. The
 
 Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
 
-Fit for this guide: The same 20000mAh in a slim body, with 45W USB-C sized for phone and tablet charging.
+Fit for this guide: It holds the same 20000mAh in a slimmer body, and its 45W USB-C output is sized for a phone and a tablet.
 
 What keeps it off a 10: Laptops charge slowly or not at all from its 45W ceiling, and refilling the cell from empty still takes time.
 

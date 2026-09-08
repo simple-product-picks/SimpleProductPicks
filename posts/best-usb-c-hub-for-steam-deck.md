@@ -6,9 +6,11 @@ The Steam Deck has a single USB-C port, so a good hub turns it into a proper des
 
 ### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
-**SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 9.1 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: A Steam Deck on the telly wants HDMI, wired internet and charging, and this hub carries all three.
 
 What keeps it off a 10: Charging through the hub can run slightly slower than plugging the Deck's own charger straight into it.
 
@@ -33,9 +35,11 @@ This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into 
 
 ### 2. Anker USB C Hub 5-in-1 with 4K HDMI - Best Budget
 
-**SPP Score: 8.5 / 10** - 5-in-1 connectivity. Our value pick.
+**SPP Score: 8.7 / 10** - 5-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 7.8/10 - Versatility 8.7/10 - Build 9.2/10 - Value 8.7/10
+Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: HDMI TV out plus two USB-A ports handle a Deck and its controllers when Wi-Fi is fine.
 
 What keeps it off a 10: Downloads fall back on Wi-Fi with no Ethernet port here, and accessory-heavy setups can run out of USB-A.
 
@@ -60,9 +64,11 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 
 ### 3. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Premium
 
-**SPP Score: 9.4 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
+**SPP Score: 9.0 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: A 10-in-1 dock with dual HDMI suits a Deck used as a desktop rather than a TV session.
 
 What keeps it off a 10: For a Deck that only ever plugs into the telly, this dock brings more ports than that setup will use.
 
@@ -92,8 +98,6 @@ For most Steam Deck owners the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit E
 ## How we chose
 
 A Deck hub only has a few jobs, so we scored on exactly those: HDMI for TV and monitor output, USB-C power delivery to keep the Deck charged while docked, USB-A ports for controllers and peripherals, and Ethernet for stable downloads and online play. We also weighed build, portability and UK fit. Dock listings change often, so follow the links through to Amazon UK and check the live price before you plan a TV setup around one. Playing away from the mains too? Our [best power bank for Steam Deck](best-power-bank-for-steam-deck.html) guide covers charging on the move.
-
-Why the score and the badge differ: the UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) scores 9.4 to the UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet's 8.6 because a 10-in-1 dock with dual HDMI and wired Ethernet earns more on capability, but a Deck on the sofa needs one screen, a charger and a couple of ports, and the compact 7-in-1 hub does that with less to carry, so it keeps the Best Overall badge.
 
 ## FAQ
 

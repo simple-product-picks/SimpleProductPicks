@@ -6,9 +6,11 @@ The Steam Deck runs its battery down fast, so the right power bank is what turns
 
 ### 1. UGREEN Nexode Power Bank 20000mAh 145W - Best Overall
 
-**SPP Score: 8.5 / 10** - 20000mAh with a built-in USB-C cable and 145W of headroom. Our all-round pick.
+**SPP Score: 9.0 / 10** - 20000mAh with a built-in USB-C cable and 145W of headroom. Our all-round pick.
 
-Scorecard: Capability 9.6/10 - Versatility 6.9/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: A Deck session wants a pack with the cable already attached, and this one holds the 45W the Deck draws while you play.
 
 What keeps it off a 10: Its 145W output is far more than a Steam Deck's 45W draw, so on the Deck alone most of that headroom sits unused, and the built-in cable ties you to UGREEN's fixed port layout.
 
@@ -32,9 +34,11 @@ The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB
 
 ### 2. INIU Power Bank 20000mAh 65W - Best Budget
 
-**SPP Score: 9.0 / 10** - 20000mAh with 65W USB-C, comfortably more than the Deck needs. Our value pick.
+**SPP Score: 8.8 / 10** - 20000mAh with 65W USB-C, comfortably more than the Deck needs. Our value pick.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.5/10
+
+Fit for this guide: 65W USB-C covers a Deck's draw in an ultra-compact 20000mAh body, though a laptop alongside it wants more output.
 
 What keeps it off a 10: You supply your own USB-C cable here, and while 65W easily covers the Deck it falls short of what a large laptop would want from a single bank.
 
@@ -58,9 +62,11 @@ If you just want a dependable pack that charges the Deck while you play, the INI
 
 ### 3. Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C) - Best Premium
 
-**SPP Score: 9.2 / 10** - 25000mAh with two built-in retractable USB-C cables plus a third USB-C port. Our pick for maximum capability.
+**SPP Score: 8.9 / 10** - 25000mAh with two built-in retractable USB-C cables plus a third USB-C port. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: 25000mAh and three USB-C outputs suit players carrying a laptop and phone as well as the Deck.
 
 What keeps it off a 10: At 25000mAh and 165W across three ports it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use.
 
@@ -89,8 +95,6 @@ For most Steam Deck owners the **[UGREEN Nexode Power Bank 20000mAh 145W](https:
 ## How we chose
 
 A Steam Deck asks two things of a power bank: a USB-C port that can hold its 45W draw so the battery keeps filling while you play, not just idles, and enough real capacity to add meaningful hours. We looked for sustained 45W-plus output rather than headline peak figures, since a port that only touches 45W for a moment, or splits its power away the instant a second device is plugged in, won't keep a Deck going. We weighed how the cable is handled, because a lead dangling over the grips is a genuine annoyance on a handheld. If you fly, check the watt-hour figure printed on the bank before you go; airlines set their own limits. Capacity we treated as gaming hours, not just milliamp-hours: as a rough guide a 20000mAh bank holds around a full extra Deck charge, though real playtime depends on the game and screen brightness. Every link goes to the Amazon UK listing so you can check the current port wattages against your own Deck.
-
-Why the score and the badge differ: the Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C) scores 9.2 to the UGREEN Nexode Power Bank 20000mAh 145W's 8.5 because a 25000mAh cell and 165W across three outputs earn more on capability, but a Deck session wants a pack that fits beside the console, and the 20000mAh UGREEN with its 145W output and built-in cable already holds around a full extra charge, so it keeps the Best Overall badge.
 
 ## FAQ
 

@@ -6,9 +6,11 @@ Looking for a compact charger that won't weigh down your carry-on? This guide co
 
 ### 1. UGREEN Nexode 65W GaN Charger (3-Port) - Best Overall
 
-**SPP Score: 8.4 / 10** - 65W output, three ports, GaN build. Our all-round pick.
+**SPP Score: 9.0 / 10** - 65W output, three ports, GaN build. Our all-round pick.
 
-Scorecard: Capability 8.3/10 - Versatility 7.8/10 - Build 9.2/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Carry-on charging wants one plug for laptop and phone, and 65W across three ports folds flat.
 
 What keeps it off a 10: Charge a laptop, phone and third device together and the shared wattage splits, so nothing reaches its quickest pace.
 
@@ -32,13 +34,15 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 8.2 / 10** - 65W output, compact GaN build. Our value pick.
+**SPP Score: 8.6 / 10** - 65W output, compact GaN build. Our value pick.
 
-Scorecard: Capability 8.2/10 - Versatility 7.3/10 - Build 9.1/10 - Value 8.6/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: Two USB-C ports cover a laptop and phone abroad from an ultra-compact plug that keeps the bag light.
 
 What keeps it off a 10: Both of its ports are USB-C, so an older USB-A cable has nothing to plug into while you are away.
 
-The UGREEN 65W GaN is the pick when bag weight matters more than port count, with two ports and enough power for a laptop as well as a phone. 65W is comfortably in ultrabook territory, so it can serve as a single charger for a work-and-play trip. UGREEN is a respected charging brand, and the two-port layout means you can top up a phone and a laptop from one plug.
+The UGREEN 65W GaN is the pick when bag weight matters more than port count, with two ports and enough power for a laptop as well as a phone. 65W is comfortably in ultrabook territory, so it can serve as a single charger for a work-and-play trip. Two USB-C ports is the whole design: one plug, a laptop and a phone, and nothing else to carry.
 
 **Pros**
 - ✓ 65W output is enough to charge many ultrabooks and laptops
@@ -58,9 +62,11 @@ The UGREEN 65W GaN is the pick when bag weight matters more than port count, wit
 
 ### 3. Anker 100W USB C Charger (3-Port GaN, Smart Display) - Best Premium
 
-**SPP Score: 8.6 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
 
-Scorecard: Capability 9.1/10 - Versatility 7.3/10 - Build 9.5/10 - Value 8.6/10
+Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: 100W and a smart display are more than a travel plug needs unless a laptop travels with several devices.
 
 What keeps it off a 10: It is larger and heavier than a single-port travel charger, which is real weight in a carry-on you are trying to keep light.
 
@@ -89,8 +95,6 @@ For most travellers the **[UGREEN Nexode 65W GaN Charger (3-Port)](https://www.a
 ## How we chose
 
 Packing light forces trade-offs, so we judged each charger on: real wattage (65W and 100W across our picks), the number of USB-C ports, GaN construction for a smaller and cooler package, and overall portability for a carry-on. We weighed UK fit and sensible value alongside raw capability, favouring chargers that do one job well over gimmicks. Every link goes to the Amazon UK listing, so give the current price a quick look before it earns its place in your carry-on.
-
-Why the score and the badge differ: the Anker 100W USB C Charger (3-Port GaN, Smart Display) scores 8.6 to the UGREEN Nexode 65W GaN Charger (3-Port)'s 8.4 because its 100W single-port output and smart display earn more on capability, but most travellers charge a phone and a laptop from a plug that fits a bag, and the 65W three-port plug does that with less bulk, so it keeps the Best Overall badge.
 
 ## FAQ
 

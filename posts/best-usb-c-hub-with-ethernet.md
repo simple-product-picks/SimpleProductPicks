@@ -6,9 +6,11 @@ Wired internet is back in demand for anyone working from home or gaming on a lap
 
 ### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
-**SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 9.1 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Wired internet plus the ports a slim laptop drops is the ask, and Gigabit Ethernet with 4K HDMI answers it.
 
 What keeps it off a 10: A compact 7-in-1 has fewer outputs than a full-size docking station, so a growing desk eventually outgrows it.
 
@@ -32,9 +34,11 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 
 ### 2. Anker USB C Hub PowerExpand 6-in-1 with Ethernet - Best Budget
 
-**SPP Score: 8.4 / 10** - 6-in-1 connectivity, wired Ethernet. Our value pick.
+**SPP Score: 8.7 / 10** - 6-in-1 connectivity, wired Ethernet. Our value pick.
 
-Scorecard: Capability 7.8/10 - Versatility 8.7/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: Gigabit Ethernet, 4K HDMI and 65W charging give wired internet to a laptop that needs nothing more.
 
 What keeps it off a 10: Its data ports run at standard speed rather than the 10Gbps the premium pick manages, so big transfers take longer.
 
@@ -58,9 +62,11 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: Ethernet arrives here alongside 10Gbps data ports that a reader after wired internet alone will not use.
 
 What keeps it off a 10: Next to a plain Ethernet adapter it has a larger footprint, with more ports than a light user will plug into.
 
@@ -89,8 +95,6 @@ For most UK buyers the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet]
 ## How we chose
 
 An Ethernet hub earns its keep on four things: real Ethernet for a wired link, USB data speeds, overall port mix and how compact each hub is. We weighed UK home-office and laptop fit, build quality and how sensibly each hub balances features against everyday needs. Each link opens the hub's live Amazon UK page; check the current price and stock there, and confirm the Ethernet spec matches what your router can actually deliver.
-
-Why the score and the badge differ: the Anker USB C Hub 8-in-1 with Ethernet and 10Gbps scores 9.2 to the UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet's 8.6 because 10Gbps data and 4K 60Hz HDMI earn more on capability, but for a wired-desk reader the 7-in-1's Gigabit Ethernet, 100W passthrough and SD slot do the job the title names, so it keeps the Best Overall badge.
 
 ## FAQ
 

@@ -6,9 +6,11 @@ Running two external displays from a single USB-C port is one of the most useful
 
 ### 1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Overall
 
-**SPP Score: 9.4 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 9.5 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Two screens from one port is the question here, and dual 4K at 60Hz HDMI answers it directly.
 
 What keeps it off a 10: Whether both screens actually light up still depends on your laptop's own USB-C video support, so check that first.
 
@@ -32,9 +34,11 @@ The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.8 / 10** - 7-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.5/10
+
+Fit for this guide: A dual-monitor desk fits this hub when the second screen takes USB-C video, as its own listing states.
 
 What keeps it off a 10: For a two-monitor desk the second screen has to come over USB-C, because only one HDMI port is on board.
 
@@ -58,9 +62,11 @@ This Anker 7-in-1 is the budget route to two screens, with one catch: the second
 
 ### 3. Anker 7-in-1 USB C Hub Dual Monitor (2x HDMI, 100W PD) - Best Premium
 
-**SPP Score: 8.8 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 8.7/10 - Versatility 9.2/10 - Build 9.2/10 - Value 8.3/10
+Scorecard: Capability 8.9/10 - Versatility 9.4/10 - Build 9.4/10 - Value 8.5/10 - Fit 8.0/10
+
+Fit for this guide: Two HDMI outputs and 100W charging cover a two-screen desk that does not need Ethernet or card slots.
 
 What keeps it off a 10: Card slots and Ethernet are missing here, so a fixed desk that needs them wants a full docking station.
 

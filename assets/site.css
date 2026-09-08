@@ -164,6 +164,9 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 .trust-item::before { color: var(--green); font-size: 14px; }
 
 .hero-img { box-shadow: var(--shadow-md); }
+/* 2026-09-08: one-line attribution under a Creative Commons hero (Wikimedia Commons pool) */
+.hero-credit { font-size: 12px; color: var(--muted); margin: 6px 0 0; text-align: right; }
+.hero-credit a { color: var(--muted); text-decoration: underline; }
 
 /* Two-column editorial hero on wide screens: text left, category image right */
 @media (min-width: 861px) {
@@ -552,6 +555,13 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
   border-left: 3px solid var(--cta);
 }
 .spp-off-ten b { color: var(--text); font-weight: 700; }
+/* -- "Fit for this guide" line (2026-09-08, option B: the fifth mark's printed reason) -- */
+.spp-fit {
+  font-size: 15px; color: var(--muted);
+  margin: 0 0 8px; padding-left: 12px;
+  border-left: 3px solid var(--border-mid);
+}
+.spp-fit b { color: var(--text); font-weight: 700; }
 .hands-on {
   position: relative; display: inline-flex; align-items: center; gap: 5px;
   margin-left: 8px; padding: 2px 9px; border-radius: 999px;

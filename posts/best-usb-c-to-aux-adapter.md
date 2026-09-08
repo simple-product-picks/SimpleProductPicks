@@ -6,9 +6,11 @@ Switching to a phone or laptop without a headphone socket means you need a relia
 
 ### 1. UGREEN USB C to 3.5mm Audio Adapter - Best Overall
 
-**SPP Score: 8.2 / 10** - USB-C to 3.5mm with a Hi-Fi stereo DAC. Our all-round pick.
+**SPP Score: 8.8 / 10** - USB-C to 3.5mm with a Hi-Fi stereo DAC. Our all-round pick.
 
-Scorecard: Capability 8.3/10 - Versatility 7.4/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Wired earphones need a working 3.5mm socket back, and this adapter has a DAC UGREEN rates at 24bit/96kHz.
 
 What keeps it off a 10: There is no charging pass-through, so listening ties up the port, and compatibility with some manufacturers' ports can vary enough to be worth confirming.
 
@@ -32,9 +34,11 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 ### 2. Apple USB-C to 3.5mm Headphone Jack Adapter - Best Budget
 
-**SPP Score: 8.5 / 10** - The plainest route to a respected DAC. Our value pick.
+**SPP Score: 8.6 / 10** - The plainest route to a respected DAC. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: An Apple-designed inline DAC in a one-piece moulded dongle returns the headphone jack with nothing to set up.
 
 What keeps it off a 10: Nothing sits on the cable itself, so calls, volume and track skips all happen on the phone, and it is easy to lose.
 
@@ -60,7 +64,9 @@ The budget slot goes to the least glamorous product Apple makes, and it's earned
 
 **SPP Score: 8.3 / 10** - Hi-Res 32bit/384kHz DAC in a braided aluminium build. Our pick for maximum capability.
 
-Scorecard: Capability 8.3/10 - Versatility 7.4/10 - Build 9.2/10 - Value 8.3/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.5/10 - Fit 8.0/10
+
+Fit for this guide: A 32bit/384kHz DAC with mic and in-line control support fits listeners bringing hi-res or lossless sources.
 
 What keeps it off a 10: Feed it standard streaming or everyday earbuds and you may not hear what the higher-spec conversion adds over the overall pick.
 

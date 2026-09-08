@@ -6,9 +6,11 @@ It's easy to buy a USB-C hub with far more ports than you'll ever plug into. The
 
 ### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
-**SPP Score: 8.6 / 10** - Ethernet and 4K HDMI in a 7-in-1. Our all-round pick.
+**SPP Score: 9.1 / 10** - Ethernet and 4K HDMI in a 7-in-1. Our all-round pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Most laptops need a screen, wired internet and a few USB-A ports, and this 7-in-1 covers exactly that.
 
 What keeps it off a 10: One HDMI output means a single external screen, so a two-monitor desk needs the bigger dock instead.
 
@@ -24,7 +26,7 @@ Seven ports is the count that covers most laptop desks, and this UGREEN spreads 
 - ✗ No microSD slot alongside the full-size SD reader
 
 **Who it's for:** Anyone who wants the everyday essentials, wired internet included, in one hub that isn't oversized.
-**Who it's not for:** People running two monitors, and anyone who only ever plugs in a single screen and doesn't need the rest of it.
+**Who it's not for:** People running two monitors, and anyone whose desk is one screen and nothing else, who would be paying for ports they never fill.
 
 [Check price](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
 
@@ -32,9 +34,11 @@ Seven ports is the count that covers most laptop desks, and this UGREEN spreads 
 
 ### 2. Anker USB C Hub 5-in-1 with 4K HDMI - Best Budget
 
-**SPP Score: 8.5 / 10** - The honest 5-in-1 for people who don't need the extras. Our value pick.
+**SPP Score: 8.7 / 10** - The honest 5-in-1 for people who don't need the extras. Our value pick.
 
-Scorecard: Capability 7.8/10 - Versatility 8.7/10 - Build 9.2/10 - Value 8.7/10
+Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: A 5-in-1 with 4K HDMI and two USB-A ports fits a desk that plugs in nothing else.
 
 What keeps it off a 10: There is no SD or microSD reader, so offloading camera cards means a separate reader or a bigger hub.
 
@@ -58,9 +62,11 @@ If your desk is really just a monitor, a couple of USB accessories and the lapto
 
 ### 3. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Premium
 
-**SPP Score: 9.4 / 10** - A 10-in-1 dock that runs the whole desk. Our pick for maximum capability.
+**SPP Score: 9.0 / 10** - A 10-in-1 dock that runs the whole desk. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: A 10-in-1 dock with two HDMI outputs and Ethernet is more hub than a single-screen desk fills.
 
 What keeps it off a 10: Both display outputs are HDMI, so a DisplayPort monitor needs an adapter before it will work with this dock.
 
@@ -101,8 +107,6 @@ The three above cover most people, but if your laptop or use case is specific, w
 ## How we chose
 
 We started from the ports people genuinely use day to day, not the longest spec list. A hub earns its place by covering a real setup, so we weighed display output, pass-through charging wattage, whether wired Ethernet is on board, how many USB-A ports and card slots you get, and each brand's record on build. Brand claims like wattage and dual-4K support are taken from the makers' own listings, and we say so where it matters. The thread running through all three picks is simple: an unused socket isn't a feature, it's just bulk. Choose the tier that matches your desk and leave the headroom to the people who need it.
-
-Why the score and the badge differ: on the rubric the UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) reaches 9.4 against 8.6 for the UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet, since two HDMI outputs, wired Ethernet and a 100W passthrough add up to more capability. Most people reading a general hub guide want a screen, a charger and a few ports from something that lives in a laptop sleeve, and that is the 7-in-1 - which is why the badge stays with it.
 
 ## FAQ
 

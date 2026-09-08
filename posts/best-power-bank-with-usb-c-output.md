@@ -66,7 +66,7 @@ The Anker Zolo Power Bank 10000mAh 30W covers the essentials without the bulk. I
 
 Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
-Fit for this guide: 220W total, with 140W from one USB-C port, is more output than most readers of this guide need.
+Fit for this guide: 220W total, with 140W from one USB-C port, is past what most readers need but suits a big laptop and phone from one pack.
 
 What keeps it off a 10: Size and output are overkill if you only ever top up a phone, and travelling light is not what this pack is for.
 

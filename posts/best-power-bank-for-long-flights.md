@@ -6,7 +6,7 @@ Long-haul travel drains devices fast, and most aircraft seats give you nothing r
 
 ### 1. Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C) - Best Overall
 
-**SPP Score: 9.4 / 10** - 25000mAh with triple 100W USB-C and built-in retractable cables. Our all-round pick.
+**SPP Score: 9.4 / 10** - 25000mAh with 165W across three USB-C outputs and built-in retractable cables. Our all-round pick.
 
 Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10 - Fit 9.8/10
 
@@ -68,7 +68,7 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 
 Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
-Fit for this guide: 220W total and app control go beyond one flight's charging, though 72Wh keeps it airline-safe.
+Fit for this guide: 220W total and app control go beyond one flight's charging, though at 72Wh it sits under the limit most airlines set.
 
 What keeps it off a 10: Unlike the other two picks here it has no built-in cable, so your own leads still have to go in the bag.
 

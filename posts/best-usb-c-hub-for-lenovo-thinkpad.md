@@ -10,7 +10,7 @@ Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB
 
 Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
 
-Fit for this guide: A ThinkPad desk wants one dock for everything, and 10-in-1 with dual HDMI, Ethernet and 100W charging delivers
+Fit for this guide: A ThinkPad desk wants one dock for everything, and 10-in-1 with dual HDMI, Ethernet and 100W charging delivers.
 
 What keeps it off a 10: A 10-in-1 dock is larger and less pocketable than a travel hub, so a ThinkPad that lives in a bag wants something smaller.
 
@@ -38,7 +38,7 @@ The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a
 
 Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
 
-Fit for this guide: One 4K HDMI output, USB-A and card slots suit a ThinkPad running a single external screen
+Fit for this guide: One 4K HDMI output, USB-A and card slots suit a ThinkPad running a single external screen.
 
 What keeps it off a 10: A single HDMI output rules it out for anyone running two ThinkPad monitors from one cable.
 
@@ -66,7 +66,7 @@ This Anker 7-in-1 hub is the sensible-value choice that covers the essentials wi
 
 Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
-Fit for this guide: Ethernet and 10Gbps ports go past what a ThinkPad with a mouse and one screen asks for
+Fit for this guide: Ethernet and 10Gbps ports go past what a ThinkPad with a mouse and one screen asks for.
 
 What keeps it off a 10: Its lone HDMI output caps you at one screen, the trade for a compact hub with fewer total connections.
 

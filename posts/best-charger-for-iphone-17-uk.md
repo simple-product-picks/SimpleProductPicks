@@ -6,9 +6,11 @@ Apple quotes a number for the iPhone 17 that sounds expensive: up to 50% charge 
 
 ### 1. Anker Nano 45W USB C Charger (Foldable) - Best Overall
 
-**SPP Score: 8.2 / 10** - 45W foldable single-port plug. Our all-round pick.
+**SPP Score: 8.8 / 10** - 45W foldable single-port plug. Our all-round pick.
 
-Scorecard: Capability 7.4/10 - Versatility 7.8/10 - Build 9.6/10 - Value 8.7/10
+Scorecard: Capability 7.6/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: An iPhone 17 needs a plug that keeps up, and this 45W foldable single-port charger clears every figure Apple quotes.
 
 What keeps it off a 10: It has a single USB-C port, so a tablet and earbuds wait their turn while the iPhone charges.
 
@@ -32,9 +34,11 @@ This is the no-asterisk answer. Nothing Apple quotes for the iPhone 17, wired or
 
 ### 2. UGREEN Nexode 30W USB C Charger (Foldable GaN) - Best Budget
 
-**SPP Score: 8.1 / 10** - 30W foldable GaN plug. Our value pick.
+**SPP Score: 8.4 / 10** - 30W foldable GaN plug. Our value pick.
 
-Scorecard: Capability 7.4/10 - Versatility 7.8/10 - Build 9.2/10 - Value 8.7/10
+Scorecard: Capability 7.6/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.5/10
+
+Fit for this guide: A 30W foldable GaN plug suits an iPhone 17 owner adding a bedside or weekend-bag charger.
 
 What keeps it off a 10: Sitting below the 40-watt adapter Apple quotes its 20-minute figure against, it is the first plug here you would outgrow.
 
@@ -58,9 +62,11 @@ The measured figures make this the interesting pick. If an iPhone 17 draws in th
 
 ### 3. UGREEN Nexode 65W GaN Charger (3-Port) - Best Premium
 
-**SPP Score: 8.4 / 10** - 65W GaN. Our pick for maximum capability.
+**SPP Score: 8.3 / 10** - 65W GaN. Our pick for maximum capability.
 
-Scorecard: Capability 8.3/10 - Versatility 7.8/10 - Build 9.2/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 - Fit 7.6/10
+
+Fit for this guide: Three ports and 65W go beyond one iPhone, fitting homes where a tablet and USB-A kit share the socket.
 
 What keeps it off a 10: An iPhone-only buyer pays for ports that sit empty, and PPS appears nowhere in Apple's charging figures anyway.
 

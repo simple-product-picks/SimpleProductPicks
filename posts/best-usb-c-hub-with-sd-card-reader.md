@@ -6,9 +6,11 @@ If you shoot photos, edit on the move, or just want one tidy adapter that handle
 
 ### 1. UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader - Best Overall
 
-**SPP Score: 8.9 / 10** - 8-in-1 connectivity, high-speed data. Our all-round pick.
+**SPP Score: 9.3 / 10** - 8-in-1 connectivity, high-speed data. Our all-round pick.
 
-Scorecard: Capability 9.2/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Card work is the point of this guide, and a 170MB/s SD and microSD reader sits on this hub.
 
 What keeps it off a 10: There is no Ethernet port, so a wired desk connection still needs a separate adapter alongside this hub.
 
@@ -33,9 +35,11 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 ### 2. Anker 547 USB C Hub (7-in-2) for MacBook with SD Card - Best Budget
 
-**SPP Score: 8.8 / 10** - 7-in-2 connectivity, high-speed data. Our value pick.
+**SPP Score: 9.0 / 10** - 7-in-2 connectivity, high-speed data. Our value pick.
 
-Scorecard: Capability 9.1/10 - Versatility 8.6/10 - Build 8.6/10 - Value 8.6/10
+Scorecard: Capability 9.4/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: SD and microSD slots with 4K HDMI and 100W charging cover card imports on a MacBook desk.
 
 What keeps it off a 10: The dual-plug body needs adjacent USB-C ports on the host, so a single-port Windows laptop is the wrong home for it.
 
@@ -60,9 +64,11 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: It carries SD and microSD alongside Ethernet and 10Gbps ports that a card reader guide does not require.
 
 What keeps it off a 10: If you live on Wi-Fi, the Ethernet port only adds bulk to something meant to travel light.
 

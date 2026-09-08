@@ -3,6 +3,8 @@
 All images sourced from Pexels (https://www.pexels.com/license/).
 Pexels License: free for commercial use, no attribution required, no permission needed.
 Cropped to 1200x630 and lightly adjusted for the site. Record kept for provenance.
+Exception: a line ending in [Wikimedia Commons, <licence>, <url>] is a Creative Commons photo; its author
+and licence are credited on the page under the hero as well as here (2026-09-08).
 
 chargers.jpg    ready made   https://www.pexels.com/photo/white-and-black-adapter-on-white-surface-3921710/
 hubs.jpg        Kaboompics.com   https://www.pexels.com/photo/laptop-with-type-c-adapter-with-plugged-usb-cable-4195408/
@@ -44,4 +46,4 @@ posts/best-usb-c-to-aux-adapter.jpg  Jess Bailey Designs  https://www.pexels.com
 posts/best-usb-c-to-displayport-adapter.jpg  Caleb Oquendo  https://www.pexels.com/photo/crop-hand-with-flash-drive-7772543/
 posts/best-usb-c-to-hdmi-adapter.jpg  Srattha Nualsate  https://www.pexels.com/photo/close-up-shot-of-an-hdmi-cable-12997230/
 posts/qi2-vs-magsafe-explained.jpg  Mateusz Haberny  https://www.pexels.com/photo/magsafe-iphone-stand-oakywood-19238582/
-posts/usb-c-hub-vs-docking-station.jpg  Pramod  Tiwari  https://www.pexels.com/photo/a-minimalist-workspace-14016665/
+posts/usb-c-hub-vs-docking-station.jpg  Munzimus_Octavius  https://commons.wikimedia.org/wiki/File:SurfaceDock.jpg  [Wikimedia Commons, CC BY 4.0, https://creativecommons.org/licenses/by/4.0]

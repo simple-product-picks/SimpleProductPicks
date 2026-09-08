@@ -6,9 +6,11 @@ Finding the right charger for a MacBook Pro means matching the wattage to your m
 
 ### 1. Anker 100W USB C Charger (3-Port GaN, Smart Display) - Best Overall
 
-**SPP Score: 8.6 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
+**SPP Score: 9.2 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
 
-Scorecard: Capability 9.1/10 - Versatility 7.3/10 - Build 9.5/10 - Value 8.6/10
+Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: A MacBook Pro wants matching wattage in a plug you can carry, and this GaN charger delivers 100W from a single port.
 
 What keeps it off a 10: The 100W is a single-port figure, so plugging anything else into it drops what the MacBook Pro gets.
 
@@ -32,9 +34,11 @@ The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 8.2 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+**SPP Score: 8.5 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
-Scorecard: Capability 8.2/10 - Versatility 7.3/10 - Build 9.1/10 - Value 8.6/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.5/10
+
+Fit for this guide: A 13-inch MacBook Pro is covered by 65W over two USB-C ports in an ultra-compact plug.
 
 What keeps it off a 10: 65W falls short of what a 14-inch or 16-inch MacBook Pro can draw, and there is no USB-A port for older kit.
 
@@ -58,9 +62,11 @@ The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges tho
 
 ### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
-**SPP Score: 8.3 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 9.1/10 - Versatility 6.8/10 - Build 8.6/10 - Value 8.6/10
+Scorecard: Capability 9.4/10 - Versatility 7.1/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: 100W single-port plus three ports runs a whole desk, more than one MacBook Pro alone requires.
 
 What keeps it off a 10: If a single laptop is all you plug in, this is more charger than the job strictly needs.
 

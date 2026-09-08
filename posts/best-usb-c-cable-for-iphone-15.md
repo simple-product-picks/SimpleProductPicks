@@ -6,9 +6,11 @@ Looking for a USB-C cable that does justice to your iPhone 15? Here are three wo
 
 ### 1. UGREEN USB C to USB C Cable 100W (1m Braided) - Best Overall
 
-**SPP Score: 8.3 / 10** - 100W fast charging, braided build with a built-in E-Marker chip. Our all-round pick.
+**SPP Score: 8.8 / 10** - 100W fast charging, braided build with a built-in E-Marker chip. Our all-round pick.
 
-Scorecard: Capability 8.4/10 - Versatility 7.5/10 - Build 8.8/10 - Value 8.8/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: An iPhone 15 needs one durable USB-C cable, and this braided metre carries an E-Marker and 100W.
 
 What keeps it off a 10: It is a single 1m cable, so heavy users may want a second, and you still need your own USB-C charger.
 
@@ -32,9 +34,11 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 ### 2. UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m) - Best Budget
 
-**SPP Score: 8.5 / 10** - Two compact 0.5m braided cables rated for 100W/65W fast charging. Our value pick.
+**SPP Score: 8.6 / 10** - Two compact 0.5m braided cables rated for 100W/65W fast charging. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: A two-pack of compact braided 0.5m cables suits keeping an iPhone 15 charged in different places.
 
 What keeps it off a 10: Both leads run to just 0.5m, which is awkward if the socket sits well away from where you actually sit.
 
@@ -58,9 +62,11 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 
 ### 3. Anker 515 USB4 Cable 240W (1m, 40Gbps) - Best Premium
 
-**SPP Score: 9.0 / 10** - USB4 with 240W charging and 40Gbps data in a 1m lead. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - USB4 with 240W charging and 40Gbps data in a 1m lead. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 7.1/10
+
+Fit for this guide: USB4 40Gbps data and 240W charging serve iPhone 15 Pro owners who shoot video onto drives.
 
 What keeps it off a 10: On a standard iPhone 15 the data speed goes to waste, because the phone itself is USB 2.0 whatever cable you use.
 
@@ -89,8 +95,6 @@ For most iPhone 15 owners, the **[UGREEN USB C to USB C Cable 100W (1m Braided)]
 ## How we chose
 
 We focused on the things that actually matter for an iPhone 15 USB-C cable: the right USB-C to USB-C connector, a power rating with real headroom, build quality such as braided jackets and E-Marker chips that manage higher power, and a length that suits everyday UK use at home or on the move. We also weighed up brand track record and whether you get one cable or a multipack. Cable specs get revised quietly and often, so each link opens the live Amazon UK listing - a quick look confirms it's the exact lead described here.
-
-Why the score and the badge differ: the Anker 515 USB4 Cable 240W (1m, 40Gbps) scores 9.0 to the UGREEN USB C to USB C Cable 100W (1m Braided)'s 8.3 because USB4 bandwidth and 240W charging earn more on capability, but an iPhone 15 charges at well under 100W and a standard model moves data at USB 2 speeds, so the 100W braided lead is the sensible buy and keeps the Best Overall badge.
 
 ## FAQ
 

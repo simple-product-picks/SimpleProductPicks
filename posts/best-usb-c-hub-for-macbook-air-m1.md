@@ -6,9 +6,11 @@ The MacBook Air M1 is a brilliant machine, but Apple gives it two Thunderbolt / 
 
 ### 1. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Overall
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our all-round pick.
+**SPP Score: 9.2 / 10** - 7-in-1 connectivity. Our all-round pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: An M1 Air has two Thunderbolt ports, and this hub returns 4K HDMI, two USB-A and card slots.
 
 What keeps it off a 10: It is slightly bulkier than a single-port adapter to carry around, which counts if the hub lives in your bag.
 
@@ -32,9 +34,11 @@ The M1 Air's own USB-C ports are scarce and one usually goes to the charger; thi
 
 ### 2. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Budget
 
-**SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
+**SPP Score: 8.8 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: It adds wired Ethernet and three USB-A ports to an M1 Air for readers who want the ports without extras.
 
 What keeps it off a 10: Only the full-size SD slot is on board, so microSD cards need a reader of their own.
 
@@ -58,9 +62,11 @@ Desk-bound Air owners should start here: the UGREEN Revodok trades the overall p
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 7.6/10
+
+Fit for this guide: 10Gbps data and Ethernet are more than an M1 Air needs for a screen and one USB-A device.
 
 What keeps it off a 10: If your desk only needs a display and one USB-A port, this is far more hub than the job asks.
 

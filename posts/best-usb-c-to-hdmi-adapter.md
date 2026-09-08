@@ -6,9 +6,11 @@ HDMI is the port TVs, projectors and meeting-room screens actually have, so a US
 
 ### 1. Anker USB-C to HDMI Cable 4K@60Hz (0.9m) - Best Overall
 
-**SPP Score: 8.9 / 10** - 4K at 60Hz over a single 0.9m braided lead. Our all-round pick.
+**SPP Score: 9.1 / 10** - 4K at 60Hz over a single 0.9m braided lead. Our all-round pick.
 
-Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10
+Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Getting a laptop onto a TV or projector is the whole job, and this 0.9m cable does 4K at 60Hz.
 
 What keeps it off a 10: HDMI output is the whole job here: no extra USB or card-reader ports, and your device has to charge separately.
 
@@ -34,7 +36,9 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 
 **SPP Score: 8.7 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
 
-Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: The same 4K at 60Hz output arrives as an adapter with an aluminium shell for your own HDMI lead.
 
 What keeps it off a 10: It is a single-purpose adapter, so it will not replace a full docking hub or add the USB ports a bigger dongle brings.
 
@@ -58,9 +62,11 @@ The UGREEN USB C to HDMI Adapter is the no-frills option that still covers the s
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 9.2 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: HDMI here comes with Ethernet, card slots and 10Gbps ports that a reader after one screen skips.
 
 What keeps it off a 10: Bulkier and heavier than a plain HDMI adapter, and most of its port list goes unused if HDMI is all you need.
 

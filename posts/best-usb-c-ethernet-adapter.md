@@ -6,9 +6,11 @@ Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapt
 
 ### 1. UGREEN USB C to 2.5G Ethernet Adapter - Best Overall
 
-**SPP Score: 8.6 / 10** - 2.5Gbps wired Ethernet over a single USB-C connector, plug-and-play. Our all-round pick.
+**SPP Score: 9.0 / 10** - 2.5Gbps wired Ethernet over a single USB-C connector, plug-and-play. Our all-round pick.
 
-Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10
+Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: A wired connection is the whole job here, and 2.5Gbps over one USB-C to RJ45 lead covers it.
 
 What keeps it off a 10: That 2.5G ceiling counts for nothing unless your broadband and network support it, and there are no hub ports or pass-through power.
 
@@ -32,9 +34,11 @@ UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter i
 
 ### 2. Amazon Basics USB-C to Gigabit Ethernet Adapter - Best Budget
 
-**SPP Score: 8.4 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
+**SPP Score: 8.6 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
 
-Scorecard: Capability 8.4/10 - Versatility 7.9/10 - Build 8.8/10 - Value 8.8/10
+Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: Gigabit over a plug-and-play USB-C to RJ45 dongle answers the guide for anyone on ordinary UK broadband.
 
 What keeps it off a 10: Gigabit is the ceiling, so a multi-gig line or a fast local network will leave this adapter behind.
 
@@ -58,9 +62,11 @@ The sensible-value choice that covers the essentials without any extras you don'
 
 ### 3. UGREEN USB C to 5G Ethernet Adapter - Best Premium
 
-**SPP Score: 8.8 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
+**SPP Score: 8.5 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: 5Gbps wired speed fits a multi-gigabit line, which is a smaller share of readers than a plain adapter serves.
 
 What keeps it off a 10: Unless your line and local network are genuinely multi-gigabit, 5G gains you no extra speed, and extra USB ports still need a separate hub.
 

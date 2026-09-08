@@ -6,9 +6,11 @@ A magnetic power bank snaps onto the back of an iPhone and charges it with no ca
 
 ### 1. Anker MagGo Power Bank 10000mAh Qi2 15W - Best Overall
 
-**SPP Score: 8.7 / 10** - Qi2 15W wireless with a foldable stand and live display. Our all-round pick.
+**SPP Score: 9.0 / 10** - Qi2 15W wireless with a foldable stand and live display. Our all-round pick.
 
-Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10
+Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: This guide wants genuine Qi2 speed, and this one is rated for the full 15W, with 10000mAh and a foldable stand behind it.
 
 What keeps it off a 10: Wireless charging stops at 15W here, so an iPhone in the 17 line, or a 16 Plus or 16 Pro Max, that could take the newer 25W class goes no faster.
 
@@ -32,9 +34,11 @@ The MagGo is the magnetic bank that earns a place on the desk as well as in a ba
 
 ### 2. INIU Slimmest Power Bank 5000mAh Qi2 15W - Best Budget
 
-**SPP Score: 8.1 / 10** - Qi2 15W in the smallest, lightest pack here. Our value pick.
+**SPP Score: 8.3 / 10** - Qi2 15W in the smallest, lightest pack here. Our value pick.
 
-Scorecard: Capability 7.1/10 - Versatility 8.5/10 - Build 8.9/10 - Value 8.5/10
+Scorecard: Capability 7.1/10 - Versatility 8.5/10 - Build 8.9/10 - Value 8.5/10 - Fit 8.9/10
+
+Fit for this guide: Qi2-certified 15W magnetic charging in an ultra-slim 5000mAh body fits readers wanting daily snap-on charging.
 
 What keeps it off a 10: At 5000mAh you get roughly one fast top-up, so heavy users needing a full charge in reserve should size up.
 
@@ -58,9 +62,11 @@ The budget route into real Qi2 is also the one you'll forget you're carrying: a 
 
 ### 3. UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable) - Best Premium
 
-**SPP Score: 8.5 / 10** - Qi2 25W wireless with a built-in USB-C cable and battery display. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - Qi2 25W wireless with a built-in USB-C cable and battery display. Our pick for maximum capability.
 
-Scorecard: Capability 8.4/10 - Versatility 8.8/10 - Build 8.4/10 - Value 8.4/10
+Scorecard: Capability 8.5/10 - Versatility 8.9/10 - Build 8.5/10 - Value 8.5/10 - Fit 8.5/10
+
+Fit for this guide: Handsets Apple lists at 25W get the full magnetic speed here, from Qi2 25W and a built-in cable.
 
 What keeps it off a 10: Its built-in cable cannot be swapped if it frays, and older iPhones cap the magnetic charging at 15W rather than the full 25W.
 

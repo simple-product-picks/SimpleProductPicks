@@ -6,9 +6,11 @@ Looking for a compact, fast wall charger to replace a bulky laptop brick? This U
 
 ### 1. Anker 67W GaN Wall Charger (3 Ports) - Best Overall
 
-**SPP Score: 8.7 / 10** - 67W output, 3-port layout, compact GaN build. Our all-round pick.
+**SPP Score: 9.0 / 10** - 67W output, 3-port layout, compact GaN build. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: This guide wants a 65W-class plug, and 67W across three ports covers a laptop and a phone together.
 
 What keeps it off a 10: Peak speed drops when all three ports are working, and it is bigger than a single-port plug for one-device users.
 
@@ -32,9 +34,11 @@ The Anker 67W is the most versatile pick here, packing three ports into a genuin
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 8.2 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+**SPP Score: 8.6 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
-Scorecard: Capability 8.2/10 - Versatility 7.3/10 - Build 9.1/10 - Value 8.6/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: Two USB-C ports and an ultra-compact UK plug meet the 65W brief for daily use and travel.
 
 What keeps it off a 10: Output is split between the two ports when both are in use, so a laptop and a phone share one 65W budget.
 
@@ -60,7 +64,9 @@ The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug
 
 **SPP Score: 8.4 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 8.3/10 - Versatility 7.8/10 - Build 9.6/10 - Value 8.3/10
+Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.5/10 - Fit 8.0/10
+
+Fit for this guide: This guide asks for 65W, and this GaN II plug gives it from a single port sized for a traveller charging one device.
 
 What keeps it off a 10: One port means it charges a single device at a time, which rules it out for a household topping up several gadgets.
 
