@@ -6,9 +6,11 @@ Long-haul travel drains devices fast, and most aircraft seats give you nothing r
 
 ### 1. Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C) - Best Overall
 
-**SPP Score: 9.2 / 10** - 25000mAh with triple 100W USB-C and built-in retractable cables. Our all-round pick.
+**SPP Score: 9.4 / 10** - 25000mAh with triple 100W USB-C and built-in retractable cables. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: A long-haul bag wants one pack for laptop, phone and tablet, and 25000mAh spans three USB-C outputs.
 
 What keeps it off a 10: Being a 25000mAh battery it is heavier than a slim travel pack, and you must confirm your airline's watt-hour rules before flying.
 
@@ -34,9 +36,11 @@ With a 25000mAh capacity, this Anker is sized to recharge most phones several ti
 
 ### 2. Anker Power Bank 20000mAh 87W (Built-in Cable) - Best Budget
 
-**SPP Score: 8.8 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
+**SPP Score: 9.0 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
 
-Scorecard: Capability 9.6/10 - Versatility 7.8/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: Laptop-capable 87W and a built-in USB-C cable cover a flight from a 20000mAh pack.
 
 What keeps it off a 10: At 87W it sits below the highest-wattage packs, which counts for the most power-hungry laptops but not for a phone or tablet.
 
@@ -48,7 +52,7 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 - ✓ Built-in USB-C cable plus extra USB-C and USB-A ports for charging several devices
 
 **Cons**
-- ✗ 87W is below the highest-wattage packs for the most power-hungry laptops
+- ✗ 87W is the ceiling for everything plugged in at once, so three devices share it
 - ✗ The cable is built in, so a frayed lead is not something you can swap out
 
 **Who it's for:** Budget-minded flyers who want laptop-capable charging and a built-in cable in one pack.
@@ -60,9 +64,11 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 
 ### 3. Anker Prime Power Bank 20100mAh 220W - Best Premium
 
-**SPP Score: 9.0 / 10** - 20100mAh with 220W total output, 140W single-port and a live display. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 20100mAh with 220W total output, 140W single-port and a live display. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: 220W total and app control go beyond one flight's charging, though 72Wh keeps it airline-safe.
 
 What keeps it off a 10: Unlike the other two picks here it has no built-in cable, so your own leads still have to go in the bag.
 
@@ -75,7 +81,7 @@ The Prime is the flagship pick, pairing a 20100mAh cell - which Anker lists at a
 
 **Cons**
 - ✗ A 20100mAh cell holds well under the 25000mAh winner's, so a laptop-and-tablet day leaves less in reserve
-- ✗ No built-in cable, unlike the other two picks here, so you must pack your own leads
+- ✗ The third output is USB-A, so anything on it charges far slower than the USB-C ports
 
 **Who it's for:** Multi-device travellers who want the fastest in-seat charging and a live readout of what the pack is doing.
 **Who it's not for:** Phone-only travellers - a 220W pack is overkill for a single handset.
