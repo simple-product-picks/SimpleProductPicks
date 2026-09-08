@@ -20,7 +20,7 @@ UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter i
 - ✓ Plug and play with a compact, portable design for travel or hot-desking
 
 **Cons**
-- ✗ The 2.5G ceiling only pays off if your broadband and network support it
+- ✗ Useful only where you can reach a free Ethernet socket, which not every desk has
 - ✗ A standalone adapter with no extra pass-through power or hub ports
 
 **Who it's for:** Anyone who wants a reliable, no-fuss wired connection for a USB-C laptop, with room to grow into faster broadband.
