@@ -6,9 +6,11 @@ Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB
 
 ### 1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Overall
 
-**SPP Score: 9.4 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 9.5 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: A ThinkPad desk wants one dock for everything, and 10-in-1 with dual HDMI, Ethernet and 100W charging delivers
 
 What keeps it off a 10: A 10-in-1 dock is larger and less pocketable than a travel hub, so a ThinkPad that lives in a bag wants something smaller.
 
@@ -20,7 +22,7 @@ The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a
 - ✓ USB-C docking format suits ThinkPad owners building a fixed workstation
 
 **Cons**
-- ✗ A 10-in-1 dock is larger and less pocketable than a simple travel hub
+- ✗ Its spare USB-C data port runs at 5Gbps, so fast external SSDs are held back
 - ✗ Exactly which displays and resolutions you can drive depends on your ThinkPad's own USB-C output support
 
 **Who it's for:** ThinkPad users building a fixed desk setup who want a single dock to anchor their peripherals.
@@ -32,9 +34,11 @@ The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.9 / 10** - 7-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: One 4K HDMI output, USB-A and card slots suit a ThinkPad running a single external screen
 
 What keeps it off a 10: A single HDMI output rules it out for anyone running two ThinkPad monitors from one cable.
 
@@ -46,7 +50,7 @@ This Anker 7-in-1 hub is the sensible-value choice that covers the essentials wi
 - ✓ 7-in-1 layout covers the everyday essentials in one compact unit
 
 **Cons**
-- ✗ Single HDMI output, so it isn't built for dual-monitor desks
+- ✗ No Ethernet port, so wired networking on a ThinkPad needs one of the other picks
 - ✗ A compact everyday hub trades the broader port count of a full dock for portability
 
 **Who it's for:** ThinkPad owners who want a tidy, no-fuss hub for a single display and everyday peripherals.
@@ -58,9 +62,11 @@ This Anker 7-in-1 hub is the sensible-value choice that covers the essentials wi
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: Ethernet and 10Gbps ports go past what a ThinkPad with a mouse and one screen asks for
 
 What keeps it off a 10: Its lone HDMI output caps you at one screen, the trade for a compact hub with fewer total connections.
 
