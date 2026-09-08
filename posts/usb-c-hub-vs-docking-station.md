@@ -74,7 +74,7 @@ This 8-in-1 Anker is the halfway house the hub-or-dock debate forgets: wired Eth
 - ✓ 8-in-1 layout balances capability with a reasonably compact body
 
 **Cons**
-- ✗ Single HDMI output, so it won't run a dual-monitor desk on its own
+- ✗ No second display output, so a two-screen desk still means stepping up to the dock
 - ✗ 85W passthrough is Anker's rated ceiling, so the hungriest workstation laptops may still want their own charger
 
 **Who it's for:** Power users moving large files who also want reliable wired networking.
