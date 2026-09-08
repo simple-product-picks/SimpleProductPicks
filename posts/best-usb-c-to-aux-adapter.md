@@ -73,7 +73,7 @@ This is the same UGREEN dongle idea as our overall pick with a better converter 
 
 **Cons**
 - ✗ With standard streaming quality or basic earphones you may not hear the difference
-- ✗ Still no charging pass-through, so listening occupies the port like the other picks
+- ✗ Its braided cable and aluminium shell add bulk next to the slim overall pick
 
 **Who it's for:** Wired-headphone listeners with hi-res or lossless sources who want the best conversion a dongle this size offers.
 **Who it's not for:** Anyone on standard-quality streams and everyday earbuds - you're unlikely to hear what the extra spec buys, so the overall pick is the smarter spend.
