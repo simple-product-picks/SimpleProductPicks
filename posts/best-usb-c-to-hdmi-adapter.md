@@ -20,7 +20,7 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 - ✓ Nylon-braided cord and broad Thunderbolt 5/4/3 compatibility
 
 **Cons**
-- ✗ HDMI output only, so no extra USB or card-reader ports
+- ✗ At 0.9m the cable length is fixed, so a wall-mounted TV can sit out of reach
 - ✗ No passthrough charging, so your device charges separately
 
 **Who it's for:** Anyone who wants the cleanest possible way to mirror or extend a USB-C laptop or tablet to one HDMI display.
@@ -47,7 +47,7 @@ The UGREEN USB C to HDMI Adapter is the no-frills option that still covers the s
 
 **Cons**
 - ✗ HDMI only, with no added USB ports or passthrough charging
-- ✗ A single-purpose adapter, so it will not replace a full docking hub
+- ✗ An adapter, not a cable, so you plug your own HDMI lead into it
 
 **Who it's for:** Buyers who want a compact, dependable USB-C to HDMI link that still hits 4K at 60Hz.
 **Who it's not for:** Anyone needing a multi-port hub with Ethernet and extra USB.
