@@ -8,9 +8,7 @@ The MacBook Air M1 is a brilliant machine, but Apple gives it two Thunderbolt / 
 
 **SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: It is slightly bulkier than a single-port adapter to carry around, which counts if the hub lives in your bag.e 8.9/10
+Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.7/10 - Value 8.7/10
 
 What keeps it off a 10: It is slightly bulkier than a single-port adapter to carry around, which counts if the hub lives in your bag.
 
@@ -36,9 +34,7 @@ The M1 Air's own USB-C ports are scarce and one usually goes to the charger; thi
 
 **SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
 
-Scorecard: Capability 8.4/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
-
-What keeps it off a 10: Only the full-size SD slot is on board, so microSD cards need a reader of their own.e 8.8/10
+Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: Only the full-size SD slot is on board, so microSD cards need a reader of their own.
 
@@ -64,9 +60,7 @@ Desk-bound Air owners should start here: the UGREEN Revodok trades the overall p
 
 **SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: If your desk only needs a display and one USB-A port, this is far more hub than the job asks.e 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: If your desk only needs a display and one USB-A port, this is far more hub than the job asks.
 

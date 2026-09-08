@@ -8,9 +8,7 @@ Looking for a charger that keeps your Samsung Galaxy S24 topped up quickly and s
 
 **SPP Score: 8.7 / 10** - 67W output, compact GaN build. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value
-
-What keeps it off a 10: The 67W is a total shared across the three ports, so the S24 gets less than that whenever something else is plugged in. 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10
 
 What keeps it off a 10: The 67W is a total shared across the three ports, so the S24 gets less than that whenever something else is plugged in.
 
@@ -36,9 +34,7 @@ The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across 
 
 **SPP Score: 8.2 / 10** - 65W output, compact GaN build. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
-
-What keeps it off a 10: Once three or more gadgets need the same plug you are stuck, since only two ports are on offer here.e 8.9/10
+Scorecard: Capability 8.2/10 - Versatility 7.3/10 - Build 9.1/10 - Value 8.6/10
 
 What keeps it off a 10: Once three or more gadgets need the same plug you are stuck, since only two ports are on offer here.
 
@@ -64,9 +60,7 @@ The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third 
 
 **SPP Score: 8.3 / 10** - 100W output, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 9.0/10 - Versatility 6.7/10 - Build 8.5/10 - Valu
-
-What keeps it off a 10: It is bulkier than a basic single-port plug, so minimalist carry is where this three-port charger stops making sense.e 8.5/10
+Scorecard: Capability 9.1/10 - Versatility 6.8/10 - Build 8.6/10 - Value 8.6/10
 
 What keeps it off a 10: It is bulkier than a basic single-port plug, so minimalist carry is where this three-port charger stops making sense.
 

@@ -8,9 +8,7 @@ Finding a car charger that snaps cleanly onto your iPhone and holds it steady on
 
 **SPP Score: 8.7 / 10** - Complete kit with the car charger and cable both in the box, MagSafe-compatible magnetic hold and an air-vent mount. Our all-round pick.
 
-Scorecard: Capability 8.3/10 - Versatility 8.7/10 - Build 8.7/10 - Valu
-
-What keeps it off a 10: Vent mounting does not suit every vehicle's vent design, so check yours before you count on this one.e 8.7/10
+Scorecard: Capability 8.4/10 - Versatility 8.8/10 - Build 8.8/10 - Value 8.8/10
 
 What keeps it off a 10: Vent mounting does not suit every vehicle's vent design, so check yours before you count on this one.
 
@@ -36,9 +34,7 @@ Belkin's BoostCharge MagSafe Car Vent Mount is the balanced all-rounder. It arri
 
 **SPP Score: 8.9 / 10** - 15W fast wireless with strong magnets and both air-vent and dashboard mounts. Our value pick.
 
-Scorecard: Capability 8.9/10 - Versatility 8.9/10 - Build 8.5/10 - Valu
-
-What keeps it off a 10: You still have to supply a USB-C power source in the car, and a wired plug will beat it when you are in a hurry.e 9.4/10
+Scorecard: Capability 8.9/10 - Versatility 8.9/10 - Build 8.5/10 - Value 9.4/10
 
 What keeps it off a 10: You still have to supply a USB-C power source in the car, and a wired plug will beat it when you are in a hurry.
 
@@ -64,9 +60,7 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 
 **SPP Score: 9.1 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 8.9/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: Even Qi2 15W wireless trails a cable for rapid top-ups, and it is more kit than a simpler setup needs.e 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: Even Qi2 15W wireless trails a cable for rapid top-ups, and it is more kit than a simpler setup needs.
 

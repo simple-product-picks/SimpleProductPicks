@@ -8,9 +8,7 @@ In the budget bracket the real question is which corners get cut. Here it's most
 
 **SPP Score: 8.2 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
 
-Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: Its 10000mAh will not stretch to tablet recharges or multi-day trips, and the fast charging only helps devices that support PD or QC.e 8.9/10
+Scorecard: Capability 7.8/10 - Versatility 7.8/10 - Build 8.7/10 - Value 8.7/10
 
 What keeps it off a 10: Its 10000mAh will not stretch to tablet recharges or multi-day trips, and the fast charging only helps devices that support PD or QC.
 
@@ -36,9 +34,7 @@ The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh c
 
 **SPP Score: 8.1 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
 
-Scorecard: Capability 7.9/10 - Versatility 7.5/10 - Build 8.8/10 - Valu
-
-What keeps it off a 10: Its integrated cable cannot be swapped out if it wears, which is the trade for never having to pack a lead.e 8.8/10
+Scorecard: Capability 7.8/10 - Versatility 7.4/10 - Build 8.7/10 - Value 8.7/10
 
 What keeps it off a 10: Its integrated cable cannot be swapped out if it wears, which is the trade for never having to pack a lead.
 
@@ -64,9 +60,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependa
 
 **SPP Score: 8.3 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
 
-Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.0/10 - Valu
-
-What keeps it off a 10: Full magnetic alignment and speed depend on having a MagSafe-compatible iPhone, so Android owners gain nothing from the wireless side.e 8.0/10
+Scorecard: Capability 8.3/10 - Versatility 8.3/10 - Build 8.3/10 - Value 8.3/10
 
 What keeps it off a 10: Full magnetic alignment and speed depend on having a MagSafe-compatible iPhone, so Android owners gain nothing from the wireless side.
 

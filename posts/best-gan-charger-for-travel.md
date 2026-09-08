@@ -8,9 +8,7 @@ Looking for a compact charger that won't weigh down your carry-on? This guide co
 
 **SPP Score: 8.4 / 10** - 65W output, three ports, GaN build. Our all-round pick.
 
-Scorecard: Capability 8.2/10 - Versatility 7.7/10 - Build 9.1/10 - Valu
-
-What keeps it off a 10: Charge a laptop, phone and third device together and the shared wattage splits, so nothing reaches its quickest pace.e 8.6/10
+Scorecard: Capability 8.3/10 - Versatility 7.8/10 - Build 9.2/10 - Value 8.7/10
 
 What keeps it off a 10: Charge a laptop, phone and third device together and the shared wattage splits, so nothing reaches its quickest pace.
 
@@ -36,9 +34,7 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 
 **SPP Score: 8.2 / 10** - 65W output, compact GaN build. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
-
-What keeps it off a 10: Both of its ports are USB-C, so an older USB-A cable has nothing to plug into while you are away.e 8.9/10
+Scorecard: Capability 8.2/10 - Versatility 7.3/10 - Build 9.1/10 - Value 8.6/10
 
 What keeps it off a 10: Both of its ports are USB-C, so an older USB-A cable has nothing to plug into while you are away.
 
@@ -64,9 +60,7 @@ The UGREEN 65W GaN is the pick when bag weight matters more than port count, wit
 
 **SPP Score: 8.6 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value
-
-What keeps it off a 10: It is larger and heavier than a single-port travel charger, which is real weight in a carry-on you are trying to keep light. 8.9/10
+Scorecard: Capability 9.1/10 - Versatility 7.3/10 - Build 9.5/10 - Value 8.6/10
 
 What keeps it off a 10: It is larger and heavier than a single-port travel charger, which is real weight in a carry-on you are trying to keep light.
 

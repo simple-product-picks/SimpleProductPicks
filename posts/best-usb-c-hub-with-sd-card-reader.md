@@ -8,9 +8,7 @@ If you shoot photos, edit on the move, or just want one tidy adapter that handle
 
 **SPP Score: 8.9 / 10** - 8-in-1 connectivity, high-speed data. Our all-round pick.
 
-Scorecard: Capability 9.3/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
-
-What keeps it off a 10: There is no Ethernet port, so a wired desk connection still needs a separate adapter alongside this hub.e 8.8/10
+Scorecard: Capability 9.2/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: There is no Ethernet port, so a wired desk connection still needs a separate adapter alongside this hub.
 
@@ -37,9 +35,7 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 **SPP Score: 8.8 / 10** - 7-in-2 connectivity, high-speed data. Our value pick.
 
-Scorecard: Capability 8.9/10 - Versatility 8.4/10 - Build 8.4/10 - Valu
-
-What keeps it off a 10: The dual-plug body needs adjacent USB-C ports on the host, so a single-port Windows laptop is the wrong home for it.e 8.4/10
+Scorecard: Capability 9.1/10 - Versatility 8.6/10 - Build 8.6/10 - Value 8.6/10
 
 What keeps it off a 10: The dual-plug body needs adjacent USB-C ports on the host, so a single-port Windows laptop is the wrong home for it.
 
@@ -66,9 +62,7 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 
 **SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: If you live on Wi-Fi, the Ethernet port only adds bulk to something meant to travel light.e 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: If you live on Wi-Fi, the Ethernet port only adds bulk to something meant to travel light.
 

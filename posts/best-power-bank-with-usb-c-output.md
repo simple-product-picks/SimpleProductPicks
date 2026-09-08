@@ -8,9 +8,7 @@ Looking for a power bank that charges your phone, tablet, or even a laptop over 
 
 **SPP Score: 8.5 / 10** - 20000mAh capacity, 145W output with a built-in USB-C cable. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value
-
-What keeps it off a 10: Three-port output shares the total wattage, so each device gets less at full load when everything is plugged in together. 8.9/10
+Scorecard: Capability 9.6/10 - Versatility 6.9/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: Three-port output shares the total wattage, so each device gets less at full load when everything is plugged in together.
 
@@ -36,9 +34,7 @@ The UGREEN Nexode Power Bank 20000mAh 145W is the bank most people should start 
 
 **SPP Score: 8.1 / 10** - 10000mAh capacity, 30W output with a built-in USB-C cable. Our value pick.
 
-Scorecard: Capability 7.9/10 - Versatility 7.5/10 - Build 8.8/10 - Valu
-
-What keeps it off a 10: Both the capacity and the output stay modest for power-hungry laptops, so this suits keeping a phone alive rather than several devices at once.e 8.8/10
+Scorecard: Capability 7.8/10 - Versatility 7.4/10 - Build 8.7/10 - Value 8.7/10
 
 What keeps it off a 10: Both the capacity and the output stay modest for power-hungry laptops, so this suits keeping a phone alive rather than several devices at once.
 
@@ -64,9 +60,7 @@ The Anker Zolo Power Bank 10000mAh 30W covers the essentials without the bulk. I
 
 **SPP Score: 9.0 / 10** - 20100mAh with 220W total output and 140W from a single port. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value
-
-What keeps it off a 10: Size and output are overkill if you only ever top up a phone, and travelling light is not what this pack is for. 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: Size and output are overkill if you only ever top up a phone, and travelling light is not what this pack is for.
 

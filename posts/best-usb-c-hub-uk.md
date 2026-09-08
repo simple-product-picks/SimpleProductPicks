@@ -8,9 +8,7 @@ It's easy to buy a USB-C hub with far more ports than you'll ever plug into. The
 
 **SPP Score: 8.6 / 10** - Ethernet and 4K HDMI in a 7-in-1. Our all-round pick.
 
-Scorecard: Capability 8.4/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
-
-What keeps it off a 10: One HDMI output means a single external screen, so a two-monitor desk needs the bigger dock instead.e 8.8/10
+Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: One HDMI output means a single external screen, so a two-monitor desk needs the bigger dock instead.
 
@@ -36,9 +34,7 @@ Seven ports is the count that covers most laptop desks, and this UGREEN spreads 
 
 **SPP Score: 8.5 / 10** - The honest 5-in-1 for people who don't need the extras. Our value pick.
 
-Scorecard: Capability 7.8/10 - Versatility 8.7/10 - Build 9.2/10 - Valu
-
-What keeps it off a 10: There is no SD or microSD reader, so offloading camera cards means a separate reader or a bigger hub.e 8.7/10
+Scorecard: Capability 7.8/10 - Versatility 8.7/10 - Build 9.2/10 - Value 8.7/10
 
 What keeps it off a 10: There is no SD or microSD reader, so offloading camera cards means a separate reader or a bigger hub.
 
@@ -64,9 +60,7 @@ If your desk is really just a monitor, a couple of USB accessories and the lapto
 
 **SPP Score: 9.4 / 10** - A 10-in-1 dock that runs the whole desk. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 
-
-What keeps it off a 10: Both display outputs are HDMI, so a DisplayPort monitor needs an adapter before it will work with this dock.8.9/10
+Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10
 
 What keeps it off a 10: Both display outputs are HDMI, so a DisplayPort monitor needs an adapter before it will work with this dock.
 

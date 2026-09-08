@@ -8,9 +8,7 @@ Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapt
 
 **SPP Score: 8.6 / 10** - 2.5Gbps wired Ethernet over a single USB-C connector, plug-and-play. Our all-round pick.
 
-Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.5/10 - Valu
-
-What keeps it off a 10: That 2.5G ceiling counts for nothing unless your broadband and network support it, and there are no hub ports or pass-through power.e 8.9/10
+Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10
 
 What keeps it off a 10: That 2.5G ceiling counts for nothing unless your broadband and network support it, and there are no hub ports or pass-through power.
 
@@ -36,9 +34,7 @@ UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter i
 
 **SPP Score: 8.4 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
 
-Scorecard: Capability 8.4/10 - Versatility 7.9/10 - Build 8.8/10 - Valu
-
-What keeps it off a 10: Gigabit is the ceiling, so a multi-gig line or a fast local network will leave this adapter behind.e 8.8/10
+Scorecard: Capability 8.4/10 - Versatility 7.9/10 - Build 8.8/10 - Value 8.8/10
 
 What keeps it off a 10: Gigabit is the ceiling, so a multi-gig line or a fast local network will leave this adapter behind.
 
@@ -64,9 +60,7 @@ The sensible-value choice that covers the essentials without any extras you don'
 
 **SPP Score: 8.8 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 8.5/10 - Valu
-
-What keeps it off a 10: Unless your line and local network are genuinely multi-gigabit, 5G gains you no extra speed, and extra USB ports still need a separate hub.e 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10
 
 What keeps it off a 10: Unless your line and local network are genuinely multi-gigabit, 5G gains you no extra speed, and extra USB ports still need a separate hub.
 

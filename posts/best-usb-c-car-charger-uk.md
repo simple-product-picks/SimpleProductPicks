@@ -8,9 +8,7 @@ Every car charger quotes a wattage. The number most people never check is the fu
 
 **SPP Score: 8.5 / 10** - 75W max with built-in retractable USB-C cable, ultra-compact. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
-
-What keeps it off a 10: The built-in cable serves one device, so a passenger's phone queues behind yours, and the retracting mechanism can wear out.e 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10
 
 What keeps it off a 10: The built-in cable serves one device, so a passenger's phone queues behind yours, and the retracting mechanism can wear out.
 
@@ -36,9 +34,7 @@ Anker lists this as a 75W car charger with its USB-C cable built into the body a
 
 **SPP Score: 8.3 / 10** - 66W total (USB-C 36W plus USB-A 30W), PD3.0, 12V cigarette lighter, metal adapter. Our value pick.
 
-Scorecard: Capability 8.1/10 - Versatility 7.6/10 - Build 8.1/10 - Valu
-
-What keeps it off a 10: Its USB-C port takes only 36W of the total, which bites if you plug in something hungrier, and no leads are included.e 8.5/10
+Scorecard: Capability 8.3/10 - Versatility 7.8/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: Its USB-C port takes only 36W of the total, which bites if you plug in something hungrier, and no leads are included.
 
@@ -64,9 +60,7 @@ INIU's 66W car charger splits its output across two ports: a USB-C at 36W and a 
 
 **SPP Score: 8.9 / 10** - 150W total PD140W (USB-C), 4 ports, cigarette lighter adapter. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.5/10 - Value
-
-What keeps it off a 10: 150W can push close to or past the fuse limit on some cars, so check your cigarette lighter's fuse rating first. 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10
 
 What keeps it off a 10: 150W can push close to or past the fuse limit on some cars, so check your cigarette lighter's fuse rating first.
 

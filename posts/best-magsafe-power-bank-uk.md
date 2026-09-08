@@ -8,9 +8,7 @@ A magnetic power bank snaps onto the back of an iPhone and charges it with no ca
 
 **SPP Score: 8.7 / 10** - Qi2 15W wireless with a foldable stand and live display. Our all-round pick.
 
-Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Valu
-
-What keeps it off a 10: Wireless charging stops at 15W here, so an iPhone in the 17 line, or a 16 Plus or 16 Pro Max, that could take the newer 25W class goes no faster.e 8.9/10
+Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10
 
 What keeps it off a 10: Wireless charging stops at 15W here, so an iPhone in the 17 line, or a 16 Plus or 16 Pro Max, that could take the newer 25W class goes no faster.
 
@@ -36,9 +34,7 @@ The MagGo is the magnetic bank that earns a place on the desk as well as in a ba
 
 **SPP Score: 8.1 / 10** - Qi2 15W in the smallest, lightest pack here. Our value pick.
 
-Scorecard: Capability 7.1/10 - Versatility 8.5/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: At 5000mAh you get roughly one fast top-up, so heavy users needing a full charge in reserve should size up.e 8.5/10
+Scorecard: Capability 7.1/10 - Versatility 8.5/10 - Build 8.9/10 - Value 8.5/10
 
 What keeps it off a 10: At 5000mAh you get roughly one fast top-up, so heavy users needing a full charge in reserve should size up.
 
@@ -64,9 +60,7 @@ The budget route into real Qi2 is also the one you'll forget you're carrying: a 
 
 **SPP Score: 8.5 / 10** - Qi2 25W wireless with a built-in USB-C cable and battery display. Our pick for maximum capability.
 
-Scorecard: Capability 8.4/10 - Versatility 8.8/10 - Build 8.4/10 - Valu
-
-What keeps it off a 10: Its built-in cable cannot be swapped if it frays, and older iPhones cap the magnetic charging at 15W rather than the full 25W.e 8.4/10
+Scorecard: Capability 8.4/10 - Versatility 8.8/10 - Build 8.4/10 - Value 8.4/10
 
 What keeps it off a 10: Its built-in cable cannot be swapped if it frays, and older iPhones cap the magnetic charging at 15W rather than the full 25W.
 

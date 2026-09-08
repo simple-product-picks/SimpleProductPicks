@@ -8,9 +8,7 @@ Modern laptops charge over USB-C, so the right power bank can keep one running t
 
 **SPP Score: 8.8 / 10** - 25000mAh with a 140W USB-C output and two built-in cables. Our all-round pick.
 
-Scorecard: Capability 9.6/10 - Versatility 7.8/10 - Build 8.7/10 - Value
-
-What keeps it off a 10: The built-in cables fix the layout, so you are tied to UGREEN's port arrangement, and it is heavier than a phone-sized pack. 8.7/10
+Scorecard: Capability 9.6/10 - Versatility 7.8/10 - Build 8.7/10 - Value 8.7/10
 
 What keeps it off a 10: The built-in cables fix the layout, so you are tied to UGREEN's port arrangement, and it is heavier than a phone-sized pack.
 
@@ -36,9 +34,7 @@ The Nexode is the one we'd point most people to, because it settles the thing th
 
 **SPP Score: 8.7 / 10** - 25000mAh with a 100W USB-C port for most laptops. Our value pick.
 
-Scorecard: Capability 9.5/10 - Versatility 7.7/10 - Build 8.2/10 - Value
-
-What keeps it off a 10: A 16-inch MacBook Pro charges below its top speed because 100W falls short of the 140W it can draw, and it has no built-in cable. 8.6/10
+Scorecard: Capability 9.6/10 - Versatility 7.8/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: A 16-inch MacBook Pro charges below its top speed because 100W falls short of the 140W it can draw, and it has no built-in cable.
 
@@ -64,9 +60,7 @@ If you don't need the very top wattage, INIU's 25000mAh pack covers most laptops
 
 **SPP Score: 9.0 / 10** - 27650mAh with two 140W USB-C ports and a live display. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value
-
-What keeps it off a 10: This is the largest and heaviest pack in the guide, and more capability than anyone charging a single laptop actually needs. 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: This is the largest and heaviest pack in the guide, and more capability than anyone charging a single laptop actually needs.
 

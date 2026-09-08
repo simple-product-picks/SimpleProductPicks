@@ -8,9 +8,7 @@ Finding the right charger for a MacBook Pro means matching the wattage to your m
 
 **SPP Score: 8.6 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
 
-Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value
-
-What keeps it off a 10: The 100W is a single-port figure, so plugging anything else into it drops what the MacBook Pro gets. 8.9/10
+Scorecard: Capability 9.1/10 - Versatility 7.3/10 - Build 9.5/10 - Value 8.6/10
 
 What keeps it off a 10: The 100W is a single-port figure, so plugging anything else into it drops what the MacBook Pro gets.
 
@@ -36,9 +34,7 @@ The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C
 
 **SPP Score: 8.2 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
-
-What keeps it off a 10: 65W falls short of what a 14-inch or 16-inch MacBook Pro can draw, and there is no USB-A port for older kit.e 8.9/10
+Scorecard: Capability 8.2/10 - Versatility 7.3/10 - Build 9.1/10 - Value 8.6/10
 
 What keeps it off a 10: 65W falls short of what a 14-inch or 16-inch MacBook Pro can draw, and there is no USB-A port for older kit.
 
@@ -64,9 +60,7 @@ The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges tho
 
 **SPP Score: 8.3 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 9.0/10 - Versatility 6.7/10 - Build 8.5/10 - Valu
-
-What keeps it off a 10: If a single laptop is all you plug in, this is more charger than the job strictly needs.e 8.5/10
+Scorecard: Capability 9.1/10 - Versatility 6.8/10 - Build 8.6/10 - Value 8.6/10
 
 What keeps it off a 10: If a single laptop is all you plug in, this is more charger than the job strictly needs.
 

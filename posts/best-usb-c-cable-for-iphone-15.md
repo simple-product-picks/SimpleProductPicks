@@ -8,9 +8,7 @@ Looking for a USB-C cable that does justice to your iPhone 15? Here are three wo
 
 **SPP Score: 8.3 / 10** - 100W fast charging, braided build with a built-in E-Marker chip. Our all-round pick.
 
-Scorecard: Capability 8.4/10 - Versatility 7.5/10 - Build 8.8/10 - Valu
-
-What keeps it off a 10: It is a single 1m cable, so heavy users may want a second, and you still need your own USB-C charger.e 8.8/10
+Scorecard: Capability 8.4/10 - Versatility 7.5/10 - Build 8.8/10 - Value 8.8/10
 
 What keeps it off a 10: It is a single 1m cable, so heavy users may want a second, and you still need your own USB-C charger.
 
@@ -36,9 +34,7 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 **SPP Score: 8.5 / 10** - Two compact 0.5m braided cables rated for 100W/65W fast charging. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
-
-What keeps it off a 10: Both leads run to just 0.5m, which is awkward if the socket sits well away from where you actually sit.e 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10
 
 What keeps it off a 10: Both leads run to just 0.5m, which is awkward if the socket sits well away from where you actually sit.
 
@@ -64,9 +60,7 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 
 **SPP Score: 9.0 / 10** - USB4 with 240W charging and 40Gbps data in a 1m lead. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value
-
-What keeps it off a 10: On a standard iPhone 15 the data speed goes to waste, because the phone itself is USB 2.0 whatever cable you use. 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: On a standard iPhone 15 the data speed goes to waste, because the phone itself is USB 2.0 whatever cable you use.
 

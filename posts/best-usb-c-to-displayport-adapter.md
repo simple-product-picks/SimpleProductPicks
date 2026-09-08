@@ -8,9 +8,7 @@ Looking to drive a high-refresh or high-resolution monitor from a USB-C laptop, 
 
 **SPP Score: 8.5 / 10** - DisplayPort 1.4 with 8K at 60Hz, plug-and-play. Our all-round pick.
 
-Scorecard: Capability 9.1/10 - Versatility 7.7/10 - Build 8.2/10 - Valu
-
-What keeps it off a 10: Video only appears if your laptop or tablet supports DisplayPort Alt Mode, and its port, not the adapter alone, sets the resolution ceiling.e 8.6/10
+Scorecard: Capability 9.1/10 - Versatility 7.7/10 - Build 8.2/10 - Value 8.6/10
 
 What keeps it off a 10: Video only appears if your laptop or tablet supports DisplayPort Alt Mode, and its port, not the adapter alone, sets the resolution ceiling.
 
@@ -36,9 +34,7 @@ The UGREEN USB C to DisplayPort 1.4 Adapter is the right call for most gaming-mo
 
 **SPP Score: 8.6 / 10** - DisplayPort 1.4 with 8K at 60Hz and 4K at 240Hz over a single 2m cable. Our value pick.
 
-Scorecard: Capability 9.3/10 - Versatility 7.9/10 - Build 8.4/10 - Valu
-
-What keeps it off a 10: Length is fixed at 2m, so you cannot swap in a shorter or longer run the way an adapter plus your own cable allows.e 8.8/10
+Scorecard: Capability 9.2/10 - Versatility 7.8/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: Length is fixed at 2m, so you cannot swap in a shorter or longer run the way an adapter plus your own cable allows.
 
@@ -64,9 +60,7 @@ The UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) is the smart-money option, re
 
 **SPP Score: 8.9 / 10** - DisplayPort 2.1 bandwidth, plug-and-play simplicity. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.5/10 - Value
-
-What keeps it off a 10: You see the full 80Gbps only when both host device and monitor support the standard; a basic 4K setup gains nothing. 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10
 
 What keeps it off a 10: You see the full 80Gbps only when both host device and monitor support the standard; a basic 4K setup gains nothing.
 

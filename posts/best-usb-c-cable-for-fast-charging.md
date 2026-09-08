@@ -8,9 +8,7 @@ Picking a USB-C cable for fast charging is trickier than it looks, because a cab
 
 **SPP Score: 8.4 / 10** - 100W charging headroom and a braided build, supplied as a 2-pack of 2m leads. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: At 2m these leads are longer than some people want on a desk, and full 100W needs a charger and device that both support it.e 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: At 2m these leads are longer than some people want on a desk, and full 100W needs a charger and device that both support it.
 
@@ -36,9 +34,7 @@ The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W o
 
 **SPP Score: 8.6 / 10** - 100W charging with USB-IF certification and a double-braided nylon jacket. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.8/10 - Value
-
-What keeps it off a 10: Data moves at USB 2.0 speeds, so it charges well but is the wrong lead for shifting large files quickly. 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10
 
 What keeps it off a 10: Data moves at USB 2.0 speeds, so it charges well but is the wrong lead for shifting large files quickly.
 
@@ -64,9 +60,7 @@ The Anker USB C to USB C Cable 100W is the value buy that doesn't skimp on the e
 
 **SPP Score: 9.1 / 10** - 240W charging headroom with a high-bend-durability braided build. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 7.6/10 - Build 9.8/10 - Value 
-
-What keeps it off a 10: The full 240W only counts if your charger and device support EPR, so phone-only owners get capability they will never actually use.8.9/10
+Scorecard: Capability 9.8/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10
 
 What keeps it off a 10: The full 240W only counts if your charger and device support EPR, so phone-only owners get capability they will never actually use.
 

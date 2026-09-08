@@ -8,9 +8,7 @@ Apple quotes a number for the iPhone 17 that sounds expensive: up to 50% charge 
 
 **SPP Score: 8.2 / 10** - 45W foldable single-port plug. Our all-round pick.
 
-Scorecard: Capability 7.3/10 - Versatility 7.7/10 - Build 9.5/10 - Value
-
-What keeps it off a 10: It has a single USB-C port, so a tablet and earbuds wait their turn while the iPhone charges. 8.6/10
+Scorecard: Capability 7.4/10 - Versatility 7.8/10 - Build 9.6/10 - Value 8.7/10
 
 What keeps it off a 10: It has a single USB-C port, so a tablet and earbuds wait their turn while the iPhone charges.
 
@@ -36,9 +34,7 @@ This is the no-asterisk answer. Nothing Apple quotes for the iPhone 17, wired or
 
 **SPP Score: 8.1 / 10** - 30W foldable GaN plug. Our value pick.
 
-Scorecard: Capability 7.2/10 - Versatility 7.6/10 - Build 9.0/10 - Valu
-
-What keeps it off a 10: Sitting below the 40-watt adapter Apple quotes its 20-minute figure against, it is the first plug here you would outgrow.e 8.5/10
+Scorecard: Capability 7.4/10 - Versatility 7.8/10 - Build 9.2/10 - Value 8.7/10
 
 What keeps it off a 10: Sitting below the 40-watt adapter Apple quotes its 20-minute figure against, it is the first plug here you would outgrow.
 
@@ -64,9 +60,7 @@ The measured figures make this the interesting pick. If an iPhone 17 draws in th
 
 **SPP Score: 8.4 / 10** - 65W GaN. Our pick for maximum capability.
 
-Scorecard: Capability 8.2/10 - Versatility 7.7/10 - Build 9.1/10 - Valu
-
-What keeps it off a 10: An iPhone-only buyer pays for ports that sit empty, and PPS appears nowhere in Apple's charging figures anyway.e 8.6/10
+Scorecard: Capability 8.3/10 - Versatility 7.8/10 - Build 9.2/10 - Value 8.7/10
 
 What keeps it off a 10: An iPhone-only buyer pays for ports that sit empty, and PPS appears nowhere in Apple's charging figures anyway.
 

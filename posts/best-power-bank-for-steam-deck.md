@@ -8,9 +8,7 @@ The Steam Deck runs its battery down fast, so the right power bank is what turns
 
 **SPP Score: 8.5 / 10** - 20000mAh with a built-in USB-C cable and 145W of headroom. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value
-
-What keeps it off a 10: Its 145W output is far more than a Steam Deck's 45W draw, so on the Deck alone most of that headroom sits unused, and the built-in cable ties you to UGREEN's fixed port layout. 8.9/10
+Scorecard: Capability 9.6/10 - Versatility 6.9/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: Its 145W output is far more than a Steam Deck's 45W draw, so on the Deck alone most of that headroom sits unused, and the built-in cable ties you to UGREEN's fixed port layout.
 
@@ -36,9 +34,7 @@ The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB
 
 **SPP Score: 9.0 / 10** - 20000mAh with 65W USB-C, comfortably more than the Deck needs. Our value pick.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value
-
-What keeps it off a 10: You supply your own USB-C cable here, and while 65W easily covers the Deck it falls short of what a large laptop would want from a single bank. 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: You supply your own USB-C cable here, and while 65W easily covers the Deck it falls short of what a large laptop would want from a single bank.
 
@@ -64,9 +60,7 @@ If you just want a dependable pack that charges the Deck while you play, the INI
 
 **SPP Score: 9.2 / 10** - 25000mAh with two built-in retractable USB-C cables plus a third USB-C port. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value
-
-What keeps it off a 10: At 25000mAh and 165W across three ports it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use. 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10
 
 What keeps it off a 10: At 25000mAh and 165W across three ports it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use.
 

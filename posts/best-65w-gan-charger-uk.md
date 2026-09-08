@@ -8,9 +8,7 @@ Looking for a compact, fast wall charger to replace a bulky laptop brick? This U
 
 **SPP Score: 8.7 / 10** - 67W output, 3-port layout, compact GaN build. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value
-
-What keeps it off a 10: Peak speed drops when all three ports are working, and it is bigger than a single-port plug for one-device users. 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10
 
 What keeps it off a 10: Peak speed drops when all three ports are working, and it is bigger than a single-port plug for one-device users.
 
@@ -36,9 +34,7 @@ The Anker 67W is the most versatile pick here, packing three ports into a genuin
 
 **SPP Score: 8.2 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
-
-What keeps it off a 10: Output is split between the two ports when both are in use, so a laptop and a phone share one 65W budget.e 8.9/10
+Scorecard: Capability 8.2/10 - Versatility 7.3/10 - Build 9.1/10 - Value 8.6/10
 
 What keeps it off a 10: Output is split between the two ports when both are in use, so a laptop and a phone share one 65W budget.
 
@@ -64,9 +60,7 @@ The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug
 
 **SPP Score: 8.4 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 8.2/10 - Versatility 7.7/10 - Build 9.5/10 - Value
-
-What keeps it off a 10: One port means it charges a single device at a time, which rules it out for a household topping up several gadgets. 8.2/10
+Scorecard: Capability 8.3/10 - Versatility 7.8/10 - Build 9.6/10 - Value 8.3/10
 
 What keeps it off a 10: One port means it charges a single device at a time, which rules it out for a household topping up several gadgets.
 

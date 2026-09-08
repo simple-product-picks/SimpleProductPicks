@@ -8,9 +8,7 @@ Turning an iPad Pro into a proper workstation usually comes down to one accessor
 
 **SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: No wired Ethernet is built in, so an iPad that needs a steady network connection has to look at another pick.e 8.9/10
+Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.7/10 - Value 8.7/10
 
 What keeps it off a 10: No wired Ethernet is built in, so an iPad that needs a steady network connection has to look at another pick.
 
@@ -36,9 +34,7 @@ Connected to an iPad Pro, this Anker 7-in-1 gets the tablet closest to a desktop
 
 **SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
 
-Scorecard: Capability 8.4/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
-
-What keeps it off a 10: It has no 10Gbps data ports, so shifting big video files to an external SSD will feel slow.e 8.8/10
+Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: It has no 10Gbps data ports, so shifting big video files to an external SSD will feel slow.
 
@@ -64,9 +60,7 @@ The UGREEN Revodok earns its place by adding the one thing the overall pick lack
 
 **SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: Eight functions add size and weight that a casual iPad user who only wants HDMI will simply carry around.e 8.9/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: Eight functions add size and weight that a casual iPad user who only wants HDMI will simply carry around.
 

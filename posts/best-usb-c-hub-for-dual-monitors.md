@@ -8,9 +8,7 @@ Running two external displays from a single USB-C port is one of the most useful
 
 **SPP Score: 9.4 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 
-
-What keeps it off a 10: Whether both screens actually light up still depends on your laptop's own USB-C video support, so check that first.8.9/10
+Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10
 
 What keeps it off a 10: Whether both screens actually light up still depends on your laptop's own USB-C video support, so check that first.
 
@@ -36,9 +34,7 @@ The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs
 
 **SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
-
-What keeps it off a 10: For a two-monitor desk the second screen has to come over USB-C, because only one HDMI port is on board.e 8.9/10
+Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.7/10 - Value 8.7/10
 
 What keeps it off a 10: For a two-monitor desk the second screen has to come over USB-C, because only one HDMI port is on board.
 
@@ -64,9 +60,7 @@ This Anker 7-in-1 is the budget route to two screens, with one catch: the second
 
 **SPP Score: 8.8 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 8.6/10 - Versatility 9.1/10 - Build 9.1/10 - Valu
-
-What keeps it off a 10: Card slots and Ethernet are missing here, so a fixed desk that needs them wants a full docking station.e 8.2/10
+Scorecard: Capability 8.7/10 - Versatility 9.2/10 - Build 9.2/10 - Value 8.3/10
 
 What keeps it off a 10: Card slots and Ethernet are missing here, so a fixed desk that needs them wants a full docking station.
 

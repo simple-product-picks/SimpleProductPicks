@@ -8,9 +8,7 @@ The Steam Deck has a single USB-C port, so a good hub turns it into a proper des
 
 **SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
 
-Scorecard: Capability 8.4/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
-
-What keeps it off a 10: Charging through the hub can run slightly slower than plugging the Deck's own charger straight into it.e 8.8/10
+Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.3/10 - Value 8.7/10
 
 What keeps it off a 10: Charging through the hub can run slightly slower than plugging the Deck's own charger straight into it.
 
@@ -37,9 +35,7 @@ This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into 
 
 **SPP Score: 8.5 / 10** - 5-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 7.8/10 - Versatility 8.7/10 - Build 9.2/10 - Valu
-
-What keeps it off a 10: Downloads fall back on Wi-Fi with no Ethernet port here, and accessory-heavy setups can run out of USB-A.e 8.7/10
+Scorecard: Capability 7.8/10 - Versatility 8.7/10 - Build 9.2/10 - Value 8.7/10
 
 What keeps it off a 10: Downloads fall back on Wi-Fi with no Ethernet port here, and accessory-heavy setups can run out of USB-A.
 
@@ -66,9 +62,7 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 
 **SPP Score: 9.4 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 
-
-What keeps it off a 10: For a Deck that only ever plugs into the telly, this dock brings more ports than that setup will use.8.9/10
+Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10
 
 What keeps it off a 10: For a Deck that only ever plugs into the telly, this dock brings more ports than that setup will use.
 
