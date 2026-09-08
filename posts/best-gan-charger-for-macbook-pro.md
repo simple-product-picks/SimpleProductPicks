@@ -102,7 +102,7 @@ A MacBook Pro charger lives or dies on a few things: total wattage matched to ea
 A: Apple lists a 61W adapter for the 13-inch MacBook Pro, 67W to 96W for the 14-inch, and 140W for the 16-inch. A 100W charger therefore covers the 13-inch and 14-inch at full speed, and still charges a 16-inch, just not at its fastest rate.
 
 **Q: What is a GaN charger and why does it matter?**
-A: GaN (gallium nitride) lets a charger run cooler and more efficiently than older silicon designs, which means a smaller, lighter unit for the same wattage - handy for carrying every day.
+A: Gallium nitride switches faster and wastes less energy as heat than the silicon in older adapters, so the same wattage fits in a brick that goes in a jacket pocket. All three picks on this page use it.
 
 **Q: Do these chargers come with a cable?**
 A: A [USB-C cable](best-usb-c-cable-for-fast-charging.html) is not always included, so check the listing on Amazon UK and make sure you have a cable rated for the wattage your MacBook Pro needs.
