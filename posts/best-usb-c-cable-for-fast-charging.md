@@ -6,9 +6,11 @@ Picking a USB-C cable for fast charging is trickier than it looks, because a cab
 
 ### 1. UGREEN USB C to USB C Cable 100W (2-Pack, 2m) - Best Overall
 
-**SPP Score: 8.4 / 10** - 100W charging headroom and a braided build, supplied as a 2-pack of 2m leads. Our all-round pick.
+**SPP Score: 8.8 / 10** - 100W charging headroom and a braided build, supplied as a 2-pack of 2m leads. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Fast charging is the brief, and 100W braided cables in a two-pack cover phones, tablets and many laptops.
 
 What keeps it off a 10: At 2m these leads are longer than some people want on a desk, and full 100W needs a charger and device that both support it.
 
@@ -21,7 +23,7 @@ The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W o
 
 **Cons**
 - ✗ Full 100W charging needs a charger and device that both support it
-- ✗ At 2m the leads are longer than some people want on a desk
+- ✗ Both ends are USB-C, so a USB-A charger cannot drive these leads at all
 
 **Who it's for:** Anyone who wants reliable cables that charge nearly everything they own quickly, with a spare included.
 **Who it's not for:** Buyers who only ever charge a basic phone and want a single short lead.
@@ -32,9 +34,11 @@ The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W o
 
 ### 2. Anker USB C to USB C Cable 100W (1.8m Braided) - Best Budget
 
-**SPP Score: 8.6 / 10** - 100W charging with USB-IF certification and a double-braided nylon jacket. Our value pick.
+**SPP Score: 8.7 / 10** - 100W charging with USB-IF certification and a double-braided nylon jacket. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: USB-IF certified 100W charging in double-braided nylon covers a phone and tablet without paying for extras.
 
 What keeps it off a 10: Data moves at USB 2.0 speeds, so it charges well but is the wrong lead for shifting large files quickly.
 
@@ -58,9 +62,11 @@ The Anker USB C to USB C Cable 100W is the value buy that doesn't skimp on the e
 
 ### 3. Anker Prime USB C to USB C Cable 240W (0.9m) - Best Premium
 
-**SPP Score: 9.1 / 10** - 240W charging headroom with a high-bend-durability braided build. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - 240W charging headroom with a high-bend-durability braided build. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 7.6/10 - Build 9.8/10 - Value 8.9/10 - Fit 7.6/10
+
+Fit for this guide: 240W suits power users with high-wattage laptops or EPR-capable gear, more headroom than fast charging needs.
 
 What keeps it off a 10: The full 240W only counts if your charger and device support EPR, so phone-only owners get capability they will never actually use.
 
@@ -89,8 +95,6 @@ For most people the **[UGREEN USB C to USB C Cable 100W (2-Pack, 2m)](https://ww
 ## How we chose
 
 We focused on the specs that actually matter for fast charging: the Power Delivery wattage each cable supports, whether the cable can keep up with modern phones, tablets and laptops, and build quality, where a braided jacket meaningfully extends the life of a cable you handle constantly. We also weighed certification, cable length and everyday UK fit across the range. Wattage claims change between product revisions, so each link opens the live Amazon UK listing - worth a glance before a cable goes in your basket.
-
-Why the score and the badge differ: the Anker Prime USB C to USB C Cable 240W (0.9m) scores 9.1 to the UGREEN USB C to USB C Cable 100W (2-Pack, 2m)'s 8.4 because 240W and EPR support earn more on capability, but a phone or a 100W laptop never asks for that headroom, and a two-pack of 100W leads covers more sockets for most homes, so it keeps the Best Overall badge.
 
 ## FAQ
 
