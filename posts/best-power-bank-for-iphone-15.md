@@ -6,7 +6,7 @@ Picking the right power bank for your iPhone 15 comes down to capacity, charging
 
 ### 1. Anker Nano Power Bank 10000mAh 30W - Best Overall
 
-**SPP Score: 8.2 / 10** - 10000mAh capacity, 30W output. Our all-round pick.
+**SPP Score: 8.1 / 10** - 10000mAh capacity, 30W output. Our all-round pick.
 
 Scorecard: Capability 7.9/10 - Versatility 7.5/10 - Build 8.8/10 - Valu
 
@@ -34,7 +34,7 @@ The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Deliver
 
 ### 2. INIU Power Bank 10000mAh 22.5W Slim - Best Budget
 
-**SPP Score: 8.4 / 10** - 10000mAh in the slimmest pack here, with 22.5W fast charging. Our value pick.
+**SPP Score: 8.2 / 10** - 10000mAh in the slimmest pack here, with 22.5W fast charging. Our value pick.
 
 Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.9/10 - Valu
 
@@ -95,6 +95,8 @@ For most iPhone 15 owners, the **[Anker Nano Power Bank 10000mAh 30W](https://ww
 ## How we chose
 
 An iPhone 15 needs surprisingly little to charge well: enough mAh for a day or two of top-ups, USB-C Power Delivery for fast charging, decent build, and a pack you'll actually carry day to day. We weighed UK everyday-carry practicality and overall value across compact, simple, and feature-rich options. Each link lands on the Amazon UK listing, where you can confirm what's in the box before you buy.
+
+Why the score and the badge differ: the Anker MagGo Power Bank 10000mAh Qi2 15W scores 8.7 to the Anker Nano Power Bank 10000mAh 30W's 8.1 because Qi2 magnetic charging, a smart display and a fold-out stand earn more on versatility, but an iPhone 15 owner who just wants the phone topped up fastest gets more from the 30W wired bank with its built-in cable, so it keeps the Best Overall badge.
 
 ## FAQ
 

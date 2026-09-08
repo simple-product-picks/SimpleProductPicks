@@ -6,7 +6,7 @@ Finding the right charger for a MacBook Pro means matching the wattage to your m
 
 ### 1. Anker 100W USB C Charger (3-Port GaN, Smart Display) - Best Overall
 
-**SPP Score: 8.9 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
+**SPP Score: 8.6 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
 
 Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value
 
@@ -34,7 +34,7 @@ The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 8.5 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+**SPP Score: 8.2 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
 Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
 
@@ -62,7 +62,7 @@ The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges tho
 
 ### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
-**SPP Score: 8.2 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
+**SPP Score: 8.3 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
 Scorecard: Capability 9.0/10 - Versatility 6.7/10 - Build 8.5/10 - Valu
 

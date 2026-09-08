@@ -34,9 +34,9 @@ The Revodok Pro 210 leans into the docking-station side, making the dock camp's 
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 8.9 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 8.3/10 - Versatility 9.2/10 - Build 8.7/10 - Value 8.7/10
 
 What keeps it off a 10: It carries fewer ports than a full 10-in-1 docking station, which is the trade you accept for something this compact.
 

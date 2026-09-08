@@ -34,7 +34,7 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 
 ### 2. UGREEN USB C to HDMI Adapter 4K@60Hz - Best Budget
 
-**SPP Score: 8.6 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
+**SPP Score: 8.7 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
 
 Scorecard: Capability 8.8/10 - Versatility 7.9/10 - Build 8.8/10 - Valu
 

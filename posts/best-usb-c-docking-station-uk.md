@@ -64,7 +64,7 @@ The Revodok Pro 210 is the value sweet spot in this category, and it's honestly 
 
 ### 3. UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W) - Best Premium
 
-**SPP Score: 9.0 / 10** - Thunderbolt 4 docking station. Our pick for maximum capability.
+**SPP Score: 9.1 / 10** - Thunderbolt 4 docking station. Our pick for maximum capability.
 
 Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.1/10 - Value 
 

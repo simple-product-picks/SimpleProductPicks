@@ -64,7 +64,7 @@ USB4 is the open standard Thunderbolt 4 is built on, and this UGREEN lead shows 
 
 ### 3. Belkin Active Thunderbolt 4 Cable (2m, 100W) - Best Premium
 
-**SPP Score: 8.5 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
 
 Scorecard: Capability 9.4/10 - Versatility 7.2/10 - Build 8.5/10 - Value
 

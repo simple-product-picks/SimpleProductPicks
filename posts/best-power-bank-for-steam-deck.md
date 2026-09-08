@@ -6,7 +6,7 @@ The Steam Deck runs its battery down fast, so the right power bank is what turns
 
 ### 1. UGREEN Nexode Power Bank 20000mAh 145W - Best Overall
 
-**SPP Score: 8.7 / 10** - 20000mAh with a built-in USB-C cable and 145W of headroom. Our all-round pick.
+**SPP Score: 8.5 / 10** - 20000mAh with a built-in USB-C cable and 145W of headroom. Our all-round pick.
 
 Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value
 
@@ -95,6 +95,8 @@ For most Steam Deck owners the **[UGREEN Nexode Power Bank 20000mAh 145W](https:
 ## How we chose
 
 A Steam Deck asks two things of a power bank: a USB-C port that can hold its 45W draw so the battery keeps filling while you play, not just idles, and enough real capacity to add meaningful hours. We looked for sustained 45W-plus output rather than headline peak figures, since a port that only touches 45W for a moment, or splits its power away the instant a second device is plugged in, won't keep a Deck going. We weighed how the cable is handled, because a lead dangling over the grips is a genuine annoyance on a handheld. If you fly, check the watt-hour figure printed on the bank before you go; airlines set their own limits. Capacity we treated as gaming hours, not just milliamp-hours: as a rough guide a 20000mAh bank holds around a full extra Deck charge, though real playtime depends on the game and screen brightness. Every link goes to the Amazon UK listing so you can check the current port wattages against your own Deck.
+
+Why the score and the badge differ: the Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C) scores 9.2 to the UGREEN Nexode Power Bank 20000mAh 145W's 8.5 because a 25000mAh cell and 165W across three outputs earn more on capability, but a Deck session wants a pack that fits beside the console, and the 20000mAh UGREEN with its 145W output and built-in cable already holds around a full extra charge, so it keeps the Best Overall badge.
 
 ## FAQ
 

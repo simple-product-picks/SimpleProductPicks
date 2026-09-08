@@ -34,7 +34,7 @@ The Anker 67W is the most versatile pick here, packing three ports into a genuin
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 8.5 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+**SPP Score: 8.2 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
 Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
 
@@ -62,7 +62,7 @@ The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug
 
 ### 3. Anker Nano II 65W USB C Charger - Best Premium
 
-**SPP Score: 8.3 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
 
 Scorecard: Capability 8.2/10 - Versatility 7.7/10 - Build 9.5/10 - Value
 

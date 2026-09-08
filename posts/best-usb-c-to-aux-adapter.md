@@ -6,7 +6,7 @@ Switching to a phone or laptop without a headphone socket means you need a relia
 
 ### 1. UGREEN USB C to 3.5mm Audio Adapter - Best Overall
 
-**SPP Score: 8.1 / 10** - USB-C to 3.5mm with a Hi-Fi stereo DAC. Our all-round pick.
+**SPP Score: 8.2 / 10** - USB-C to 3.5mm with a Hi-Fi stereo DAC. Our all-round pick.
 
 Scorecard: Capability 8.2/10 - Versatility 7.3/10 - Build 8.2/10 - Valu
 

@@ -6,7 +6,7 @@ It's easy to buy a USB-C hub with far more ports than you'll ever plug into. The
 
 ### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
-**SPP Score: 8.7 / 10** - Ethernet and 4K HDMI in a 7-in-1. Our all-round pick.
+**SPP Score: 8.6 / 10** - Ethernet and 4K HDMI in a 7-in-1. Our all-round pick.
 
 Scorecard: Capability 8.4/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
 

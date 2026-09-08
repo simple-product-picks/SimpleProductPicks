@@ -6,7 +6,7 @@ The MacBook Air M1 is a brilliant machine, but Apple gives it two Thunderbolt / 
 
 ### 1. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Overall
 
-**SPP Score: 8.9 / 10** - 7-in-1 connectivity. Our all-round pick.
+**SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our all-round pick.
 
 Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
 
@@ -34,7 +34,7 @@ The M1 Air's own USB-C ports are scarce and one usually goes to the charger; thi
 
 ### 2. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Budget
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
+**SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
 
 Scorecard: Capability 8.4/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
 

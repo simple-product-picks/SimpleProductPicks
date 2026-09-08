@@ -34,7 +34,7 @@ Anker lists this as a 75W car charger with its USB-C cable built into the body a
 
 ### 2. INIU 66W Car Charger (USB-C 36W + USB-A 30W) - Best Budget
 
-**SPP Score: 8.1 / 10** - 66W total (USB-C 36W plus USB-A 30W), PD3.0, 12V cigarette lighter, metal adapter. Our value pick.
+**SPP Score: 8.3 / 10** - 66W total (USB-C 36W plus USB-A 30W), PD3.0, 12V cigarette lighter, metal adapter. Our value pick.
 
 Scorecard: Capability 8.1/10 - Versatility 7.6/10 - Build 8.1/10 - Valu
 

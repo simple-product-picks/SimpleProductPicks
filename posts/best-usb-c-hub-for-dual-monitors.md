@@ -34,7 +34,7 @@ The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 8.9 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.7 / 10** - 7-in-1 connectivity. Our value pick.
 
 Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
 
@@ -62,7 +62,7 @@ This Anker 7-in-1 is the budget route to two screens, with one catch: the second
 
 ### 3. Anker 7-in-1 USB C Hub Dual Monitor (2x HDMI, 100W PD) - Best Premium
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
 
 Scorecard: Capability 8.6/10 - Versatility 9.1/10 - Build 9.1/10 - Valu
 

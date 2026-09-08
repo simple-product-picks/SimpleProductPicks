@@ -6,7 +6,7 @@ The Steam Deck has a single USB-C port, so a good hub turns it into a proper des
 
 ### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
 
 Scorecard: Capability 8.4/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
 

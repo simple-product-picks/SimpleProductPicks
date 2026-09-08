@@ -6,7 +6,7 @@ Looking for a power bank that charges your phone, tablet, or even a laptop over 
 
 ### 1. UGREEN Nexode Power Bank 20000mAh 145W - Best Overall
 
-**SPP Score: 8.7 / 10** - 20000mAh capacity, 145W output with a built-in USB-C cable. Our all-round pick.
+**SPP Score: 8.5 / 10** - 20000mAh capacity, 145W output with a built-in USB-C cable. Our all-round pick.
 
 Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value
 
@@ -34,7 +34,7 @@ The UGREEN Nexode Power Bank 20000mAh 145W is the bank most people should start 
 
 ### 2. Anker Zolo Power Bank 10000mAh 30W - Best Budget
 
-**SPP Score: 8.2 / 10** - 10000mAh capacity, 30W output with a built-in USB-C cable. Our value pick.
+**SPP Score: 8.1 / 10** - 10000mAh capacity, 30W output with a built-in USB-C cable. Our value pick.
 
 Scorecard: Capability 7.9/10 - Versatility 7.5/10 - Build 8.8/10 - Valu
 

@@ -6,7 +6,7 @@ Finding a car charger that snaps cleanly onto your iPhone and holds it steady on
 
 ### 1. Belkin BoostCharge MagSafe Car Vent Mount (Charger Included) - Best Overall
 
-**SPP Score: 8.6 / 10** - Complete kit with the car charger and cable both in the box, MagSafe-compatible magnetic hold and an air-vent mount. Our all-round pick.
+**SPP Score: 8.7 / 10** - Complete kit with the car charger and cable both in the box, MagSafe-compatible magnetic hold and an air-vent mount. Our all-round pick.
 
 Scorecard: Capability 8.3/10 - Versatility 8.7/10 - Build 8.7/10 - Valu
 

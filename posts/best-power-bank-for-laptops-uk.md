@@ -34,7 +34,7 @@ The Nexode is the one we'd point most people to, because it settles the thing th
 
 ### 2. INIU Laptop Power Bank 25000mAh 100W - Best Budget
 
-**SPP Score: 8.6 / 10** - 25000mAh with a 100W USB-C port for most laptops. Our value pick.
+**SPP Score: 8.7 / 10** - 25000mAh with a 100W USB-C port for most laptops. Our value pick.
 
 Scorecard: Capability 9.5/10 - Versatility 7.7/10 - Build 8.2/10 - Value
 
