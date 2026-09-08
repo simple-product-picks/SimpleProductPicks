@@ -6,9 +6,11 @@ Modern laptops charge over USB-C, so the right power bank can keep one running t
 
 ### 1. UGREEN Nexode 165W 25000mAh Power Bank - Best Overall
 
-**SPP Score: 8.8 / 10** - 25000mAh with a 140W USB-C output and two built-in cables. Our all-round pick.
+**SPP Score: 9.2 / 10** - 25000mAh with a 140W USB-C output and two built-in cables. Our all-round pick.
 
-Scorecard: Capability 9.6/10 - Versatility 7.8/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: Laptop charging is the question, and 140W PD3.1 with two built-in cables answers it without packing extras.
 
 What keeps it off a 10: The built-in cables fix the layout, so you are tied to UGREEN's port arrangement, and it is heavier than a phone-sized pack.
 
@@ -21,7 +23,7 @@ The Nexode is the one we'd point most people to, because it settles the thing th
 
 **Cons**
 - ✗ Heavier and bulkier than a phone-sized pack, as any 25000mAh laptop bank is
-- ✗ The built-in cables fix the layout, so you're tied to UGREEN's port arrangement
+- ✗ 165W is a shared total, so the 140W cable eases off when other outputs draw
 
 **Who it's for:** Anyone who wants full-speed laptop charging without thinking about which cable to pack.
 **Who it's not for:** People who only ever charge a phone and want the lightest possible pack.
@@ -32,9 +34,11 @@ The Nexode is the one we'd point most people to, because it settles the thing th
 
 ### 2. INIU Laptop Power Bank 25000mAh 100W - Best Budget
 
-**SPP Score: 8.7 / 10** - 25000mAh with a 100W USB-C port for most laptops. Our value pick.
+**SPP Score: 8.9 / 10** - 25000mAh with a 100W USB-C port for most laptops. Our value pick.
 
-Scorecard: Capability 9.6/10 - Versatility 7.8/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: 100W over a single USB-C output covers an ultrabook or 14-inch laptop from a 25000mAh pack.
 
 What keeps it off a 10: A 16-inch MacBook Pro charges below its top speed because 100W falls short of the 140W it can draw, and it has no built-in cable.
 
@@ -46,7 +50,7 @@ If you don't need the very top wattage, INIU's 25000mAh pack covers most laptops
 - ✓ Charges a laptop and a phone at the same time from its three outputs
 
 **Cons**
-- ✗ 100W falls short of the 140W a 16-inch MacBook Pro can draw, so that machine charges below its top speed
+- ✗ Only one USB-C port carries the full 100W, so pick the right one for a laptop
 - ✗ No built-in cable or display, unlike the step-up picks
 
 **Who it's for:** Ultrabook and 14-inch laptop owners who want laptop-capable charging without headroom they won't use.
@@ -58,9 +62,11 @@ If you don't need the very top wattage, INIU's 25000mAh pack covers most laptops
 
 ### 3. Anker Prime 27,650mAh Power Bank (250W) - Best Premium
 
-**SPP Score: 9.0 / 10** - 27650mAh with two 140W USB-C ports and a live display. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 27650mAh with two 140W USB-C ports and a live display. Our pick for maximum capability.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: 250W total and dual 140W USB-C exceed one laptop, fitting professionals running several devices at once.
 
 What keeps it off a 10: This is the largest and heaviest pack in the guide, and more capability than anyone charging a single laptop actually needs.
 
