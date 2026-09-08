@@ -49,7 +49,7 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 
 **Cons**
 - ✗ 87W is below the highest-wattage packs for the most power-hungry laptops
-- ✗ Heavier and bulkier than a slim travel pack built only for phones
+- ✗ The cable is built in, so a frayed lead is not something you can swap out
 
 **Who it's for:** Budget-minded flyers who want laptop-capable charging and a built-in cable in one pack.
 **Who it's not for:** Travellers who need the very highest charge speeds or the smallest, lightest bank.
@@ -74,7 +74,7 @@ The Prime is the flagship pick, pairing a 20100mAh cell - about 72Wh, comfortabl
 - ✓ Display and companion app show real-time input and output
 
 **Cons**
-- ✗ Larger and heavier than standard travel packs built for phones
+- ✗ Its 20100mAh cell is smaller than the 25000mAh winner's, so it runs down first on a long-haul day
 - ✗ No built-in cable, unlike the other two picks here, so you must pack your own leads
 
 **Who it's for:** Multi-device travellers who want the fastest in-seat charging and a live readout of what the pack is doing.
@@ -95,7 +95,7 @@ A long flight sets its own test: real capacity in mAh for multiple recharges, ou
 ## FAQ
 
 **Q: Can I take a power bank on a plane in my hand luggage?**
-A: Spare lithium batteries and power banks must travel in your cabin baggage, never in checked luggage. Most airlines cap capacity around the 100Wh mark (roughly 27000mAh) without prior approval. Always check your specific airline's watt-hour limits before you fly.
+A: Spare lithium batteries and power banks must travel in your cabin baggage, never in checked luggage. Check the watt-hour figure printed on the bank against your own airline's limit before you fly, since airlines set their own.
 
 **Q: What capacity power bank do I need for a long flight?**
 A: A 20000mAh pack will recharge most phones several times over a long-haul journey, while a larger 25000mAh pack makes sense if you're charging tablets or a laptop too. For everyday non-flight use, see our [20000mAh power bank guide](best-power-bank-20000mah-uk.html).
