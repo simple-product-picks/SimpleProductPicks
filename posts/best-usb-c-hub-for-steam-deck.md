@@ -48,7 +48,7 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 - ✓ Compact and travel-friendly
 
 **Cons**
-- ✗ No Ethernet port, so you rely on Wi-Fi for downloads
+- ✗ No SD or microSD reader, unlike the other two picks in this guide
 - ✗ Fewer USB-A ports than larger hubs, so accessory-heavy setups may run out
 
 **Who it's for:** Players who mainly want HDMI, charging and a couple of USB ports in a pocketable form.
