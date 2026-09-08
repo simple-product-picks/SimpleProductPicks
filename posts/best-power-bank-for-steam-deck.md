@@ -62,7 +62,7 @@ If you just want a dependable pack that charges the Deck while you play, the INI
 
 Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
-What keeps it off a 10: At 25000mAh and triple-100W it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use.
+What keeps it off a 10: At 25000mAh and 165W across three ports it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use.
 
 For the longest hauls, whether a flight, a festival or a full day of handheld play, the Anker carries the most in one pack. At 25000mAh it holds comfortably more than a full extra Deck charge, and its built-in retractable USB-C cables mean the lead you need is already part of the pack. Anker's listing gives it 165W across three USB-C ports, so the Deck can take a fast charge while a laptop or phone tops up beside it, without a bag full of separate bricks. The trade is bulk: it's the heaviest pack here by a distance, closer to something you set on the table beside you than clip to the Deck itself. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits, and our [best power bank for long flights](best-power-bank-for-long-flights.html) guide covers the same ground if that's your main use.
 
