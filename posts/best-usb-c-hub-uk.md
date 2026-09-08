@@ -20,7 +20,7 @@ Seven ports is the count that covers most laptop desks, and this UGREEN spreads 
 - ✓ Three USB-A ports handle everyday peripherals without an extra adapter
 
 **Cons**
-- ✗ Single HDMI, so it drives one external screen rather than two
+- ✗ The single USB-C port is for charging, so USB-C drives fall back to USB-A
 - ✗ No microSD slot alongside the full-size SD reader
 
 **Who it's for:** Anyone who wants the everyday essentials, wired internet included, in one hub that isn't oversized.
@@ -47,7 +47,7 @@ If your desk is really just a monitor, a couple of USB accessories and the lapto
 
 **Cons**
 - ✗ Wi-Fi only: no Ethernet socket, so a wired desk means stepping up to the 7-in-1
-- ✗ No SD or microSD reader for offloading camera cards
+- ✗ Two USB-A ports, so a keyboard and mouse fill it before anything else
 
 **Who it's for:** Light setups that need a screen and a few USB ports, and nothing they'll leave unused.
 **Who it's not for:** Anyone who wants wired internet, a card reader, or room to grow.
@@ -73,7 +73,7 @@ This is where a hub becomes a docking station. The Revodok Pro 210 is a 10-in-1,
 
 **Cons**
 - ✗ Its second USB-C port is a 5Gbps data port, so external SSD transfers won't run at full speed
-- ✗ Both display outputs are HDMI, so a DisplayPort monitor needs an adapter
+- ✗ A 10-in-1 dock built for a fixed desk rather than a bag
 
 **Who it's for:** Permanent desks, especially two-monitor ones, that want everything on a single dock.
 **Who it's not for:** Anyone with one screen and a handful of accessories.
