@@ -8,9 +8,11 @@ If you are pairing one of these with a dock, our [USB-C docking station guide](b
 
 ### 1. Anker Prime Thunderbolt 4 Cable (1m, 240W) - Best Overall
 
-**SPP Score: 9.1 / 10** - Thunderbolt 4 certified at a desk-friendly 1m. Our all-round pick.
+**SPP Score: 9.3 / 10** - Thunderbolt 4 certified at a desk-friendly 1m. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: A Thunderbolt 4 guide wants certified 40Gbps, and this braided metre carries that plus 240W charging.
 
 What keeps it off a 10: A metre of reach falls short of the 2m runs that only an active cable can serve at full speed.
 
@@ -22,7 +24,7 @@ This is the cable to default to. It carries Intel's Thunderbolt 4 certification,
 - ✓ 1m braided build reaches a dock or monitor without stretching or slack
 
 **Cons**
-- ✗ Still short of the 2m runs only an active cable can serve at full speed
+- ✗ USB-C at both ends, so anything still on USB-A needs a different lead
 - ✗ More cable than a charging-only setup needs
 
 **Who it's for:** Anyone connecting a laptop to a Thunderbolt or USB4 dock, monitor or fast SSD at a desk.
@@ -36,7 +38,9 @@ This is the cable to default to. It carries Intel's Thunderbolt 4 certification,
 
 **SPP Score: 8.9 / 10** - USB4 40Gbps data. Our value pick.
 
-Scorecard: Capability 9.7/10 - Versatility 8.4/10 - Build 8.4/10 - Value 8.8/10
+Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.5/10
+
+Fit for this guide: USB4 at 40Gbps with 240W charging and 8K output covers the same desk work over one cable.
 
 What keeps it off a 10: There is no Intel Thunderbolt certification here, so compatibility rests on the manufacturer's spec sheet, and the build is workmanlike.
 
@@ -62,7 +66,9 @@ USB4 is the open standard Thunderbolt 4 is built on, and this UGREEN lead shows 
 
 **SPP Score: 8.6 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
 
-Scorecard: Capability 9.5/10 - Versatility 7.3/10 - Build 8.6/10 - Value 8.6/10
+Scorecard: Capability 9.8/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: An active 2m cable holds full 40Gbps across real distance, which only longer desk runs actually require.
 
 What keeps it off a 10: Its 100W charging ceiling sits below the 240W the other picks manage, and most desks never need a 2m run.
 
@@ -74,7 +80,7 @@ Here is the dirty secret of fast cables: passive leads lose speed as they get lo
 - ✓ 100W charging alongside full-speed data and USB4 compliance
 
 **Cons**
-- ✗ 100W charging ceiling is below the 240W of the other picks
+- ✗ At 2m it is a lot of lead to coil into a travel bag
 - ✗ A single-purpose length upgrade that most desks will not actually need
 
 **Who it's for:** Desk setups that need full Thunderbolt speed across real distance, with tidy routing.
