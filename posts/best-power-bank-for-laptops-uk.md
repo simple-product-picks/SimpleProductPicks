@@ -1,6 +1,6 @@
 # Best Power Bank For Laptops UK 2026
 
-Modern laptops charge over USB-C, so the right power bank can keep one running through a long train journey or a full day away from any wall socket. The catch is wattage: a pack that fast-charges a phone might only trickle into a laptop. This guide picks three power banks that genuinely drive a laptop - one for most people, a straightforward option for lighter machines, and one built to run two demanding laptops at once.
+Modern laptops charge over USB-C, so the right power bank can keep one running through a long train journey or a full day away from any wall socket. The catch is wattage: a pack that fast-charges a phone might only trickle into a laptop. This guide picks three power banks that genuinely drive a laptop - one for most people, a straightforward option for lighter machines, and one built for a bag that carries a big laptop and a tablet together.
 
 ## Top picks
 
@@ -12,7 +12,7 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: The built-in cables fix the layout, so you are tied to UGREEN's port arrangement, and it is heavier than a phone-sized pack.
 
-The Nexode is the one we'd point most people to, because it settles the thing that trips up laptop charging: the cable. The 165W in its name is the total across its outputs; a single USB-C port runs up to 140W, which matches the 140W adapter Apple lists for the 16-inch MacBook Pro, and because one of its two built-in cables is itself rated to 140W, you get that speed without hunting for a compatible lead. The second built-in cable handles up to 65W for a tablet or a smaller laptop, and there's still a spare USB-C port and a USB-A for a phone or earbuds, so four things can charge together. A small display shows what's going in and out. At 25000mAh, which UGREEN rates at 90Wh, it stays inside the usual 100Wh cabin-baggage limit.
+The Nexode is the one we'd point most people to, because it settles the thing that trips up laptop charging: the cable. The name says 165W, but the number that matters for a laptop is the 140W a single USB-C port runs at, which matches the 140W adapter Apple lists for the 16-inch MacBook Pro, and because one of its two built-in cables is itself rated to 140W, you get that speed without hunting for a compatible lead. The second built-in cable handles up to 65W for a tablet or a smaller laptop, and there's still a spare USB-C port and a USB-A for a phone or earbuds, so four things can charge together. A small display shows what's going in and out. UGREEN rates the 25000mAh cell at 90Wh; check that figure against your own airline's limit before you fly.
 
 **Pros**
 - ✓ 140W USB-C output charges a 16-inch MacBook Pro at the speed it's built for
@@ -64,18 +64,18 @@ Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: This is the largest and heaviest pack in the guide, and more capability than anyone charging a single laptop actually needs.
 
-The Prime is for the person whose bag holds two power-hungry machines. Either USB-C port runs at up to 140W on its own, so whichever machine you plug in first charges at full speed; Anker rates the whole pack at 250W across its three ports, which is enough for a big laptop and a tablet at once. A 27650mAh cell, which Anker lists at 99.56Wh, is about as much battery as you can take through airport security without special approval, and a colour display plus a companion app show exactly what each port is doing. Anker includes a 140W-rated USB-C cable in the box, so the full-speed lead is sorted from the start.
+The Prime is for the person who wants the most output and the biggest cell in one pack. Either USB-C port runs at up to 140W on its own, so whichever machine you plug in first charges at full speed; Anker rates the whole pack at 250W across its three ports, which is enough for a big laptop and a tablet at once. A 27650mAh cell, which Anker lists at 99.56Wh, is the largest here by some way, and a colour display plus a companion app show exactly what each port is doing. Anker includes a 140W-rated USB-C cable in the box, so the full-speed lead is sorted from the start.
 
 **Pros**
 - ✓ Either USB-C port will drive a 16-inch laptop at its full 140W, with 250W across the pack for everything else
-- ✓ 27650mAh sits just under the 100Wh cabin limit for air travel
+- ✓ 27650mAh, which Anker lists at 99.56Wh - check that against your airline before you fly
 - ✓ Includes a 140W-rated USB-C cable, and its display and app show live input and output
 
 **Cons**
 - ✗ The largest and heaviest pack here, and heavy enough that you'll feel it in a bag
 - ✗ More capability than anyone charging a single laptop needs, where the other two picks do the job
 
-**Who it's for:** Multi-device professionals who need to charge two demanding laptops away from the mains.
+**Who it's for:** Multi-device professionals who want a full 140W for the laptop and 250W across the pack for everything else.
 **Who it's not for:** Single-laptop users, who are well served by the overall or budget pick.
 
 [Check price](https://www.amazon.co.uk/dp/B0BYP2F3SG?linkCode=ll2&tag=souvlakia-21)
@@ -84,7 +84,7 @@ The Prime is for the person whose bag holds two power-hungry machines. Either US
 
 ## Quick verdict
 
-For most people the **[UGREEN Nexode 165W 25000mAh Power Bank](https://www.amazon.co.uk/dp/B0DSPX4RQ5?linkCode=ll2&tag=souvlakia-21)** is the pick to beat: full 140W laptop charging with the right cable already built in. If you're running an ultrabook or a 14-inch laptop and want to keep it simple, the **[INIU Laptop Power Bank 25000mAh 100W](https://www.amazon.co.uk/dp/B0CB1BVHTK?linkCode=ll2&tag=souvlakia-21)** does the job on an ordinary cable. And if you routinely power two heavy laptops at once, the **[Anker Prime 27,650mAh Power Bank (250W)](https://www.amazon.co.uk/dp/B0BYP2F3SG?linkCode=ll2&tag=souvlakia-21)** carries about the most battery you can realistically fly with. If your main concern is squeezing the most capacity under airline limits, our [best power bank for long flights](best-power-bank-for-long-flights.html) guide works through the watt-hour maths.
+For most people the **[UGREEN Nexode 165W 25000mAh Power Bank](https://www.amazon.co.uk/dp/B0DSPX4RQ5?linkCode=ll2&tag=souvlakia-21)** is the pick to beat: full 140W laptop charging with the right cable already built in. If you're running an ultrabook or a 14-inch laptop and want to keep it simple, the **[INIU Laptop Power Bank 25000mAh 100W](https://www.amazon.co.uk/dp/B0CB1BVHTK?linkCode=ll2&tag=souvlakia-21)** does the job on an ordinary cable. And if you want the most output in a single pack, the **[Anker Prime 27,650mAh Power Bank (250W)](https://www.amazon.co.uk/dp/B0BYP2F3SG?linkCode=ll2&tag=souvlakia-21)** carries the most battery of the three. If your main concern is squeezing the most capacity under airline limits, our [best power bank for long flights](best-power-bank-for-long-flights.html) guide works through the watt-hour maths.
 
 ## How we chose
 
