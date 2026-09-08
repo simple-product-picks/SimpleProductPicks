@@ -6,9 +6,11 @@ Looking for a compact charger that won't weigh down your carry-on? This guide co
 
 ### 1. UGREEN Nexode 65W GaN Charger (3-Port) - Best Overall
 
-**SPP Score: 8.6 / 10** - 65W output, three ports, GaN build. Our all-round pick.
+**SPP Score: 8.3 / 10** - 65W output, three ports, GaN build. Our all-round pick.
 
-Scorecard: Capability 7/10 - Versatility 6/10 - Build 9/10 - Value 8/10
+Scorecard: Capability 8.2/10 - Versatility 7.7/10 - Build 9.1/10 - Valu
+
+What keeps it off a 10: Charge a laptop, phone and third device together and the shared wattage splits, so nothing reaches its quickest pace.e 8.6/10
 
 What keeps it off a 10: Charge a laptop, phone and third device together and the shared wattage splits, so nothing reaches its quickest pace.
 
@@ -32,9 +34,11 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 7.8 / 10** - 65W output, compact GaN build. Our value pick.
+**SPP Score: 8.5 / 10** - 65W output, compact GaN build. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
+
+What keeps it off a 10: Both of its ports are USB-C, so an older USB-A cable has nothing to plug into while you are away.e 8.9/10
 
 What keeps it off a 10: Both of its ports are USB-C, so an older USB-A cable has nothing to plug into while you are away.
 
@@ -58,9 +62,11 @@ The UGREEN 65W GaN is the pick when bag weight matters more than port count, wit
 
 ### 3. Anker 100W USB C Charger (3-Port GaN, Smart Display) - Best Premium
 
-**SPP Score: 8.4 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
+**SPP Score: 8.9 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 5/10 - Build 10/10 - Value 8/10
+Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value
+
+What keeps it off a 10: It is larger and heavier than a single-port travel charger, which is real weight in a carry-on you are trying to keep light. 8.9/10
 
 What keeps it off a 10: It is larger and heavier than a single-port travel charger, which is real weight in a carry-on you are trying to keep light.
 
@@ -89,6 +95,8 @@ For most travellers the **[UGREEN Nexode 65W GaN Charger (3-Port)](https://www.a
 ## How we chose
 
 Packing light forces trade-offs, so we judged each charger on: real wattage (65W and 100W across our picks), the number of USB-C ports, GaN construction for a smaller and cooler package, and overall portability for a carry-on. We weighed UK fit and sensible value alongside raw capability, favouring chargers that do one job well over gimmicks. Every link goes to the Amazon UK listing, so give the current price a quick look before it earns its place in your carry-on.
+
+Why the score and the badge differ: the Anker 100W USB C Charger (3-Port GaN, Smart Display) scores 8.9 to the UGREEN Nexode 65W GaN Charger (3-Port)'s 8.3 because its 100W single-port output and smart display earn more on capability, but most travellers charge a phone and a laptop from a plug that fits a bag, and the 65W three-port plug does that with less bulk, so it keeps the Best Overall badge.
 
 ## FAQ
 

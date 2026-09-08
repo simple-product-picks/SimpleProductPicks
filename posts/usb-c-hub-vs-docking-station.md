@@ -8,9 +8,9 @@ A USB C hub is small and travel-friendly, adding a few ports through one cable, 
 
 ### 1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Overall
 
-**SPP Score: 9.3 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity. Our all-round pick.
+**SPP Score: 9.4 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity. Our all-round pick.
 
-Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10
 
 What keeps it off a 10: The spare USB-C data port tops out at 5Gbps, so this is not the dock for fast external SSDs.
 
@@ -34,9 +34,9 @@ The Revodok Pro 210 leans into the docking-station side, making the dock camp's 
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 8.2 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.9 / 10** - 7-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: It carries fewer ports than a full 10-in-1 docking station, which is the trade you accept for something this compact.
 
@@ -60,9 +60,9 @@ This 7-in-1 Anker is the hub camp's best case: the everyday essentials with none
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10
 
 What keeps it off a 10: Anker rates passthrough at 85W, which the hungriest workstation laptops can outrun, leaving them on their own charger.
 

@@ -6,9 +6,11 @@ Apple quotes a number for the iPhone 17 that sounds expensive: up to 50% charge 
 
 ### 1. Anker Nano 45W USB C Charger (Foldable) - Best Overall
 
-**SPP Score: 8.4 / 10** - 45W foldable single-port plug. Our all-round pick.
+**SPP Score: 8.1 / 10** - 45W foldable single-port plug. Our all-round pick.
 
-Scorecard: Capability 5/10 - Versatility 6/10 - Build 10/10 - Value 8/10
+Scorecard: Capability 7.3/10 - Versatility 7.7/10 - Build 9.5/10 - Value
+
+What keeps it off a 10: It has a single USB-C port, so a tablet and earbuds wait their turn while the iPhone charges. 8.6/10
 
 What keeps it off a 10: It has a single USB-C port, so a tablet and earbuds wait their turn while the iPhone charges.
 
@@ -32,9 +34,11 @@ This is the no-asterisk answer. Nothing Apple quotes for the iPhone 17, wired or
 
 ### 2. UGREEN Nexode 30W USB C Charger (Foldable GaN) - Best Budget
 
-**SPP Score: 7.7 / 10** - 30W foldable GaN plug. Our value pick.
+**SPP Score: 7.9 / 10** - 30W foldable GaN plug. Our value pick.
 
-Scorecard: Capability 5/10 - Versatility 6/10 - Build 9/10 - Value 8/10
+Scorecard: Capability 7.2/10 - Versatility 7.6/10 - Build 9.0/10 - Valu
+
+What keeps it off a 10: Sitting below the 40-watt adapter Apple quotes its 20-minute figure against, it is the first plug here you would outgrow.e 8.5/10
 
 What keeps it off a 10: Sitting below the 40-watt adapter Apple quotes its 20-minute figure against, it is the first plug here you would outgrow.
 
@@ -58,9 +62,11 @@ The measured figures make this the interesting pick. If an iPhone 17 draws in th
 
 ### 3. UGREEN Nexode 65W GaN Charger (3-Port) - Best Premium
 
-**SPP Score: 8.2 / 10** - 65W GaN. Our pick for maximum capability.
+**SPP Score: 8.3 / 10** - 65W GaN. Our pick for maximum capability.
 
-Scorecard: Capability 7/10 - Versatility 6/10 - Build 9/10 - Value 7/10
+Scorecard: Capability 8.2/10 - Versatility 7.7/10 - Build 9.1/10 - Valu
+
+What keeps it off a 10: An iPhone-only buyer pays for ports that sit empty, and PPS appears nowhere in Apple's charging figures anyway.e 8.6/10
 
 What keeps it off a 10: An iPhone-only buyer pays for ports that sit empty, and PPS appears nowhere in Apple's charging figures anyway.
 

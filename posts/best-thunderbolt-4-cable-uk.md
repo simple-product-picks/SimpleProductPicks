@@ -10,7 +10,9 @@ If you are pairing one of these with a dock, our [USB-C docking station guide](b
 
 **SPP Score: 9.1 / 10** - Thunderbolt 4 certified at a desk-friendly 1m. Our all-round pick.
 
-Scorecard: Capability 10/10 - Versatility 6/10 - Build 9/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 9.4/10 - Value
+
+What keeps it off a 10: A metre of reach falls short of the 2m runs that only an active cable can serve at full speed. 8.9/10
 
 What keeps it off a 10: A metre of reach falls short of the 2m runs that only an active cable can serve at full speed.
 
@@ -36,7 +38,9 @@ This is the cable to default to. It carries Intel's Thunderbolt 4 certification,
 
 **SPP Score: 8.9 / 10** - USB4 40Gbps data. Our value pick.
 
-Scorecard: Capability 10/10 - Versatility 7/10 - Build 7/10 - Value 8/10
+Scorecard: Capability 9.7/10 - Versatility 8.4/10 - Build 8.4/10 - Value
+
+What keeps it off a 10: There is no Intel Thunderbolt certification here, so compatibility rests on the manufacturer's spec sheet, and the build is workmanlike. 8.8/10
 
 What keeps it off a 10: There is no Intel Thunderbolt certification here, so compatibility rests on the manufacturer's spec sheet, and the build is workmanlike.
 
@@ -60,9 +64,11 @@ USB4 is the open standard Thunderbolt 4 is built on, and this UGREEN lead shows 
 
 ### 3. Belkin Active Thunderbolt 4 Cable (2m, 100W) - Best Premium
 
-**SPP Score: 8.7 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
+**SPP Score: 8.5 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.4/10 - Versatility 7.2/10 - Build 8.5/10 - Value
+
+What keeps it off a 10: Its 100W charging ceiling sits below the 240W the other picks manage, and most desks never need a 2m run. 8.5/10
 
 What keeps it off a 10: Its 100W charging ceiling sits below the 240W the other picks manage, and most desks never need a 2m run.
 

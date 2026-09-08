@@ -8,7 +8,9 @@ A 100W GaN charger is the sweet spot for powering a laptop, tablet and phone fro
 
 **SPP Score: 8.9 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
 
-Scorecard: Capability 9/10 - Versatility 5/10 - Build 10/10 - Value 8/10
+Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value
+
+What keeps it off a 10: Its smart display adds a little bulk, so minimalists who only ever charge one phone are paying for a readout they never use. 8.9/10
 
 What keeps it off a 10: Its smart display adds a little bulk, so minimalists who only ever charge one phone are paying for a readout they never use.
 
@@ -32,9 +34,11 @@ The Anker 100W is our standout because it pairs serious single-port output with 
 
 ### 2. UGREEN Nexode 100W USB C Charger 4-Port GaN - Best Budget
 
-**SPP Score: 8.4 / 10** - 100W output, 4-port layout, compact GaN build. Our value pick.
+**SPP Score: 8.7 / 10** - 100W output, 4-port layout, compact GaN build. Our value pick.
 
-Scorecard: Capability 9/10 - Versatility 6/10 - Build 9/10 - Value 8/10
+Scorecard: Capability 9.1/10 - Versatility 7.7/10 - Build 9.1/10 - Valu
+
+What keeps it off a 10: There is no live readout, and the full 100W gets shared out once several ports are busy.e 8.6/10
 
 What keeps it off a 10: There is no live readout, and the full 100W gets shared out once several ports are busy.
 
@@ -58,9 +62,11 @@ The UGREEN Nexode 100W wins this trio on port count, and that's exactly the poin
 
 ### 3. Anker 140W 4-Port GaN Charger (Smart Display) - Best Premium
 
-**SPP Score: 8.7 / 10** - 140W PD 3.1 output, 4-port layout, smart display. Our pick for maximum capability.
+**SPP Score: 9.1 / 10** - 140W PD 3.1 output, 4-port layout, smart display. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 6/10 - Build 9/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 9.4/10 - Value
+
+What keeps it off a 10: You only see the full 140W when one high-draw laptop has the output to itself, and it is overkill if nothing you own charges above 100W. 8.9/10
 
 What keeps it off a 10: You only see the full 140W when one high-draw laptop has the output to itself, and it is overkill if nothing you own charges above 100W.
 

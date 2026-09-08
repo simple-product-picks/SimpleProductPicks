@@ -6,9 +6,11 @@ Wired internet is back in demand for anyone working from home or gaming on a lap
 
 ### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
-**SPP Score: 8.8 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 8.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
 
-Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
+Scorecard: Capability 8.4/10 - Versatility 9.3/10 - Build 8.4/10 - Valu
+
+What keeps it off a 10: A compact 7-in-1 has fewer outputs than a full-size docking station, so a growing desk eventually outgrows it.e 8.8/10
 
 What keeps it off a 10: A compact 7-in-1 has fewer outputs than a full-size docking station, so a growing desk eventually outgrows it.
 
@@ -32,9 +34,11 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 
 ### 2. Anker USB C Hub PowerExpand 6-in-1 with Ethernet - Best Budget
 
-**SPP Score: 7.9 / 10** - 6-in-1 connectivity, wired Ethernet. Our value pick.
+**SPP Score: 8.5 / 10** - 6-in-1 connectivity, wired Ethernet. Our value pick.
 
-Scorecard: Capability 6/10 - Versatility 8/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 7.9/10 - Versatility 8.8/10 - Build 8.8/10 - Valu
+
+What keeps it off a 10: Its data ports run at standard speed rather than the 10Gbps the premium pick manages, so big transfers take longer.e 8.8/10
 
 What keeps it off a 10: Its data ports run at standard speed rather than the 10Gbps the premium pick manages, so big transfers take longer.
 
@@ -58,9 +62,11 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.5 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
+
+What keeps it off a 10: Next to a plain Ethernet adapter it has a larger footprint, with more ports than a light user will plug into.e 8.9/10
 
 What keeps it off a 10: Next to a plain Ethernet adapter it has a larger footprint, with more ports than a light user will plug into.
 

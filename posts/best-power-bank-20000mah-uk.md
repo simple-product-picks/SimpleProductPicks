@@ -8,7 +8,9 @@ A 20000mAh power bank is the sweet spot for UK travellers and heavy phone users:
 
 **SPP Score: 9.0 / 10** - 20000mAh capacity, 65W USB-C output, three outputs in an ultra-compact laptop-capable body. Our all-round pick.
 
-Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value
+
+What keeps it off a 10: 65W will not fast-charge the most demanding full-size laptops, which matters if your machine draws more than this bank supplies. 8.9/10
 
 What keeps it off a 10: 65W will not fast-charge the most demanding full-size laptops, which matters if your machine draws more than this bank supplies.
 
@@ -33,9 +35,11 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want. The
 
 ### 2. INIU Power Bank 20000mAh 45W - Best Budget
 
-**SPP Score: 8.6 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
+**SPP Score: 8.5 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
 
-Scorecard: Capability 9/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.0/10 - Versatility 7.6/10 - Build 8.5/10 - Valu
+
+What keeps it off a 10: Laptops charge slowly or not at all from its 45W ceiling, and refilling the cell from empty still takes time.e 8.5/10
 
 What keeps it off a 10: Laptops charge slowly or not at all from its 45W ceiling, and refilling the cell from empty still takes time.
 
@@ -60,9 +64,11 @@ The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wan
 
 ### 3. UGREEN Nexode Power Bank 20000mAh 145W - Best Premium
 
-**SPP Score: 8.3 / 10** - 20000mAh capacity, 145W output, 80W input, built-in USB-C cable and three-port output. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 20000mAh capacity, 145W output, 80W input, built-in USB-C cable and three-port output. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value
+
+What keeps it off a 10: You only reach its top recharge speed with a charger that can actually supply the full 80W input, and it is bigger than lower-wattage banks. 8.9/10
 
 What keeps it off a 10: You only reach its top recharge speed with a charger that can actually supply the full 80W input, and it is bigger than lower-wattage banks.
 

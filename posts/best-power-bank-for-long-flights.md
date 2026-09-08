@@ -4,11 +4,15 @@ Long-haul travel drains devices fast, and most aircraft seats give you nothing r
 
 ## Top picks
 
-### 1. Anker Laptop Power Bank 25000mAh (Triple 100W) - Best Overall
+### 1. Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C) - Best Overall
 
 **SPP Score: 9.2 / 10** - 25000mAh with triple 100W USB-C and built-in retractable cables. Our all-round pick.
 
-Scorecard: Capability 10/10 - Versatility 7/10 - Build 9/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value
+
+What keeps it off a 10: Being a 25000mAh battery it is heavier than a slim travel pack, and you must confirm your airline's watt-hour rules before flying.
+
+Hands-on: We own this one and it is the bank we take on long flights: two built-in retractable USB-C cables plus a third USB-C port cover a phone, a tablet and a laptop at once, and it has held up to daily use and travel without wear. 8.9/10
 
 What keeps it off a 10: Being a 25000mAh battery it is heavier than a slim travel pack, and you must confirm your airline's watt-hour rules before flying.
 
@@ -34,9 +38,11 @@ With a 25000mAh capacity, this Anker is sized to recharge most phones several ti
 
 ### 2. Anker Power Bank 20000mAh 87W (Built-in Cable) - Best Budget
 
-**SPP Score: 8.7 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
+**SPP Score: 8.8 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
 
-Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.6/10 - Versatility 7.8/10 - Build 8.7/10 - Value
+
+What keeps it off a 10: At 87W it sits below the highest-wattage packs, which counts for the most power-hungry laptops but not for a phone or tablet. 8.7/10
 
 What keeps it off a 10: At 87W it sits below the highest-wattage packs, which counts for the most power-hungry laptops but not for a phone or tablet.
 
@@ -60,9 +66,11 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 
 ### 3. Anker Prime Power Bank 20100mAh 220W - Best Premium
 
-**SPP Score: 8.5 / 10** - 20100mAh with 220W total output, 140W single-port and a live display. Our pick for maximum capability.
+**SPP Score: 9.0 / 10** - 20100mAh with 220W total output, 140W single-port and a live display. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value
+
+What keeps it off a 10: Unlike the other two picks here it has no built-in cable, so your own leads still have to go in the bag. 8.9/10
 
 What keeps it off a 10: Unlike the other two picks here it has no built-in cable, so your own leads still have to go in the bag.
 
@@ -86,7 +94,7 @@ The Prime is the flagship pick, pairing a 20100mAh cell - which Anker lists at a
 
 ## Quick verdict
 
-For most long-haul travellers, the **[Anker Laptop Power Bank 25000mAh (Triple 100W)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** hits the sweet spot of high capacity, three fast USB-C ports, and built-in cables. If you want laptop-capable charging with an integrated cable in a more affordable pack, the **[Anker Power Bank 20000mAh 87W (Built-in Cable)](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)** is the smart middle ground. Travellers who want the fastest in-seat charging with a live display should look at the premium **[Anker Prime Power Bank 20100mAh 220W](https://www.amazon.co.uk/dp/B0F66NH2ZX?linkCode=ll2&tag=souvlakia-21)**.
+For most long-haul travellers, the **[Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** hits the sweet spot of high capacity, three fast USB-C ports, and built-in cables. If you want laptop-capable charging with an integrated cable in a more affordable pack, the **[Anker Power Bank 20000mAh 87W (Built-in Cable)](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)** is the smart middle ground. Travellers who want the fastest in-seat charging with a live display should look at the premium **[Anker Prime Power Bank 20100mAh 220W](https://www.amazon.co.uk/dp/B0F66NH2ZX?linkCode=ll2&tag=souvlakia-21)**.
 
 ## How we chose
 

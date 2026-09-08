@@ -8,7 +8,9 @@ Finding the right charger for a MacBook Pro means matching the wattage to your m
 
 **SPP Score: 8.9 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
 
-Scorecard: Capability 9/10 - Versatility 5/10 - Build 10/10 - Value 8/10
+Scorecard: Capability 9.4/10 - Versatility 7.6/10 - Build 9.8/10 - Value
+
+What keeps it off a 10: The 100W is a single-port figure, so plugging anything else into it drops what the MacBook Pro gets. 8.9/10
 
 What keeps it off a 10: The 100W is a single-port figure, so plugging anything else into it drops what the MacBook Pro gets.
 
@@ -32,9 +34,11 @@ The Anker 100W delivers the full 100W a 14-inch MacBook Pro will take over USB-C
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 8.1 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+**SPP Score: 8.5 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
+Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Valu
+
+What keeps it off a 10: 65W falls short of what a 14-inch or 16-inch MacBook Pro can draw, and there is no USB-A port for older kit.e 8.9/10
 
 What keeps it off a 10: 65W falls short of what a 14-inch or 16-inch MacBook Pro can draw, and there is no USB-A port for older kit.
 
@@ -58,9 +62,11 @@ The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges tho
 
 ### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
-**SPP Score: 8.3 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.0/10 - Versatility 6.7/10 - Build 8.5/10 - Valu
+
+What keeps it off a 10: If a single laptop is all you plug in, this is more charger than the job strictly needs.e 8.5/10
 
 What keeps it off a 10: If a single laptop is all you plug in, this is more charger than the job strictly needs.
 

@@ -8,7 +8,9 @@ Finding a car charger that snaps cleanly onto your iPhone and holds it steady on
 
 **SPP Score: 8.6 / 10** - Complete kit with the car charger and cable both in the box, MagSafe-compatible magnetic hold and an air-vent mount. Our all-round pick.
 
-Scorecard: Capability 7/10 - Versatility 8/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 8.3/10 - Versatility 8.7/10 - Build 8.7/10 - Valu
+
+What keeps it off a 10: Vent mounting does not suit every vehicle's vent design, so check yours before you count on this one.e 8.7/10
 
 What keeps it off a 10: Vent mounting does not suit every vehicle's vent design, so check yours before you count on this one.
 
@@ -34,7 +36,9 @@ Belkin's BoostCharge MagSafe Car Vent Mount is the balanced all-rounder. It arri
 
 **SPP Score: 8.9 / 10** - 15W fast wireless with strong magnets and both air-vent and dashboard mounts. Our value pick.
 
-Scorecard: Capability 8/10 - Versatility 8/10 - Build 7/10 - Value 9/10
+Scorecard: Capability 8.9/10 - Versatility 8.9/10 - Build 8.5/10 - Valu
+
+What keeps it off a 10: You still have to supply a USB-C power source in the car, and a wired plug will beat it when you are in a hurry.e 9.4/10
 
 What keeps it off a 10: You still have to supply a USB-C power source in the car, and a wired plug will beat it when you are in a hurry.
 
@@ -58,9 +62,11 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 
 ### 3. Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W) - Best Premium
 
-**SPP Score: 8.4 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
+**SPP Score: 9.1 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.4/10 - Versatility 8.9/10 - Build 8.9/10 - Valu
+
+What keeps it off a 10: Even Qi2 15W wireless trails a cable for rapid top-ups, and it is more kit than a simpler setup needs.e 8.9/10
 
 What keeps it off a 10: Even Qi2 15W wireless trails a cable for rapid top-ups, and it is more kit than a simpler setup needs.
 
@@ -84,7 +90,7 @@ Belkin's BoostCharge Pro is the step-up option, bringing the newer Qi2 standard 
 
 ## Quick verdict
 
-For most UK drivers, the **[Belkin BoostCharge MagSafe Car Vent Mount (Charger Included)](https://www.amazon.co.uk/dp/B09GRJ2S8X?linkCode=ll2&tag=souvlakia-21)** is the all-round pick. You get the car charger and cable in the box, a MagSafe-compatible magnetic hold and an air-vent mount. The **[ESR HaloLock MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21)** carries the highest score on this page and is the one to choose if you just want the essentials: strong magnets, and vent or dashboard mounting so it fits your car. Drivers who want the most capable charge, with the newer Qi2 15W standard, should step up to the **[Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W)](https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21)**. If you'd rather plug in with a cable for a faster charge, our [USB-C car charger guide](best-usb-c-car-charger-uk.html) covers the wired options.
+For most UK drivers, the **[Belkin BoostCharge MagSafe Car Vent Mount (Charger Included)](https://www.amazon.co.uk/dp/B09GRJ2S8X?linkCode=ll2&tag=souvlakia-21)** is the all-round pick. You get the car charger and cable in the box, a MagSafe-compatible magnetic hold and an air-vent mount. The **[ESR HaloLock MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21)** is the one to choose if you just want the essentials: strong magnets, and vent or dashboard mounting so it fits your car. Drivers who want the most capable charge, with the newer Qi2 15W standard, should step up to the **[Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W)](https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21)**. If you'd rather plug in with a cable for a faster charge, our [USB-C car charger guide](best-usb-c-car-charger-uk.html) covers the wired options.
 
 ## How we chose
 

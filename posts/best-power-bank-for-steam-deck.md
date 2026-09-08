@@ -8,7 +8,9 @@ The Steam Deck runs its battery down fast, so the right power bank is what turns
 
 **SPP Score: 8.7 / 10** - 20000mAh with a built-in USB-C cable and 145W of headroom. Our all-round pick.
 
-Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value
+
+What keeps it off a 10: Its 145W output is far more than a Steam Deck's 45W draw, so on the Deck alone most of that headroom sits unused, and the built-in cable ties you to UGREEN's fixed port layout. 8.9/10
 
 What keeps it off a 10: Its 145W output is far more than a Steam Deck's 45W draw, so on the Deck alone most of that headroom sits unused, and the built-in cable ties you to UGREEN's fixed port layout.
 
@@ -32,9 +34,11 @@ The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB
 
 ### 2. INIU Power Bank 20000mAh 65W - Best Budget
 
-**SPP Score: 8.4 / 10** - 20000mAh with 65W USB-C, comfortably more than the Deck needs. Our value pick.
+**SPP Score: 9.0 / 10** - 20000mAh with 65W USB-C, comfortably more than the Deck needs. Our value pick.
 
-Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value
+
+What keeps it off a 10: You supply your own USB-C cable here, and while 65W easily covers the Deck it falls short of what a large laptop would want from a single bank. 8.9/10
 
 What keeps it off a 10: You supply your own USB-C cable here, and while 65W easily covers the Deck it falls short of what a large laptop would want from a single bank.
 
@@ -56,11 +60,13 @@ If you just want a dependable pack that charges the Deck while you play, the INI
 
 ---
 
-### 3. Anker Laptop Power Bank 25000mAh (Triple 100W) - Best Premium
+### 3. Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C) - Best Premium
 
-**SPP Score: 8.2 / 10** - 25000mAh with two built-in retractable USB-C cables plus a third USB-C port. Our pick for maximum capability.
+**SPP Score: 9.2 / 10** - 25000mAh with two built-in retractable USB-C cables plus a third USB-C port. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value
+
+What keeps it off a 10: At 25000mAh and 165W across three ports it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use. 8.9/10
 
 What keeps it off a 10: At 25000mAh and 165W across three ports it is far more pack than a Deck alone needs, which is why the balanced 20000mAh UGREEN takes the top spot for handheld use.
 
@@ -84,7 +90,7 @@ For the longest hauls, whether a flight, a festival or a full day of handheld pl
 
 ## Quick verdict
 
-For most Steam Deck owners the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the one to reach for: a built-in cable and enough headroom to keep the Deck and a phone going together. If you'd rather carry less, the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)** does the core job in the most compact body here, as long as you pack a cable. And for the longest sessions, the **[Anker Laptop Power Bank 25000mAh (Triple 100W)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** carries the most and brings its own cables, if you don't mind the weight. Docking the Deck to a TV as well? Our [best USB-C hub for Steam Deck](best-usb-c-hub-for-steam-deck.html) guide covers the other half of the setup.
+For most Steam Deck owners the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the one to reach for: a built-in cable and enough headroom to keep the Deck and a phone going together. If you'd rather carry less, the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)** does the core job in the most compact body here, as long as you pack a cable. And for the longest sessions, the **[Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** carries the most and brings its own cables, if you don't mind the weight. Docking the Deck to a TV as well? Our [best USB-C hub for Steam Deck](best-usb-c-hub-for-steam-deck.html) guide covers the other half of the setup.
 
 ## How we chose
 

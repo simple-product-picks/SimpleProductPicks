@@ -1,6 +1,6 @@
-# Best Power Bank Under 30 UK 2026
+# Best Budget Power Bank UK 2026
 
-In the under-30 bracket the real question is which corners get cut. Here it's mostly wattage and capacity headroom: all three picks are 10000mAh phone-first banks rather than laptop-class bricks. This guide covers what each does well and who each suits - including a MagSafe-style magnetic wireless option.
+In the budget bracket the real question is which corners get cut. Here it's mostly wattage and capacity headroom: all three picks are 10000mAh phone-first banks rather than laptop-class bricks. This guide covers what each does well and who each suits - including a MagSafe-style magnetic wireless option.
 
 ## Top picks
 
@@ -8,7 +8,9 @@ In the under-30 bracket the real question is which corners get cut. Here it's mo
 
 **SPP Score: 8.4 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
 
-Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.9/10 - Valu
+
+What keeps it off a 10: Its 10000mAh will not stretch to tablet recharges or multi-day trips, and the fast charging only helps devices that support PD or QC.e 8.9/10
 
 What keeps it off a 10: Its 10000mAh will not stretch to tablet recharges or multi-day trips, and the fast charging only helps devices that support PD or QC.
 
@@ -32,9 +34,11 @@ The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh c
 
 ### 2. Anker Zolo Power Bank 10000mAh 30W - Best Budget
 
-**SPP Score: 7.6 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
+**SPP Score: 8.2 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
 
-Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 7.9/10 - Versatility 7.5/10 - Build 8.8/10 - Valu
+
+What keeps it off a 10: Its integrated cable cannot be swapped out if it wears, which is the trade for never having to pack a lead.e 8.8/10
 
 What keeps it off a 10: Its integrated cable cannot be swapped out if it wears, which is the trade for never having to pack a lead.
 
@@ -58,9 +62,11 @@ The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependa
 
 ### 3. UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W) - Best Premium
 
-**SPP Score: 8.2 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
+**SPP Score: 8.0 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
 
-Scorecard: Capability 7/10 - Versatility 7/10 - Build 7/10 - Value 7/10
+Scorecard: Capability 8.0/10 - Versatility 8.0/10 - Build 8.0/10 - Valu
+
+What keeps it off a 10: Full magnetic alignment and speed depend on having a MagSafe-compatible iPhone, so Android owners gain nothing from the wireless side.e 8.0/10
 
 What keeps it off a 10: Full magnetic alignment and speed depend on having a MagSafe-compatible iPhone, so Android owners gain nothing from the wireless side.
 

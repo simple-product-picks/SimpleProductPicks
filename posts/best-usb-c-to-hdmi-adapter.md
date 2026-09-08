@@ -8,7 +8,9 @@ HDMI is the port TVs, projectors and meeting-room screens actually have, so a US
 
 **SPP Score: 8.9 / 10** - 4K at 60Hz over a single 0.9m braided lead. Our all-round pick.
 
-Scorecard: Capability 8/10 - Versatility 6/10 - Build 10/10 - Value 8/10
+Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 9.8/10 - Value
+
+What keeps it off a 10: HDMI output is the whole job here: no extra USB or card-reader ports, and your device has to charge separately. 8.9/10
 
 What keeps it off a 10: HDMI output is the whole job here: no extra USB or card-reader ports, and your device has to charge separately.
 
@@ -32,9 +34,11 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 
 ### 2. UGREEN USB C to HDMI Adapter 4K@60Hz - Best Budget
 
-**SPP Score: 8.0 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
+**SPP Score: 8.6 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
 
-Scorecard: Capability 8/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 8.8/10 - Versatility 7.9/10 - Build 8.8/10 - Valu
+
+What keeps it off a 10: It is a single-purpose adapter, so it will not replace a full docking hub or add the USB ports a bigger dongle brings.e 8.8/10
 
 What keeps it off a 10: It is a single-purpose adapter, so it will not replace a full docking hub or add the USB ports a bigger dongle brings.
 
@@ -58,9 +62,11 @@ The UGREEN USB C to HDMI Adapter is the no-frills option that still covers the s
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.6 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
+**SPP Score: 9.2 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
 
-Scorecard: Capability 8/10 - Versatility 9/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Valu
+
+What keeps it off a 10: Bulkier and heavier than a plain HDMI adapter, and most of its port list goes unused if HDMI is all you need.e 8.9/10
 
 What keeps it off a 10: Bulkier and heavier than a plain HDMI adapter, and most of its port list goes unused if HDMI is all you need.
 
