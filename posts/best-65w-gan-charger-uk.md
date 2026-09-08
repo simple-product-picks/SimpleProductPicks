@@ -47,7 +47,7 @@ The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug
 
 **Cons**
 - ✗ Two ports rather than three limits how many devices you can run at once
-- ✗ Output is split between the two ports when both are in use
+- ✗ 65W stops short of the larger gaming laptops that need a bigger plug
 
 **Who it's for:** Buyers who want a tidy, capable two-port charger for daily use and travel.
 **Who it's not for:** Anyone who needs to power three or more devices from a single plug.
