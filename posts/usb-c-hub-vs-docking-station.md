@@ -23,7 +23,7 @@ The Revodok Pro 210 leans into the docking-station side, making the dock camp's 
 
 **Cons**
 - ✗ Larger and less pocketable than a slim travel hub
-- ✗ The spare USB-C data port tops out at 5Gbps, so it's not the dock for fast external SSDs
+- ✗ Two USB-A ports only, so keyboard, mouse and a drive already fill it
 
 **Who it's for:** Anyone wanting one cable to run a full desk setup with display and wired Ethernet.
 **Who it's not for:** Frequent travellers who only need a port or two on the move.
@@ -48,7 +48,7 @@ This 7-in-1 Anker is the hub camp's best case: the everyday essentials with none
 - ✓ Compact 7-in-1 design travels well between desks
 
 **Cons**
-- ✗ Fewer ports than a full 10-in-1 docking station
+- ✗ No Ethernet port, so wired networking still means one of the other picks
 - ✗ Single HDMI limits multi-monitor setups
 
 **Who it's for:** Hybrid workers and students who want one tidy hub for a monitor and peripherals.
