@@ -20,7 +20,7 @@ The UGREEN USB C to DisplayPort 1.4 Adapter is the right call for most gaming-mo
 - ✓ Works with USB-C devices that support DisplayPort Alt Mode
 
 **Cons**
-- ✗ Your laptop or tablet must support DisplayPort Alt Mode for video to work
+- ✗ You still buy a DisplayPort cable separately, unlike the direct cable further down
 - ✗ Maximum resolution and refresh depend on your device's USB-C port capability, not just the adapter
 
 **Who it's for:** Anyone wanting a reliable, single-purpose USB-C to DisplayPort link for a high-refresh or 4K monitor.
