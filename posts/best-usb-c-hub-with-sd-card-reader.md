@@ -22,7 +22,7 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 **Cons**
 - ✗ More ports than some users need, which adds a little bulk over a single-purpose reader
-- ✗ No Ethernet port, so wired networking still needs a separate adapter
+- ✗ Its reader is rated 170MB/s, so quicker cards gain nothing through this hub
 
 **Who it's for:** Photographers and laptop users who want fast card reads plus display and drive connections from one hub.
 **Who it's not for:** Anyone who only needs a bare SD reader and nothing else.
