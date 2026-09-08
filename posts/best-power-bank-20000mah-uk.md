@@ -6,9 +6,11 @@ A 20000mAh power bank is the sweet spot for UK travellers and heavy phone users:
 
 ### 1. INIU Power Bank 20000mAh 65W - Best Overall
 
-**SPP Score: 9.0 / 10** - 20000mAh capacity, 65W USB-C output, three outputs in an ultra-compact laptop-capable body. Our all-round pick.
+**SPP Score: 9.2 / 10** - 20000mAh capacity, 65W USB-C output, three outputs in an ultra-compact laptop-capable body. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10
+Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
+
+Fit for this guide: This guide asks for 20000mAh you can carry all day, and 65W across three outputs covers phone and tablet.
 
 What keeps it off a 10: 65W will not fast-charge the most demanding full-size laptops, which matters if your machine draws more than this bank supplies.
 
@@ -21,7 +23,7 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want. The
 - ✓ Ultra-compact body is easy to carry for the capacity and wattage on offer
 
 **Cons**
-- ✗ 65W is not enough to fast-charge the most demanding full-size laptops
+- ✗ Only one USB-C port, so a second modern device falls back to the slower USB-A outputs
 - ✗ Larger and heavier than a slim 10000mAh pocket bank
 
 **Who it's for:** Phone, tablet, and light-laptop users who want one compact bank that fast-charges several devices and lasts all day.
@@ -33,9 +35,11 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want. The
 
 ### 2. INIU Power Bank 20000mAh 45W - Best Budget
 
-**SPP Score: 8.7 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
+**SPP Score: 8.9 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
 
-Scorecard: Capability 9.2/10 - Versatility 7.8/10 - Build 8.7/10 - Value 8.7/10
+Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
+
+Fit for this guide: The same 20000mAh in a slim body, with 45W USB-C sized for phone and tablet charging.
 
 What keeps it off a 10: Laptops charge slowly or not at all from its 45W ceiling, and refilling the cell from empty still takes time.
 
@@ -62,7 +66,9 @@ The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wan
 
 **SPP Score: 8.5 / 10** - 20000mAh capacity, 145W output, 80W input, built-in USB-C cable and three-port output. Our pick for maximum capability.
 
-Scorecard: Capability 9.6/10 - Versatility 6.9/10 - Build 8.3/10 - Value 8.7/10
+Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.0/10
+
+Fit for this guide: 145W output and a built-in cable go past what a general 20000mAh guide asks, suiting laptop users.
 
 What keeps it off a 10: You only reach its top recharge speed with a charger that can actually supply the full 80W input, and it is bigger than lower-wattage banks.
 
@@ -76,7 +82,7 @@ The UGREEN Nexode Power Bank 20000mAh 145W is built for people who charge laptop
 
 **Cons**
 - ✗ Bigger and heavier than lower-wattage banks
-- ✗ To reach top recharge speeds you need a charger that can actually supply the full 80W input
+- ✗ Its built-in USB-C cable cannot be swapped out if it wears
 
 **Who it's for:** Laptop users and frequent travellers who want one high-wattage bank to power everything at speed.
 **Who it's not for:** Light users who only ever charge a phone and want the smallest possible bank.
