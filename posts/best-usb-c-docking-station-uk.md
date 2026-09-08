@@ -23,7 +23,7 @@ The Anker Nano is the dock we'd point most people at now. Anker's 13-in-1 count 
 
 **Cons**
 - ✗ Desk-bound by design - the dock itself isn't something you carry
-- ✗ Anker pitches extended triple display at Windows; Macs mirror on some setups
+- ✗ Power delivery stops at 100W, so the hungriest laptops still need their own charger
 
 **Who it's for:** Anyone building a permanent multi-monitor desk who wants one cable to run everything - and a hub to take away.
 **Who it's not for:** Travellers or single-screen users who'd be better served by a compact hub alone.
@@ -74,7 +74,7 @@ If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of 
 - ✓ Three Thunderbolt 4 ports plus 90W charging handle a full professional setup
 
 **Cons**
-- ✗ Needs a Thunderbolt-capable laptop to unlock its full bandwidth
+- ✗ UGREEN rates it for two 4K screens, so a three-monitor desk wants the triple-display pick
 - ✗ Overkill for everyday office work and a bigger outlay than most desks require
 
 **Who it's for:** Creative professionals and power users with Thunderbolt laptops and demanding, high-bandwidth workflows.
