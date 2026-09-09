@@ -95,7 +95,7 @@ We compared cables on the specs that decide whether your setup actually works: c
 ## FAQ
 
 **Q: What is the difference between a Thunderbolt 4 cable and a USB4 cable?**
-A: Thunderbolt 4 is Intel's certified implementation of the USB4 standard, so a certified cable guarantees the full feature set. A good USB4 cable can match those numbers on paper and usually works identically, but you are trusting the manufacturer's spec sheet rather than an independent certification.
+A: Thunderbolt 4 is Intel's certified implementation of the USB4 standard, so a certified cable guarantees the full feature set. A good USB4 cable can match those numbers on paper and usually works identically, but you are trusting the manufacturer's spec sheet rather than an independent certification. Our [USB4 vs Thunderbolt 4 explainer](usb4-vs-thunderbolt-4-explained.html) sets out exactly which features each standard guarantees and which it leaves optional.
 
 **Q: Will a Thunderbolt 4 cable work with my non-Thunderbolt laptop?**
 A: Yes. These cables are backwards compatible, so on a regular USB-C laptop they simply run at whatever speed and charging level the laptop supports. It's a way of buying once and covering future upgrades.
