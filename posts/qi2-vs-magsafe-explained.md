@@ -28,7 +28,7 @@ Qi2 casts wider. It brings the magnetic snap to any phone built to the standard,
 
 ## Which should you buy?
 
-For an iPhone, stop worrying about the label. A Qi2-certified charger and an Apple-branded MagSafe one behave the same, so choose on the things you can actually see. The shape, and whether it stands the phone up or lays it flat. What comes in the box, cable included. And the wall adapter you pair it with, because that's what sets your real speed. Our [MagSafe power bank guide](best-magsafe-power-bank-uk.html) and [MagSafe car charger guide](best-magsafe-car-charger-uk.html) pick specific ones on exactly those terms.
+For an iPhone, stop worrying about the label. A Qi2-certified charger and an Apple-branded MagSafe one behave the same, so choose on the things you can actually see. The shape, and whether it stands the phone up or lays it flat. What comes in the box, cable included. And the wall adapter you pair it with, because that's what sets your real speed. Our [MagSafe power bank guide](best-magsafe-power-bank-uk.html) and [MagSafe car charger guide](best-magsafe-car-charger-uk.html) pick specific ones on exactly those terms, and if you want one base for an iPhone, an Apple Watch and AirPods together, our [3-in-1 wireless charger guide](best-3-in-1-wireless-charger-uk.html) covers those.
 
 On Android the question changes shape. Check first whether your phone carries the magnet ring itself, because that decides whether you are buying a charger or a charger and a magnetic case to go with it. Either way a Qi2 pad is the safer buy than an Apple-branded MagSafe one, which will still charge the phone but is built around a fit your handset may not have.
 

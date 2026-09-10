@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.co.uk/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent UK buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon UK listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 09 Sep 2026 10:27:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 10:30:20 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.co.uk/posts_html/best-100w-gan-charger-uk.html</link>
@@ -251,6 +251,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/usb4-vs-thunderbolt-4-explained.html</guid>
     <pubDate>Wed, 09 Sep 2026 08:00:00 +0000</pubDate>
     <description>Usb4 vs thunderbolt 4 in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
+  </item>
+  <item>
+    <title>Best 3-in-1 Wireless Charger UK 2026</title>
+    <link>https://simpleproductpicks.co.uk/posts_html/best-3-in-1-wireless-charger-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-3-in-1-wireless-charger-uk.html</guid>
+    <pubDate>Thu, 10 Sep 2026 08:00:00 +0000</pubDate>
+    <description>Best 3 in 1 wireless charger in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
   </item>
 </channel>
 </rss>

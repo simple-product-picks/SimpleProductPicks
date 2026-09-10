@@ -12,8 +12,9 @@ powerbanks.jpg  Steve A Johnson   https://www.pexels.com/photo/closed-up-photogr
 cables.jpg      Nic Wood         https://www.pexels.com/photo/usb-2-cable-28042833/
 adapters.jpg    https://kaboompics.com/   https://www.pexels.com/photo/set-of-modern-port-adapters-on-black-surface-4219861/
 
-# Per-post heroes (Pexels, updated 2026-09-09 via fetch_pexels_heroes.py)
+# Per-post heroes (Pexels, updated 2026-09-10 via fetch_pexels_heroes.py)
 posts/best-100w-gan-charger-uk.jpg  Саша Алалыкин  https://www.pexels.com/photo/many-chargers-are-connected-to-an-electrical-outlet-on-a-white-background-16886334/
+posts/best-3-in-1-wireless-charger-uk.jpg  Matt Ho  https://www.pexels.com/photo/top-view-of-an-iphone-lying-on-an-inductive-charger-15921116/
 posts/best-65w-gan-charger-uk.jpg  https://kaboompics.com/  https://www.pexels.com/photo/laptop-smart-phone-and-charge-on-table-5208870/
 posts/best-charger-for-iphone-17-uk.jpg  ready made  https://www.pexels.com/photo/white-adapter-on-white-surface-3921628/
 posts/best-charger-for-samsung-s24-uk.jpg  Markus Winkler  https://www.pexels.com/photo/white-adapter-on-blue-surface-4097204/
