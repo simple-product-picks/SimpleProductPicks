@@ -96,7 +96,7 @@ An iPad Pro hub stands or falls on a few specs: power delivery wattage to keep t
 A: Hubs with a standard HDMI output, like these picks, can generally drive an external monitor on a USB-C iPad Pro. Always confirm display behaviour for your specific iPadOS version, as features such as Stage Manager can vary by model and software.
 
 **Q: Can the hub charge my iPad Pro while it is connected to a monitor?**
-A: Yes, each pick offers USB-C power delivery pass-through, so your iPad can charge while the hub runs your display and accessories. The wattage available depends on the model.
+A: Yes, each pick offers USB-C power delivery pass-through, so your iPad can charge while the hub runs your display and accessories. The wattage available depends on the model. If you would rather charge the iPad from a wall plug sized for it, our [iPad charger guide](best-usb-c-charger-for-ipad-uk.html) picks for that.
 
 **Q: Do I need the 10Gbps ports?**
 A: Only if you regularly move large files to and from an external SSD; for everyday document, photo and HDMI use, the standard-speed ports on the overall or budget pick are plenty.
