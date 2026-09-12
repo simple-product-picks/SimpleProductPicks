@@ -93,7 +93,7 @@ Charging a Galaxy S24 well comes down to a short list: total wattage, number of 
 ## FAQ
 
 **Q: How many watts does a Samsung Galaxy S24 need to fast-charge?**
-A: The S24 fast-charges over USB-C Power Delivery, and all three picks here supply far more wattage than a phone on its own will draw, so the phone is the limiting factor rather than the plug.
+A: The S24 fast-charges over USB-C Power Delivery, and all three picks here supply far more wattage than a phone on its own will draw, so the phone is the limiting factor rather than the plug. Charging in the car is a different problem, because the socket's fuse caps what any plug can deliver; our [USB-C car charger guide](best-usb-c-car-charger-uk.html) covers that separately.
 
 **Q: What is a GaN charger and why does it matter?**
 A: GaN (gallium nitride) lets a charger deliver high wattage in a smaller, cooler-running body than older silicon designs, which is why these plugs stay compact despite their power.

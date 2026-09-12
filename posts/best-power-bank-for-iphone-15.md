@@ -99,7 +99,7 @@ A: More than one, but how much more depends on energy lost as heat and on whethe
 A: No. Both the 22.5W INIU and the 30W Nano fast-charge an iPhone 15 over USB-C Power Delivery. What the Nano's extra output buys is a quicker top-up and headroom for a tablet or a future phone, and it is the one with a cable built in, which is why it leads here.
 
 **Q: What is Qi2 and is it the same as MagSafe?**
-A: Qi2 is a wireless charging standard that uses magnetic alignment similar to Apple's MagSafe, letting a compatible pack snap onto the back of an iPhone 15 for cable-free charging. Our premium MagGo pick is exactly that: Qi2-certified magnetic wireless. If magnetic charging is the whole point for you, our [MagSafe power bank guide](best-magsafe-power-bank-uk.html) compares three across the 15W and 25W classes.
+A: Qi2 is a wireless charging standard that uses magnetic alignment similar to Apple's MagSafe, letting a compatible pack snap onto the back of an iPhone 15 for cable-free charging. Our premium MagGo pick is exactly that: Qi2-certified magnetic wireless. For what each name actually means and where they differ, see our [Qi2 vs MagSafe explainer](qi2-vs-magsafe-explained.html). If magnetic charging is the whole point for you, our [MagSafe power bank guide](best-magsafe-power-bank-uk.html) compares three across the 15W and 25W classes.
 
 ---
 

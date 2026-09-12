@@ -99,7 +99,7 @@ At 20000mAh the capacity question is already settled, so we judged on the rest: 
 A: Yes, in hand luggage rather than a checked bag. Check the watt-hour figure printed on the bank against your own airline's limit before you fly, since airlines set their own. Flying long-haul often? Our [power banks for long flights guide](best-power-bank-for-long-flights.html) picks specifically for cabin use.
 
 **Q: What does the wattage (65W or 145W) actually change?**
-A: Higher wattage means faster charging and the ability to power more demanding devices like laptops; 65W is ample for phones, tablets, and smaller laptops, while 145W is aimed at more demanding USB-C laptops.
+A: Higher wattage means faster charging and the ability to power more demanding devices like laptops; 65W is ample for phones, tablets, and smaller laptops, while 145W is aimed at more demanding USB-C laptops. If a laptop is the main thing you need to charge, our [power bank for laptops guide](best-power-bank-for-laptops-uk.html) compares that class on its own.
 
 **Q: How many times will a 20000mAh bank recharge my phone?**
 A: As a rough guide it can give a typical smartphone several full recharges, though real-world results depend on your phone's battery size and charging losses.

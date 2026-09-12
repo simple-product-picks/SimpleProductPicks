@@ -99,7 +99,7 @@ A: Yes, all three connect via USB-C and are designed to work with the M1 Air, in
 A: Yes, each pick offers pass-through Power Delivery, so you connect your charger to the hub's USB-C PD port and power the laptop through the same connection.
 
 **Q: Do I need one with Ethernet?**
-A: Only if you want a wired network connection; if you rely on Wi-Fi, the overall pick without Ethernet may suit you better, otherwise choose the budget or premium hub.
+A: Only if you want a wired network connection; if you rely on Wi-Fi, the overall pick without Ethernet may suit you better, otherwise choose the budget or premium hub. If your desk runs two external screens, not every hub can drive both at once; our [dual-monitor hub guide](best-usb-c-hub-for-dual-monitors.html) covers the ones that can.
 
 ---
 

@@ -98,7 +98,7 @@ A long flight sets its own test: real capacity in mAh for multiple recharges, ou
 A: Spare lithium batteries and power banks must travel in your cabin baggage, never in checked luggage. Check the watt-hour figure printed on the bank against your own airline's limit before you fly, since airlines set their own.
 
 **Q: What capacity power bank do I need for a long flight?**
-A: A 20000mAh pack will recharge most phones several times over a long-haul journey, while a larger 25000mAh pack makes sense if you're charging tablets or a laptop too. For everyday non-flight use, see our [20000mAh power bank guide](best-power-bank-20000mah-uk.html).
+A: A 20000mAh pack will recharge most phones several times over a long-haul journey, while a larger 25000mAh pack makes sense if you're charging tablets or a laptop too. For everyday non-flight use, see our [20000mAh power bank guide](best-power-bank-20000mah-uk.html). If a short hop only needs the phone topped up once, a cheaper 10000mAh pack from our [budget power bank guide](best-power-bank-under-30-uk.html) will do the job.
 
 **Q: Can a power bank charge a laptop on a flight?**
 A: Only higher-wattage banks with enough output, such as the 87W and 220W models here, can charge most laptops; lower-output packs are better suited to phones and tablets. For a guide focused on charging a laptop specifically, see our [best power bank for laptops](best-power-bank-for-laptops-uk.html) picks.
