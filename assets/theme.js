@@ -163,6 +163,34 @@
     }
   }
 
+  // North American visitors -> Amazon.com search links (operator 2026-09-12). OneLink's Link
+  // Stores step fails on Amazon's side, so until it links: a browser whose clock sits in a North
+  // American timezone gets every Amazon UK product link rewritten to an amazon.com SEARCH for the
+  // pick's exact listing name, tagged with the family's US Associates ID. The timezone is read
+  // locally (no request, no cookie, nothing stored); every other visitor keeps the UK links.
+  var US_TAG = "simpleprodu06-20";
+  var tz = "";
+  try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
+  if (/^(America\/|US\/|Pacific\/Honolulu)/.test(tz)) {
+    var amz = Array.prototype.slice.call(document.querySelectorAll('a[href*="amazon.co.uk/dp/"]'));
+    var asinOf = function (a) {
+      var m = (a.getAttribute("href") || "").match(/\/dp\/([A-Z0-9]{10})/);
+      return m ? m[1] : "";
+    };
+    var names = {};
+    amz.forEach(function (a) {
+      var asin = asinOf(a), t = (a.textContent || "").trim();
+      if (asin && t.length > 12 && !/^check price/i.test(t) && !names[asin]) names[asin] = t;
+    });
+    amz.forEach(function (a) {
+      var q = names[asinOf(a)];
+      if (!q) return;
+      a.setAttribute("href", "https://www.amazon.com/s?k=" + encodeURIComponent(q) + "&tag=" + US_TAG);
+      a.setAttribute("data-us-search", "1");
+      if (/Amazon UK/.test(a.textContent || "")) a.textContent = a.textContent.replace("Amazon UK", "Amazon.com");
+    });
+  }
+
   // Skip link (a11y) - first focusable element
   var skip = document.createElement("a");
   skip.className = "skip-link";
