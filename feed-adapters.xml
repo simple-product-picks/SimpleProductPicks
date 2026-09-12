@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.co.uk/feed-adapters.xml" rel="self" type="application/rss+xml" />
   <description>UK buying guides for USB-C to HDMI, DisplayPort, ethernet and audio adapters. Every link verified against the live Amazon UK listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 13 Jul 2026 09:00:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 10:23:06 +0000</lastBuildDate>
   <item>
     <title>Best USB C To HDMI Adapter UK 2026</title>
     <link>https://simpleproductpicks.co.uk/posts_html/best-usb-c-to-hdmi-adapter.html</link>
@@ -34,6 +34,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-usb-c-ethernet-adapter.html</guid>
     <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
     <description>Best usb c ethernet adapter in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
+  </item>
+  <item>
+    <title>Best USB-C SD Card Reader UK 2026</title>
+    <link>https://simpleproductpicks.co.uk/posts_html/best-usb-c-sd-card-reader-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-usb-c-sd-card-reader-uk.html</guid>
+    <pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
+    <description>Best usb c sd card reader in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
   </item>
 </channel>
 </rss>

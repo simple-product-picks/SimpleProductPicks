@@ -96,7 +96,7 @@ A card-reader hub lives or dies by a short list: SD and microSD card support and
 ## FAQ
 
 **Q: Will a USB-C hub read my camera's SD card fast enough?**
-A: For most photo and video work a dedicated hub reader handles offloads comfortably; the UGREEN here lists a 170MB/s reader, which suits larger transfers. Check the current details on Amazon UK for the model you choose.
+A: For most photo and video work a dedicated hub reader handles offloads comfortably; the UGREEN here lists a 170MB/s reader, which suits larger transfers. Check the current details on Amazon UK for the model you choose. If cards are the only job and you do not need the display and USB ports, a dedicated reader is smaller and a UHS-II one reads faster; see our [USB-C SD card reader guide](best-usb-c-sd-card-reader-uk.html).
 
 **Q: Can I charge my laptop through one of these hubs?**
 A: Many USB-C hubs support power delivery pass-through so you can run a single cable to your laptop while cards, displays and drives stay connected. Check each product's listing on Amazon UK to confirm its charging support.
