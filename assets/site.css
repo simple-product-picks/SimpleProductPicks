@@ -57,6 +57,19 @@ body {
 }
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; }
+/* Prose links read as links without hovering (operator 2026-09-12): a plain <a> that is a direct
+   child of a paragraph or list item in body copy or on the trust pages. Buttons and badges carry a
+   class and bold pick-name links sit inside <strong>, so neither is touched. */
+.content p > a:not([class]), .content li > a:not([class]), .page-card p > a:not([class]), .page-card li > a:not([class]) {
+  color: var(--blue-dark); text-decoration: underline; text-decoration-thickness: 1px;
+  text-underline-offset: 3px; text-decoration-color: rgba(37,99,235,.45);
+}
+.content p > a:not([class]):hover, .content li > a:not([class]):hover,
+.page-card p > a:not([class]):hover, .page-card li > a:not([class]):hover { text-decoration-color: currentColor; }
+[data-theme="dark"] .content p > a:not([class]), [data-theme="dark"] .content li > a:not([class]),
+[data-theme="dark"] .page-card p > a:not([class]), [data-theme="dark"] .page-card li > a:not([class]) {
+  color: #93b4ff; text-decoration-color: rgba(147,180,255,.5);
+}
 :focus-visible { outline: none; box-shadow: var(--ring); border-radius: 4px; }
 ::selection { background: var(--blue-mid); color: var(--blue-ink); }
 @media (prefers-reduced-motion: reduce) {
