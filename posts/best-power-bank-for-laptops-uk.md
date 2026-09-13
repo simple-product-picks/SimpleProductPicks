@@ -93,7 +93,7 @@ Charging a laptop comes down to two numbers: how many watts the pack can push do
 ## FAQ
 
 **Q: Can a power bank charge a laptop?**
-A: Yes, as long as it has a USB-C Power Delivery port with enough wattage. Most ultrabooks charge happily from a 100W port, while a 16-inch MacBook Pro can draw up to 140W, so match the pack's output to your machine.
+A: Yes, as long as it has a USB-C Power Delivery port with enough wattage. Most ultrabooks charge happily from a 100W port, while a 16-inch MacBook Pro can draw up to 140W, so match the pack's output to your machine. Our [guide to charging a laptop from a power bank](charge-laptop-with-power-bank-explained.html) walks through what to check on the label before you buy.
 
 **Q: What wattage power bank do I need for a MacBook Pro?**
 A: Apple's top listed adapter for the 14-inch MacBook Pro is 96W, so a 100W pack covers it. Apple lists 140W for the 16-inch, so that machine needs a pack with a 140W USB-C output to charge at full speed.
