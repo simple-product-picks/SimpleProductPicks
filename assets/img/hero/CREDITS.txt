@@ -48,8 +48,8 @@ posts/best-usb-c-sd-card-reader-uk.jpg  Eyüpcan Timur  https://www.pexels.com/p
 posts/best-usb-c-to-aux-adapter.jpg  Jess Bailey Designs  https://www.pexels.com/photo/apple-earpods-983831/
 posts/best-usb-c-to-displayport-adapter.jpg  Caleb Oquendo  https://www.pexels.com/photo/crop-hand-with-flash-drive-7772543/
 posts/best-usb-c-to-hdmi-adapter.jpg  Srattha Nualsate  https://www.pexels.com/photo/close-up-shot-of-an-hdmi-cable-12997230/
-posts/charge-laptop-with-power-bank-explained.jpg  Lukas Blazek  https://www.pexels.com/photo/black-solar-power-bank-on-brown-surface-518530/
-posts/power-bank-flight-rules-uk.jpg  Peggy_Marco  https://pixabay.com/photos/battery-pack-charger-mobile-1049667/ (Pixabay)
+posts/charge-laptop-with-power-bank-explained.jpg  owned (operator-made image, charge-laptop-with-power-bank-explained_owned.png)
+posts/power-bank-flight-rules-uk.jpg  StockSnap  https://pixabay.com/photos/airplane-window-wing-flight-travel-2619434/ (Pixabay)
 posts/qi2-vs-magsafe-explained.jpg  Mateusz Haberny  https://www.pexels.com/photo/magsafe-iphone-stand-oakywood-19238582/
 posts/usb-c-hub-vs-docking-station.jpg  Munzimus_Octavius  https://commons.wikimedia.org/wiki/File:SurfaceDock.jpg  [Wikimedia Commons, CC BY 4.0, https://creativecommons.org/licenses/by/4.0]
 posts/usb4-vs-thunderbolt-4-explained.jpg  Eric Feng  https://www.pexels.com/photo/a-close-up-shot-of-laptop-ports-10843994/
