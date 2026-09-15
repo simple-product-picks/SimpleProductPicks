@@ -28,7 +28,7 @@ The rest of the Thunderbolt 4 checklist is convenience and safety that USB4 does
 
 You can't judge it by looking at the socket, since both wear USB-C. Look for the marks instead. A small lightning-bolt symbol beside a port means Thunderbolt. A plain USB-C port with no bolt may still be USB4, so the reliable way to know is to read your laptop's spec sheet and look for the word "USB4" and a Gbps figure next to it.
 
-It's genuinely common now to own USB4 without a badge announcing it, especially on recent laptops that don't use Intel's Thunderbolt branding. And the cable matters as much as the ports: a cheap unmarked USB-C lead can be charge-only and will quietly throttle data and video even between two 40Gbps ports. Look for a cable that states 40Gbps or carries the Thunderbolt mark.
+It's genuinely common now to own USB4 without a badge announcing it, especially on recent laptops that don't use Intel's Thunderbolt branding. And the cable matters as much as the ports: a cheap unmarked USB-C lead can be charge-only and will quietly throttle data and video even between two 40Gbps ports, which is the same trap that leaves a [USB-C cable unable to drive a monitor](usb-c-cable-for-monitor-explained.html). Look for a cable that states 40Gbps or carries the Thunderbolt mark.
 
 ## Buying: match the port to the job, not the badge
 
