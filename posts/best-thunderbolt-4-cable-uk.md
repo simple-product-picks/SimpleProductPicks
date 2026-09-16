@@ -101,7 +101,7 @@ A: Thunderbolt 4 is Intel's certified implementation of the USB4 standard, so a 
 A: Yes. These cables are backwards compatible, so on a regular USB-C laptop they simply run at whatever speed and charging level the laptop supports. It's a way of buying once and covering future upgrades.
 
 **Q: Why are most fast cables so short?**
-A: Passive cables lose signal quality as they get longer, so full 40Gbps passive leads are usually kept to a metre or less. Longer full-speed runs need an active cable with signal electronics in the connectors, which is what the premium pick here is for.
+A: Passive cables lose signal quality as they get longer, so full 40Gbps passive leads are usually kept to a metre or less. Longer full-speed runs need an active cable with signal electronics in the connectors, which is what the premium pick here is for. Our [Thunderbolt 4 cable length guide](thunderbolt-4-cable-length-explained.html) explains how far a cable holds full speed and when the jump to an active lead is worth it.
 
 ---
 
