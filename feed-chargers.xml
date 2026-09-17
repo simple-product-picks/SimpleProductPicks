@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.co.uk/feed-chargers.xml" rel="self" type="application/rss+xml" />
   <description>UK buying guides for USB-C and GaN chargers. Every link verified against the live Amazon UK listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 11 Sep 2026 10:37:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 10:16:07 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.co.uk/posts_html/best-100w-gan-charger-uk.html</link>
@@ -83,6 +83,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-usb-c-charger-for-ipad-uk.html</guid>
     <pubDate>Fri, 11 Sep 2026 08:00:00 +0000</pubDate>
     <description>Best usb c charger for ipad in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
+  </item>
+  <item>
+    <title>GaN Chargers Explained</title>
+    <link>https://simpleproductpicks.co.uk/posts_html/gan-chargers-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/gan-chargers-explained.html</guid>
+    <pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
+    <description>Gan charger in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
   </item>
 </channel>
 </rss>

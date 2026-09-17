@@ -93,7 +93,7 @@ In the 65W class the gaps are small but real, so we compared: real output in the
 ## FAQ
 
 **Q: What is a GaN charger and why does it matter?**
-A: GaN (gallium nitride) is a semiconductor material that runs more efficiently than older silicon, so a GaN charger can deliver the same wattage in a much smaller, cooler-running body, which is ideal for travel and tidy desks.
+A: [GaN (gallium nitride)](gan-chargers-explained.html) is a semiconductor material that runs more efficiently than older silicon, so a GaN charger can deliver the same wattage in a much smaller, cooler-running body, which is ideal for travel and tidy desks.
 
 **Q: Will a 65W charger fast-charge my laptop?**
 A: Many thin-and-light laptops, phones and tablets charge happily from a 65W USB-C charger, but always check your device's own charging requirements, as some larger or gaming laptops need more wattage; our [100W GaN charger guide](best-100w-gan-charger-uk.html) covers that step up.

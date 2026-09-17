@@ -12,7 +12,7 @@ Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: Carry-on charging wants one plug for laptop and phone, and 65W across three ports folds flat.
 
-The UGREEN Nexode delivers 65W across three ports, so it can serve as a single charger for a laptop plus a phone and one more device on the move. With two USB-C ports and one USB-A, it takes modern and older cables alike, and the foldable UK plug tucks flat into a bag. GaN (gallium nitride) internals keep it compact and cooler than an older silicon brick, while PD 3.0 and PPS support means it can fast-charge a wide range of phones and ultrabooks.
+The UGREEN Nexode delivers 65W across three ports, so it can serve as a single charger for a laptop plus a phone and one more device on the move. With two USB-C ports and one USB-A, it takes modern and older cables alike, and the foldable UK plug tucks flat into a bag. [GaN (gallium nitride)](gan-chargers-explained.html) internals keep it compact and cooler than an older silicon brick, while PD 3.0 and PPS support means it can fast-charge a wide range of phones and ultrabooks.
 
 **Pros**
 - ✓ 65W output can charge many ultrabooks alongside a phone
