@@ -1,6 +1,6 @@
-# Best Power Bank 20000mAh UK 2026
+# Best Power Bank 20000mAh 2026
 
-A 20000mAh power bank is the sweet spot for UK travellers and heavy phone users: enough capacity for several full phone top-ups or a tablet recharge, while still being light enough to carry all day. This guide covers three solid picks for different needs, whether you want a compact all-rounder, a sensible value option, or a high-wattage laptop-capable powerhouse.
+A 20000mAh power bank is the sweet spot for travellers and heavy phone users: enough capacity for several full phone top-ups or a tablet recharge, while still being light enough to carry all day. This guide covers three solid picks for different needs, whether you want a compact all-rounder, a sensible value option, or a high-wattage laptop-capable powerhouse.
 
 ## Top picks
 
@@ -91,7 +91,7 @@ For most people the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp
 
 ## How we chose
 
-At 20000mAh the capacity question is already settled, so we judged on the rest: USB-C wattage for charging speed, the range of devices each can realistically power, port count and versatility, and overall portability for UK travel and commuting. We weighed brand track record and everyday value alongside those specs. All three go straight to their Amazon UK listings, so you can weigh the jump from 45W to 65W to 145W against what each costs today.
+At 20000mAh the capacity question is already settled, so we judged on the rest: USB-C wattage for charging speed, the range of devices each can realistically power, port count and versatility, and overall portability for travel and commuting. We weighed brand track record and everyday value alongside those specs. All three link straight to Amazon, so you can weigh the jump from 45W to 65W to 145W against what each costs today.
 
 ## FAQ
 

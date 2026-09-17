@@ -1,4 +1,4 @@
-# Best Power Bank For Long Flights UK 2026
+# Best Power Bank For Long Flights 2026
 
 Long-haul travel drains devices fast, and most aircraft seats give you nothing reliable to plug into. This guide covers three power banks that keep your phone, tablet, and even a laptop topped up across an entire long flight. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits.
 
@@ -90,7 +90,7 @@ For most long-haul travellers, the **[Anker Power Bank 25000mAh Travel Essential
 
 ## How we chose
 
-A long flight sets its own test: real capacity in mAh for multiple recharges, output wattage and port count for charge speed and running several devices at once, and whether the pack fits comfortably within the spare-battery rules airlines apply to cabin baggage. We also weighed portability and how well each pick suits UK travellers heading on long-haul routes. Every link lands on the Amazon UK listing, where you can double-check the watt-hour figure against your airline's cabin rules before you fly.
+A long flight sets its own test: real capacity in mAh for multiple recharges, output wattage and port count for charge speed and running several devices at once, and whether the pack fits comfortably within the spare-battery rules airlines apply to cabin baggage. We also weighed portability and how well each pick suits travellers heading on long-haul routes. Every link goes to Amazon, where you can double-check the watt-hour figure against your airline's cabin rules before you fly.
 
 ## FAQ
 
