@@ -196,7 +196,7 @@
       var note = document.createElement("p");
       note.className = "us-note muted";
       note.style.cssText = "margin:0 0 16px;padding:10px 14px;border:1px solid currentColor;border-radius:10px;font-size:0.95rem";
-      note.textContent = "Shopping from the US or Canada? The buttons on this page open Amazon.com and search for each pick by name. We check every pick against its Amazon UK listing, so confirm the model and spec on the Amazon.com page before you buy.";
+      note.textContent = "Shopping from the US or Canada? The buttons on this page open Amazon.com and search for each pick by name. Models can differ by region, so confirm the model and spec on the Amazon.com page before you buy.";
       mainEl.insertBefore(note, mainEl.firstChild);
     }
   }
