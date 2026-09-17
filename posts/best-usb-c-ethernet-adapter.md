@@ -139,4 +139,4 @@ A: Usually. USB-C iPads, Chromebooks and most current Android phones and tablets
 
 ---
 
-*Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.co.uk/disclosure.html) for details.*
+*Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.com/disclosure.html) for details.*

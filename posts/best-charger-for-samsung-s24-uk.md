@@ -103,4 +103,4 @@ A: Sometimes, as not every charger includes a cable. Use a quality USB-C to [USB
 
 ---
 
-*Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.co.uk/disclosure.html) for details.*
+*Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.com/disclosure.html) for details.*

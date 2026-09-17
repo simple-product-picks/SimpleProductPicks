@@ -103,4 +103,4 @@ A: The UGREEN Nexode and the Anker Zolo here have a built-in USB-C cable, so a l
 
 ---
 
-*Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.co.uk/disclosure.html) for details.*
+*Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.com/disclosure.html) for details.*

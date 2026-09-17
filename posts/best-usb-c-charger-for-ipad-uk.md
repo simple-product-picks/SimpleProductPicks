@@ -109,4 +109,4 @@ A: No. The iPad and the charger agree the power between them over USB-C Power De
 
 ---
 
-*Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.co.uk/disclosure.html) for details.*
+*Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.com/disclosure.html) for details.*

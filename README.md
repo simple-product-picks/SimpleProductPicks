@@ -3,7 +3,7 @@
 Independent UK buying guides for tech accessories - USB-C chargers, hubs and docks,
 power banks, cables and adapters.
 
-**Live site: https://simpleproductpicks.co.uk/**
+**Live site: https://simpleproductpicks.com/**
 
 ## What this is
 
@@ -14,13 +14,13 @@ anyone else's ratings. No prices, no star ratings, no sponsored placements.
 
 Popular guides:
 
-- [Best 65W GaN Charger UK](https://simpleproductpicks.co.uk/posts_html/best-65w-gan-charger-uk.html)
-- [Best Power Bank 20000mAh UK](https://simpleproductpicks.co.uk/posts_html/best-power-bank-20000mah-uk.html)
-- [Best USB-C Hub for MacBook Air M1](https://simpleproductpicks.co.uk/posts_html/best-usb-c-hub-for-macbook-air-m1.html)
-- [USB-C Hub vs Docking Station](https://simpleproductpicks.co.uk/posts_html/usb-c-hub-vs-docking-station.html)
-- [All 25 guides](https://simpleproductpicks.co.uk/posts.html)
+- [Best 65W GaN Charger UK](https://simpleproductpicks.com/posts_html/best-65w-gan-charger-uk.html)
+- [Best Power Bank 20000mAh UK](https://simpleproductpicks.com/posts_html/best-power-bank-20000mah-uk.html)
+- [Best USB-C Hub for MacBook Air M1](https://simpleproductpicks.com/posts_html/best-usb-c-hub-for-macbook-air-m1.html)
+- [USB-C Hub vs Docking Station](https://simpleproductpicks.com/posts_html/usb-c-hub-vs-docking-station.html)
+- [All 25 guides](https://simpleproductpicks.com/posts.html)
 
-How we score: https://simpleproductpicks.co.uk/how-we-test.html
+How we score: https://simpleproductpicks.com/how-we-test.html
 
 ## Tech
 
@@ -32,4 +32,4 @@ a deterministic build pipeline that renders content at build time.
 
 Some links on the site are Amazon UK affiliate links; as an Amazon Associate the site
 earns from qualifying purchases, at no extra cost to the buyer. Full disclosure:
-https://simpleproductpicks.co.uk/disclosure.html
+https://simpleproductpicks.com/disclosure.html
