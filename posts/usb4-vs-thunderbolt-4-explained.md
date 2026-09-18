@@ -1,4 +1,4 @@
-# USB4 vs Thunderbolt 4 Explained UK 2026
+# USB4 vs Thunderbolt 4 Explained 2026
 
 ## Why the two names look identical
 

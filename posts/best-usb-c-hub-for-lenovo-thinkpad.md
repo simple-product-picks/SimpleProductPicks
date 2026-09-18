@@ -1,4 +1,4 @@
-# Best USB C Hub For Lenovo ThinkPad UK 2026
+# Best USB C Hub For Lenovo ThinkPad 2026
 
 Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB-C hubs and docking stations that suit a USB-C ThinkPad, from a do-it-all dock to a sensible everyday hub. We have not tested them on a ThinkPad ourselves, so what you get still depends on what your own machine's USB-C port supports. Whether you need extra display outputs, wired networking, or just a tidy way to plug in your essentials, there's a pick here for you. Not sure a hub is even the right tool? Our [hub vs docking station guide](usb-c-hub-vs-docking-station.html) settles that question first.
 
@@ -90,18 +90,18 @@ For most ThinkPad owners, the **[UGREEN Revodok Pro 210 USB C Docking Station (1
 
 ## How we chose
 
-We focused on the specs that genuinely matter for ThinkPad expansion: USB-C Power Delivery to keep the laptop charged, display outputs, data speeds, and whether wired Ethernet is on board. We weighed the USB-C docking format, build, and portability against how many connections each model delivers. Each pick links to its live Amazon UK listing, so you can square the current price and the spec sheet against your own ThinkPad model before you buy.
+We focused on the specs that genuinely matter for ThinkPad expansion: USB-C Power Delivery to keep the laptop charged, display outputs, data speeds, and whether wired Ethernet is on board. We weighed the USB-C docking format, build, and portability against how many connections each model delivers. Each pick links to its live Amazon listing, so you can square the current price and the spec sheet against your own ThinkPad model before you buy.
 
 ## FAQ
 
 **Q: Will these hubs charge my ThinkPad while connected?**
-A: The UGREEN Revodok Pro 210 is rated for 100W Power Delivery passthrough and the Anker 7-in-1 for 85W, so both are built to charge a ThinkPad while your peripherals stay plugged in. Check the product details on Amazon UK and make sure your own charger meets the wattage you need.
+A: The UGREEN Revodok Pro 210 is rated for 100W Power Delivery passthrough and the Anker 7-in-1 for 85W, so both are built to charge a ThinkPad while your peripherals stay plugged in. Check the product details on Amazon and make sure your own charger meets the wattage you need.
 
 **Q: Can I run external monitors from a USB-C hub on a ThinkPad?**
 A: The UGREEN Revodok Pro 210 carries dual HDMI outputs rated for 4K@60Hz, while the Anker 7-in-1 gives you a single 4K HDMI for one screen. Display output and resolution also depend on your specific ThinkPad's USB-C video support, so check your laptop's specifications.
 
 **Q: Do I need to install drivers to use these with a ThinkPad?**
-A: USB-C hubs and docks of this type are generally designed to work as soon as they are connected, so in most cases you can simply plug in and start using the ports. Always check the product details on Amazon UK for any model-specific guidance.
+A: USB-C hubs and docks of this type are generally designed to work as soon as they are connected, so in most cases you can simply plug in and start using the ports. Always check the product details on Amazon for any model-specific guidance.
 
 ---
 

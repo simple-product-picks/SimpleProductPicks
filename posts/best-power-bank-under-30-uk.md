@@ -1,4 +1,4 @@
-# Best Budget Power Bank UK 2026
+# Best Budget Power Bank 2026
 
 In the budget bracket the real question is which corners get cut. Here it's mostly wattage and capacity headroom: all three picks are 10000mAh phone-first banks rather than laptop-class bricks. This guide covers what each does well and who each suits - including a MagSafe-style magnetic wireless option.
 
@@ -88,7 +88,7 @@ For most people the **[INIU Power Bank 10000mAh 22.5W Slim](https://www.amazon.c
 
 ## How we chose
 
-Budget banks live or die on the basics: real capacity (all three are 10000mAh, enough for a full phone top-up), charging output and standards such as USB Power Delivery, portability, and build from brands with a solid track record. We weighed UK everyday-carry fit and overall value rather than headline numbers alone. Each link goes to the live Amazon UK listing, so you can make sure a pick still sits inside your budget on the day you actually buy.
+Budget banks live or die on the basics: real capacity (all three are 10000mAh, enough for a full phone top-up), charging output and standards such as USB Power Delivery, portability, and build from brands with a solid track record. We weighed everyday-carry fit and overall value rather than headline numbers alone. Each link goes to the live Amazon listing, so you can make sure a pick still sits inside your budget on the day you actually buy.
 
 ## FAQ
 

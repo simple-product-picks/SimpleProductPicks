@@ -1,4 +1,4 @@
-# USB C Hub Vs Docking Station UK 2026
+# USB C Hub Vs Docking Station 2026
 
 Trying to decide between a compact USB C hub and a full docking station for your laptop setup? This guide breaks down the difference, then picks three solid options to suit different desks and needs. Plain English, no jargon for the sake of it.
 
@@ -92,7 +92,7 @@ This 8-in-1 Anker is the halfway house the hub-or-dock debate forgets: wired Eth
 
 ## How we chose
 
-The specs that decide this category are the number and type of ports, display output, whether wired Ethernet is included, data transfer speed, Power Delivery passthrough, and how portable the unit is. We weighed UK home and hybrid-working setups, where one tidy cable to the laptop is often the goal, and balanced capability against sensible value. Whichever camp you land in, every pick links straight to the live Amazon UK listing so you can weigh up the current price before you buy.
+The specs that decide this category are the number and type of ports, display output, whether wired Ethernet is included, data transfer speed, Power Delivery passthrough, and how portable the unit is. We weighed home and hybrid-working setups, where one tidy cable to the laptop is often the goal, and balanced capability against sensible value. Whichever camp you land in, every pick links straight to the live Amazon listing so you can weigh up the current price before you buy.
 
 ## FAQ
 

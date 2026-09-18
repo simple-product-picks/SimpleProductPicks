@@ -1,4 +1,4 @@
-# Qi2 vs MagSafe Explained UK 2026
+# Qi2 vs MagSafe Explained 2026
 
 ## What each name means
 

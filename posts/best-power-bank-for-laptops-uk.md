@@ -1,4 +1,4 @@
-# Best Power Bank For Laptops UK 2026
+# Best Power Bank For Laptops 2026
 
 Modern laptops charge over USB-C, so the right power bank can keep one running through a long train journey or a full day away from any wall socket. The catch is wattage: a pack that fast-charges a phone might only trickle into a laptop. This guide picks three power banks that genuinely drive a laptop - one for most people, a straightforward option for lighter machines, and one built for a bag that carries a big laptop and a tablet together.
 
@@ -88,7 +88,7 @@ For most people the **[UGREEN Nexode 165W 25000mAh Power Bank](https://www.amazo
 
 ## How we chose
 
-Charging a laptop comes down to two numbers: how many watts the pack can push down a single port, and how much energy it stores. We looked for USB-C outputs that match what real laptops pull - 100W for most ultrabooks, 140W for a 16-inch MacBook Pro - and for capacities in the 25000mAh class that give a full laptop charge or several phone top-ups between mains sessions. We weighed the cable question too, because 140W charging needs a cable rated to carry it and a normal lead quietly caps at 100W, so packs with the right cable built in or in the box save that headache; if you'd rather buy a separate lead, our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for. Every link goes to the Amazon UK listing, where you can confirm each pack's port wattages against what your own laptop draws.
+Charging a laptop comes down to two numbers: how many watts the pack can push down a single port, and how much energy it stores. We looked for USB-C outputs that match what real laptops pull - 100W for most ultrabooks, 140W for a 16-inch MacBook Pro - and for capacities in the 25000mAh class that give a full laptop charge or several phone top-ups between mains sessions. We weighed the cable question too, because 140W charging needs a cable rated to carry it and a normal lead quietly caps at 100W, so packs with the right cable built in or in the box save that headache; if you'd rather buy a separate lead, our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for. Every link goes to the Amazon listing, where you can confirm each pack's port wattages against what your own laptop draws.
 
 ## FAQ
 

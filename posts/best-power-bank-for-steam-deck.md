@@ -1,4 +1,4 @@
-# Best Power Bank For Steam Deck UK 2026
+# Best Power Bank For Steam Deck 2026
 
 The Steam Deck runs its battery down fast, so the right power bank is what turns a short gaming session into an all-day one. The trick isn't raw capacity; it's a USB-C port that can hold the 45W of Valve's own Steam Deck power supply while you're actually playing, and a cable that doesn't dangle across the grips. This guide picks three power banks that do both: a balanced all-rounder, a compact value pick, and a big-capacity pack for the longest sessions.
 
@@ -88,7 +88,7 @@ For most Steam Deck owners the **[UGREEN Nexode Power Bank 20000mAh 145W](https:
 
 ## How we chose
 
-A Steam Deck asks two things of a power bank: a USB-C port that can hold its 45W draw so the battery keeps filling while you play, not just idles, and enough real capacity to add meaningful hours. We looked for sustained 45W-plus output rather than headline peak figures, since a port that only touches 45W for a moment, or splits its power away the instant a second device is plugged in, won't keep a Deck going. We weighed how the cable is handled, because a lead dangling over the grips is a genuine annoyance on a handheld. If you fly, check the watt-hour figure printed on the bank before you go; airlines set their own limits. Capacity we treated as gaming hours, not just milliamp-hours: as a rough guide a 20000mAh bank holds around a full extra Deck charge, though real playtime depends on the game and screen brightness. Every link goes to the Amazon UK listing so you can check the current port wattages against your own Deck.
+A Steam Deck asks two things of a power bank: a USB-C port that can hold its 45W draw so the battery keeps filling while you play, not just idles, and enough real capacity to add meaningful hours. We looked for sustained 45W-plus output rather than headline peak figures, since a port that only touches 45W for a moment, or splits its power away the instant a second device is plugged in, won't keep a Deck going. We weighed how the cable is handled, because a lead dangling over the grips is a genuine annoyance on a handheld. If you fly, check the watt-hour figure printed on the bank before you go; airlines set their own limits. Capacity we treated as gaming hours, not just milliamp-hours: as a rough guide a 20000mAh bank holds around a full extra Deck charge, though real playtime depends on the game and screen brightness. Every link goes to the Amazon listing so you can check the current port wattages against your own Deck.
 
 ## FAQ
 

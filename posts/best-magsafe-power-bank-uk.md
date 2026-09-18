@@ -1,4 +1,4 @@
-# Best MagSafe Power Bank UK 2026
+# Best MagSafe Power Bank 2026
 
 A magnetic power bank snaps onto the back of an iPhone and charges it with no cable in sight, which is exactly what you want on a train or walking between meetings. The catch is the wattage trap: a bank that only sticks on charges over plain Qi, which Apple rates at up to 7.5W on an iPhone, while Qi2 certification brings the standard's full 15W. The newest Qi2 25W class goes faster still, but only on recent iPhones. This guide picks three magnetic banks that get the standards right. If you'd rather have the faster wired kind, our [power bank for iPhone 15 guide](best-power-bank-for-iphone-15.html) covers that side.
 
@@ -88,7 +88,7 @@ For most people the **[Anker MagGo Power Bank 10000mAh Qi2 15W](https://www.amaz
 
 ## How we chose
 
-Magnetic banks live or die on the wireless standard they actually carry, so that came first: all three picks are Qi2-certified, not "MagSafe-compatible" 7.5W lookalikes. Beyond that we weighed wired speed for when the cable is quicker, extras like stands and displays that change daily use, capacity against pocketability, and honest fit for UK buyers. Wireless standards are exactly where listings blur the details, so follow each link to the live Amazon UK page and check the Qi2 wording matches what your iPhone supports before you buy.
+Magnetic banks live or die on the wireless standard they actually carry, so that came first: all three picks are Qi2-certified, not "MagSafe-compatible" 7.5W lookalikes. Beyond that we weighed wired speed for when the cable is quicker, extras like stands and displays that change daily use, capacity against pocketability, and honest fit for buyers. Wireless standards are exactly where listings blur the details, so follow each link to the live Amazon page and check the Qi2 wording matches what your iPhone supports before you buy.
 
 ## FAQ
 

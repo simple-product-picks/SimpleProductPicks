@@ -1,4 +1,4 @@
-# Best USB-C SD Card Reader UK 2026
+# Best USB C SD Card Reader 2026
 
 If a card copy feels slow, the reader is rarely the thing holding it up. The limit is almost always the card's own bus. The SD Association puts UHS-I at up to 104MB/s and UHS-II at up to 312MB/s, and the jump comes from hardware you can see: UHS-II adds a second row of pins so it can move data down two lanes instead of one. The catch is that both ends have to be UHS-II. Put a UHS-I card in a UHS-II reader and you get UHS-I speed, because there is no second row of pins on the card for the reader to talk to. So the first question is not which reader is fastest, it's which card you actually shoot.
 
@@ -93,7 +93,7 @@ For most people the **[JSAUX 4-in-1 USB-C SD Card Reader with USB 3.0 and Chargi
 
 ## How we chose
 
-One fact shaped this list more than any other: a reader cannot make a card faster than the card's own bus allows. The SD Association's bus limits are the ceiling, not the reader, and only a UHS-II card in a UHS-II reader reaches the faster one. So we ranked on the things that actually change the outcome: which card formats a reader takes, whether it can charge a phone or iPad while it reads, and whether it clears UHS-I at all. We read each maker's own listing for the speeds and ports quoted here and have published no transfer time we have not been given, because we have not timed these ourselves. Placement is never paid for. Every link goes to the reader's own Amazon UK page, so you can confirm the card formats it takes before you buy.
+One fact shaped this list more than any other: a reader cannot make a card faster than the card's own bus allows. The SD Association's bus limits are the ceiling, not the reader, and only a UHS-II card in a UHS-II reader reaches the faster one. So we ranked on the things that actually change the outcome: which card formats a reader takes, whether it can charge a phone or iPad while it reads, and whether it clears UHS-I at all. We read each maker's own listing for the speeds and ports quoted here and have published no transfer time we have not been given, because we have not timed these ourselves. Placement is never paid for. Every link goes to the reader's own Amazon page, so you can confirm the card formats it takes before you buy.
 
 ## FAQ
 

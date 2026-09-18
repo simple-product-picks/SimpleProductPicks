@@ -1,4 +1,4 @@
-# Best USB C Cable For iPhone 15 UK 2026
+# Best USB C Cable For iPhone 15 2026
 
 Looking for a USB-C cable that does justice to your iPhone 15? Here are three worth buying, whether you want a tough braided everyday cable, a compact short-length two-pack, or one USB4 lead that covers charging and fast data alike.
 
@@ -88,7 +88,7 @@ For most iPhone 15 owners, the **[UGREEN USB C to USB C Cable 100W (1m Braided)]
 
 ## How we chose
 
-We focused on the things that actually matter for an iPhone 15 USB-C cable: the right USB-C to USB-C connector, a power rating with real headroom, build quality such as braided jackets and E-Marker chips that manage higher power, and a length that suits everyday UK use at home or on the move. We also weighed up brand track record and whether you get one cable or a multipack. Cable specs get revised quietly and often, so each link opens the live Amazon UK listing - a quick look confirms it's the exact lead described here.
+We focused on the things that actually matter for an iPhone 15 USB-C cable: the right USB-C to USB-C connector, a power rating with real headroom, build quality such as braided jackets and E-Marker chips that manage higher power, and a length that suits everyday use at home or on the move. We also weighed up brand track record and whether you get one cable or a multipack. Cable specs get revised quietly and often, so each link opens the live Amazon listing - a quick look confirms it's the exact lead described here.
 
 ## FAQ
 
