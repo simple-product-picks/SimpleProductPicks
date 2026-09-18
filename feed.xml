@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 17 Sep 2026 10:16:07 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 10:28:21 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -307,6 +307,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/gan-chargers-explained.html</guid>
     <pubDate>Thu, 17 Sep 2026 08:00:00 +0000</pubDate>
     <description>What gallium nitride actually changes in a USB-C charger: smaller and cooler at the same wattage, and why it does not by itself charge anything faster.</description>
+  </item>
+  <item>
+    <title>Best USB C Charger For Surface Pro UK 2026</title>
+    <link>https://simpleproductpicks.com/posts_html/best-usb-c-charger-for-surface-pro-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-charger-for-surface-pro-uk.html</guid>
+    <pubDate>Fri, 18 Sep 2026 08:00:00 +0000</pubDate>
+    <description>Which USB-C charger charges a Surface Pro, and at what wattage. Three UK picks matched to Microsoft's own recommended figures, every link verified against the live listing.</description>
   </item>
 </channel>
 </rss>
