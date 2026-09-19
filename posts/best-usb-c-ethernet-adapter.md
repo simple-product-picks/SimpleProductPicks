@@ -132,7 +132,7 @@ A: Many modern adapters, including the Amazon Basics pick, are plug and play on 
 A: For standard UK home broadband, Gigabit is plenty and you won't see a difference; 2.5G only pays off if your broadband and the rest of your network actually support multi-gigabit speeds.
 
 **Q: Why is my USB-C Ethernet adapter slow?**
-A: Check the chain. A router LAN port limited to 100Mbps, an old or damaged cable, or an adapter plugged into a charge-only USB-C port will all cap your speed well below what the adapter itself can do.
+A: Check the chain. A router LAN port limited to 100Mbps, an old or damaged cable, or an adapter plugged into a charge-only USB-C port will all cap your speed well below what the adapter itself can do. Our explainer on whether [a USB-C Ethernet adapter slows your internet](usb-c-ethernet-adapter-speed-explained.html) walks through the three ceilings, including the USB port limit, in detail.
 
 **Q: Will a USB-C Ethernet adapter work with my tablet or phone?**
 A: Usually. USB-C iPads, Chromebooks and most current Android phones and tablets support wired Ethernet through an adapter; a few budget Android phones do not, so check your model if it is not in the list above.

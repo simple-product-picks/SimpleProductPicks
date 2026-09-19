@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-adapters.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C to HDMI, DisplayPort, ethernet and audio adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 12 Sep 2026 10:23:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 10:19:09 +0000</lastBuildDate>
   <item>
     <title>Best USB C To HDMI Adapter 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-to-hdmi-adapter.html</link>
@@ -41,6 +41,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-sd-card-reader-uk.html</guid>
     <pubDate>Sat, 12 Sep 2026 08:00:00 +0000</pubDate>
     <description>A UHS-I reader cannot beat the card's own speed limit. Three USB-C SD card readers compared: a CF-friendly 4-in-1, a phone-charging all-rounder and a UHS-II pick.</description>
+  </item>
+  <item>
+    <title>Does A USB-C Ethernet Adapter Slow Your Internet</title>
+    <link>https://simpleproductpicks.com/posts_html/usb-c-ethernet-adapter-speed-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/usb-c-ethernet-adapter-speed-explained.html</guid>
+    <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
+    <description>A gigabit adapter carries 1000 Mbit/s, more than most home lines use. Where the real ceiling sits, when 2.5G is worth it, and why wired feels steadier than Wi-Fi.</description>
   </item>
 </channel>
 </rss>
