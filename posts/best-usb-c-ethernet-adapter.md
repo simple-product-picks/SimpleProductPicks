@@ -106,7 +106,7 @@ Match the adapter to the slowest link in your chain, not the fastest number on t
 
 - **MacBook Air and MacBook Pro:** yes, on the USB-C models. macOS handles common adapter chipsets without extra software.
 - **Windows laptops:** yes, on any USB-C port that carries data. Ultraportables with only USB-C ports are the main reason these adapters exist.
-- **iPads with a USB-C port:** yes, iPadOS supports wired networking through a USB-C Ethernet adapter, which is handy for big downloads or stable video calls.
+- **iPads with a USB-C port:** yes, iPadOS supports wired networking through a USB-C Ethernet adapter, which is handy for big downloads or stable video calls; our [USB-C Ethernet adapter for iPad guide](best-usb-c-ethernet-adapter-for-ipad-uk.html) covers the iPad-specific picks and the single-port catch.
 - **Steam Deck:** yes, either directly or through a dock; for the dock route see our [USB-C hub for Steam Deck](best-usb-c-hub-for-steam-deck.html) guide.
 - **Android phones and tablets:** most current models support it, though a handful of budget phones lack the software support and will simply not see the adapter.
 - **Chromebooks:** yes, ChromeOS handles standard adapters automatically.

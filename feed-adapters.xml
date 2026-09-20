@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-adapters.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C to HDMI, DisplayPort, ethernet and audio adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 19 Sep 2026 10:19:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 10:26:02 +0000</lastBuildDate>
   <item>
     <title>Best USB C To HDMI Adapter 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-to-hdmi-adapter.html</link>
@@ -48,6 +48,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/usb-c-ethernet-adapter-speed-explained.html</guid>
     <pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
     <description>A gigabit adapter carries 1000 Mbit/s, more than most home lines use. Where the real ceiling sits, when 2.5G is worth it, and why wired feels steadier than Wi-Fi.</description>
+  </item>
+  <item>
+    <title>Best USB-C Ethernet Adapter for iPad 2026</title>
+    <link>https://simpleproductpicks.com/posts_html/best-usb-c-ethernet-adapter-for-ipad-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-ethernet-adapter-for-ipad-uk.html</guid>
+    <pubDate>Sun, 20 Sep 2026 08:00:00 +0000</pubDate>
+    <description>Any USB-C iPad takes a plain Ethernet adapter with no app, no driver and no hub. Gigabit is plenty on an iPad; here are three picks and when each one fits.</description>
   </item>
 </channel>
 </rss>
