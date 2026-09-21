@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 20 Sep 2026 10:26:02 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 10:16:29 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -328,6 +328,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-ethernet-adapter-for-ipad-uk.html</guid>
     <pubDate>Sun, 20 Sep 2026 08:00:00 +0000</pubDate>
     <description>Any USB-C iPad takes a plain Ethernet adapter with no app, no driver and no hub. Gigabit is plenty on an iPad; here are three picks and when each one fits.</description>
+  </item>
+  <item>
+    <title>PD vs PPS Charging Explained</title>
+    <link>https://simpleproductpicks.com/posts_html/pd-vs-pps-charging-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/pd-vs-pps-charging-explained.html</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
+    <description>PPS is not a rival to USB Power Delivery: it is an optional part of it, and it decides whether a Samsung or Pixel phone reaches its fastest charging speed.</description>
   </item>
 </channel>
 </rss>

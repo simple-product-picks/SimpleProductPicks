@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-chargers.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C and GaN chargers. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 18 Sep 2026 10:28:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 10:16:29 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -97,6 +97,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-charger-for-surface-pro-uk.html</guid>
     <pubDate>Fri, 18 Sep 2026 08:00:00 +0000</pubDate>
     <description>Which USB-C charger charges a Surface Pro, and at what wattage. Three UK picks matched to Microsoft's own recommended figures, every link verified against the live listing.</description>
+  </item>
+  <item>
+    <title>PD vs PPS Charging Explained</title>
+    <link>https://simpleproductpicks.com/posts_html/pd-vs-pps-charging-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/pd-vs-pps-charging-explained.html</guid>
+    <pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
+    <description>PPS is not a rival to USB Power Delivery: it is an optional part of it, and it decides whether a Samsung or Pixel phone reaches its fastest charging speed.</description>
   </item>
 </channel>
 </rss>

@@ -12,7 +12,7 @@ Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10 
 
 Fit for this guide: An S24 owner wanting one plug for the phone plus other gadgets gets 67W and three ports here.
 
-The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. It is also the only one of the three Anker lists with PPS support, on top of the standard USB-C Power Delivery all three carry.
+The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. It is also the only one of the three Anker lists with PPS support, on top of the standard USB-C Power Delivery all three carry. If you are not sure what that distinction buys a Galaxy, our [PD vs PPS explainer](pd-vs-pps-charging-explained.html) walks through why the S24 cares.
 
 **Pros**
 - ✓ 67W of total output handles the S24 plus a second or third device
