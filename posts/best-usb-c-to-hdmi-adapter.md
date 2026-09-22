@@ -88,7 +88,7 @@ For most people the **[Anker USB-C to HDMI Cable 4K@60Hz (0.9m)](https://www.ama
 
 ## How we chose
 
-For HDMI, we judged each pick on what actually reaches the screen: resolution and refresh rate at the output, the standards and ports each device supports, build quality, and how portable it is. We weighed real use-cases, from one-off presentations to permanent desk setups, and balanced single-purpose simplicity against full-hub flexibility. Each link opens the live Amazon listing, so you can confirm the 60Hz support matches your TV or monitor before film night depends on it.
+For HDMI, we judged each pick on what actually reaches the screen: resolution and refresh rate at the output, the standards and ports each device supports, build quality, and how portable it is. We weighed real use-cases, from one-off presentations to permanent desk setups, and balanced single-purpose simplicity against full-hub flexibility. Each link opens the live Amazon listing, so you can confirm the 60Hz support matches your TV or monitor before film night depends on it. If you are plugging your own HDMI lead into an adapter, that cable has to keep up too; our guide on [how to tell if an HDMI cable is 2.1](hdmi-2-1-cable-how-to-tell-explained.html) shows the certification to look for.
 
 ## FAQ
 

@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-cables.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C charging cables. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 16 Sep 2026 10:17:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 10:23:00 +0000</lastBuildDate>
   <item>
     <title>Best USB C Cable For Fast Charging 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-cable-for-fast-charging.html</link>
@@ -48,6 +48,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/thunderbolt-4-cable-length-explained.html</guid>
     <pubDate>Wed, 16 Sep 2026 08:00:00 +0000</pubDate>
     <description>A Thunderbolt 4 cable holds the full 40Gb/s up to 2 metres; only past that do you need an active cable. Why the old Thunderbolt 3 length trap no longer bites.</description>
+  </item>
+  <item>
+    <title>How To Tell If An HDMI Cable Is 2.1</title>
+    <link>https://simpleproductpicks.com/posts_html/hdmi-2-1-cable-how-to-tell-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/hdmi-2-1-cable-how-to-tell-explained.html</guid>
+    <pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
+    <description>An HDMI cable carries no version number. The only real proof it is 2.1 is the Ultra High Speed name on the jacket and the HDMI Forum's scannable label.</description>
   </item>
 </channel>
 </rss>
