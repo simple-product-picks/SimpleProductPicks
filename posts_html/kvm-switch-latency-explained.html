@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#172554" />
+  <title>Does A KVM Switch Add Lag? Where The Delay Comes From</title>
+  <meta name="description" content="A hardware KVM routes USB and video between computers; it does not process the picture. Where switching lag comes from, and when a USB-only switch is enough." />
+  <link rel="canonical" href="https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html" />
+  <meta property="og:site_name" content="Simple Product Picks" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Does A KVM Switch Add Lag? Where The Delay Comes From" />
+  <meta property="og:description" content="A hardware KVM routes USB and video between computers; it does not process the picture. Where switching lag comes from, and when a USB-only switch is enough." />
+  <meta property="og:url" content="https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html" />
+  <meta property="og:image" content="https://simpleproductpicks.com/assets/img/hero/posts/kvm-switch-latency-explained.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Does A KVM Switch Add Lag? Where The Delay Comes From" />
+  <meta name="twitter:description" content="A hardware KVM routes USB and video between computers; it does not process the picture. Where switching lag comes from, and when a USB-only switch is enough." />
+  <meta name="twitter:image" content="https://simpleproductpicks.com/assets/img/hero/posts/kvm-switch-latency-explained.jpg" />
+  <link rel="preload" href="../assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../assets/site.css">
+  <!--spp:theme--><script>(function(){var t;try{t=localStorage.getItem("sppTheme")}catch(e){}document.documentElement.setAttribute("data-theme",t||(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"))})();</script><script src="../assets/theme.js" defer></script><!--/spp:theme-->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Does A KVM Switch Add Lag",
+    "description": "A hardware KVM routes USB and video between computers; it does not process the picture. Where switching lag comes from, and when a USB-only switch is enough.",
+    "url": "https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html",
+    "dateModified": "2026-09-23",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Simple Product Picks",
+      "url": "https://simpleproductpicks.com"
+    },
+    "mainEntityOfPage": "https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html"
+  }
+  </script>
+  <link rel="icon" href="/favicon.ico" sizes="48x48" />
+  <link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+<!--spp:schema-->
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://simpleproductpicks.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Guides",
+      "item": "https://simpleproductpicks.com/#"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Does A KVM Switch Add Lag"
+    }
+  ]
+}
+  </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does a KVM switch add input lag?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A hardware KVM routes the signals rather than processing them, so the switch itself isn't adding the frame-by-frame delay of a scaler or a wireless extender. What people feel on a swap is usually the display re-detecting itself, or a gaming keyboard and mouse behaving differently under the switch's emulation, rather than the picture running behind. For gaming, check the spec sheet for pass-through or a stated gaming mode, and match the cables to your monitor's refresh rate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does my screen go black for a moment when I switch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "That's the display handshake, and it is harmless. It happens when the switch lets the computer you left treat the monitor as unplugged, so that machine re-detects the screen on the way back. The setting that prevents it is EDID emulation: a switch that lists it holds the monitor's details for every computer, so nothing has to re-detect on a swap. If clean, instant switching matters to you, that's the line to look for on the spec sheet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do KVM switches need drivers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A basic hardware KVM is generally plug and play, because it presents a standard keyboard, mouse and display to each computer and the operating system treats them as ordinary USB devices. Software only comes in for extras like an on-screen switching utility or a gaming peripheral's own app, and a switch running in emulation mode may hide some of those device-specific features."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will a KVM switch lower my refresh rate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only if you let it, and the limit is bandwidth rather than the switch's electronics. Match three things: your monitor's resolution and refresh, the switch's stated video ceiling, and the cables between them; whichever is lowest sets your picture. Buy a switch and leads rated for your monitor's full mode and nothing drops. Our guide on how to tell if an HDMI cable is 2.1 covers the certification that proves a cable can carry it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a KVM switch the same as a USB hub or a docking station?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, and it's the most common mix-up. If a single computer just needs more ports or a one-cable desk, that is a hub or a docking station. A KVM only earns its place when two or more computers have to share one keyboard, mouse and screen: it switches between machines rather than expanding one."
+      }
+    }
+  ]
+}
+  </script>
+  <!--/spp:schema-->
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand-title" href="../"><img class="brand-wordmark" src="../assets/img/brand/wordmark-header.png" alt="Simple Product Picks" width="268" height="28"></a>
+      <nav class="site-nav">
+        <a href="../">Home</a>
+        <a href="../posts.html">All Guides</a>
+        <a href="../how-we-test.html">How we test</a>
+        <a href="../about.html">About</a>
+        <a href="../disclosure.html">Disclosure</a>
+      </nav>
+    </div>
+  </header>
+<!--spp:bc--><nav class="breadcrumbs" aria-label="Breadcrumb"><div class="wrap"><a href="../">Home</a><span class="bc-sep">&rsaquo;</span><a href="../#">Guides</a><span class="bc-sep">&rsaquo;</span><span class="bc-here">Does A KVM Switch Add Lag</span></div></nav><!--/spp:bc-->
+
+  <section class="hero panel" id="hero">
+    <div class="hero-kicker muted">Explainer &bull; 2026</div>
+    <h1 class="hero-title">Does A KVM Switch Add Lag</h1>
+    <div class="hero-sub muted">Plain English &bull; No sponsored placements</div>
+    <!--spp:byline--><div class="post-byline">Written and checked by the Simple Product Picks team &middot; last updated September 2026</div><!--/spp:byline-->
+    <div class="trust-bar">
+      <span class="trust-item">&#10003; Plain-English explainer</span>
+
+      <span class="trust-item">&#10003; No sponsored placements</span>
+    </div>
+    <img class="hero-img" fetchpriority="high" src="../assets/img/hero/posts/kvm-switch-latency-explained.jpg" alt="two backlit gaming keyboards and a mouse on a dark desk with monitors" width="1200" height="630" loading="eager" style="width:100%;height:auto;max-height:260px;object-fit:cover;border-radius:12px;margin-top:16px;display:block" />
+  </section>
+
+  <main>
+    <!--spp:answerfirst--><section class="answer-first" aria-label="Quick answer">
+      <p class="af-lead"><span class="af-label">The short answer</span>A KVM switch routes the keyboard, mouse and video from whichever computer you select to one shared set of peripherals; it does not process or re-draw the picture, so the switch itself is not adding the frame-by-frame delay of a device that does. What people feel on a swap is usually elsewhere: the display re-detecting itself as the monitor hands over to the newly-selected computer, a cable or port that cannot carry the screen's full refresh rate, or a switch standardising a gaming keyboard and mouse so their extra features behave differently. If both computers already have their own screen, a USB-only switch removes the video question entirely.</p>
+    </section><!--/spp:answerfirst-->
+    <div class="content" id="content"><h2>What a KVM switch is actually doing</h2>
+<p>A KVM switch is a switch, not a processor. It takes the keyboard, mouse and video from whichever computer you have selected and routes them to one shared keyboard, one mouse and often one monitor. It doesn&#39;t decode the picture, scale it or re-draw it, so the box itself isn&#39;t adding the frame-by-frame delay you would get from a device that reworks the video, like a wireless extender, a capture card or a scaler. The signal it passes to your screen is the signal your computer sent.</p>
+<p>That matters because &quot;does a KVM add lag&quot; is usually really three separate questions wearing one coat: what happens to the keyboard and mouse, what happens to the display when you swap, and whether the cables can carry your monitor&#39;s full mode. Take them one at a time and the honest answer to almost all of it is no, with a couple of things worth checking on the spec sheet.</p>
+<p>It is also worth naming what a KVM is, because a lot of people arrive here having bought, or nearly bought, the wrong box. A hub gives one computer more ports. A docking station turns one laptop into a desk. A KVM does the opposite of both: it lets two or more computers share one set of peripherals. If you only have one machine, no KVM will help you, and that is the single most common mix-up in this category.</p>
+<h2>The keyboard and mouse: emulation versus pass-through</h2>
+<p>A KVM can hand your keyboard and mouse to each computer in one of two ways, and the choice is a trade-off rather than a speed setting. In pass-through mode the switch, as KVM makers describe it, makes the keyboard and mouse behave more like they are connected directly to the active computer, which favours native device behaviour. In emulation mode the switch presents a more standard keyboard and mouse to every connected computer, which favours stable, predictable control; the idea is that each machine keeps seeing a steady keyboard and mouse even when you switch away from it.</p>
+<p>Neither mode is inherently laggy, but they behave differently, and this is what some people are actually reacting to when they say a KVM &quot;feels off&quot;. A gaming keyboard&#39;s onboard macros, a mouse&#39;s extra side buttons or its DPI software can go quiet under emulation, because the switch is presenting a plain, standard device to the computer rather than your specific one. That is a feature-compatibility question, not input delay. If those extras matter to you, check the spec sheet for pass-through, or for a stated gaming mode, before you buy.</p>
+<h2>The handshake that makes a screen go black</h2>
+<p>Here is where most of the felt &quot;lag&quot; on a swap actually lives, and it is not the picture running behind. When a monitor connects to a computer they exchange EDID, the small set of display information a monitor sends to tell the computer which resolutions and refresh rates it supports. Switch a KVM and that handshake can happen again.</p>
+<p>On a switch without EDID emulation, the computer you have just left can behave as if the monitor was unplugged. That temporary disconnect can make the operating system re-detect the display when you come back to it, and re-detection is what you see as a black screen for a moment, windows shuffling to a new arrangement, or a refresh rate that quietly drops. A switch with EDID emulation reads and stores the monitor&#39;s information and feeds it to every connected computer, so no machine ever sees the screen vanish and there&#39;s nothing to reinitialise on the swap. If a fast, clean switch matters to you, that one line on the spec sheet is the one to look for.</p>
+<h2>Cables and refresh rate</h2>
+<p>A KVM can only carry what its ports and the cables allow, and this is the other place a real limit hides. A switch rated for 4K at 60Hz will cap a 4K 120Hz monitor at 60, and a lead that is not built for the higher mode does the same thing. That&#39;s not the switch adding lag; it&#39;s a bandwidth ceiling, the same certification question any display cable has to answer.</p>
+<p>So match three things: your monitor&#39;s mode, the switch&#39;s stated video ceiling, and the cables. If any one of them tops out below the others, that one decides your picture. It is worth reading the switch&#39;s own figures for resolution and refresh rather than trusting the headline, and treating the bundled cables with the same eye you would give a display lead. Our guide on <a href="hdmi-2-1-cable-how-to-tell-explained.html">how to tell if an HDMI cable is 2.1</a> covers the certification that proves a cable can carry the full mode.</p>
+<h2>When a USB-only switch is all you need</h2>
+<p>If both of your computers already have their own screen, you don&#39;t need video switching at all, and skipping it removes the EDID question entirely. A USB-only switch shares just the keyboard, the mouse and whatever else is plugged into it, and leaves each monitor connected to its own machine the whole time. It is the cheapest honest answer for the common case of a work laptop and a personal machine that each already drive a display, where the only real annoyance is two keyboards and two mice cluttering one desk.</p>
+<p>This is also where the hub, dock and switch confusion is worth settling. If you have a single computer, the box you want is almost certainly a hub or a dock instead: our <a href="usb-c-hub-vs-docking-station.html">USB-C hub versus docking station</a> explainer sorts those two out, and the <a href="best-usb-c-docking-station-uk.html">USB-C docking station</a> guide covers the one-cable desk. A KVM only earns its place once there are two or more machines to switch between.</p>
+<h2>FAQ</h2>
+<p><strong>Q: Does a KVM switch add input lag?</strong>
+A: A hardware KVM routes the signals rather than processing them, so the switch itself isn&#39;t adding the frame-by-frame delay of a scaler or a wireless extender. What people feel on a swap is usually the display re-detecting itself, or a gaming keyboard and mouse behaving differently under the switch&#39;s emulation, rather than the picture running behind. For gaming, check the spec sheet for pass-through or a stated gaming mode, and match the cables to your monitor&#39;s refresh rate.</p>
+<p><strong>Q: Why does my screen go black for a moment when I switch?</strong>
+A: That&#39;s the display handshake, and it is harmless. It happens when the switch lets the computer you left treat the monitor as unplugged, so that machine re-detects the screen on the way back. The setting that prevents it is EDID emulation: a switch that lists it holds the monitor&#39;s details for every computer, so nothing has to re-detect on a swap. If clean, instant switching matters to you, that&#39;s the line to look for on the spec sheet.</p>
+<p><strong>Q: Do KVM switches need drivers?</strong>
+A: A basic hardware KVM is generally plug and play, because it presents a standard keyboard, mouse and display to each computer and the operating system treats them as ordinary USB devices. Software only comes in for extras like an on-screen switching utility or a gaming peripheral&#39;s own app, and a switch running in emulation mode may hide some of those device-specific features.</p>
+<p><strong>Q: Will a KVM switch lower my refresh rate?</strong>
+A: Only if you let it, and the limit is bandwidth rather than the switch&#39;s electronics. Match three things: your monitor&#39;s resolution and refresh, the switch&#39;s stated video ceiling, and the cables between them; whichever is lowest sets your picture. Buy a switch and leads rated for your monitor&#39;s full mode and nothing drops. Our guide on <a href="hdmi-2-1-cable-how-to-tell-explained.html">how to tell if an HDMI cable is 2.1</a> covers the certification that proves a cable can carry it.</p>
+<p><strong>Q: Is a KVM switch the same as a USB hub or a docking station?</strong>
+A: No, and it&#39;s the most common mix-up. If a single computer just needs more ports or a one-cable desk, that is a hub or a docking station. A KVM only earns its place when two or more computers have to share one keyboard, mouse and screen: it switches between machines rather than expanding one.</p>
+</div>
+
+    <section id="related" class="section-divider">
+      <h2 class="h2-block">Related guides</h2>
+      <div id="related_list" class="muted"><!--spp:related--><ul style="padding-left:18px"><li><a href="./pd-vs-pps-charging-explained.html">PD vs PPS Charging Explained</a></li><li><a href="./hdmi-2-1-cable-how-to-tell-explained.html">How To Tell If An HDMI Cable Is 2.1</a></li><li><a href="./usb-c-ethernet-adapter-speed-explained.html">Does A USB-C Ethernet Adapter Slow Your Internet</a></li><li><a href="./best-100w-gan-charger-uk.html">Best 100W GaN Charger UK 2026</a></li></ul><!--/spp:related--></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      &copy; 2026 Simple Product Picks. Some links are affiliate links; as an Amazon Associate this site earns from qualifying purchases, at no extra cost to you.
+    </div>
+  </footer>
+
+  <script src="../assets/purify.min.js"></script>
+  <script src="../assets/marked.min.js"></script>
+  <script>
+  (async () => {
+    const slug = "kvm-switch-latency-explained";
+    const contentEl = document.getElementById("content");
+
+    // Body is pre-rendered at build time (enhance_posts.py). Client render is a fallback
+    // only, e.g. if a stale cached page shipped an empty content div.
+    if (contentEl && contentEl.childElementCount === 0) {
+      try {
+        const resp = await fetch("../posts/" + slug + ".md", {cache:"no-store"});
+        const buf  = await resp.arrayBuffer();
+        const md   = new TextDecoder("utf-8").decode(buf);
+        const html = marked.parse(md, {mangle:false, headerIds:true});
+        contentEl.innerHTML = DOMPurify.sanitize(html, {USE_PROFILES:{html:true}});
+        contentEl.querySelectorAll("p > a[href*='amazon.co.uk']").forEach(a => {
+          if (a.textContent.trim().startsWith("Check price")) a.classList.add("cta-btn");
+        });
+        contentEl.querySelectorAll("li").forEach(li => {
+          const t = li.textContent.trim();
+          if (t.startsWith("\u2713")) li.classList.add("pro");
+          else if (t.startsWith("\u2717")) li.classList.add("con");
+        });
+      } catch(e) { contentEl.textContent = "Could not load article."; }
+    }
+
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
+    try {
+      const rows = document.querySelectorAll("#comparison table tbody tr");
+      if (rows.length > 0) {
+        const cells = rows[0].querySelectorAll("td");
+        if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
+          const link = cells[3] ? cells[3].querySelector("a") : null;
+          const labelEl = document.getElementById("sticky-label");
+          const btnEl = document.getElementById("sticky-btn");
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
+          if (btnEl && link) btnEl.href = link.href;
+        }
+      }
+    } catch(_) {}
+
+    // Related guides are SERVER-RENDERED at build time (related_guides.py) - deterministic
+    // static <a> tags Google can follow without running any of this. The client-side random
+    // list that used to live here was replaced on 2026-09-05; nothing populates it now.
+
+    // Sticky bottom CTA - appears when comparison table scrolls out of view
+    const stickyBar = document.getElementById("sticky-cta");
+    if (stickyBar) {
+      const compSection = document.getElementById("comparison");
+      if (compSection) {
+        let shown = false;
+        window.addEventListener("scroll", () => {
+          const past = compSection.getBoundingClientRect().bottom < 0;
+          if (past !== shown) { shown = past; stickyBar.classList.toggle("sticky-visible", shown); }
+        }, { passive: true });
+      }
+    }
+  })();
+  </script>
+</body>
+</html>

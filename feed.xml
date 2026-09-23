@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 22 Sep 2026 10:23:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 10:20:27 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -342,6 +342,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/hdmi-2-1-cable-how-to-tell-explained.html</guid>
     <pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
     <description>An HDMI cable carries no version number. The only real proof it is 2.1 is the Ultra High Speed name on the jacket and the HDMI Forum's scannable label.</description>
+  </item>
+  <item>
+    <title>Does A KVM Switch Add Lag</title>
+    <link>https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html</guid>
+    <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
+    <description>A hardware KVM routes USB and video between computers; it does not process the picture. Where switching lag comes from, and when a USB-only switch is enough.</description>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-hubs.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C hubs and docking stations. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 02 Sep 2026 10:52:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 10:20:27 +0000</lastBuildDate>
   <item>
     <title>Best USB C Hub For Dual Monitors 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-hub-for-dual-monitors.html</link>
@@ -76,6 +76,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-hub-uk.html</guid>
     <pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
     <description>The best USB-C hubs, sorted by how many ports you actually need: a tidy 5-in-1, a 7-in-1 with Ethernet, and a 10-in-1 desk dock. Three picks compared.</description>
+  </item>
+  <item>
+    <title>Does A KVM Switch Add Lag</title>
+    <link>https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html</guid>
+    <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
+    <description>A hardware KVM routes USB and video between computers; it does not process the picture. Where switching lag comes from, and when a USB-only switch is enough.</description>
   </item>
 </channel>
 </rss>

@@ -105,6 +105,9 @@ A: If your laptop charges over USB C and you only have the one port, PD passthro
 **Q: Will one of these let me run two external monitors?**
 A: Of these three, only the UGREEN Revodok Pro 210 is built for it, with dual HDMI outputs rated for 4K@60Hz; both Anker hubs carry a single HDMI. Your laptop's USB-C video support has the final say, so check that side too.
 
+**Q: What if I have two computers to share, not one laptop to expand?**
+A: That is a different box called a KVM switch: it lets one keyboard, mouse and often one screen switch between two or more computers, rather than giving a single laptop more ports. If you are weighing one up, our guide on whether [a KVM switch adds lag](kvm-switch-latency-explained.html) covers what to check.
+
 ---
 
 *Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.com/disclosure.html) for details.*
