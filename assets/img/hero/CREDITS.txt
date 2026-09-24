@@ -12,7 +12,7 @@ powerbanks.jpg  Steve A Johnson   https://www.pexels.com/photo/closed-up-photogr
 cables.jpg      Nic Wood         https://www.pexels.com/photo/usb-2-cable-28042833/
 adapters.jpg    https://kaboompics.com/   https://www.pexels.com/photo/set-of-modern-port-adapters-on-black-surface-4219861/
 
-# Per-post heroes (Pexels, updated 2026-09-23 via fetch_pexels_heroes.py)
+# Per-post heroes (Pexels, updated 2026-09-24 via fetch_pexels_heroes.py)
 posts/best-100w-gan-charger-uk.jpg  Саша Алалыкин  https://www.pexels.com/photo/many-chargers-are-connected-to-an-electrical-outlet-on-a-white-background-16886334/
 posts/best-3-in-1-wireless-charger-uk.jpg  Matt Ho  https://www.pexels.com/photo/top-view-of-an-iphone-lying-on-an-inductive-charger-15921116/
 posts/best-65w-gan-charger-uk.jpg  https://kaboompics.com/  https://www.pexels.com/photo/laptop-smart-phone-and-charge-on-table-5208870/
@@ -20,6 +20,7 @@ posts/best-charger-for-iphone-17-uk.jpg  ready made  https://www.pexels.com/phot
 posts/best-charger-for-samsung-s24-uk.jpg  Markus Winkler  https://www.pexels.com/photo/white-adapter-on-blue-surface-4097204/
 posts/best-gan-charger-for-macbook-pro.jpg  ready made  https://www.pexels.com/photo/photo-of-power-bank-near-socket-3921703/
 posts/best-gan-charger-for-travel.jpg  Markus Spiske  https://www.pexels.com/photo/black-and-white-electric-plug-218445/
+posts/best-kvm-switch-uk.jpg  Mikhail Nilov  https://www.pexels.com/photo/overhead-shot-of-coworkers-typing-on-electronic-devices-7989148/
 posts/best-magsafe-car-charger-uk.jpg  Alicia Christin Gerald  https://www.pexels.com/photo/smartphone-navigation-in-car-interior-36169956/
 posts/best-magsafe-power-bank-uk.jpg  Thiếu Quân Võ Vũ  https://www.pexels.com/photo/woman-in-white-lace-dress-holding-white-smartphone-5147225/
 posts/best-power-bank-20000mah-uk.jpg  Pedro Paiva  https://www.pexels.com/photo/close-up-of-multi-usb-port-power-adapter-29356607/

@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-hubs.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C hubs and docking stations. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 23 Sep 2026 10:20:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 10:24:46 +0000</lastBuildDate>
   <item>
     <title>Best USB C Hub For Dual Monitors 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-hub-for-dual-monitors.html</link>
@@ -83,6 +83,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/kvm-switch-latency-explained.html</guid>
     <pubDate>Wed, 23 Sep 2026 08:00:00 +0000</pubDate>
     <description>A hardware KVM routes USB and video between computers; it does not process the picture. Where switching lag comes from, and when a USB-only switch is enough.</description>
+  </item>
+  <item>
+    <title>Best KVM Switch 2026</title>
+    <link>https://simpleproductpicks.com/posts_html/best-kvm-switch-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-kvm-switch-uk.html</guid>
+    <pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
+    <description>A KVM switch shares one keyboard, mouse and screen between two computers. Three picks - USB-only, single-monitor HDMI and dual-monitor - matched to your setup.</description>
   </item>
 </channel>
 </rss>

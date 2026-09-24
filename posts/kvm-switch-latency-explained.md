@@ -30,7 +30,7 @@ So match three things: your monitor's mode, the switch's stated video ceiling, a
 
 If both of your computers already have their own screen, you don't need video switching at all, and skipping it removes the EDID question entirely. A USB-only switch shares just the keyboard, the mouse and whatever else is plugged into it, and leaves each monitor connected to its own machine the whole time. It is the cheapest honest answer for the common case of a work laptop and a personal machine that each already drive a display, where the only real annoyance is two keyboards and two mice cluttering one desk.
 
-This is also where the hub, dock and switch confusion is worth settling. If you have a single computer, the box you want is almost certainly a hub or a dock instead: our [USB-C hub versus docking station](usb-c-hub-vs-docking-station.html) explainer sorts those two out, and the [USB-C docking station](best-usb-c-docking-station-uk.html) guide covers the one-cable desk. A KVM only earns its place once there are two or more machines to switch between.
+This is also where the hub, dock and switch confusion is worth settling. If you have a single computer, the box you want is almost certainly a hub or a dock instead: our [USB-C hub versus docking station](usb-c-hub-vs-docking-station.html) explainer sorts those two out, and the [USB-C docking station](best-usb-c-docking-station-uk.html) guide covers the one-cable desk. A KVM only earns its place once there are two or more machines to switch between, and when it does our [best KVM switch guide](best-kvm-switch-uk.html) covers the picks.
 
 ## FAQ
 
