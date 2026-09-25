@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-chargers.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C and GaN chargers. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 21 Sep 2026 10:16:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 10:20:43 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -104,6 +104,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/pd-vs-pps-charging-explained.html</guid>
     <pubDate>Mon, 21 Sep 2026 08:00:00 +0000</pubDate>
     <description>PPS is not a rival to USB Power Delivery: it is an optional part of it, and it decides whether a Samsung or Pixel phone reaches its fastest charging speed.</description>
+  </item>
+  <item>
+    <title>Do You Need A MagSafe Case</title>
+    <link>https://simpleproductpicks.com/posts_html/magsafe-case-needed-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/magsafe-case-needed-explained.html</guid>
+    <pubDate>Fri, 25 Sep 2026 08:00:00 +0000</pubDate>
+    <description>No. The magnets sit in the iPhone, so a MagSafe charger snaps onto a bare phone. What a case changes, and what phones without the magnets use instead.</description>
   </item>
 </channel>
 </rss>
