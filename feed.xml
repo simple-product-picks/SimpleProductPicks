@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 25 Sep 2026 10:20:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 10:21:06 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -363,6 +363,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/magsafe-case-needed-explained.html</guid>
     <pubDate>Fri, 25 Sep 2026 08:00:00 +0000</pubDate>
     <description>No. The magnets sit in the iPhone, so a MagSafe charger snaps onto a bare phone. What a case changes, and what phones without the magnets use instead.</description>
+  </item>
+  <item>
+    <title>UHS-I vs UHS-II SD Cards Explained</title>
+    <link>https://simpleproductpicks.com/posts_html/uhs-i-vs-uhs-ii-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/uhs-i-vs-uhs-ii-explained.html</guid>
+    <pubDate>Sat, 26 Sep 2026 08:00:00 +0000</pubDate>
+    <description>How to tell a UHS-I SD card from a UHS-II one at a glance, what the bus-speed and the U and V class numbers measure, and why the card and reader must match.</description>
   </item>
 </channel>
 </rss>

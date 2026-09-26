@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-adapters.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C to HDMI, DisplayPort, ethernet and audio adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 20 Sep 2026 10:26:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 10:21:06 +0000</lastBuildDate>
   <item>
     <title>Best USB C To HDMI Adapter 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-to-hdmi-adapter.html</link>
@@ -55,6 +55,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-ethernet-adapter-for-ipad-uk.html</guid>
     <pubDate>Sun, 20 Sep 2026 08:00:00 +0000</pubDate>
     <description>Any USB-C iPad takes a plain Ethernet adapter with no app, no driver and no hub. Gigabit is plenty on an iPad; here are three picks and when each one fits.</description>
+  </item>
+  <item>
+    <title>UHS-I vs UHS-II SD Cards Explained</title>
+    <link>https://simpleproductpicks.com/posts_html/uhs-i-vs-uhs-ii-explained.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/uhs-i-vs-uhs-ii-explained.html</guid>
+    <pubDate>Sat, 26 Sep 2026 08:00:00 +0000</pubDate>
+    <description>How to tell a UHS-I SD card from a UHS-II one at a glance, what the bus-speed and the U and V class numbers measure, and why the card and reader must match.</description>
   </item>
 </channel>
 </rss>
