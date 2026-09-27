@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-hubs.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C hubs and docking stations. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 24 Sep 2026 10:24:46 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 10:33:28 +0000</lastBuildDate>
   <item>
     <title>Best USB C Hub For Dual Monitors 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-hub-for-dual-monitors.html</link>
@@ -90,6 +90,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-kvm-switch-uk.html</guid>
     <pubDate>Thu, 24 Sep 2026 08:00:00 +0000</pubDate>
     <description>A KVM switch shares one keyboard, mouse and screen between two computers. Three picks - USB-only, single-monitor HDMI and dual-monitor - matched to your setup.</description>
+  </item>
+  <item>
+    <title>Best USB-C Monitor for a One-Cable Desk 2026</title>
+    <link>https://simpleproductpicks.com/posts_html/best-usb-c-monitor-one-cable-laptop-desk-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-monitor-one-cable-laptop-desk-uk.html</guid>
+    <pubDate>Sun, 27 Sep 2026 08:00:00 +0000</pubDate>
+    <description>One USB-C or Thunderbolt cable can carry your screen, laptop charge and peripherals. Three monitor picks matched to how much power your laptop needs.</description>
   </item>
 </channel>
 </rss>

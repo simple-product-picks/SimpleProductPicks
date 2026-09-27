@@ -103,7 +103,7 @@ A: A hub is compact and usually adds a handful of ports through one cable, ideal
 A: If your laptop charges over USB C and you only have the one port, PD passthrough is worth it so the hub can charge the laptop while also running your peripherals from the same connection.
 
 **Q: Will one of these let me run two external monitors?**
-A: Of these three, only the UGREEN Revodok Pro 210 is built for it, with dual HDMI outputs rated for 4K@60Hz; both Anker hubs carry a single HDMI. Your laptop's USB-C video support has the final say, so check that side too.
+A: Of these three, only the UGREEN Revodok Pro 210 is built for it, with dual HDMI outputs rated for 4K@60Hz; both Anker hubs carry a single HDMI. Your laptop's USB-C video support has the final say, so check that side too. If your desk is really just one screen, a USB-C monitor with a built-in hub can replace the dock and the hub in one: our [best USB-C monitors for a one-cable desk](best-usb-c-monitor-one-cable-laptop-desk-uk.html) guide covers those.
 
 **Q: What if I have two computers to share, not one laptop to expand?**
 A: That is a different box called a KVM switch: it lets one keyboard, mouse and often one screen switch between two or more computers, rather than giving a single laptop more ports. Our [best KVM switch guide](best-kvm-switch-uk.html) covers the picks, and if you are weighing one up, [whether a KVM switch adds lag](kvm-switch-latency-explained.html) explains what to check.
