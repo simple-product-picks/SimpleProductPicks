@@ -1,6 +1,6 @@
 # Best 100W GaN Charger UK 2026
 
-A 100W GaN charger is the sweet spot for powering a laptop, tablet and phone from a single, pocketable brick. This guide rounds up three strong picks for UK buyers, two 100W bricks plus a 140W step-up for hungrier laptops, comparing ports, single-port output and everyday practicality so you can pick the right one for your kit.
+A 100W GaN charger is the sweet spot for powering a laptop, tablet and phone from a single, pocketable brick. This guide rounds up three strong picks for UK buyers, two 100W bricks plus a 140W step-up for hungrier laptops, comparing ports, single-port output and everyday practicality so you can pick the right one for your kit. If you'd rather a charger that lives on the desk and powers a whole deskful at once instead of travelling in a bag, a [USB-C charging station](best-usb-c-charging-station-uk.html) is the stationary alternative.
 
 ## Top picks
 

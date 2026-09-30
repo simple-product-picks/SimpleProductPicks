@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 27 Sep 2026 10:33:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 10:43:33 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -377,6 +377,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-monitor-one-cable-laptop-desk-uk.html</guid>
     <pubDate>Sun, 27 Sep 2026 08:00:00 +0000</pubDate>
     <description>One USB-C or Thunderbolt cable can carry your screen, laptop charge and peripherals. Three monitor picks matched to how much power your laptop needs.</description>
+  </item>
+  <item>
+    <title>Best USB-C Charging Station UK 2026</title>
+    <link>https://simpleproductpicks.com/posts_html/best-usb-c-charging-station-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-charging-station-uk.html</guid>
+    <pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
+    <description>One mains lead to charge your laptop, phone, tablet and earbuds at once. Three USB-C GaN charging stations compared on total power, ports and desk fit.</description>
   </item>
 </channel>
 </rss>
