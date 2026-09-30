@@ -21,7 +21,7 @@ The M1 Air's own USB-C ports are scarce and one usually goes to the charger; thi
 
 **Cons**
 - ✗ No Ethernet port, so wired networking needs a different hub
-- ✗ A single HDMI, so a second screen has to be a USB-C display instead
+- ✗ The M1 Air drives just one external display, so the single HDMI is all the screen output it can use
 
 **Who it's for:** M1 Air owners who want one tidy hub that covers display, charging, USB-A and card reading.
 **Who it's not for:** Anyone who needs a wired Ethernet connection or the fastest possible data transfer.
@@ -88,7 +88,7 @@ For most M1 Air owners the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](
 
 ## How we chose
 
-The Air itself wrote the checklist: 4K HDMI for external displays, pass-through Power Delivery wattage so the laptop keeps charging, the mix of USB-A and USB-C data ports, card readers, and standards like Gigabit Ethernet and 10Gbps transfer. We weighed everyday fit, portability and overall value across light users and creators. With only those two ports on the Air it's worth choosing once and well, so follow the links and check each hub's current price and stock on Amazon before you commit.
+The Air itself wrote the checklist: 4K HDMI for an external display, pass-through Power Delivery wattage so the laptop keeps charging, the mix of USB-A and USB-C data ports, card readers, and standards like Gigabit Ethernet and 10Gbps transfer. We weighed everyday fit, portability and overall value across light users and creators. With only those two ports on the Air it's worth choosing once and well, so follow the links and check each hub's current price and stock on Amazon before you commit.
 
 ## FAQ
 
@@ -99,7 +99,7 @@ A: Yes, all three connect via USB-C and are designed to work with the M1 Air, in
 A: Yes, each pick offers pass-through Power Delivery, so you connect your charger to the hub's USB-C PD port and power the laptop through the same connection.
 
 **Q: Do I need one with Ethernet?**
-A: Only if you want a wired network connection; if you rely on Wi-Fi, the overall pick without Ethernet may suit you better, otherwise choose the budget or premium hub. If your desk runs two external screens, not every hub can drive both at once; our [dual-monitor hub guide](best-usb-c-hub-for-dual-monitors.html) covers the ones that can.
+A: Only if you want a wired network connection; if you rely on Wi-Fi, the overall pick without Ethernet may suit you better, otherwise choose the budget or premium hub. Note the M1 Air itself drives a single external display, so no hub can add a second screen here; if you use a laptop that supports two screens, our [dual-monitor hub guide](best-usb-c-hub-for-dual-monitors.html) covers the hubs that can.
 
 ---
 
