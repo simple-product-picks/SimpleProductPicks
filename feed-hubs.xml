@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-hubs.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C hubs and docking stations. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 27 Sep 2026 10:33:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 10:22:53 +0000</lastBuildDate>
   <item>
     <title>Best USB C Hub For Dual Monitors 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-hub-for-dual-monitors.html</link>
@@ -97,6 +97,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-monitor-one-cable-laptop-desk-uk.html</guid>
     <pubDate>Sun, 27 Sep 2026 08:00:00 +0000</pubDate>
     <description>One USB-C or Thunderbolt cable can carry your screen, laptop charge and peripherals. Three monitor picks matched to how much power your laptop needs.</description>
+  </item>
+  <item>
+    <title>Docking Station Not Detecting Your Monitor? Here's Why</title>
+    <link>https://simpleproductpicks.com/posts_html/docking-station-not-detecting-monitor.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/docking-station-not-detecting-monitor.html</guid>
+    <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Why a USB-C dock won't drive your second monitor - your laptop's display limit, a DisplayLink dock that needs its driver, and the quick checks in order.</description>
   </item>
 </channel>
 </rss>

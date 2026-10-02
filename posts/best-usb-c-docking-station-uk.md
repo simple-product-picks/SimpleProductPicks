@@ -103,7 +103,7 @@ A: Thunderbolt 4 guarantees much higher bandwidth, which supports faster storage
 A: Yes, all three picks here deliver laptop charging through the same cable that carries your displays and data, so a single connection runs the whole desk. Check that the dock's charging wattage meets what your laptop expects.
 
 **Q: How many monitors can I run from a docking station?**
-A: It depends on both the dock and your laptop. The docks here support two or three external displays, but some laptops, notably certain MacBook models, limit how many external screens they can drive, so check your laptop's display support before buying.
+A: It depends on both the dock and your laptop. The docks here support two or three external displays, but some laptops, notably certain MacBook models, limit how many external screens they can drive, so check your laptop's display support before buying. If a monitor you have already connected is not being picked up, our [docking station not detecting a monitor guide](docking-station-not-detecting-monitor.html) walks through the causes in the order that actually finds them.
 
 ---
 
