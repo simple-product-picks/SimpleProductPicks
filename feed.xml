@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 02 Oct 2026 10:22:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 10:27:35 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -391,6 +391,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/docking-station-not-detecting-monitor.html</guid>
     <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
     <description>Why a USB-C dock won't drive your second monitor - your laptop's display limit, a DisplayLink dock that needs its driver, and the quick checks in order.</description>
+  </item>
+  <item>
+    <title>Best USB C to Lightning Cable 2026</title>
+    <link>https://simpleproductpicks.com/posts_html/best-usb-c-to-lightning-cable-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-to-lightning-cable-uk.html</guid>
+    <pubDate>Sat, 03 Oct 2026 08:00:00 +0000</pubDate>
+    <description>An MFi certified cable is the whole decision for an older iPhone. Two USB-C to Lightning picks, rated on certification, braid quality and length.</description>
   </item>
 </channel>
 </rss>

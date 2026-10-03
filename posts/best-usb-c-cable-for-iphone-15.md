@@ -93,7 +93,7 @@ We focused on the things that actually matter for an iPhone 15 USB-C cable: the 
 ## FAQ
 
 **Q: Does the iPhone 15 need a USB-C cable?**
-A: Yes, the iPhone 15 range uses a USB-C port rather than Lightning, so a USB-C to USB-C cable is the standard way to charge and sync it.
+A: Yes, the iPhone 15 range uses a USB-C port rather than Lightning, so a USB-C to USB-C cable is the standard way to charge and sync it. If you are charging an older iPhone that still uses Lightning, you need a USB-C to Lightning cable instead - see our [USB-C to Lightning cable guide](best-usb-c-to-lightning-cable-uk.html).
 
 **Q: Will a 100W cable damage my iPhone?**
 A: No, a higher wattage rating is just a ceiling. Your iPhone only draws the power it is designed to take, so the extra headroom simply means the cable is not the limiting factor.

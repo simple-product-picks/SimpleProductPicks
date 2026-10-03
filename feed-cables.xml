@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-cables.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C charging cables. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 22 Sep 2026 10:23:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 10:27:35 +0000</lastBuildDate>
   <item>
     <title>Best USB C Cable For Fast Charging 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-cable-for-fast-charging.html</link>
@@ -55,6 +55,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/hdmi-2-1-cable-how-to-tell-explained.html</guid>
     <pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
     <description>An HDMI cable carries no version number. The only real proof it is 2.1 is the Ultra High Speed name on the jacket and the HDMI Forum's scannable label.</description>
+  </item>
+  <item>
+    <title>Best USB C to Lightning Cable 2026</title>
+    <link>https://simpleproductpicks.com/posts_html/best-usb-c-to-lightning-cable-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-to-lightning-cable-uk.html</guid>
+    <pubDate>Sat, 03 Oct 2026 08:00:00 +0000</pubDate>
+    <description>An MFi certified cable is the whole decision for an older iPhone. Two USB-C to Lightning picks, rated on certification, braid quality and length.</description>
   </item>
 </channel>
 </rss>
