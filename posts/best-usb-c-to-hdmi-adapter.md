@@ -1,6 +1,6 @@
 # Best USB C To HDMI Adapter 2026
 
-HDMI is the port TVs, projectors and meeting-room screens actually have, so a USB-C to HDMI lead is how a laptop ends up on the living-room TV or the boardroom display. This guide covers our top USB-C to HDMI picks for buyers, from a simple direct cable to a full docking hub, so you can match the connection to the way you actually work. Feeding a gaming monitor with a DisplayPort socket instead? Our [USB-C to DisplayPort guide](best-usb-c-to-displayport-adapter.html) covers that lane.
+HDMI is the port TVs, projectors and meeting-room screens actually have, so a USB-C to HDMI lead is how a laptop ends up on the living-room TV or the boardroom display. This guide covers our top USB-C to HDMI picks for buyers, from a simple direct cable to a full docking hub, so you can match the connection to the way you actually work. Feeding a gaming monitor with a DisplayPort socket instead? Our [USB-C to DisplayPort guide](best-usb-c-to-displayport-adapter.html) covers that lane. And if both ends already have full-size HDMI, like a console and a TV, you want a straight cable rather than an adapter, which our [best HDMI 2.1 cable guide](best-hdmi-2-1-cable-uk.html) covers.
 
 ## Top picks
 

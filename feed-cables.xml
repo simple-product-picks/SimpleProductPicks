@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-cables.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C charging cables. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 03 Oct 2026 10:27:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 10:22:43 +0000</lastBuildDate>
   <item>
     <title>Best USB C Cable For Fast Charging 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-cable-for-fast-charging.html</link>
@@ -62,6 +62,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-to-lightning-cable-uk.html</guid>
     <pubDate>Sat, 03 Oct 2026 08:00:00 +0000</pubDate>
     <description>An MFi certified cable is the whole decision for an older iPhone. Two USB-C to Lightning picks, rated on certification, braid quality and length.</description>
+  </item>
+  <item>
+    <title>Best HDMI 2.1 Cable 2026</title>
+    <link>https://simpleproductpicks.com/posts_html/best-hdmi-2-1-cable-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-hdmi-2-1-cable-uk.html</guid>
+    <pubDate>Sun, 04 Oct 2026 08:00:00 +0000</pubDate>
+    <description>A certified Ultra High Speed cable is the whole decision for 4K120 or 8K. Two HDMI 2.1 picks, rated on certification, length and build.</description>
   </item>
 </channel>
 </rss>
