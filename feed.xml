@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 04 Oct 2026 10:22:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 10:17:09 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -405,6 +405,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-hdmi-2-1-cable-uk.html</guid>
     <pubDate>Sun, 04 Oct 2026 08:00:00 +0000</pubDate>
     <description>A certified Ultra High Speed cable is the whole decision for 4K120 or 8K. Two HDMI 2.1 picks, rated on certification, length and build.</description>
+  </item>
+  <item>
+    <title>Do You Need A Powered USB Hub?</title>
+    <link>https://simpleproductpicks.com/posts_html/do-you-need-a-powered-usb-hub.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/do-you-need-a-powered-usb-hub.html</guid>
+    <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
+    <description>When a USB hub needs its own power supply and when a bus-powered one is fine - the power-budget question that decides it, and the devices that make a hub drop out.</description>
   </item>
 </channel>
 </rss>

@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-hubs.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C hubs and docking stations. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 02 Oct 2026 10:22:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 10:17:09 +0000</lastBuildDate>
   <item>
     <title>Best USB C Hub For Dual Monitors 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-hub-for-dual-monitors.html</link>
@@ -104,6 +104,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/docking-station-not-detecting-monitor.html</guid>
     <pubDate>Fri, 02 Oct 2026 08:00:00 +0000</pubDate>
     <description>Why a USB-C dock won't drive your second monitor - your laptop's display limit, a DisplayLink dock that needs its driver, and the quick checks in order.</description>
+  </item>
+  <item>
+    <title>Do You Need A Powered USB Hub?</title>
+    <link>https://simpleproductpicks.com/posts_html/do-you-need-a-powered-usb-hub.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/do-you-need-a-powered-usb-hub.html</guid>
+    <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
+    <description>When a USB hub needs its own power supply and when a bus-powered one is fine - the power-budget question that decides it, and the devices that make a hub drop out.</description>
   </item>
 </channel>
 </rss>
