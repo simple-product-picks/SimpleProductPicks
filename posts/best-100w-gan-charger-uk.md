@@ -96,7 +96,7 @@ The 100W class is crowded, so we compared what actually separates these three: r
 A: GaN (gallium nitride) lets chargers run cooler and smaller than older silicon designs, so a 100W brick stays compact enough to carry every day without sacrificing output.
 
 **Q: Can a 100W GaN charger charge my laptop?**
-A: Most USB-C laptops charge fine from a 100W single port, but check your laptop's required wattage first, as a few high-performance machines ask for more than 100W - which is exactly the job our 140W premium pick exists for.
+A: Most USB-C laptops charge fine from a 100W single port, but check your laptop's required wattage first, as a few high-performance machines ask for more than 100W - which is exactly the job our 140W premium pick exists for. If a USB-C charger will not charge your laptop at all, our [laptop won't charge over USB-C guide](laptop-wont-charge-over-usb-c.html) runs through the port, wattage and cable checks in the order that finds the cause.
 
 **Q: Do I need a special cable to get the full 100W?**
 A: Yes, you need a USB-C to [USB-C cable](best-usb-c-cable-for-fast-charging.html) rated for 100W (5A) with the right standards; a thin or low-rated cable will cap your charging speed regardless of the charger.

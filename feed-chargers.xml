@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-chargers.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C and GaN chargers. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Wed, 30 Sep 2026 10:43:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 10:24:50 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -118,6 +118,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/best-usb-c-charging-station-uk.html</guid>
     <pubDate>Wed, 30 Sep 2026 08:00:00 +0000</pubDate>
     <description>One mains lead to charge your laptop, phone, tablet and earbuds at once. Three USB-C GaN charging stations compared on total power, ports and desk fit.</description>
+  </item>
+  <item>
+    <title>Why Your Laptop Won't Charge Over USB-C</title>
+    <link>https://simpleproductpicks.com/posts_html/laptop-wont-charge-over-usb-c.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/laptop-wont-charge-over-usb-c.html</guid>
+    <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
+    <description>The usual reasons a laptop won't charge over USB-C: a data-only port, too little wattage or a charge-only cable, and how to tell which is yours.</description>
   </item>
 </channel>
 </rss>
