@@ -96,7 +96,7 @@ For HDMI, we judged each pick on what actually reaches the screen: resolution an
 A: If you mainly browse, work in documents or watch video, 4K at 60Hz gives smoother motion and a more comfortable feel. Cheaper 4K adapters can cap out at 30Hz, so check the spec if smoothness matters to you.
 
 **Q: Will a USB-C to HDMI adapter work with my phone or tablet?**
-A: It depends on whether your device's USB-C port supports video output (often called DisplayPort Alt Mode), so check your device's specifications, as not every USB-C port can drive an external display.
+A: It depends on whether your device's USB-C port supports video output (often called DisplayPort Alt Mode), so check your device's specifications, as not every USB-C port can drive an external display. If an adapter you already have shows no signal, our guide to [why a USB-C to HDMI adapter isn't working](why-usb-c-to-hdmi-adapter-not-working.html) walks through the port and adapter checks that fix it.
 
 **Q: Should I choose a single adapter or a multi-port hub?**
 A: A single adapter is smaller and ideal if you only need HDMI, while a hub is better if you also want Ethernet, extra USB ports or to connect several accessories from one port.

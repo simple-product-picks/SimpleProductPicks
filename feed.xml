@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 06 Oct 2026 10:24:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 09:43:13 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -419,6 +419,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/laptop-wont-charge-over-usb-c.html</guid>
     <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
     <description>The usual reasons a laptop won't charge over USB-C: a data-only port, too little wattage or a charge-only cable, and how to tell which is yours.</description>
+  </item>
+  <item>
+    <title>Why Your USB-C To HDMI Adapter Isn't Working</title>
+    <link>https://simpleproductpicks.com/posts_html/why-usb-c-to-hdmi-adapter-not-working.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/why-usb-c-to-hdmi-adapter-not-working.html</guid>
+    <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
+    <description>The usual reason a USB-C to HDMI adapter shows no signal - the port has to support DisplayPort Alt Mode - plus the quick checks that fix the rest.</description>
   </item>
 </channel>
 </rss>

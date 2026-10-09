@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-adapters.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C to HDMI, DisplayPort, ethernet and audio adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 26 Sep 2026 10:21:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 09:43:13 +0000</lastBuildDate>
   <item>
     <title>Best USB C To HDMI Adapter 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-to-hdmi-adapter.html</link>
@@ -62,6 +62,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/uhs-i-vs-uhs-ii-explained.html</guid>
     <pubDate>Sat, 26 Sep 2026 08:00:00 +0000</pubDate>
     <description>How to tell a UHS-I SD card from a UHS-II one at a glance, what the bus-speed and the U and V class numbers measure, and why the card and reader must match.</description>
+  </item>
+  <item>
+    <title>Why Your USB-C To HDMI Adapter Isn't Working</title>
+    <link>https://simpleproductpicks.com/posts_html/why-usb-c-to-hdmi-adapter-not-working.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/why-usb-c-to-hdmi-adapter-not-working.html</guid>
+    <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
+    <description>The usual reason a USB-C to HDMI adapter shows no signal - the port has to support DisplayPort Alt Mode - plus the quick checks that fix the rest.</description>
   </item>
 </channel>
 </rss>
