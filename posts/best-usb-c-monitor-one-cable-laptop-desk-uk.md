@@ -4,34 +4,34 @@ The appeal of a USB-C monitor is simple: you close the laptop lid, plug in one c
 
 So the first real decision isn't resolution, it's power. A USB-C monitor sends charge back up the same cable that carries the picture, and how much it sends decides which laptops it can run. Around 65W comfortably tops up an ultrabook or a MacBook Air class machine while you work; a larger 14 to 16-inch laptop under real load can draw more than a 65W screen supplies, so it charges slowly or not at all unless the monitor pushes more. Match the monitor's wattage to the heaviest laptop you'll plug in, and the one-cable promise actually holds.
 
-The second decision is the connector standard. A plain USB-C monitor uses DisplayPort Alt Mode, which is fine and cheaper; a Thunderbolt 4 monitor guarantees more bandwidth, higher charging and extras like a built-in network port and a KVM, but only pays off with a laptop that speaks Thunderbolt. The three picks below spread across exactly those choices: a sharp 4K all-rounder at 65W, a cheaper one-cable screen that throws in a webcam, and a Thunderbolt 4 panel that genuinely replaces a dock.
+The second decision is the connector standard. A plain USB-C monitor uses DisplayPort Alt Mode, which is fine and cheaper; a Thunderbolt 4 monitor guarantees more bandwidth, higher charging and extras like a built-in network port and a KVM, but only pays off with a laptop that speaks Thunderbolt. The three picks below spread across exactly those choices: a sharp 4K all-rounder at 96W, a cheaper one-cable screen that throws in a webcam, and a Thunderbolt 4 panel that genuinely replaces a dock.
 
 ## Top picks
 
-### 1. ASUS ProArt Display PA279CV 27-inch 4K USB-C Monitor - Best Overall
+### 1. LG 27UP850-W 27-inch 4K UHD USB-C Monitor - Best Overall
 
-**SPP Score: 8.9 / 10** - Sharp 4K on one USB-C cable that also charges an ultrabook. Our all-round pick.
+**SPP Score: 8.9 / 10** - Sharp 4K on one USB-C cable that charges most laptops at 96W. Our all-round pick.
 
-Scorecard: Capability 8.5/10 - Versatility 8.5/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.4/10
+Scorecard: Capability 8.9/10 - Versatility 8.5/10 - Build 8.9/10 - Value 8.5/10 - Fit 9.4/10
 
-Fit for this guide: The everyday one-cable pick: a sharp 4K screen, 65W to charge an ultrabook, and a built-in USB hub.
+Fit for this guide: The everyday one-cable pick: a sharp 4K screen, 96W that charges most laptops rather than only an ultrabook, and a built-in USB hub.
 
-This is the monitor that answers the plain "one-cable desk" search without asking you to think too hard about it. ASUS lists it as a 27-inch 4K panel with a USB-C port that runs DisplayPort Alt Mode and delivers up to 65W, so a single cable carries the 4K picture and keeps an ultrabook charged at the same time. On the back is a 4-port USB hub for a keyboard, mouse and a drive or two, plus two HDMI 2.0 inputs and a DisplayPort for a second machine or a games console, so it isn't a one-trick USB-C screen. The 4K resolution is the part you feel every day: at 27 inches, text and code are crisp rather than chunky. ASUS rates it at 60Hz, so it's a work-first monitor rather than a high-refresh gaming panel.
+This is the monitor that answers the plain "one-cable desk" search without asking you to think too hard about it. LG lists it as a 27-inch 4K panel with a USB-C port that runs DisplayPort Alt Mode and delivers up to 96W, so a single cable carries the 4K picture and keeps the laptop charged at the same time. The 96W is the part that sets it apart from a basic one-cable screen: 65W tops up an ultrabook, but 96W has the headroom to keep a 14 to 16-inch laptop charged through everyday work too, so the one-cable promise holds for more of the machines people actually dock. On the back are two USB 3.0 downstream ports for a keyboard, mouse or a drive, a DisplayPort 1.4 and two HDMI inputs for a second source, and a headphone output. LG rates the panel for VESA DisplayHDR 400 and 95% of the DCI-P3 colour range, so photos and video have a little more punch than a plain office screen, and at 27 inches the 4K resolution keeps text and code crisp. It runs at 60Hz, so it's a work-first monitor rather than a high-refresh gaming panel.
 
 **Pros**
-- ✓ Carries a 27-inch 4K picture, up to 65W of charge and your USB devices down one USB-C cable
-- ✓ ASUS lists a 4-port USB hub plus two HDMI 2.0 and one DisplayPort input for other sources
-- ✓ Full ergonomic stand with height, tilt, swivel and pivot to set the screen where you want it
+- ✓ Carries a 27-inch 4K picture, up to 96W of charge and your USB devices down one USB-C cable
+- ✓ 96W has the headroom to charge a 14 to 16-inch laptop, not just an ultrabook, over that one cable
+- ✓ VESA DisplayHDR 400 and 95% DCI-P3 colour, with a DisplayPort 1.4 and two HDMI inputs for other sources
 
 **Cons**
-- ✗ 65W over USB-C tops up an ultrabook, but a larger laptop under heavy load can draw more than it supplies
+- ✗ Its downstream hub is two USB ports rather than the four some rivals fit, so a busy desk may still want a separate hub
 - ✗ It runs at 60Hz, so it's built for work and sharp text rather than high-refresh gaming
 - ✗ No Thunderbolt, Ethernet or built-in KVM, so a full dock replacement is the premium pick's job
 
-**Who it's for:** Anyone on an ultrabook or a MacBook Air class laptop who wants a crisp 4K screen, a charge and a USB hub from one cable.
-**Who it's not for:** Owners of a power-hungry workstation laptop, or anyone who needs Thunderbolt, wired Ethernet or a KVM built into the screen.
+**Who it's for:** Anyone who wants a crisp 4K screen, a real charge for an ultrabook or a mid-size laptop, and a USB hub from one cable.
+**Who it's not for:** Owners of a power-hungry workstation laptop that needs more than 96W, or anyone who needs Thunderbolt, wired Ethernet or a KVM built into the screen.
 
-[Check price](https://www.amazon.co.uk/dp/B08JH7KQKV?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08YJMMYBX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -89,7 +89,7 @@ This is the pick for the desk where the monitor is meant to be the dock. Dell li
 
 ## Quick verdict
 
-For most one-cable desks, the **[ASUS ProArt Display PA279CV 27-inch 4K USB-C Monitor](https://www.amazon.co.uk/dp/B08JH7KQKV?linkCode=ll2&tag=souvlakia-21)** is the one to buy: a crisp 27-inch 4K screen that charges an ultrabook and hubs your peripherals from a single USB-C cable. If you're happy with QHD instead of 4K and want to spend less, the **[Philips 27E1N5600HE 27-inch QHD USB-C Monitor with Webcam](https://www.amazon.co.uk/dp/B09VH99JR8?linkCode=ll2&tag=souvlakia-21)** does the same one-cable job and throws in a Windows Hello webcam. And if your laptop speaks Thunderbolt and you want the monitor to replace a dock outright, the **[Dell UltraSharp U2725QE 27-inch 4K Thunderbolt 4 Monitor](https://www.amazon.co.uk/dp/B0F18Q2GPN?linkCode=ll2&tag=souvlakia-21)** adds up to 140W, wired Ethernet and a built-in KVM. Still weighing a monitor against a plain dock? Our [USB-C hub versus docking station](usb-c-hub-vs-docking-station.html) guide sorts out which box you actually need, and if you're unsure a single cable can do all this at once, [which USB-C cable a monitor needs](usb-c-cable-for-monitor-explained.html) explains what to look for.
+For most one-cable desks, the **[LG 27UP850-W 27-inch 4K UHD USB-C Monitor](https://www.amazon.co.uk/dp/B08YJMMYBX?linkCode=ll2&tag=souvlakia-21)** is the one to buy: a crisp 27-inch 4K screen that charges most laptops at up to 96W and hubs your peripherals from a single USB-C cable. If you're happy with QHD instead of 4K and want to spend less, the **[Philips 27E1N5600HE 27-inch QHD USB-C Monitor with Webcam](https://www.amazon.co.uk/dp/B09VH99JR8?linkCode=ll2&tag=souvlakia-21)** does the same one-cable job and throws in a Windows Hello webcam. And if your laptop speaks Thunderbolt and you want the monitor to replace a dock outright, the **[Dell UltraSharp U2725QE 27-inch 4K Thunderbolt 4 Monitor](https://www.amazon.co.uk/dp/B0F18Q2GPN?linkCode=ll2&tag=souvlakia-21)** adds up to 140W, wired Ethernet and a built-in KVM. Still weighing a monitor against a plain dock? Our [USB-C hub versus docking station](usb-c-hub-vs-docking-station.html) guide sorts out which box you actually need, and if you're unsure a single cable can do all this at once, [which USB-C cable a monitor needs](usb-c-cable-for-monitor-explained.html) explains what to look for.
 
 ## How we chose
 
@@ -98,7 +98,7 @@ We began from the job the monitor has to do, not the brand on the box: a USB-C m
 ## FAQ
 
 **Q: Will a USB-C monitor charge my laptop through the same cable?**
-A: Yes, if the laptop charges over USB-C and the monitor supplies enough power. The picks here send up to 65W (ASUS and Philips) or up to 140W (the Dell) back up the cable. Around 65W keeps an ultrabook or similar thin-and-light topped up; a larger 14 to 16-inch laptop under load can want more, which is why the Dell exists.
+A: Yes, if the laptop charges over USB-C and the monitor supplies enough power. The picks here send up to 65W (the Philips), up to 96W (the LG) or up to 140W (the Dell) back up the cable. Around 65W keeps an ultrabook topped up, 96W reaches into 14 to 16-inch laptops, and the Dell's 140W is there for a power-hungry workstation laptop under load.
 
 **Q: What's the difference between a USB-C monitor and a Thunderbolt monitor?**
 A: A plain USB-C monitor uses DisplayPort Alt Mode to carry the picture, charge and USB devices, which is all most desks need. A Thunderbolt 4 monitor like the Dell guarantees more bandwidth, higher charging and extras such as wired Ethernet, a KVM and daisy-chaining, but it only reaches its full potential with a laptop that has a Thunderbolt or USB4 port. Our [USB4 versus Thunderbolt 4](usb4-vs-thunderbolt-4-explained.html) guide explains how the two relate.
