@@ -93,7 +93,7 @@ We started with the watch, because it's the corner most 3-in-1s cut. Apple Watch
 ## FAQ
 
 **Q: Do I need a special charger to fast-charge an Apple Watch?**
-A: Effectively yes. The watch needs a dedicated fast-charge module, not a generic Qi puck, or it trickles slowly. Every pick here has one: Belkin quotes the budget station at 0% to 80% in 45 minutes and the premium at 0% to 80% in 30 minutes, and Anker quotes the overall pick at 0% to 47% in 30 minutes. That fast-charge module is the single biggest thing separating a good 3-in-1 from a cheap one.
+A: Effectively yes. The watch needs a dedicated fast-charge module, not a generic Qi puck, or it trickles slowly. Every pick here has one: Belkin quotes the budget station at 0% to 80% in 45 minutes and the premium at 0% to 80% in 30 minutes, and Anker quotes the overall pick at 0% to 47% in 30 minutes. That fast-charge module is the single biggest thing separating a good 3-in-1 from a cheap one. For why an ordinary phone pad does nothing for the watch in the first place, see [can an Apple Watch charge on a wireless charger](can-apple-watch-charge-on-a-wireless-charger.html).
 
 **Q: What's the difference between Qi2 15W and Qi2.2 25W?**
 A: They're both wireless-charging standards. The Wireless Power Consortium says Qi2 brought a faster 15W, and that Qi2 25W (the label makers also print as Qi2.2) delivers nearly 70% more charging power. The important part: a 25W pad only helps if your iPhone supports the 25W class. An older phone charges at its own lower ceiling, so the faster pad just sits idle under it.

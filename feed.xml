@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Fri, 09 Oct 2026 09:43:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 10:35:01 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -426,6 +426,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/why-usb-c-to-hdmi-adapter-not-working.html</guid>
     <pubDate>Fri, 09 Oct 2026 08:00:00 +0000</pubDate>
     <description>The usual reason a USB-C to HDMI adapter shows no signal - the port has to support DisplayPort Alt Mode - plus the quick checks that fix the rest.</description>
+  </item>
+  <item>
+    <title>Can An Apple Watch Charge On A Wireless Charger?</title>
+    <link>https://simpleproductpicks.com/posts_html/can-apple-watch-charge-on-a-wireless-charger.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/can-apple-watch-charge-on-a-wireless-charger.html</guid>
+    <pubDate>Sat, 10 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Why an ordinary phone wireless charger will not charge an Apple Watch, what Apple lists as chargers for it, and what that means when you pick a 3-in-1 stand.</description>
   </item>
 </channel>
 </rss>
