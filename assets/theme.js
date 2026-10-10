@@ -151,15 +151,31 @@
       var x = document.createElement("button");
       x.className = "sticky-close";
       x.type = "button";
-      x.setAttribute("aria-label", "Dismiss price bar");
+      x.setAttribute("aria-label", "Dismiss buy bar");
       x.innerHTML = "&times;";
       x.addEventListener("click", function () {
         document.body.classList.add("sticky-dismissed");
         try { sessionStorage.setItem("sppStickyClosed", "1"); } catch (e) {}
         var b2 = document.querySelector(".back-to-top");
         if (b2) b2.classList.remove("above-sticky");
+        syncSticky();
       });
       sticky.querySelector(".sticky-cta-inner").appendChild(x);
+    }
+    // 2026-10-09 (a11y): the bar shipped aria-hidden="true" for good while holding a link and a
+    // close button, and Tab reached them while the bar sat off-screen. Hidden and inert while it
+    // is out of view (or dismissed); exposed the moment it slides in.
+    var syncSticky = function () {
+      var on = sticky.classList.contains("sticky-visible") && !document.body.classList.contains("sticky-dismissed");
+      sticky.setAttribute("aria-hidden", on ? "false" : "true");
+      if (on) sticky.removeAttribute("inert"); else sticky.setAttribute("inert", "");
+      Array.prototype.forEach.call(sticky.querySelectorAll("a, button"), function (el) {
+        if (on) el.removeAttribute("tabindex"); else el.setAttribute("tabindex", "-1");
+      });
+    };
+    syncSticky();
+    if ("MutationObserver" in window) {
+      new MutationObserver(syncSticky).observe(sticky, { attributes: true, attributeFilter: ["class"] });
     }
   }
 
@@ -171,7 +187,12 @@
   var US_TAG = "simpleprodu06-20";
   var tz = "";
   try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
-  if (/^(America\/|US\/|Pacific\/Honolulu)/.test(tz)) {
+  // 2026-10-09: US and Canada zones ONLY (the note below says "US or Canada"). The old /^America\//
+  // test also caught Mexico City, Sao Paulo and the rest of Latin America. US_CA_TZ is the IANA
+  // list for the two countries (plus their legacy US/ and Canada/ aliases and the US territories:
+  // Puerto Rico, US Virgin Islands, Guam, Northern Marianas, American Samoa).
+  var US_CA_TZ = /^(US\/|Canada\/|Pacific\/(Honolulu|Guam|Saipan|Pago_Pago|Samoa)$|America\/(St_Thomas|Virgin|New_York|Detroit|Kentucky\/[A-Za-z_]+|Indiana\/[A-Za-z_]+|Indianapolis|Fort_Wayne|Louisville|Knox_IN|Chicago|Menominee|North_Dakota\/[A-Za-z_]+|Denver|Boise|Shiprock|Phoenix|Los_Angeles|Anchorage|Juneau|Sitka|Metlakatla|Yakutat|Nome|Adak|Atka|Puerto_Rico|St_Johns|Halifax|Glace_Bay|Moncton|Goose_Bay|Toronto|Montreal|Nipigon|Thunder_Bay|Iqaluit|Pangnirtung|Atikokan|Coral_Harbour|Winnipeg|Rainy_River|Resolute|Rankin_Inlet|Regina|Swift_Current|Edmonton|Cambridge_Bay|Yellowknife|Inuvik|Creston|Dawson_Creek|Fort_Nelson|Whitehorse|Dawson|Vancouver|Blanc-Sablon)$)/;
+  if (US_CA_TZ.test(tz)) {
     var amz = Array.prototype.slice.call(document.querySelectorAll('a[href*="amazon.co.uk/dp/"]'));
     var asinOf = function (a) {
       var m = (a.getAttribute("href") || "").match(/\/dp\/([A-Z0-9]{10})/);
@@ -180,6 +201,8 @@
     var names = {};
     amz.forEach(function (a) {
       var asin = asinOf(a), t = (a.textContent || "").trim();
+      // the answer box prints a SHORT name; the search query is always the full listing name
+      if (a.closest && a.closest(".answer-first")) return;
       if (asin && t.length > 12 && !/^check price/i.test(t) && !names[asin]) names[asin] = t;
     });
     amz.forEach(function (a) {
@@ -187,7 +210,8 @@
       if (!q) return;
       a.setAttribute("href", "https://www.amazon.com/s?k=" + encodeURIComponent(q) + "&tag=" + US_TAG);
       a.setAttribute("data-us-search", "1");
-      if (/Amazon UK/.test(a.textContent || "")) a.textContent = a.textContent.replace("Amazon UK", "Amazon.com");
+      // 2026-10-09: button text stays as built ("Check price on Amazon" reads true for every
+      // visitor), so nothing here relabels it
     });
     // Tell that visitor what the buttons now do (operator 2026-09-17). Shown only when a link was
     // rewritten, so a UK reader never sees it. Plain text, no link.
@@ -197,7 +221,10 @@
       note.className = "us-note muted";
       note.style.cssText = "margin:0 0 16px;padding:10px 14px;border:1px solid currentColor;border-radius:10px;font-size:0.95rem";
       note.textContent = "Shopping from the US or Canada? The buttons on this page open Amazon.com and search for each pick by name. Models can differ by region, so confirm the model and spec on the Amazon.com page before you buy.";
-      mainEl.insertBefore(note, mainEl.firstChild);
+      // 2026-10-09: under the answer box, so the note no longer pushes the first button down
+      var afBox = mainEl.querySelector(".answer-first");
+      if (afBox && afBox.parentNode === mainEl) mainEl.insertBefore(note, afBox.nextSibling);
+      else mainEl.insertBefore(note, mainEl.firstChild);
     }
   }
 
