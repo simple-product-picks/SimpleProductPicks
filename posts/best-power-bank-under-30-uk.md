@@ -101,6 +101,9 @@ A: It refers to the maximum wireless charging output when the bank is snapped ma
 **Q: Can I take a 10000mAh power bank on a plane?**
 A: A 10000mAh bank is well within typical airline limits for cabin carry-on, but always check your airline's current rules and keep it in your hand luggage, never in the hold.
 
+**Q: Why does my power bank keep switching itself off when I charge my earbuds?**
+A: Most banks cut their output when the device draws very little current, like an earbuds case or a watch, because they read that tiny draw as nothing being connected; a low-current or trickle mode holds the output on. Our [guide to why a power bank turns off](why-does-my-power-bank-turn-off.html) covers the fix and the other causes.
+
 ---
 
 *Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.com/disclosure.html) for details.*

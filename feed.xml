@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sat, 10 Oct 2026 10:35:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 10:22:25 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -433,6 +433,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/can-apple-watch-charge-on-a-wireless-charger.html</guid>
     <pubDate>Sat, 10 Oct 2026 08:00:00 +0000</pubDate>
     <description>Why an ordinary phone wireless charger will not charge an Apple Watch, what Apple lists as chargers for it, and what that means when you pick a 3-in-1 stand.</description>
+  </item>
+  <item>
+    <title>Why Does My Power Bank Turn Off?</title>
+    <link>https://simpleproductpicks.com/posts_html/why-does-my-power-bank-turn-off.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/why-does-my-power-bank-turn-off.html</guid>
+    <pubDate>Sun, 11 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Why a power bank switches itself off while charging earbuds or a watch, the low-current mode that fixes it, and the other checks when it will not charge at all.</description>
   </item>
 </channel>
 </rss>
