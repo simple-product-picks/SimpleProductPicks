@@ -102,7 +102,7 @@ A: Yes, in hand luggage rather than a checked bag. Check the watt-hour figure pr
 A: Higher wattage means faster charging and the ability to power more demanding devices like laptops; 65W is ample for phones, tablets, and smaller laptops, while 145W is aimed at more demanding USB-C laptops. If a laptop is the main thing you need to charge, our [power bank for laptops guide](best-power-bank-for-laptops-uk.html) compares that class on its own.
 
 **Q: How many times will a 20000mAh bank recharge my phone?**
-A: As a rough guide it can give a typical smartphone several full recharges, though real-world results depend on your phone's battery size and charging losses.
+A: As a rough guide it can give a typical smartphone several full recharges, but you never get the headline 20000mAh: the usable figure is lower once the cells' voltage is stepped up to charge your phone. Our [guide to how many charges you get from a 20000mAh power bank](how-many-charges-from-a-20000mah-power-bank.html) shows the quick sum to work out your own number.
 
 ---
 

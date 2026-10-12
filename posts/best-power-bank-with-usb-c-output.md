@@ -96,7 +96,7 @@ USB-C output is the whole point here, so we judged each bank on: capacity in mAh
 A: Yes, if the bank supports enough USB-C output wattage for your laptop; the 145W and 220W picks here have the headroom for many USB-C laptops, while a 10000mAh 30W unit is better suited to phones.
 
 **Q: What does mAh mean for how many charges I get?**
-A: mAh is the bank's capacity, so a higher figure generally means more top-ups before the bank itself needs recharging; a 10000mAh unit suits a couple of phone charges, while 20000mAh stretches further - our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) compares three of them.
+A: mAh is the bank's capacity, so a higher figure generally means more top-ups before the bank itself needs recharging; a 10000mAh unit suits a couple of phone charges, while 20000mAh stretches further - our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) compares three of them. You never get the full mAh out, though: our [guide to how many charges a 20000mAh power bank gives](how-many-charges-from-a-20000mah-power-bank.html) shows the quick sum.
 
 **Q: Do these power banks come with a cable?**
 A: The UGREEN Nexode and the Anker Zolo here have a built-in USB-C cable, so a lead is always attached; to hit the highest USB-C output you still want a cable rated for that wattage, so check the listing on Amazon and use an appropriate USB-C cable.

@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-power-banks.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for power banks and portable chargers. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 11 Oct 2026 10:22:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 10:19:01 +0000</lastBuildDate>
   <item>
     <title>Best Power Bank For iPhone 15 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-power-bank-for-iphone-15.html</link>
@@ -83,6 +83,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/why-does-my-power-bank-turn-off.html</guid>
     <pubDate>Sun, 11 Oct 2026 08:00:00 +0000</pubDate>
     <description>Why a power bank switches itself off while charging earbuds or a watch, the low-current mode that fixes it, and the other checks when it will not charge at all.</description>
+  </item>
+  <item>
+    <title>How Many Charges Do You Get From A 20000mAh Power Bank?</title>
+    <link>https://simpleproductpicks.com/posts_html/how-many-charges-from-a-20000mah-power-bank.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/how-many-charges-from-a-20000mah-power-bank.html</guid>
+    <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Why a 20000mAh power bank never gives the full 20000mAh to your phone, where the energy goes, and how to work out your own real number of charges.</description>
   </item>
 </channel>
 </rss>
