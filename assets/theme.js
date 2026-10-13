@@ -179,11 +179,14 @@
     }
   }
 
-  // North American visitors -> Amazon.com search links (operator 2026-09-12). OneLink's Link
-  // Stores step fails on Amazon's side, so until it links: a browser whose clock sits in a North
-  // American timezone gets every Amazon UK product link rewritten to an amazon.com SEARCH for the
-  // pick's exact listing name, tagged with the family's US Associates ID. The timezone is read
-  // locally (no request, no cookie, nothing stored); every other visitor keeps the UK links.
+  // North American visitors -> Amazon.com (operator 2026-09-12). OneLink's Link Stores step
+  // fails on Amazon's side, so: a browser whose clock sits in a US or Canada timezone gets every
+  // Amazon UK product link rewritten to Amazon.com, tagged with the family's US Associates ID.
+  // 2026-10-10 (US product links): a pick whose same product is listed on Amazon.com carries
+  // data-us-asin (stamped at build time from the truth file's matched us_asin) and goes straight
+  // to that product page; a pick without one keeps the amazon.com SEARCH for its exact listing
+  // name. The timezone is read locally (no request, no cookie, nothing stored); every other
+  // visitor keeps the UK links.
   var US_TAG = "simpleprodu06-20";
   var tz = "";
   try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) {}
@@ -205,8 +208,20 @@
       if (a.closest && a.closest(".answer-first")) return;
       if (asin && t.length > 12 && !/^check price/i.test(t) && !names[asin]) names[asin] = t;
     });
+    // one US ASIN per UK ASIN: any link of the pick that carries data-us-asin speaks for all of them
+    var usAsin = {};
     amz.forEach(function (a) {
-      var q = names[asinOf(a)];
+      var k = asinOf(a), u = a.getAttribute("data-us-asin") || "";
+      if (k && /^[A-Z0-9]{10}$/.test(u) && !usAsin[k]) usAsin[k] = u;
+    });
+    amz.forEach(function (a) {
+      var k = asinOf(a);
+      if (usAsin[k]) {
+        a.setAttribute("href", "https://www.amazon.com/dp/" + usAsin[k] + "?tag=" + US_TAG);
+        a.setAttribute("data-us-dp", "1");
+        return;
+      }
+      var q = names[k];
       if (!q) return;
       a.setAttribute("href", "https://www.amazon.com/s?k=" + encodeURIComponent(q) + "&tag=" + US_TAG);
       a.setAttribute("data-us-search", "1");
@@ -214,13 +229,19 @@
       // visitor), so nothing here relabels it
     });
     // Tell that visitor what the buttons now do (operator 2026-09-17). Shown only when a link was
-    // rewritten, so a UK reader never sees it. Plain text, no link.
+    // rewritten, so a UK reader never sees it. Plain text, no link. The wording follows what the
+    // buttons on THIS page do: product pages, searches, or a mix of both.
     var mainEl = document.querySelector("main");
-    if (mainEl && document.querySelector('a[data-us-search="1"]') && !document.querySelector(".us-note")) {
+    var nDp = document.querySelectorAll('a[data-us-dp="1"]').length;
+    var nSearch = document.querySelectorAll('a[data-us-search="1"]').length;
+    if (mainEl && (nDp || nSearch) && !document.querySelector(".us-note")) {
       var note = document.createElement("p");
       note.className = "us-note muted";
       note.style.cssText = "margin:0 0 16px;padding:10px 14px;border:1px solid currentColor;border-radius:10px;font-size:0.95rem";
-      note.textContent = "Shopping from the US or Canada? The buttons on this page open Amazon.com and search for each pick by name. Models can differ by region, so confirm the model and spec on the Amazon.com page before you buy.";
+      var what = !nSearch ? "open each pick's own page on Amazon.com"
+        : !nDp ? "open Amazon.com and search for each pick by name"
+        : "open Amazon.com: a pick sold there as the same model opens its own page, and the others search for the pick by name";
+      note.textContent = "Shopping from the US or Canada? The buttons on this page " + what + ". Models can differ by region, so confirm the model and spec on the Amazon.com page before you buy.";
       // 2026-10-09: under the answer box, so the note no longer pushes the first button down
       var afBox = mainEl.querySelector(".answer-first");
       if (afBox && afBox.parentNode === mainEl) mainEl.insertBefore(note, afBox.nextSibling);
