@@ -96,7 +96,7 @@ Packing light forces trade-offs, so we judged each charger on: real wattage (65W
 A: GaN (gallium nitride) is a semiconductor that handles power more efficiently than older silicon, so chargers run cooler and pack the same wattage into a much smaller, lighter body that's ideal for a carry-on.
 
 **Q: Will a UK GaN charger work abroad?**
-A: Check the small print on the plug for a 100-240V input before you rely on it abroad. You will also need a plug adapter for the local socket type, since UK plugs differ from those in Europe, the US and elsewhere. For the flight itself, when there's no socket at all, a [travel power bank](best-power-bank-for-long-flights.html) fills the gap.
+A: Check the small print on the plug for a 100-240V input before you rely on it abroad. You will also need a plug adapter for the local socket type, since UK plugs differ from those in Europe, the US and elsewhere; with a 100-240V charger that adapter is all you need, so [you can skip the voltage converter](do-you-need-a-voltage-converter-for-a-charger.html). For the flight itself, when there's no socket at all, a [travel power bank](best-power-bank-for-long-flights.html) fills the gap.
 
 **Q: How much wattage do I need to charge a laptop while travelling?**
 A: Many ultrabooks charge happily at 65W, while more demanding laptops are better served by a [100W charger](best-100w-gan-charger-uk.html); check your laptop's own charger rating as a guide before choosing. For the 65W class on its own, including a single-port pick chosen for being the smallest plug, see our [65W GaN charger guide](best-65w-gan-charger-uk.html).

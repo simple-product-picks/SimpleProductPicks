@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 12 Oct 2026 10:19:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 10:22:13 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -447,6 +447,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/how-many-charges-from-a-20000mah-power-bank.html</guid>
     <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
     <description>Why a 20000mAh power bank never gives the full 20000mAh to your phone, where the energy goes, and how to work out your own real number of charges.</description>
+  </item>
+  <item>
+    <title>Do You Need A Voltage Converter For Your Charger?</title>
+    <link>https://simpleproductpicks.com/posts_html/do-you-need-a-voltage-converter-for-a-charger.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/do-you-need-a-voltage-converter-for-a-charger.html</guid>
+    <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Why most phone and laptop chargers need only a plug adapter abroad, how to read the 100-240V input line, and the rare case where a converter is the right answer.</description>
   </item>
 </channel>
 </rss>
