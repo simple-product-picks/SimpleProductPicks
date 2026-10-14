@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 13 Oct 2026 10:22:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 10:25:39 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -454,6 +454,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/do-you-need-a-voltage-converter-for-a-charger.html</guid>
     <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
     <description>Why most phone and laptop chargers need only a plug adapter abroad, how to read the 100-240V input line, and the rare case where a converter is the right answer.</description>
+  </item>
+  <item>
+    <title>Can An iPad Use An External Monitor?</title>
+    <link>https://simpleproductpicks.com/posts_html/can-ipad-use-an-external-monitor.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/can-ipad-use-an-external-monitor.html</guid>
+    <pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Which iPads only mirror to a monitor, which can extend onto it with Stage Manager, the cable or hub you need, and why a mirrored iPad leaves black bars.</description>
   </item>
 </channel>
 </rss>

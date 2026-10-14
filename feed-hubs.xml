@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-hubs.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for USB-C hubs and docking stations. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 05 Oct 2026 10:17:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 10:25:39 +0000</lastBuildDate>
   <item>
     <title>Best USB C Hub For Dual Monitors 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-usb-c-hub-for-dual-monitors.html</link>
@@ -111,6 +111,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/do-you-need-a-powered-usb-hub.html</guid>
     <pubDate>Mon, 05 Oct 2026 08:00:00 +0000</pubDate>
     <description>When a USB hub needs its own power supply and when a bus-powered one is fine - the power-budget question that decides it, and the devices that make a hub drop out.</description>
+  </item>
+  <item>
+    <title>Can An iPad Use An External Monitor?</title>
+    <link>https://simpleproductpicks.com/posts_html/can-ipad-use-an-external-monitor.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/can-ipad-use-an-external-monitor.html</guid>
+    <pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Which iPads only mirror to a monitor, which can extend onto it with Stage Manager, the cable or hub you need, and why a mirrored iPad leaves black bars.</description>
   </item>
 </channel>
 </rss>
