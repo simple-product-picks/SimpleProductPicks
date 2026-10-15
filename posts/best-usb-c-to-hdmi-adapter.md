@@ -64,7 +64,7 @@ Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: HDMI here comes with Ethernet, card slots and 10Gbps ports that a reader after one screen skips.
 
-The Anker USB C Hub 8-in-1 is for people who want one plug to do everything. Beyond HDMI output, it adds wired Ethernet for a stable network connection and 10Gbps USB data transfer for fast external drives, all from a single USB-C port. For a home-office or hot-desk setup, this turns a slim laptop into a proper workstation in one connection. More hub options live in our [USB-C hub with Ethernet guide](best-usb-c-hub-with-ethernet.html).
+The Anker USB C Hub 8-in-1 is for people who want one plug to do everything. Beyond HDMI output, it adds wired Ethernet for a stable network connection and 10Gbps USB data transfer for fast external drives, all from a single USB-C port. For a home-office or hot-desk setup, this turns a slim laptop into a proper workstation in one connection. More hub options live in our [USB-C hub guide](best-usb-c-hub-uk.html).
 
 **Pros**
 - ✓ Eight ports in one hub, including HDMI, Ethernet and high-speed USB

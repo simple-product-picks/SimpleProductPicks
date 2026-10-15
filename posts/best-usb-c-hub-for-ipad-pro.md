@@ -38,7 +38,7 @@ Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: Wired Ethernet, 4K HDMI and an SD slot cover an iPad desk that needs a steady network connection.
 
-The UGREEN Revodok earns its place by adding the one thing the overall pick lacks: Gigabit Ethernet, which steadies video calls and big downloads when the iPad's Wi-Fi is the weak link. With 100W power delivery on its USB-C input, it has plenty of headroom to keep an iPad Pro topped up while you work. It's a practical pick for anyone who'd rather plug in than gamble on Wi-Fi; if wired networking is the whole point, our [USB-C hub with Ethernet](best-usb-c-hub-with-ethernet.html) guide compares more options.
+The UGREEN Revodok earns its place by adding the one thing the overall pick lacks: Gigabit Ethernet, which steadies video calls and big downloads when the iPad's Wi-Fi is the weak link. With 100W power delivery on its USB-C input, it has plenty of headroom to keep an iPad Pro topped up while you work. It's a practical pick for anyone who'd rather plug in than gamble on Wi-Fi; if wired networking is the whole point, our [USB-C Ethernet adapter](best-usb-c-ethernet-adapter.html) guide compares more options.
 
 **Pros**
 - ✓ Gigabit Ethernet for a stable, wired network connection

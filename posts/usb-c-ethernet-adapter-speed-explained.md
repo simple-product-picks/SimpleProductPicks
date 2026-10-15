@@ -20,7 +20,7 @@ The faster ports remove the problem entirely. USB-IF's SuperSpeed tier, USB 3.2,
 
 ## When 2.5G or 5G is actually worth it
 
-On most lines the extra speed class is money spent on headroom you will never reach. A faster adapter only pays back in two narrow cases: a full-fibre line that already tops a gigabit, or shifting big files between your own machines over a 2.5G-capable network. Both deserve a closer look than a wedge can give them, so our [USB-C Ethernet adapter guide](best-usb-c-ethernet-adapter.html) sorts the picks on exactly that Gigabit, 2.5G and 5G split. And if you would rather add Ethernet alongside HDMI and extra USB ports, a [USB-C hub with Ethernet](best-usb-c-hub-with-ethernet.html) folds the wired connection into one dongle.
+On most lines the extra speed class is money spent on headroom you will never reach. A faster adapter only pays back in two narrow cases: a full-fibre line that already tops a gigabit, or shifting big files between your own machines over a 2.5G-capable network. Both deserve a closer look than a wedge can give them, so our [USB-C Ethernet adapter guide](best-usb-c-ethernet-adapter.html) sorts the picks on exactly that Gigabit, 2.5G and 5G split. And if you would rather add Ethernet alongside HDMI and extra USB ports, a USB-C hub with Ethernet folds the wired connection into one dongle; our [USB-C hub guide](best-usb-c-hub-uk.html) says which picks have the socket.
 
 ## Why wired still wins even at the same speed
 

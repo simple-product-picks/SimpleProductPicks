@@ -16,7 +16,7 @@ At the top end the contrast is sharper still. Anker rates its Prime 27K power ba
 
 Start by finding the input figure on the bank itself or its product listing, usually written as a voltage and current such as 5V 2A, or as a plain wattage. Match it with a USB-C Power Delivery charger rated at least that high, and run it through a cable rated to carry that power rather than a thin freebie. Those three things, the bank's input, the charger and the cable, are the whole story.
 
-If a fast refill is high on your list, the [best power banks with USB-C output](best-power-bank-with-usb-c-output.html) are the ones built around high-watt USB-C ports that charge in both directions. And if your real question runs the other way, how many phone top-ups you get from a full bank rather than how long it takes to fill, that is answered in [how many charges you get from a 20000mAh power bank](how-many-charges-from-a-20000mah-power-bank.html).
+If a fast refill is high on your list, our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) compares packs by their USB-C wattage. And if your real question runs the other way, how many phone top-ups you get from a full bank rather than how long it takes to fill, that is answered in [how many charges you get from a 20000mAh power bank](how-many-charges-from-a-20000mah-power-bank.html).
 
 ## FAQ
 

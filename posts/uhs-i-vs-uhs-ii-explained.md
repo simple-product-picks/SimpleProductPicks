@@ -28,7 +28,7 @@ Which reader to actually buy is its own decision, and it turns as much on what y
 
 Shoot long bursts of RAW frames and you want the buffer to clear and the card to copy quickly afterwards; record high-bitrate video and you need a high write-speed floor. Those are the cases where the wider bus and the higher guaranteed write earn their keep. For everything else, ordinary photos, casual 1080p clips, a card that lives in a phone or a dashcam, UHS-I is plenty, and the money does more as extra capacity than as bus speed the card will not use.
 
-The one place the distinction bites even casual users is at the desk, when a card copy feels slow. By now the reason is clear: the card is the fast part or it is not, and no reader can push it beyond its own class, so that is where to look first. And if what you really want is one dongle that reads cards and drives a monitor and a wired network at the same time, that is a hub rather than a reader: our [USB-C hub with an SD card reader guide](best-usb-c-hub-with-sd-card-reader.html) covers those.
+The one place the distinction bites even casual users is at the desk, when a card copy feels slow. By now the reason is clear: the card is the fast part or it is not, and no reader can push it beyond its own class, so that is where to look first. And if what you really want is one dongle that reads cards and drives a monitor and a wired network at the same time, that is a hub rather than a reader: our [USB-C hub guide](best-usb-c-hub-uk.html) covers those.
 
 ## FAQ
 

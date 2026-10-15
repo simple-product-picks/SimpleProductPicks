@@ -98,7 +98,7 @@ Gigabit is far more than an iPad will ever pull from a home broadband line, whic
 
 ## What if you need to charge the iPad at the same time?
 
-This is the one real limitation of a plain adapter. A USB-C iPad has a single port, so an Ethernet adapter takes the only socket you would otherwise charge from. For a quick sync or a call that is no problem, but for a long working session on a wired desk you have two options: an adapter with pass-through charging, or a USB-C hub that adds Ethernet alongside a charging input and other ports. A hub is the more flexible answer for a desk setup, and our [USB-C hub with Ethernet guide](best-usb-c-hub-with-ethernet.html) compares the ones worth buying. If wired networking on the move is all you are after, a single-purpose adapter stays the lighter, cheaper choice.
+This is the one real limitation of a plain adapter. A USB-C iPad has a single port, so an Ethernet adapter takes the only socket you would otherwise charge from. For a quick sync or a call that is no problem, but for a long working session on a wired desk you have two options: an adapter with pass-through charging, or a USB-C hub that adds Ethernet alongside a charging input and other ports. A hub is the more flexible answer for a desk setup, and our [USB-C hub guide](best-usb-c-hub-uk.html) says which picks carry an Ethernet socket. If wired networking on the move is all you are after, a single-purpose adapter stays the lighter, cheaper choice.
 
 ## How to connect an Ethernet cable to an iPad
 

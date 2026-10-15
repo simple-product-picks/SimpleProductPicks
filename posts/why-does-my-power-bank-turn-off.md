@@ -20,7 +20,7 @@ If the bank also dies on a phone, the low-current cut-out isn't the cause. Check
 
 ## What to check before you buy one
 
-If you top up earbuds or a fitness band from a pocket bank, make sure the listing or manual mentions a low-current or trickle mode before you buy, not after. Our [best budget power bank guide](best-power-bank-under-30-uk.html) covers everyday small banks, and our [best 20000mAh power bank guide](best-power-bank-20000mah-uk.html) does the same for a larger cell.
+If you top up earbuds or a fitness band from a pocket bank, make sure the listing or manual mentions a low-current or trickle mode before you buy, not after. Our [best 20000mAh power bank guide](best-power-bank-20000mah-uk.html) compares everyday wired banks.
 
 ## FAQ
 

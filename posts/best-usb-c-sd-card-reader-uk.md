@@ -2,7 +2,7 @@
 
 If a card copy feels slow, the reader is rarely the thing holding it up. The limit is almost always the card's own bus, and a fast reader cannot lift a slow card past it: only a UHS-II card in a UHS-II reader clears the UHS-I speed ceiling, because the extra speed lives in a second row of pins that both ends need. If the split between UHS-I and UHS-II is new to you, our [UHS-I vs UHS-II explainer](uhs-i-vs-uhs-ii-explained.html) covers how to tell them apart at a glance and what the speed-class numbers mean; the short version is enough here. So the first question is not which reader is fastest, it's which card you actually shoot.
 
-The second question is what you are plugging into. A laptop is happy with a plain reader. A phone or an iPad has one port, and the moment a reader is in it there is nowhere left for a charger, so the reader that also passes power through earns its place. And an older camera with a CompactFlash card in it needs a reader that still has a CF slot at all. The three picks below answer those three situations. If what you actually want is one dongle that reads cards *and* drives a monitor and a wired network from a laptop desk, that is a hub, not a reader, and our [USB-C hub with SD card reader guide](best-usb-c-hub-with-sd-card-reader.html) is the honest place to go instead.
+The second question is what you are plugging into. A laptop is happy with a plain reader. A phone or an iPad has one port, and the moment a reader is in it there is nowhere left for a charger, so the reader that also passes power through earns its place. And an older camera with a CompactFlash card in it needs a reader that still has a CF slot at all. The three picks below answer those three situations. If what you actually want is one dongle that reads cards *and* drives a monitor and a wired network from a laptop desk, that is a hub, not a reader, and our [USB-C hub guide](best-usb-c-hub-uk.html) is the honest place to go instead.
 
 ## Top picks
 
@@ -110,7 +110,7 @@ A: Yes, with the right reader. A phone or iPad has one port, so a plain reader b
 A: The BENFEI budget pick does. Its listing reads SD, microSD, Memory Stick and CompactFlash, which makes it the one here for an older DSLR that still shoots CF. The other two are SD and microSD only.
 
 **Q: Should I buy a card reader or a hub with a card slot?**
-A: A reader if cards are the whole job and you want something pocketable. A hub if you also want to drive a monitor, wired network or charging from the same dongle at a desk, in which case our [USB-C hub with SD card reader guide](best-usb-c-hub-with-sd-card-reader.html) covers the all-in-one options.
+A: A reader if cards are the whole job and you want something pocketable. A hub if you also want to drive a monitor, wired network or charging from the same dongle at a desk, in which case our [USB-C hub guide](best-usb-c-hub-uk.html) covers the all-in-one options.
 
 ---
 

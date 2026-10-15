@@ -38,7 +38,7 @@ Scorecard: Capability 7.1/10 - Versatility 8.5/10 - Build 8.9/10 - Value 8.5/10 
 
 Fit for this guide: Qi2-certified 15W magnetic charging in an ultra-slim 5000mAh body fits readers wanting daily snap-on charging.
 
-The budget route into real Qi2 is also the one you'll forget you're carrying: a 5000mAh pack slim enough to stay snapped on the phone in a pocket without turning it into a brick. It charges at the full Qi2 15W, and INIU's listing includes a USB-C cable and a stand in the box, which is generous at this end of the market. Half the capacity of the other two picks is the honest trade: this is the top-up-and-go option, not the all-weekend one. If you'd rather skip the magnets entirely, our [power bank under 30 guide](best-power-bank-under-30-uk.html) covers the wired budget end.
+The budget route into real Qi2 is also the one you'll forget you're carrying: a 5000mAh pack slim enough to stay snapped on the phone in a pocket without turning it into a brick. It charges at the full Qi2 15W, and INIU's listing includes a USB-C cable and a stand in the box, which is generous at this end of the market. Half the capacity of the other two picks is the honest trade: this is the top-up-and-go option, not the all-weekend one. If you'd rather skip the magnets entirely, our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) covers wired packs.
 
 **Pros**
 - ✓ Genuine Qi2-certified 15W magnetic charging, not a 7.5W lookalike

@@ -1,6 +1,6 @@
 # Best USB C Ethernet Adapter UK 2026
 
-A USB-C Ethernet adapter gives a laptop, tablet or mini PC with no Ethernet port a wired connection through USB-C. The three picks below cover Gigabit, 2.5G and 5G. If you would rather add Ethernet and extra ports in one device, see our [USB-C hub with ethernet](best-usb-c-hub-with-ethernet.html) guide.
+A USB-C Ethernet adapter gives a laptop, tablet or mini PC with no Ethernet port a wired connection through USB-C. The three picks below cover Gigabit, 2.5G and 5G. If you would rather add Ethernet and extra ports in one device, see our [USB-C hub](best-usb-c-hub-uk.html) guide.
 
 ## Top picks
 
@@ -102,7 +102,7 @@ Match the adapter to the slowest link in your chain, not the fastest number on t
 - **MacBook Air and MacBook Pro:** yes, on the USB-C models.
 - **Windows laptops:** yes, on any USB-C port that carries data.
 - **iPads with a USB-C port:** yes, Apple lists USB to Ethernet adapters among the accessories the iPad's USB-C port supports; our [USB-C Ethernet adapter for iPad guide](best-usb-c-ethernet-adapter-for-ipad-uk.html) covers the iPad-specific picks and the single-port catch.
-- **Steam Deck:** yes, either directly or through a dock; for the dock route see our [USB-C hub for Steam Deck](best-usb-c-hub-for-steam-deck.html) guide.
+- **Steam Deck:** yes, either directly or through a dock; for the dock route see the Steam Deck section of our [USB-C hub](best-usb-c-hub-uk.html) guide.
 - **Android phones and tablets:** many support it, but not every model does, so check yours before you buy.
 - **Chromebooks:** yes, ChromeOS handles standard adapters automatically.
 
