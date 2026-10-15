@@ -595,6 +595,10 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 .row-caveat { color: var(--muted); font-size: 0.85em; font-weight: 400; }
 .spp-handson { font-size: 15px; margin: 0 0 12px; }
 .spp-handson b { font-weight: 700; }
+.owned-photos { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 0 0 16px; max-width: 560px; }
+.owned-photos img { width: 100%; height: 100%; object-fit: cover; border-radius: 12px; border: 1px solid var(--border); }
+.owned-photos img.wide { grid-column: 1 / -1; height: auto; }
+.owned-photos figcaption { grid-column: 1 / -1; font-size: 13px; color: var(--muted); }
 
 /* -- "How we test" pointer under the first scorecard (2026-09-06) --- */
 .score-note {
