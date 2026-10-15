@@ -104,6 +104,9 @@ A: Higher wattage means faster charging and the ability to power more demanding 
 **Q: How many times will a 20000mAh bank recharge my phone?**
 A: As a rough guide it can give a typical smartphone several full recharges, but you never get the headline 20000mAh: the usable figure is lower once the cells' voltage is stepped up to charge your phone. Our [guide to how many charges you get from a 20000mAh power bank](how-many-charges-from-a-20000mah-power-bank.html) shows the quick sum to work out your own number.
 
+**Q: How long does a 20000mAh power bank take to recharge?**
+A: Anywhere from a few hours to most of a night, set by the bank's input rating and the charger you use rather than its capacity alone. Our [guide to how long a power bank takes to charge](how-long-to-charge-a-power-bank.html) breaks down the maker figures and how to speed it up.
+
 ---
 
 *Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.com/disclosure.html) for details.*

@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed-power-banks.xml" rel="self" type="application/rss+xml" />
   <description>Buying guides for power banks and portable chargers. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Mon, 12 Oct 2026 10:19:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 10:15:19 +0000</lastBuildDate>
   <item>
     <title>Best Power Bank For iPhone 15 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-power-bank-for-iphone-15.html</link>
@@ -90,6 +90,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/how-many-charges-from-a-20000mah-power-bank.html</guid>
     <pubDate>Mon, 12 Oct 2026 08:00:00 +0000</pubDate>
     <description>Why a 20000mAh power bank never gives the full 20000mAh to your phone, where the energy goes, and how to work out your own real number of charges.</description>
+  </item>
+  <item>
+    <title>How Long Does A Power Bank Take To Charge?</title>
+    <link>https://simpleproductpicks.com/posts_html/how-long-to-charge-a-power-bank.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/how-long-to-charge-a-power-bank.html</guid>
+    <pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
+    <description>Why the same power bank refills in a couple of hours on one plug and overnight on another: the input wattage it accepts, the wall charger behind it, and the cable.</description>
   </item>
 </channel>
 </rss>

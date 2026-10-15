@@ -101,6 +101,9 @@ A: mAh is the bank's capacity, so a higher figure generally means more top-ups b
 **Q: Do these power banks come with a cable?**
 A: The UGREEN Nexode and the Anker Zolo here have a built-in USB-C cable, so a lead is always attached; to hit the highest USB-C output you still want a cable rated for that wattage, so check the listing on Amazon and use an appropriate USB-C cable.
 
+**Q: How long does the power bank itself take to recharge?**
+A: That is set by the bank's input rating and the charger you refill it from, not its output figure; the high-input picks here refill far faster on a matching USB-C Power Delivery charger than on an old phone plug. Our [guide to how long a power bank takes to charge](how-long-to-charge-a-power-bank.html) shows how to work out the time for yours.
+
 ---
 
 *Affiliate disclosure: This page contains affiliate links. As an Amazon Associate we earn from qualifying purchases, at no extra cost to you. See our [disclosure page](https://simpleproductpicks.com/disclosure.html) for details.*
