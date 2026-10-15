@@ -2,7 +2,7 @@
 
 A desktop charging station earns its place when one mains lead can power everything on a desk at once - the laptop, the phone, a tablet, the earbuds - instead of a wall of separate plugs. The question that actually decides which one to buy is not how many ports it has but how much total power it can hand out: plug a laptop, a phone and a tablet into a weak station and the laptop quietly drops to a trickle. So the first thing to size up is total wattage, then the number of ports.
 
-A charging station is a stationary thing. It has a fixed mains lead and lives on the desk, which is the opposite of a fold-flat travel charger you throw in a bag - if that is what you want, our [travel GaN charger guide](best-gan-charger-for-travel.html) is the better page. A station trades portability for ports and total power, and the good ones use GaN internals to do it without taking over the desk.
+A charging station is a stationary thing. It has a fixed mains lead and lives on the desk, which is the opposite of a fold-flat travel charger you throw in a bag - if that is what you want, our [65W GaN charger guide](best-65w-gan-charger-uk.html) is the better page. A station trades portability for ports and total power, and the good ones use GaN internals to do it without taking over the desk.
 
 One more distinction worth getting straight: a charging station only moves power. It does not carry your screen or your files the way a [USB-C docking station](best-usb-c-docking-station-uk.html) does, so if you need video and data as well, that is a different box. The three picks below are all about power: a 200W eight-port all-rounder for a busy desk, a cheaper 108W four-port station with USB-A for older kit, and a 250W six-port step-up for a desk that runs two laptops.
 
@@ -103,7 +103,7 @@ A: It depends on the desk. One laptop on its own needs only modest power; add a 
 A: A charging station only moves power - it charges several devices from one mains lead. A docking station also carries video and data, so it can add monitors, Ethernet and USB drives. If you need a screen and files as well as power, our [USB-C docking station guide](best-usb-c-docking-station-uk.html) is the page to read.
 
 **Q: Can I take one travelling?**
-A: Not really - these have a fixed mains lead and are built to live on a desk. For a bag you want a fold-flat brick instead; our [travel GaN charger guide](best-gan-charger-for-travel.html) and our [100W GaN charger guide](best-100w-gan-charger-uk.html) cover the portable options.
+A: Not really - these have a fixed mains lead and are built to live on a desk. For a bag you want a fold-flat brick instead; our [65W GaN charger guide](best-65w-gan-charger-uk.html) and our [100W GaN charger guide](best-100w-gan-charger-uk.html) cover the portable options.
 
 **Q: Do I need a special cable?**
 A: For the higher-power ports, yes - a charger only delivers its full wattage down a cable rated to carry it, so a cheap thin cable can cap a fast charge. Our [fast-charging cable guide](best-usb-c-cable-for-fast-charging.html) explains what to look for.

@@ -38,7 +38,7 @@ Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: It adds wired Ethernet and three USB-A ports to an M1 Air for readers who want the ports without extras.
 
-Desk-bound Air owners should start here: the UGREEN Revodok trades the overall pick's microSD slot for Gigabit Ethernet, the better swap if your laptop spends its life within a cable's reach of the router. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. UGREEN is a well-established name in charging and connectivity accessories. And if you'd rather keep the hub you have and just add wired networking, a [standalone USB-C Ethernet adapter](best-usb-c-ethernet-adapter.html) does that one job.
+Desk-bound Air owners should start here: the UGREEN Revodok trades the overall pick's microSD slot for Gigabit Ethernet, the better swap if your laptop spends its life within a cable's reach of the router. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. And if you'd rather keep the hub you have and just add wired networking, a [standalone USB-C Ethernet adapter](best-usb-c-ethernet-adapter.html) does that one job.
 
 **Pros**
 - ✓ Gigabit Ethernet built in for reliable wired networking on the M1 Air
@@ -49,7 +49,7 @@ Desk-bound Air owners should start here: the UGREEN Revodok trades the overall p
 - ✗ Only one card slot (SD), with no dedicated microSD reader
 - ✗ USB-A ports prioritise everyday use over the fastest transfer speeds
 
-**Who it's for:** Buyers who want Ethernet and plenty of USB-A without paying for premium extras.
+**Who it's for:** Desk users who want Ethernet and the most USB-A ports of the three.
 **Who it's not for:** Anyone who regularly offloads from microSD cards or needs 10Gbps speeds.
 
 [Check price](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
@@ -73,7 +73,7 @@ This Anker 8-in-1 is the pick for creators who saturate their ports: 10Gbps data
 
 **Cons**
 - ✗ More hub than light users need for basic display and USB-A duties
-- ✗ Premium positioning compared with simpler single-output adapters
+- ✗ Two USB-A ports, where the UGREEN gives you three
 
 **Who it's for:** Power users and creators who move large files and want the broadest port selection.
 **Who it's not for:** Anyone who only needs HDMI and a USB-A port for occasional use.
@@ -84,22 +84,26 @@ This Anker 8-in-1 is the pick for creators who saturate their ports: 10Gbps data
 
 ## Quick verdict
 
-For most M1 Air owners the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** is the one to get, balancing display output, charging, USB-A and card readers in a tidy package. If you want strong value with wired Ethernet thrown in, the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely. Power users who move big files should look at the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)**.
+For most M1 Air owners the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** is the one to get, balancing display output, charging, USB-A and card readers in a tidy package. If you want wired Ethernet, the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** adds it. Power users who move big files should look at the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)**.
+
+## Using these hubs with an iPad Pro
+
+Apple lists "Hubs and docks" and "USB to Ethernet adapters" among the accessories an iPad's USB-C port works with, and its iPad Pro specs list "Native DisplayPort output over USB-C". Of the three hubs here, the UGREEN is the one whose listing names the iPad among the devices it suits, so it is the one for an iPad Pro desk, with Gigabit Ethernet and an SD card reader on board. Our [can an iPad use an external monitor](can-ipad-use-an-external-monitor.html) explainer covers whether yours mirrors the screen or extends it, and since we have no maker statement that these hubs pass charge through to an iPad, our [iPad charger guide](best-usb-c-charger-for-ipad-uk.html) is the route for charging it.
 
 ## How we chose
 
-The Air itself wrote the checklist: 4K HDMI for an external display, pass-through Power Delivery wattage so the laptop keeps charging, the mix of USB-A and USB-C data ports, card readers, and standards like Gigabit Ethernet and 10Gbps transfer. We weighed everyday fit, portability and overall value across light users and creators. With only those two ports on the Air it's worth choosing once and well, so follow the links and check each hub's current price and stock on Amazon before you commit.
+The Air itself wrote the checklist: 4K HDMI for an external display, pass-through Power Delivery wattage so the laptop keeps charging, the mix of USB-A and USB-C data ports, card readers, and standards like Gigabit Ethernet and 10Gbps transfer. We weighed everyday fit and portability for light users and creators. Follow the links to confirm each hub's ports on its Amazon listing before you buy.
 
 ## FAQ
 
 **Q: Will these hubs work with the MacBook Air M1?**
-A: Yes, all three connect via USB-C and are designed to work with the M1 Air, including HDMI output and pass-through charging.
+A: Yes, all three connect to the M1 Air's Thunderbolt / USB 4 ports, including HDMI output and pass-through charging.
 
 **Q: Can a USB-C hub charge my MacBook Air while it's plugged in?**
 A: Yes, each pick offers pass-through Power Delivery, so you connect your charger to the hub's USB-C PD port and power the laptop through the same connection.
 
 **Q: Do I need one with Ethernet?**
-A: Only if you want a wired network connection; if you rely on Wi-Fi, the overall pick without Ethernet may suit you better, otherwise choose the budget or premium hub. Note the M1 Air itself drives a single external display, so no hub can add a second screen here; if you use a laptop that supports two screens, our [dual-monitor hub guide](best-usb-c-hub-for-dual-monitors.html) covers the hubs that can.
+A: Only if you want a wired network connection; if you rely on Wi-Fi, the overall pick without Ethernet may suit you better, otherwise choose the UGREEN or the Anker 8-in-1. Note the M1 Air itself drives a single external display, so no hub can add a second screen here; if you use a laptop that supports two screens, our [dual-monitor hub guide](best-usb-c-hub-for-dual-monitors.html) covers the hubs that can.
 
 ---
 

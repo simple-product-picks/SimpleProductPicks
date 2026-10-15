@@ -1,6 +1,6 @@
 # Best USB C Docking Station 2026
 
-A good docking station turns a laptop into a proper desk setup: one cable in, and your displays, wired network, storage and accessories are all connected. This guide picks the best USB-C docking stations for desks in 2026, from a sensible-value dock that covers most setups to a full Thunderbolt 4 station for the heaviest workloads.
+A good docking station turns a laptop into a proper desk setup: one cable in, and your displays, wired network, storage and accessories are all connected. This guide picks the best USB-C docking stations for desks in 2026, from a two-screen dock to a full Thunderbolt 4 station for the heaviest workloads.
 
 If you just need a couple of extra ports on the move, a compact hub is the better tool (we compare the two in our [hub vs docking station guide](usb-c-hub-vs-docking-station.html)). But if your laptop lives on a desk with monitors and Ethernet, a dedicated dock is the tidier, more capable answer (and if wired networking is the only thing you're missing, a simple [USB-C Ethernet adapter](best-usb-c-ethernet-adapter.html) covers that on its own). Here are the three we would actually buy.
 
@@ -16,7 +16,7 @@ Fit for this guide: A dock should run the whole desk from one cable, and this on
 
 What keeps it off a 10: Anker pitches extended triple display at Windows machines, so Mac owners may find some screen combinations only mirror.
 
-The Anker Nano is the dock we'd point most people at now. Anker's 13-in-1 count covers essentially every desk need: triple display output through two HDMI ports and a DisplayPort, 10Gbps USB-C for fast external drives, wired Ethernet, SD and TF card slots and audio, with 100W of laptop charging coming down the same single cable. The party trick is the detachable front hub - a 6-in-1 block that pops out and leaves with the laptop, so the desk stays wired while a travel hub rides in the bag. One caveat worth knowing: Anker pitches extended triple display at Windows machines, with Macs mirroring on some combinations, so check your laptop's display support.
+The Anker Nano is the dock we'd point most people at now. Anker's 13-in-1 count covers essentially every desk need: triple display output through two HDMI ports and a DisplayPort, 10Gbps USB-C for fast external drives, wired Ethernet, SD and TF card slots and audio, with 100W of laptop charging coming down the same single cable. The party trick is the detachable front hub - a 6-in-1 block that pops out and leaves with the laptop, so the desk stays wired while a travel hub rides in the bag.
 
 **Pros**
 - ✓ Triple display output (2x HDMI + DisplayPort) for serious multi-monitor desks
@@ -42,7 +42,7 @@ Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: Two 4K HDMI outputs, Ethernet and 100W charging cover a docking desk that stops at two screens.
 
-The Revodok Pro 210 is the value sweet spot in this category, and it's honestly hard to argue with what you get. Dual HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Wired Ethernet handles the network, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. For a home office that wants dock-class features without dock-class spending, this is the pick. We dig into two-screen setups properly in our [dual monitor hub guide](best-usb-c-hub-for-dual-monitors.html).
+The Revodok Pro 210's two HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Wired Ethernet handles the network, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. We dig into two-screen setups properly in our [dual monitor hub guide](best-usb-c-hub-for-dual-monitors.html).
 
 **Pros**
 - ✓ Dual 4K@60Hz HDMI runs a proper two-monitor setup smoothly
@@ -53,7 +53,7 @@ The Revodok Pro 210 is the value sweet spot in this category, and it's honestly 
 - ✗ HDMI-only display output; there is no DisplayPort option
 - ✗ Build quality is the weakest part of it
 
-**Who it's for:** Home and hybrid workers building a two-monitor desk on a sensible budget.
+**Who it's for:** Home and hybrid workers building a two-monitor desk.
 **Who it's not for:** Anyone needing three displays or top-tier transfer speeds for large files.
 
 [Check price](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
@@ -68,7 +68,7 @@ Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: A dock guide asks for one cable to the desk, and 3x Thunderbolt 4 ports plus 2.5G Ethernet go beyond that.
 
-If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of what a single cable can do. Thunderbolt 4 brings 40Gbps of bandwidth, enough for dual 4K@60Hz displays or a single 8K screen, with three Thunderbolt 4 ports for daisy-chaining fast storage and other high-end gear. The 2.5G Ethernet port outruns standard Gigabit connections for those with faster broadband or a fast home network, SD/TF 4.0 card slots move camera files quickly, and 90W of charging keeps a powerful laptop fed. It's a lot of dock, and a bigger commitment than most desks need; for video editors, photographers and developers it earns its place.
+If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of what a single cable can do. Thunderbolt 4 brings 40Gbps of bandwidth, enough for dual 4K@60Hz displays or a single 8K screen, with three Thunderbolt 4 ports for daisy-chaining fast storage and other high-end gear. The 2.5G Ethernet port outruns standard Gigabit connections for those with faster broadband or a fast home network, SD/TF 4.0 card slots move camera files quickly, and 90W of charging keeps a powerful laptop fed. It's more dock than most desks need; for video editors, photographers and developers it earns its place.
 
 **Pros**
 - ✓ Thunderbolt 4 at 40Gbps drives dual 4K@60Hz or a single 8K display
@@ -77,7 +77,7 @@ If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of 
 
 **Cons**
 - ✗ UGREEN rates it for two 4K screens, so a three-monitor desk wants the triple-display pick
-- ✗ Overkill for everyday office work and a bigger outlay than most desks require
+- ✗ Without a Thunderbolt-capable laptop you never unlock its full bandwidth
 
 **Who it's for:** Creative professionals and power users with Thunderbolt laptops and demanding, high-bandwidth workflows.
 **Who it's not for:** Everyday users whose needs a standard USB-C dock already covers.
@@ -88,11 +88,15 @@ If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of 
 
 ## Quick verdict
 
-For most desks, the **[Anker Nano Docking Station (13-in-1, Triple Display)](https://www.amazon.co.uk/dp/B0FL83BNR5?linkCode=ll2&tag=souvlakia-21)** is the one to get: triple display support, every port that matters, 100W single-cable charging and a hub for the road. If a two-monitor setup on a sensible budget is the goal, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** covers it with room to spare. And for Thunderbolt laptops with serious workloads, the **[UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W)](https://www.amazon.co.uk/dp/B0CM33V233?linkCode=ll2&tag=souvlakia-21)** is the no-compromise choice. Whichever suits your desk, the one-cable life is a proper upgrade.
+For most desks, the **[Anker Nano Docking Station (13-in-1, Triple Display)](https://www.amazon.co.uk/dp/B0FL83BNR5?linkCode=ll2&tag=souvlakia-21)** is the one to get: triple display support, every port that matters, 100W single-cable charging and a hub for the road. If a two-monitor setup is the goal, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** covers it with room to spare. And for Thunderbolt laptops with serious workloads, the **[UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W)](https://www.amazon.co.uk/dp/B0CM33V233?linkCode=ll2&tag=souvlakia-21)** is the no-compromise choice.
+
+## Docking a Lenovo ThinkPad
+
+On a ThinkPad that charges over USB-C, the Revodok Pro 210 is the dock to start with for a two-screen desk. Whether the screens light up also depends on the laptop's port: Anker's dock troubleshooting guide warns that "If your laptop's USB-C port does not support DisplayPort Alt Mode or Thunderbolt, it may not detect a monitor through the docking station", so look for one of those on your model's spec sheet first. If the ThinkPad travels and only needs a screen and a USB-A port or two, a compact hub from our [USB-C hubs guide](best-usb-c-hub-uk.html) is the smaller tool.
 
 ## How we chose
 
-We compared docking stations on the things that decide daily usability: how many displays they drive and at what resolution and refresh rate, total port count and type, wired networking speed, data bandwidth for external storage, and how much charging they push back to the laptop. Picks are chosen on specification and fit for home and hybrid working setups. All three link to their live Amazon listings, so you can price up the one-cable desk and check stock before committing.
+We compared docking stations on the things that decide daily usability: how many displays they drive and at what resolution and refresh rate, total port count and type, wired networking speed, data bandwidth for external storage, and how much charging they push back to the laptop. Picks are chosen on specification and fit for home and hybrid working setups. All three link to their live Amazon listings, where you can check each dock's ports against your laptop before committing.
 
 ## FAQ
 

@@ -64,16 +64,16 @@ Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: A 100W guide does not ask for 140W, so this PD 3.1 charger suits only 140W-class laptops.
 
-This is the step past the 100W class. The Anker 140W can push its full output through a single USB-C port using PD 3.1, which is the wattage Apple lists for the 16-inch MacBook Pro's fastest charge. You get four ports (three USB-C plus one USB-A) against the overall pick's three, and the smart-display idea grows into a small touchscreen with touch controls showing live output. If your laptop is the hungry kind, this is the one brick in the guide that never holds it back.
+This is the step past the 100W class. The Anker 140W can push its full output through a single USB-C port using PD 3.1. You get four ports to the overall pick's three, and the smart-display idea grows into a small touchscreen with touch controls showing live output. If your laptop is the hungry kind, this is the one brick in the guide that never holds it back.
 
 **Pros**
 - ✓ 140W single-port output (PD 3.1) charges laptops the 100W class can't feed at full speed
-- ✓ Four ports (3x USB-C, 1x USB-A) run a whole desk's devices from one socket
+- ✓ Four ports run a whole desk's devices from one socket
 - ✓ Touchscreen with touch controls shows live output, so you can see where the power is going
 
 **Cons**
 - ✗ Full 140W only flows when a single high-draw laptop has the output to itself
-- ✗ Overkill if nothing you own charges above 100W - the overall pick does that job for less
+- ✗ Overkill if nothing you own charges above 100W
 
 **Who it's for:** Owners of 140W-class laptops, and multi-device desks that want headroom a 100W brick can't give.
 **Who it's not for:** Anyone whose biggest device tops out at or below 100W.
@@ -84,11 +84,15 @@ This is the step past the 100W class. The Anker 140W can push its full output th
 
 ## Quick verdict
 
-For most people the **[Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)** is the one to get, blending 100W single-port output, a useful live display and a compact three-port layout. If you want to cover more devices at once with a travel-friendly foldable plug, the **[UGREEN Nexode 100W USB C Charger 4-Port GaN](https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. If your laptop can draw more than 100W, or you want a fourth port and real headroom, step up to the **[Anker 140W 4-Port GaN Charger (Smart Display)](https://www.amazon.co.uk/dp/B0DPKP7RD8?linkCode=ll2&tag=souvlakia-21)**. Buying for a Mac specifically? Our [MacBook Pro charger guide](best-gan-charger-for-macbook-pro.html) matches wattage to each model.
+For most people the **[Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)** is the one to get, blending 100W single-port output, a useful live display and a compact three-port layout. If you want to cover more devices at once with a travel-friendly foldable plug, the **[UGREEN Nexode 100W USB C Charger 4-Port GaN](https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21)** is the pick. If your laptop can draw more than 100W, or you want a fourth port and real headroom, step up to the **[Anker 140W 4-Port GaN Charger (Smart Display)](https://www.amazon.co.uk/dp/B0DPKP7RD8?linkCode=ll2&tag=souvlakia-21)**.
+
+## Which one for a MacBook Pro?
+
+Apple's fast-charge page lists "16-inch MacBook Pro (2021 or later): 140W USB-C Power Adapter + USB-C to MagSafe 3 Cable", and the Anker 140W is the one charger here with that wattage. Apple also says you can charge a Mac "with any USB-C power adapter or display, even if it provides higher or lower wattage than the adapter recommended for your Mac", so either 100W pick still charges a 16-inch, at up to 100W rather than 140W. For a 14-inch or 13-inch MacBook Pro, read the wattage printed on its own adapter: if it is 100W or less, both 100W picks are listed at that wattage or more, and if it is 65W or less, our [65W GaN charger guide](best-65w-gan-charger-uk.html) covers that class.
 
 ## How we chose
 
-The 100W class is crowded, so we compared what actually separates these three: real single-port wattage (up to 140W on the premium pick), the number and mix of USB-C and USB-A ports, the efficiency and compactness that GaN technology brings, and practical UK details like a foldable plug. We weighed everyday usefulness and overall value rather than headline numbers alone. Each one links to its Amazon UK listing, where you can check the current price and confirm the port mix suits your kit.
+The 100W class is crowded, so we compared what actually separates these three: real single-port wattage, the number and mix of USB-C and USB-A ports, the efficiency and compactness that GaN technology brings, and practical UK details like a foldable plug. We weighed everyday usefulness rather than headline numbers alone. Each one links to its Amazon UK listing, where you can confirm the port mix suits your kit.
 
 ## FAQ
 
@@ -96,7 +100,7 @@ The 100W class is crowded, so we compared what actually separates these three: r
 A: GaN (gallium nitride) lets chargers run cooler and smaller than older silicon designs, so a 100W brick stays compact enough to carry every day without sacrificing output.
 
 **Q: Can a 100W GaN charger charge my laptop?**
-A: Most USB-C laptops charge fine from a 100W single port, but check your laptop's required wattage first, as a few high-performance machines ask for more than 100W - which is exactly the job our 140W premium pick exists for. If a USB-C charger will not charge your laptop at all, our [laptop won't charge over USB-C guide](laptop-wont-charge-over-usb-c.html) runs through the port, wattage and cable checks in the order that finds the cause.
+A: Most USB-C laptops charge fine from a 100W single port, but check your laptop's required wattage first, as a few high-performance machines ask for more than 100W. If a USB-C charger will not charge your laptop at all, our [laptop won't charge over USB-C guide](laptop-wont-charge-over-usb-c.html) runs through the port, wattage and cable checks in the order that finds the cause.
 
 **Q: Do I need a special cable to get the full 100W?**
 A: Yes, you need a USB-C to [USB-C cable](best-usb-c-cable-for-fast-charging.html) rated for 100W (5A) with the right standards; a thin or low-rated cable will cap your charging speed regardless of the charger.

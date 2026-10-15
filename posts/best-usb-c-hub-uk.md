@@ -99,8 +99,8 @@ For cards, the 7-in-1 takes full-size SD and the 10-in-1 adds microSD. If you of
 ## Hubs for a specific laptop or desk
 
 - On a **MacBook Air M1**? See our [best USB-C hub for the MacBook Air M1](best-usb-c-hub-for-macbook-air-m1.html).
-- Using an **iPad Pro**? The picks change for iPadOS, so start with the [best USB-C hub for the iPad Pro](best-usb-c-hub-for-ipad-pro.html).
-- On a **Lenovo ThinkPad** or Windows laptop? Try the [best USB-C hub for the Lenovo ThinkPad](best-usb-c-hub-for-lenovo-thinkpad.html).
+- Using an **iPad Pro**? The same [MacBook Air M1 hub guide](best-usb-c-hub-for-macbook-air-m1.html) has a section on which pick suits an iPad Pro desk.
+- Docking a **Lenovo ThinkPad** at a desk? Our [USB-C docking station guide](best-usb-c-docking-station-uk.html) has a section on it.
 - Running **two monitors**? Dual-display support is fussy, so read the [best USB-C hub for dual monitors](best-usb-c-hub-for-dual-monitors.html).
 
 ## How we chose

@@ -24,7 +24,7 @@ A converter earns its place only with a single-voltage device, meaning its label
 
 For a USB charger this case almost never applies, so carrying a converter for one is just extra bulk: a dual-voltage charger already runs on the local mains by itself. The sensible travel kit is a 100-240V charger plus a plug adapter for each socket type you will meet.
 
-If you are choosing a charger to travel with, the [best GaN charger for travel guide](best-gan-charger-for-travel.html) covers the compact 100-240V picks. For the stretches with no socket at all, such as a long flight, the [best power bank for long flights guide](best-power-bank-for-long-flights.html) has the options that pass the cabin rules.
+If you are choosing a charger to travel with, our [65W GaN charger guide](best-65w-gan-charger-uk.html) compares compact plugs, and its FAQ covers taking one abroad. For the stretches with no socket at all, such as a long flight, the [best power bank for long flights guide](best-power-bank-for-long-flights.html) has the options that pass the cabin rules.
 
 ## FAQ
 

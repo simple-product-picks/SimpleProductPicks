@@ -99,7 +99,7 @@ A: Apple's MagSafe Charger list runs from the iPhone 12 upwards, so those are th
 A: Most wireless car chargers draw power via a USB car adapter and cable, so check what's included and make sure your car socket and adapter can supply enough power; see the product page on Amazon UK for details.
 
 **Q: Is wireless charging fast enough for a car journey?**
-A: For top-ups during a typical drive it's usually fine, though wired charging is generally quicker if you need to recharge rapidly on a short trip. On longer journeys, a [power bank](best-power-bank-for-iphone-15.html) picks up where the drive ends.
+A: For top-ups during a typical drive it's usually fine, though wired charging is generally quicker if you need to recharge rapidly on a short trip. On longer journeys, a [MagSafe power bank](best-magsafe-power-bank-uk.html) picks up where the drive ends.
 
 ---
 

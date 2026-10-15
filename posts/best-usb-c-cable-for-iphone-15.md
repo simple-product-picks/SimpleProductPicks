@@ -38,7 +38,7 @@ Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: A two-pack of compact braided 0.5m cables suits keeping an iPhone 15 charged in different places.
 
-The value choice here is this UGREEN two-pack, which covers the essentials without fuss. Getting two braided USB-C to USB-C cables in one go means you can keep one by the bed and one in a bag, or have a spare ready when one wanders off. Both are a short 0.5m, which is tidy for a [power bank](best-power-bank-for-iphone-15.html) in a pocket, a bedside socket, or a laptop bag where a long lead just tangles. They carry 100W/65W fast charging, so an iPhone 15 charges without the cable holding it back.
+The value choice here is this UGREEN two-pack, which covers the essentials without fuss. Getting two braided USB-C to USB-C cables in one go means you can keep one by the bed and one in a bag, or have a spare ready when one wanders off. Both are a short 0.5m, which is tidy for a [power bank](best-power-bank-20000mah-uk.html) in a pocket, a bedside socket, or a laptop bag where a long lead just tangles. They carry 100W/65W fast charging, so an iPhone 15 charges without the cable holding it back.
 
 **Pros**
 - ✓ Two cables in one pack, so you can spread them around the house or keep a backup

@@ -1,6 +1,6 @@
 # Best 65W GaN Charger UK 2026
 
-Looking for a compact, fast wall charger to replace a bulky laptop brick? This UK buying guide covers the best 65W-class GaN chargers, picking a standout all-rounder, a sensible-value option, and a single-port premium choice for travellers who want the smallest plug. Our top pick is listed at 67W rather than 65W: two watts makes no difference to what a laptop or phone will actually draw, so we treat 65W to 67W as one class.
+Looking for a compact, fast wall charger to replace a bulky laptop brick? This UK buying guide covers the best 65W-class GaN chargers, picking a three-port all-rounder, a two-port everyday plug, and a single-port premium choice for travellers who want the smallest plug. Our top pick is listed at 67W rather than 65W: two watts makes no difference to what a laptop or phone will actually draw, so we treat 65W to 67W as one class.
 
 ## Top picks
 
@@ -12,7 +12,7 @@ Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10 
 
 Fit for this guide: This guide wants a 65W-class plug, and 67W across three ports covers a laptop and a phone together.
 
-The Anker 67W is the most versatile pick here, packing three ports into a genuinely compact body. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone and a third device topped up at once. The 67W output leaves headroom for fast charging across the lot. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package. It's also our top pick for [Samsung S24 owners](best-charger-for-samsung-s24-uk.html), and Anker lists PPS support on this one.
+The Anker 67W is the most versatile pick here, packing three ports into a genuinely compact body. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone and a third device topped up at once. The 67W output leaves headroom for fast charging across the lot. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package. It's also our top pick for [Samsung S24 owners](best-charger-for-samsung-s24-uk.html).
 
 **Pros**
 - ✓ Three ports let you charge multiple devices from a single wall plug
@@ -38,7 +38,7 @@ Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: Two USB-C ports and an ultra-compact UK plug meet the 65W brief for daily use and travel.
 
-The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug that does the job. Its two ports and ultra-compact UK plug make it an easy everyday carry, and its 65W output is enough to fast-charge most modern laptops, tablets and phones. UGREEN reckons it's around half the size of a standard laptop brick, so it slips into a bag with room to spare.
+The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug that does the job. Its two USB-C ports sit on an ultra-compact UK plug, and its 65W output is enough to fast-charge most modern laptops, tablets and phones. UGREEN reckons it's around half the size of a standard laptop brick, so it slips into a bag with room to spare.
 
 **Pros**
 - ✓ Two ports cover a laptop and a phone from one plug
@@ -84,11 +84,11 @@ The Anker Nano II 65W is the choice for travellers who want maximum single-port 
 
 ## Quick verdict
 
-For most people the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** is the one to get, thanks to its three-port flexibility and compact GaN build. If you want a tidy, capable charger and the best everyday value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials with two ports. If you charge one device at a time and want the smallest possible plug, the **[Anker Nano II 65W USB C Charger](https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21)** is the premium single-port choice.
+For most people the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** is the one to get, thanks to its three-port flexibility and compact GaN build. If every cable you carry is USB-C and two devices at a time is plenty, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** is the plainer two-port plug. If you charge one device at a time and want the smallest possible plug, the **[Anker Nano II 65W USB C Charger](https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21)** is the premium single-port choice.
 
 ## How we chose
 
-In the 65W class the gaps are small but real, so we compared: real output in the 65W-67W range, the number of ports, and the compact GaN build quality that makes these chargers worth carrying. We weighed UK plug fit and overall portability alongside sensible value for everyday use. Every pick links to its Amazon UK page; check the current price and box contents before you retire your old laptop brick.
+In the 65W class the gaps are small but real, so we compared: real output in the 65W-67W range, the number of ports, and the compact GaN build quality that makes these chargers worth carrying. We weighed UK plug fit and overall portability for everyday use. Every pick links to its Amazon UK page; check the box contents there before you retire your old laptop brick.
 
 ## FAQ
 
@@ -100,6 +100,9 @@ A: Many thin-and-light laptops, phones and tablets charge happily from a 65W USB
 
 **Q: What is the difference between a single-port and a multi-port charger?**
 A: A single-port charger directs its full output to one device for the fastest possible charge, while a multi-port charger shares that output across devices, which is handy when you want to charge a laptop and phone together but can slow each one when several are plugged in.
+
+**Q: Can I take one of these abroad?**
+A: Read the input rating printed on the plug first. If it says 100-240V, a plug adapter for the local socket is the only extra you pack; our [voltage converter explainer](do-you-need-a-voltage-converter-for-a-charger.html) covers why. On a long flight with no seat socket, a [travel power bank](best-power-bank-for-long-flights.html) takes over.
 
 ---
 
