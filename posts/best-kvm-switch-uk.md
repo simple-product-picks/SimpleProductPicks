@@ -57,28 +57,28 @@ This is a USB switch, not a full KVM: it switches no video. UGREEN's listing has
 
 ---
 
-### 3. UGREEN HDMI KVM Switch (2 Computers, 2 Monitors, 8K@60Hz) - Best Premium
+### 3. UGREEN HDMI KVM Switch (2 Computers, 2 Monitors, 4K@60Hz) - Best Premium
 
-**SPP Score: 8.7 / 10** - Switches a two-screen desk between two computers at a higher ceiling. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - Switches a two-screen desk between two computers. Our pick for maximum capability.
 
-Scorecard: Capability 9.4/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.5/10 - Fit 8.0/10
+Scorecard: Capability 8.9/10 - Versatility 8.9/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
-Fit for this guide: A narrower answer than the title's: a two-screen desk shared between two computers, with an 8K ceiling most setups never reach.
+Fit for this guide: A narrower answer than the title's: a two-screen desk shared between two computers at up to 4K@60Hz.
 
-UGREEN lists up to 8K@60Hz and 4K@120Hz, real headroom for a high-resolution or high-refresh monitor, though a ceiling only matters if both the computer and the monitor reach it.
+UGREEN rates this one at up to 4K@60Hz across two HDMI monitors, so a two-screen desk follows the button between both computers. The ceiling matches the overall pick, so the step up here is the second screen rather than higher resolution.
 
 **Pros**
-- ✓ Two HDMI monitors switch together
-- ✓ Also lists 4K@120Hz for a high-refresh monitor
+- ✓ Two HDMI monitors switch together between both computers
+- ✓ Keyboard and mouse follow the screens on the same button
 
 **Cons**
-- ✗ 8K@60Hz and 4K@120Hz go unused on an ordinary monitor
-- ✗ More video cables behind the desk
+- ✗ The 4K@60Hz ceiling matches the overall pick, so the gain is the second screen, not resolution
+- ✗ More video cables behind the desk than a single-monitor switch
 
 **Who it's for:** Two computers that already run two monitors.
 **Who it's not for:** Single-monitor setups, where the overall pick does the same job.
 
-[Check price](https://www.amazon.co.uk/dp/B0FXX2LDV6?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DXF66SWR?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -110,7 +110,7 @@ As a full KVM it moves the keyboard and mouse with the screen, and UGREEN lists 
 
 - One HDMI monitor: the **[UGREEN Aluminium HDMI KVM Switch (2 Computers, 1 Monitor)](https://www.amazon.co.uk/dp/B0C8NFPSJV?linkCode=ll2&tag=souvlakia-21)**, our all-round pick.
 - A screen on each computer already: the **[UGREEN USB 3.0 Switch (2 Computers, 4 USB Devices)](https://www.amazon.co.uk/dp/B0C8MSP967?linkCode=ll2&tag=souvlakia-21)**.
-- Two HDMI monitors: the **[UGREEN HDMI KVM Switch (2 Computers, 2 Monitors, 8K@60Hz)](https://www.amazon.co.uk/dp/B0FXX2LDV6?linkCode=ll2&tag=souvlakia-21)**.
+- Two HDMI monitors: the **[UGREEN HDMI KVM Switch (2 Computers, 2 Monitors, 4K@60Hz)](https://www.amazon.co.uk/dp/B0DXF66SWR?linkCode=ll2&tag=souvlakia-21)**.
 - A DisplayPort monitor: the **[UGREEN 8K@60Hz DisplayPort KVM Switch (2 Computers, 1 Monitor)](https://www.amazon.co.uk/dp/B0CFFFHFJT?linkCode=ll2&tag=souvlakia-21)**.
 
 ## How we chose
