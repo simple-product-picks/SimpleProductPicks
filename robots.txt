@@ -1,4 +1,7 @@
 User-agent: *
+# raw markdown copies of the guides (the pages are pre-rendered) and the repo readme
+Disallow: /posts/
+Disallow: /README.md
 Allow: /
 
 Sitemap: https://simpleproductpicks.com/sitemap.xml

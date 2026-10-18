@@ -101,8 +101,8 @@ At 20000mAh the capacity question is already settled, so we judged on the rest: 
 
 ## FAQ
 
-**Q: Can I take a 20000mAh power bank on a flight from the UK?**
-A: Yes, in hand luggage rather than a checked bag. Check the watt-hour figure printed on the bank against your own airline's limit before you fly, since airlines set their own. Flying long-haul often? Our [power banks for long flights guide](best-power-bank-for-long-flights.html) picks specifically for cabin use.
+**Q: Can I take a 20000mAh power bank on a flight?**
+A: Yes, in hand luggage rather than a checked bag. On US flights, the FAA says spare lithium batteries, power banks included, "must be carried in carry-on baggage only", and limits each to "a rating of 100 watt hours (Wh) per battery", with up to two larger spares of up to 160 Wh each allowed if your airline approves. Check the watt-hour figure printed on the bank against your own airline's limit before you fly, since airlines set their own. Flying long-haul often? Our [power banks for long flights guide](best-power-bank-for-long-flights.html) picks specifically for cabin use.
 
 **Q: How long does a 20000mAh power bank take to recharge?**
 A: Anywhere from a few hours to most of a night, set by the bank's input rating and the charger you use rather than its capacity alone. Our [guide to how long a power bank takes to charge](how-long-to-charge-a-power-bank.html) breaks down the maker figures and how to speed it up.

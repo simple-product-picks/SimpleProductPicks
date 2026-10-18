@@ -93,7 +93,7 @@ We read each pack's capacity, total output and ports from Anker's listings and m
 ## FAQ
 
 **Q: Can I take a power bank on a plane in my hand luggage?**
-A: Yes, and only there: the UK Civil Aviation Authority says power banks "must only be carried as carry-on baggage", never in the hold. The same page allows "power banks up to 100 Wh rating (lithium ion)" without airline approval; our [power bank rules for UK flights](power-bank-flight-rules-uk.html) explainer covers the larger sizes and how many banks each passenger may carry.
+A: Yes, and only there: the UK Civil Aviation Authority says power banks "must only be carried as carry-on baggage", never in the hold. The same page allows "power banks up to 100 Wh rating (lithium ion)" without airline approval; our [power bank rules for UK flights](power-bank-flight-rules-uk.html) explainer covers the larger sizes and how many banks each passenger may carry. US flights follow the same line: the Federal Aviation Administration keeps spare lithium batteries, power banks among them, in "carry-on baggage only" and caps each at "a rating of 100 watt hours (Wh) per battery"; your airline can approve up to two larger spares of up to 160 Wh each.
 
 **Q: What capacity power bank do I need for a long flight?**
 A: 20000mAh gives a 4000mAh phone about four full charges, by the sum in our [how many charges from a 20000mAh power bank](how-many-charges-from-a-20000mah-power-bank.html) explainer; 25000mAh earns its extra weight when a tablet or laptop shares it. For everyday use away from flights, see our [20000mAh power bank guide](best-power-bank-20000mah-uk.html). If a short hop only needs the phone topped up once, a 10000mAh pack will do the job.
