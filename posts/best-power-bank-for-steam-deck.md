@@ -1,6 +1,6 @@
 # Best Power Bank For Steam Deck 2026
 
-The Steam Deck runs its battery down fast, so the right power bank is what turns a short gaming session into an all-day one. The trick isn't raw capacity; it's a USB-C port that can hold the 45W of Valve's own Steam Deck power supply while you're actually playing, and a cable that doesn't dangle across the grips. This guide picks three power banks that do both: a balanced all-rounder, a compact value pick, and a big-capacity pack for the longest sessions.
+Valve lists a 45W USB-C power supply for the Steam Deck, so the power bank that keeps a Deck going in play is one whose USB-C output can match that 45W. The other thing that matters on a handheld is the cable: a lead dangling across the grips gets in the way. These three picks are a balanced all-rounder, a value pick and a big-capacity pack for the longest sessions.
 
 ## Top picks
 
@@ -10,21 +10,19 @@ The Steam Deck runs its battery down fast, so the right power bank is what turns
 
 Scorecard: Capability 9.8/10 - Versatility 7.1/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
 
-Fit for this guide: A Deck session wants a pack with the cable already attached, and this one holds the 45W the Deck draws while you play.
+Fit for this guide: A Deck session wants the cable already attached, and this one gives more than the 45W of Valve's own charger.
 
-The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB-C cable is built into the pack, so there's no separate lead to snake across the grips or leave behind, and it feeds the Deck at the 45W the console is built to take. UGREEN rates the pack at 145W across its three outputs, well beyond a Deck on its own, but that spare headroom means you can keep a phone or a friend's handheld topped up on the same trip without either slowing down. At 20000mAh it holds roughly a full extra Deck charge and then some. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits. An 80W input also means the bank itself refills quickly between sessions when you feed it a strong enough charger.
+UGREEN's listing title is "Nexode 145W 20000mAh Power Bank 3-Port Built-in USB C Cable", and that built-in cable is why it suits the Deck: the lead travels with the pack. UGREEN says it gives "up to 100W via USB-C and 145W total across all ports", so its USB-C alone clears the Deck's 45W charger, and a phone or a second handheld can charge from another port on the same trip.
 
 **Pros**
-- ✓ Built-in USB-C cable keeps the Deck's lead attached to the pack, not snagging the grips
-- ✓ 145W total is enough to charge a phone or second handheld alongside the Deck
-- ✓ 80W input refills the bank itself quickly between sessions
+- ✓ Three ports, so a phone can charge alongside the Deck
 
 **Cons**
 - ✗ The built-in cable fixes the port layout, so you're tied to UGREEN's arrangement
-- ✗ Far more wattage than a Deck alone will ever draw, so some of that capability goes unused
+- ✗ With only the Deck plugged in, most of the 145W sits unused, since Valve's own charger is 45W
 
 **Who it's for:** Steam Deck owners who want one pack that charges the Deck at full speed with the cable already attached.
-**Who it's not for:** Anyone after the lightest possible pocket bank, or who never charges anything but the Deck.
+**Who it's not for:** Anyone who never charges anything but the Deck.
 
 [Check price](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)
 
@@ -32,25 +30,24 @@ The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB
 
 ### 2. INIU Power Bank 20000mAh 65W - Best Budget
 
-**SPP Score: 8.8 / 10** - 20000mAh with 65W USB-C, comfortably more than the Deck needs. Our value pick.
+**SPP Score: 8.8 / 10** - 20000mAh with 65W USB-C, above the 45W of Valve's own charger. Our value pick.
 
 Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.5/10
 
-Fit for this guide: 65W USB-C covers a Deck's draw in an ultra-compact 20000mAh body, though a laptop alongside it wants more output.
+Fit for this guide: A 20000mAh pack with 65W USB-C for the Deck, though a laptop alongside it wants more output.
 
-If you just want a dependable pack that charges the Deck while you play, the INIU covers it in a lighter, more compact body. Its 65W USB-C output sits comfortably above the Deck's 45W, so the console keeps gaining charge mid-session rather than only holding steady, and the same port doubles as the input to refill the bank. Two USB-A ports sit alongside it for a controller dongle or a phone lead. It's the most compact 20000mAh pack here, which is why INIU's own listing calls it the smallest 20000mAh pack it makes, and on the same 20000mAh cell it carries about the same real capacity as our top pick. The one thing it leaves out is a cable, so pack a USB-C lead rated for 60W or more; our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for.
+INIU's listing title calls this the "Smallest 20000mAh 65W" pack. Its USB-C port is also the input that refills the bank, and two USB-A ports sit beside it for a phone or controller charging lead. There's no built-in cable, so bring a USB-C lead rated for 60W or more; our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for.
 
 **Pros**
-- ✓ 65W USB-C clears the Deck's 45W with headroom to spare
-- ✓ Slim, pocketable body for a 20000mAh pack
-- ✓ Two USB-A ports handle a controller dongle or a second cable
+- ✓ 65W USB-C clears the 45W of Valve's charger
+- ✓ Two USB-A ports beside the USB-C
 
 **Cons**
-- ✗ No cable in the pack, so you'll need to bring a USB-C lead
-- ✗ Not enough to fast-charge a power-hungry full-size laptop
+- ✗ No built-in cable, so you'll need to bring a USB-C lead
+- ✗ Its 65W USB-C falls short of a laptop whose own charger is rated higher
 
-**Who it's for:** Players who want a compact, no-fuss pack that keeps the Deck going through a session, with the least to carry.
-**Who it's not for:** Anyone who wants a cable built in, or one bank that also fast-charges a large laptop.
+**Who it's for:** Players who want a no-fuss pack with 65W USB-C and are happy to bring their own lead.
+**Who it's not for:** Anyone who wants a cable built in, or one bank that also keeps up with a large laptop.
 
 [Check price](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)
 
@@ -64,19 +61,18 @@ Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: 25000mAh and three USB-C outputs suit players carrying a laptop and phone as well as the Deck.
 
-For the longest hauls, whether a flight, a festival or a full day of handheld play, the Anker carries the most in one pack. At 25000mAh it holds comfortably more than a full extra Deck charge, and its built-in retractable USB-C cables mean the lead you need is already part of the pack. Anker's listing gives it 165W across three USB-C ports, so the Deck can take a fast charge while a laptop or phone tops up beside it, without a bag full of separate bricks. The trade is bulk: it's the heaviest pack here by a distance, closer to something you set on the table beside you than clip to the Deck itself. Check the watt-hour figure printed on the bank before you fly; airlines set their own limits, and our [best power bank for long flights](best-power-bank-for-long-flights.html) guide covers the same ground if that's your main use.
+For a festival or a full day of handheld play, the Anker carries the most here: Anker's listing title gives it 25,000mAh and "165W Total Output". Its USB-C outputs are two built-in retractable cables and a USB-C port, so the Deck, a laptop and a phone can all charge from the one pack. If flying is your main use, our [best power bank for long flights](best-power-bank-for-long-flights.html) guide is the closer match.
 
 **Pros**
-- ✓ The most capacity here, for the longest runtime before you need a wall socket
+- ✓ The most capacity here, at 25,000mAh
 - ✓ Built-in retractable USB-C cables, so the lead is part of the pack
 - ✓ Charges the Deck, a laptop and a phone at the same time
 
 **Cons**
-- ✗ Bulkier and heavier than the 20000mAh picks, enough to feel in your bag
-- ✗ More capacity and wattage than a Deck-only player will use
+- ✗ Two of its three USB-C outputs are built-in cables, so only one port takes a lead of your choice
 
 **Who it's for:** Players who want maximum runtime and one pack for the Deck, a laptop and a phone on long trips.
-**Who it's not for:** Anyone who wants something light and pocketable for short sessions.
+**Who it's not for:** Anyone who only needs a pack for short sessions and the Deck alone.
 
 [Check price](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)
 
@@ -84,22 +80,22 @@ For the longest hauls, whether a flight, a festival or a full day of handheld pl
 
 ## Quick verdict
 
-For most Steam Deck owners the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the one to reach for: a built-in cable and enough headroom to keep the Deck and a phone going together. If you'd rather carry less, the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)** does the core job in the most compact body here, as long as you pack a cable. And for the longest sessions, the **[Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** carries the most and brings its own cables, if you don't mind the weight. Docking the Deck to a TV as well? The Steam Deck section of our [USB-C hub guide](best-usb-c-hub-uk.html) covers the other half of the setup.
+For the Deck plus a phone on the same trip, the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the one to reach for, with its cable built in. If you'd rather bring your own lead and have two USB-A ports, take the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)**. For the longest sessions, the **[Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** carries the most, at 25,000mAh. Docking the Deck to a TV as well? The Steam Deck section of our [USB-C hub guide](best-usb-c-hub-uk.html) covers the other half of the setup.
 
 ## How we chose
 
-A Steam Deck asks two things of a power bank: a USB-C port that can hold its 45W draw so the battery keeps filling while you play, not just idles, and enough real capacity to add meaningful hours. We looked for sustained 45W-plus output rather than headline peak figures, since a port that only touches 45W for a moment, or splits its power away the instant a second device is plugged in, won't keep a Deck going. We weighed how the cable is handled, because a lead dangling over the grips is a genuine annoyance on a handheld. If you fly, check the watt-hour figure printed on the bank before you go; airlines set their own limits. Capacity we treated as gaming hours, not just milliamp-hours: as a rough guide a 20000mAh bank holds around a full extra Deck charge, though real playtime depends on the game and screen brightness. Every link goes to the Amazon listing so you can check the current port wattages against your own Deck.
+We read each pack's USB-C output against the 45W of Valve's charger and weighed how it handles its cable. Capacity we treated as playtime, which depends on the game and screen brightness; to compare a bank with your Deck's battery, its watt-hours are roughly its mAh times 3.7 divided by 1,000. We take no payment for placement, and every link goes to the Amazon listing so you can check the current port wattages against your own Deck.
 
 ## FAQ
 
 **Q: What wattage power bank do I need for a Steam Deck?**
-A: Valve ships the Deck with a 45W USB-C power supply and the console won't pull more than that, so any bank with a sustained 45W or higher USB-C output will charge it, even while you play. A little headroom helps, so a 65W or higher port holds 45W comfortably without straining.
+A: 45W or more from one USB-C port, over USB Power Delivery: Valve lists the Deck's own charger as a "PD3.0 Type C power supply, 45W". A total shared across several ports doesn't tell you what one port gives, so read the per-port figure on the listing.
 
 **Q: Can I charge the Steam Deck while playing?**
-A: Yes, as long as the bank's USB-C port can sustain around 45W. All three picks here clear that, so the battery keeps filling during a session rather than just holding level. A plain USB-C cable rated for 60W or more is all you need.
+A: Yes. A USB-C port that gives 45W or more matches Valve's own 45W charger, so the Deck charges in play just as it does from the wall socket.
 
 **Q: Can I take a Steam Deck power bank on a flight?**
-A: Check the watt-hour figure printed on the bank before you fly; airlines set their own limits. Power banks must always travel in cabin baggage, never in checked bags.
+A: Yes, in your carry-on bag, never the hold. Check the watt-hour figure printed on the bank against the limits in our [power bank flight rules guide](power-bank-flight-rules-uk.html), which also covers the rules on using a power bank on board.
 
 ---
 
