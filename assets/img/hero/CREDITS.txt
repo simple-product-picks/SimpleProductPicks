@@ -12,7 +12,7 @@ powerbanks.jpg  Steve A Johnson   https://www.pexels.com/photo/closed-up-photogr
 cables.jpg      Nic Wood         https://www.pexels.com/photo/usb-2-cable-28042833/
 adapters.jpg    https://kaboompics.com/   https://www.pexels.com/photo/set-of-modern-port-adapters-on-black-surface-4219861/
 
-# Per-post heroes (Pexels, updated 2026-10-15 via fetch_pexels_heroes.py)
+# Per-post heroes (Pexels, updated 2026-10-21 via fetch_pexels_heroes.py)
 posts/best-100w-gan-charger-uk.jpg  Саша Алалыкин  https://www.pexels.com/photo/many-chargers-are-connected-to-an-electrical-outlet-on-a-white-background-16886334/
 posts/best-3-in-1-wireless-charger-uk.jpg  Matt Ho  https://www.pexels.com/photo/top-view-of-an-iphone-lying-on-an-inductive-charger-15921116/
 posts/best-65w-gan-charger-uk.jpg  https://kaboompics.com/  https://www.pexels.com/photo/laptop-smart-phone-and-charge-on-table-5208870/
@@ -57,6 +57,7 @@ posts/best-usb-c-to-hdmi-adapter.jpg  Srattha Nualsate  https://www.pexels.com/p
 posts/best-usb-c-to-lightning-cable-uk.jpg  Matthias Zomer  https://www.pexels.com/photo/close-up-photography-of-white-iphone-charger-914912/
 posts/can-apple-watch-charge-on-a-wireless-charger.jpg  Josh Sorenson  https://www.pexels.com/photo/black-aluminum-case-apple-watch-with-sport-band-beside-magnetic-charger-1334602/
 posts/can-ipad-use-an-external-monitor.jpg  Jakub Zerdzicki  https://www.pexels.com/photo/a-modern-desk-with-laptops-a-monitor-and-smartphone-displaying-the-same-lockscreen-19059657/
+posts/can-you-use-an-sd-card-on-ipad.jpg  https://kaboompics.com/  https://www.pexels.com/photo/laptop-with-usb-multiplier-and-memory-card-4195403/
 posts/charge-laptop-with-power-bank-explained.jpg  owned (operator-made image, charge-laptop-with-power-bank-explained_owned.png)
 posts/do-you-need-a-powered-usb-hub.jpg  Aleksander Dumała  https://www.pexels.com/photo/portable-hard-disk-20076002/
 posts/do-you-need-a-voltage-converter-for-a-charger.jpg  Castorly Stock  https://www.pexels.com/photo/black-plugs-3639030/

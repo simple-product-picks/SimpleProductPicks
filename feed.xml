@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.com/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Thu, 15 Oct 2026 10:15:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 10:20:39 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.com/posts_html/best-100w-gan-charger-uk.html</link>
@@ -398,6 +398,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/how-long-to-charge-a-power-bank.html</guid>
     <pubDate>Thu, 15 Oct 2026 08:00:00 +0000</pubDate>
     <description>Why the same power bank refills in a couple of hours on one plug and overnight on another: the input wattage it accepts, the wall charger behind it, and the cable.</description>
+  </item>
+  <item>
+    <title>Can You Use An SD Card On An iPad?</title>
+    <link>https://simpleproductpicks.com/posts_html/can-you-use-an-sd-card-on-ipad.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.com/posts_html/can-you-use-an-sd-card-on-ipad.html</guid>
+    <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+    <description>How an iPad reads an SD card through a USB-C or Lightning reader, when the Files app or the Photos Import screen opens, and which card formats it will and will not read.</description>
   </item>
 </channel>
 </rss>

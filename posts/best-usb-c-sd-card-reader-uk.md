@@ -93,7 +93,7 @@ We read each maker's listing for the card formats, ports and speeds quoted here,
 A: The SD Association puts UHS-I at up to 104MB/s and UHS-II at up to 312MB/s, so a UHS-I card stays under 104MB/s in any reader.
 
 **Q: Will these work with an iPhone or iPad?**
-A: JSAUX's listing names iPhone 16 models and iPad Pro, and BENFEI's names the iPhone 15 series. UGREEN's title names no phone or tablet, so check its listing for your model first.
+A: JSAUX's listing names iPhone 16 models and iPad Pro, and BENFEI's names the iPhone 15 series. UGREEN's title names no phone or tablet, so check its listing for your model first. For what an iPad does with the card once it is connected, the Files app versus the Photos Import screen and the formats it will read, see [Can you use an SD card on an iPad?](can-you-use-an-sd-card-on-ipad.html).
 
 **Q: Should I buy a card reader or a hub with a card slot?**
 A: A reader if cards are the whole job. A hub if the same dongle also has to drive a monitor, a wired network or charging at a desk, and our [USB-C hub guide](best-usb-c-hub-uk.html) covers those.
