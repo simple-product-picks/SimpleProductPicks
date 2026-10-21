@@ -1,30 +1,44 @@
 # Best Power Bank 20000mAh 2026
 
-How much wattage is enough depends on the hungriest device you charge from one USB-C port. A bank that matches that device's own charger rating charges it at full speed, and one below it charges a laptop slower, if at all. So 45W covers phones and tablets on chargers rated 45W or less, 65W covers a laptop on a 65W charger, and a laptop that takes more wants the UGREEN. For most people that makes the INIU Power Bank 20000mAh 65W the one to buy, with 65W from its USB-C port and three outputs to share it.
+How much wattage is enough depends on the hungriest device you charge from one USB-C port. A bank that matches that device's own charger rating charges it at full speed, and one below it charges a laptop slower, if at all. So 45W covers phones and tablets on chargers rated 45W or less, 65W covers a laptop on a 65W charger, and a laptop that takes more wants the UGREEN. For most people the INIU Power Bank 20000mAh 65W is the one to buy, with 20000mAh at 65W for that laptop.
+
+## The three side by side
+
+| | INIU 65W | INIU 45W | UGREEN 145W |
+|---|---|---|---|
+| Capacity | 20,000 mAh | 20,000 mAh | 20,000 mAh |
+| Watt-hours | Not stated in its listing | Not stated in its listing | 74 Wh, our sum (a) |
+| Top output | 65W | 45W USB-C | 145W total, 100W USB-C |
+| Outputs | Not stated in its listing | 2: one USB-C (in and out), one USB-A | 3: built-in USB-C cable, USB-C, USB-A |
+| Built-in cable | Not stated in its listing | No | Yes |
+| Cabin bag | Carry-on only; check the Wh on the pack (b) | Carry-on only; check the Wh on the pack (b) | Carry-on only; under the FAA's 100 Wh limit (a) |
+
+(a) UGREEN lists the bank's voltage as 3.7 but gives no watt-hour figure, so 74 Wh is our sum, 20000mAh x 3.7V / 1000, and UGREEN itself calls the bank "fine to take on planes".
+
+(b) For the INIUs, read the Wh printed on the pack and check it against our [power bank flight rules guide](power-bank-flight-rules-uk.html).
 
 ## Top picks
 
 ### 1. INIU Power Bank 20000mAh 65W - Best Overall
 
-**SPP Score: 9.2 / 10** - 20000mAh capacity, 65W USB-C output and three outputs. Our all-round pick.
+**SPP Score: 9.2 / 10** - 20000mAh capacity and 65W fast charging. Our all-round pick.
 
 Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
 
-Fit for this guide: This guide asks for 20000mAh in one pack, and 65W across three outputs covers phone and tablet.
+Fit for this guide: This guide asks for 20000mAh in one pack, and its 65W also reaches a laptop on a 65W charger.
 
-INIU's listing calls this a "Laptop Power Bank" and the "Smallest 20000mAh 65W" pack. Its one USB-C port works as input and output, with two USB-A ports beside it, so three devices can charge at once.
+INIU sells this as its laptop bank, at 65W from 20000mAh.
 
 **Pros**
-- ✓ 65W from the USB-C port, enough for a laptop on a 65W charger
-- ✓ Three outputs (one USB-C, two USB-A) to charge a phone, tablet and laptop together
+- ✓ 65W, enough for a laptop on a 65W charger, and sold by INIU as a "Laptop Power Bank"
 - ✓ INIU's listing title calls it the "Smallest 20000mAh 65W"
 
 **Cons**
-- ✗ No built-in cable, so a USB-C lead has to come along
-- ✗ Below the UGREEN's 100W, so a laptop on a charger above 65W tops up slower
+- ✗ Below the UGREEN's 100W USB-C, so a laptop on a charger above 65W tops up slower
+- ✗ Its listing states no port layout or watt-hours, so check the label on the pack before you fly
 
-**Who it's for:** Anyone charging a phone, a tablet and a laptop on a charger of up to 65W from one pack.
-**Who it's not for:** Anyone who wants more than one USB-C device on charge at once.
+**Who it's for:** Anyone who wants one 20000mAh pack for a phone, a tablet or a laptop on a charger of up to 65W.
+**Who it's not for:** Anyone whose laptop takes more than 65W, who should look at the UGREEN.
 
 [Check price](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)
 
@@ -38,15 +52,15 @@ Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: It holds the same 20000mAh on two ports, and its 45W USB-C output is sized for a phone and a tablet.
 
-The INIU Power Bank 20000mAh 45W keeps the full 20000mAh on two ports: one USB-C that both charges your devices and refills the bank, and one USB-A for a second device. If phones and a tablet are what you charge, you give up a port and some wattage here rather than capacity.
+The INIU Power Bank 20000mAh 45W keeps the full 20000mAh on two ports: one USB-C that both charges your devices and refills the bank, and one USB-A for a second device. If phones and a tablet are what you charge, you give up some wattage here rather than capacity.
 
 **Pros**
 - ✓ 45W USB-C, which INIU's listing title calls "Fast Charging"
 - ✓ INIU's listing calls it "30% Smaller"
 
 **Cons**
-- ✗ Two outputs, one USB-C and one USB-A, against three on the other picks
-- ✗ At 45W, the lowest USB-C output of the three
+- ✗ Two outputs, one USB-C and one USB-A, against the UGREEN's three
+- ✗ At 45W, the lowest top output of the three
 
 **Who it's for:** Phone and tablet users who want the full 20000mAh.
 **Who it's not for:** Owners of a laptop on a charger rated above 45W, whom the 65W INIU or the UGREEN suit better.
@@ -83,19 +97,25 @@ UGREEN says this bank "Powers laptops with up to 100W via USB-C and 145W total a
 
 ## Quick verdict
 
-Most people: the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)**, for 65W over USB-C plus two USB-A ports. Phones and a tablet only: the **[INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)**, the same capacity on two ports. A laptop on a charger above 65W, or a lead that never gets left behind: the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)**.
+Most people: the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)**, for 20000mAh at 65W. Phones and a tablet only: the **[INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)**, the same capacity on two ports. A laptop on a charger above 65W, or a lead that never gets left behind: the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)**.
 
 ## Charging a laptop over USB-C
 
-A laptop charges from one port, so read the single-port figure rather than the total: 100W on the UGREEN, 65W and 45W on the INIUs. For scale, Apple lists a "140W USB-C Power Adapter" for the 16-inch MacBook Pro's fastest charge, more than any of the three gives from one port. The lead matters too: a USB-C cable rated 60W stops at 3A, so above 60W you need one rated 100W or 240W, like the [fast-charging USB-C cables we pick](best-usb-c-cable-for-fast-charging.html). If a laptop is the main thing you need to charge, our [power bank for laptops guide](best-power-bank-for-laptops-uk.html) compares that class on its own.
+A laptop charges from one port, so read a bank's single-port figure, not its total; the top output row in the table gives both for the UGREEN, while the INIU 65W's listing does not say how its 65W splits across ports. For scale, Apple lists a "140W USB-C Power Adapter" for the 16-inch MacBook Pro's fastest charge, more than any of the three gives from one port. The lead matters too: a USB-C cable rated 60W stops at 3A, so above 60W you need one rated 100W or 240W, like the [fast-charging USB-C cables we pick](best-usb-c-cable-for-fast-charging.html). If a laptop is the main thing you need to charge, our [power bank for laptops guide](best-power-bank-for-laptops-uk.html) compares that class on its own.
 
 ## Want a smaller pack?
 
 A 10000mAh pack holds half the capacity: about two full charges of a 4000mAh phone against about four from 20000mAh, by the sums in our [guide to how many charges you get from a 20000mAh power bank](how-many-charges-from-a-20000mah-power-bank.html). For 10000mAh, our [MagSafe power bank guide](best-magsafe-power-bank-uk.html) has the Anker MagGo and the UGREEN MagFlow (which has a built-in cable), both of which snap onto the back of an iPhone.
 
+## The bank we carry ourselves
+
+The bank we own and fly with is Anker's 25000mAh Travel Essential. Its pair of built-in retractable USB-C cables plus one more USB-C port can charge phone, tablet and laptop together, and daily use and travel have left it without wear. At 25000mAh it isn't one of this page's 20000mAh picks; our [power banks for long flights guide](best-power-bank-for-long-flights.html) covers it in full.
+
+<figure class="owned-photos"><img class="tall" src="../assets/img/owned/anker-25000mah-165w-own-unit-cables.jpg" alt="Our own Anker 25000mAh power bank on a table, its screen at 88 percent, with both built-in cables out" width="825" height="1000" loading="lazy" decoding="async"><figcaption>Our own Anker 25000mAh unit, photographed at home with both built-in cables out.</figcaption></figure>
+
 ## How we chose
 
-With the capacity fixed at 20000mAh, we compared what decides the buy: the USB-C wattage from one port, how many outputs there are and of which kind, and whether a cable is built in. Wattage and port figures come from each maker's listing title or product page, and the flight rules from the CAA and FAA pages listed under Sources.
+With the capacity fixed at 20000mAh, we compared what decides the buy: the USB-C wattage from one port, how many outputs there are and of which kind, and whether a cable is built in. Wattage, port and watt-hour figures come from each maker's listing title or product page, with the table's watt-hours worked out only from a voltage the maker states, and the flight rules from the CAA and FAA pages listed under Sources.
 
 ## FAQ
 
