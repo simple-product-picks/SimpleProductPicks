@@ -30,24 +30,24 @@ UGREEN's listing title is "Nexode 145W 20000mAh Power Bank 3-Port Built-in USB C
 
 ### 2. INIU Power Bank 20000mAh 65W - Best Budget
 
-**SPP Score: 8.8 / 10** - 20000mAh with 65W USB-C, above the 45W of Valve's own charger. Our value pick.
+**SPP Score: 8.8 / 10** - 20000mAh at 65W, above the 45W of Valve's own charger. Our value pick.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.5/10
+Scorecard: Capability 9.8/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.5/10
 
-Fit for this guide: A 20000mAh pack with 65W USB-C for the Deck, though a laptop alongside it wants more output.
+Fit for this guide: A 20000mAh pack at 65W for the Deck, though a laptop alongside it wants more output.
 
-INIU's listing title calls this the "Smallest 20000mAh 65W" pack. Its USB-C port is also the input that refills the bank, and two USB-A ports sit beside it for a phone or controller charging lead. There's no built-in cable, so bring a USB-C lead rated for 60W or more; our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for.
+INIU sells this as a "Laptop Power Bank" at 20000mAh and 65W. On leads, our [fast-charging USB-C cable guide](best-usb-c-cable-for-fast-charging.html) covers what to look for.
 
 **Pros**
-- ✓ 65W USB-C clears the 45W of Valve's charger
-- ✓ Two USB-A ports beside the USB-C
+- ✓ 65W in its listing title, above the 45W of Valve's charger
+- ✓ INIU's listing title calls it the "Smallest 20000mAh 65W"
 
 **Cons**
-- ✗ No built-in cable, so you'll need to bring a USB-C lead
-- ✗ Its 65W USB-C falls short of a laptop whose own charger is rated higher
+- ✗ Its listing doesn't say how the 65W splits across ports, so check its USB-C figure against the Deck's 45W before you buy
+- ✗ At 65W it falls short of a laptop whose own charger is rated higher
 
-**Who it's for:** Players who want a no-fuss pack with 65W USB-C and are happy to bring their own lead.
-**Who it's not for:** Anyone who wants a cable built in, or one bank that also keeps up with a large laptop.
+**Who it's for:** Players who want 20000mAh at 65W from a bank INIU sells for laptops.
+**Who it's not for:** Anyone who wants one bank that also keeps up with a large laptop.
 
 [Check price](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)
 
@@ -80,11 +80,11 @@ For a festival or a full day of handheld play, the Anker carries the most here: 
 
 ## Quick verdict
 
-For the Deck plus a phone on the same trip, the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the one to reach for, with its cable built in. If you'd rather bring your own lead and have two USB-A ports, take the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)**. For the longest sessions, the **[Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** carries the most, at 25,000mAh. Docking the Deck to a TV as well? The Steam Deck section of our [USB-C hub guide](best-usb-c-hub-uk.html) covers the other half of the setup.
+For the Deck plus a phone on the same trip, the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the one to reach for, with its cable built in. If you want 20000mAh at 65W, take the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)**. For the longest sessions, the **[Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** carries the most, at 25,000mAh. Docking the Deck to a TV as well? The Steam Deck section of our [USB-C hub guide](best-usb-c-hub-uk.html) covers the other half of the setup.
 
 ## How we chose
 
-We read each pack's USB-C output against the 45W of Valve's charger and weighed how it handles its cable. Capacity we treated as playtime, which depends on the game and screen brightness; to compare a bank with your Deck's battery, its watt-hours are roughly its mAh times 3.7 divided by 1,000. We take no payment for placement, and every link goes to the Amazon listing so you can check the current port wattages against your own Deck.
+We read each pack's stated output against the 45W of Valve's charger and weighed how it handles its cable. Capacity we treated as playtime, which depends on the game and screen brightness; to compare a bank with your Deck's battery, its watt-hours are roughly its mAh times 3.7 divided by 1,000. We take no payment for placement, and every link goes to the Amazon listing so you can check the current port wattages against your own Deck.
 
 ## FAQ
 

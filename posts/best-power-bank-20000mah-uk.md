@@ -1,6 +1,6 @@
 # Best Power Bank 20000mAh 2026
 
-How much wattage is enough depends on the hungriest device you charge from one USB-C port. A bank that matches that device's own charger rating charges it at full speed, and one below it charges a laptop slower, if at all. So 45W covers phones and tablets on chargers rated 45W or less, 65W covers a laptop on a 65W charger, and a laptop that takes more wants the UGREEN. For most people the INIU Power Bank 20000mAh 65W is the one to buy, with 20000mAh at 65W for that laptop.
+How much wattage is enough depends on the hungriest device you charge from one USB-C port. A bank that matches that device's own charger rating charges it at full speed, and one below it charges a laptop slower, if at all. So 45W covers phones and tablets on chargers rated 45W or less, 65W covers a laptop on a 65W charger, and a laptop that takes more wants the UGREEN. For most people the INIU Power Bank 20000mAh 65W is the one to buy, at 20000mAh and 65W in its listing title.
 
 ## The three side by side
 
@@ -23,21 +23,21 @@ How much wattage is enough depends on the hungriest device you charge from one U
 
 **SPP Score: 9.2 / 10** - 20000mAh capacity and 65W fast charging. Our all-round pick.
 
-Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
+Scorecard: Capability 9.8/10 - Versatility 7.6/10 - Build 8.9/10 - Value 8.9/10 - Fit 9.8/10
 
-Fit for this guide: This guide asks for 20000mAh in one pack, and its 65W also reaches a laptop on a 65W charger.
+Fit for this guide: This guide asks for 20000mAh in one pack, and INIU sells this one as a laptop bank at 65W.
 
 INIU sells this as its laptop bank, at 65W from 20000mAh.
 
 **Pros**
-- ✓ 65W, enough for a laptop on a 65W charger, and sold by INIU as a "Laptop Power Bank"
+- ✓ 65W in its listing title, which sells it as a "Laptop Power Bank"
 - ✓ INIU's listing title calls it the "Smallest 20000mAh 65W"
 
 **Cons**
 - ✗ Below the UGREEN's 100W USB-C, so a laptop on a charger above 65W tops up slower
 - ✗ Its listing states no port layout or watt-hours, so check the label on the pack before you fly
 
-**Who it's for:** Anyone who wants one 20000mAh pack for a phone, a tablet or a laptop on a charger of up to 65W.
+**Who it's for:** Anyone who wants one 20000mAh pack at 65W for a phone, a tablet or a laptop.
 **Who it's not for:** Anyone whose laptop takes more than 65W, who should look at the UGREEN.
 
 [Check price](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)
@@ -63,7 +63,7 @@ The INIU Power Bank 20000mAh 45W keeps the full 20000mAh on two ports: one USB-C
 - ✗ At 45W, the lowest top output of the three
 
 **Who it's for:** Phone and tablet users who want the full 20000mAh.
-**Who it's not for:** Owners of a laptop on a charger rated above 45W, whom the 65W INIU or the UGREEN suit better.
+**Who it's not for:** Owners of a laptop on a charger rated above 45W, whom the UGREEN suits better.
 
 [Check price](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)
 
