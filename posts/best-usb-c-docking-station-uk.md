@@ -14,18 +14,18 @@ Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.9/10 - Value 8.9/10 
 
 Fit for this guide: A dock should run the whole desk from one cable, and this one drives three displays plus Ethernet.
 
-What keeps it off a 10: Anker pitches extended triple display at Windows machines, so Mac owners may find some screen combinations only mirror.
+What keeps it off a 10: Anker says that on macOS all external monitors mirror the same content, so a Mac gets one picture on every screen rather than three.
 
-The Anker Nano is the dock we'd point most people at now. Anker's 13-in-1 count covers essentially every desk need: triple display output through two HDMI ports and a DisplayPort, 10Gbps USB-C for fast external drives, wired Ethernet, SD and TF card slots and audio, with 100W of laptop charging coming down the same single cable. The party trick is the detachable front hub - a 6-in-1 block that pops out and leaves with the laptop, so the desk stays wired while a travel hub rides in the bag.
+The Anker Nano is the dock we'd point most people at now. Anker's 13-in-1 count covers essentially every desk need: a triple display setup through dual HDMI and a DisplayPort, two USB-C and three USB-A data ports, an Ethernet port, an audio jack, and SD and TF card slots. Anker says it can "Deliver up to 100W to your laptop while transferring data at speeds up to 10 Gbps" over USB-C. The party trick is the detachable front hub - a 6-in-1 block that pops out and leaves with the laptop, so the desk stays wired while a travel hub rides in the bag.
 
 **Pros**
-- ✓ Triple display output (2x HDMI + DisplayPort) for serious multi-monitor desks
+- ✓ Triple display from dual HDMI and a DisplayPort, for serious multi-monitor desks
 - ✓ Detachable 6-in-1 front hub doubles as the travel hub when you leave the desk
-- ✓ 100W charging and 10Gbps data down one cable, with Ethernet and card slots on board
+- ✓ Up to 100W to the laptop and up to 10Gbps data over USB-C, plus Ethernet and SD and TF card slots
 
 **Cons**
 - ✗ Desk-bound by design - the dock itself isn't something you carry
-- ✗ Power delivery stops at 100W, so the hungriest laptops still need their own charger
+- ✗ Anker rates its laptop charging at up to 100W, so a laptop that draws more still needs its own charger
 
 **Who it's for:** Anyone building a permanent multi-monitor desk who wants one cable to run everything - and a hub to take away.
 **Who it's not for:** Travellers or single-screen users who'd be better served by a compact hub alone.
@@ -36,47 +36,45 @@ The Anker Nano is the dock we'd point most people at now. Anker's 13-in-1 count 
 
 ### 2. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Budget
 
-**SPP Score: 9.2 / 10** - Dual 4K@60Hz HDMI. Our value pick.
+**SPP Score: 9.2 / 10** - Dual 4K@60Hz for two monitors. Our value pick.
 
 Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.9/10
 
-Fit for this guide: Two 4K HDMI outputs, Ethernet and 100W charging cover a docking desk that stops at two screens.
+Fit for this guide: Dual 4K@60Hz for two monitors covers a docking desk that stops at two screens.
 
-The Revodok Pro 210's two HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Wired Ethernet handles the network, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. We dig into two-screen setups properly in our [dual monitor hub guide](best-usb-c-hub-for-dual-monitors.html).
+UGREEN's listing title calls the Revodok Pro 210 a 10-in-1 laptop docking station for dual monitors at "Dual 4K@60Hz", so a two-monitor desk runs both screens at 60Hz rather than a lower refresh rate. The title doesn't list the rest of the ten, so check the listing for the port mix your laptop needs. We dig into two-screen setups properly in our [dual monitor hub guide](best-usb-c-hub-for-dual-monitors.html).
 
 **Pros**
-- ✓ Dual 4K@60Hz HDMI runs a proper two-monitor setup smoothly
-- ✓ 100W PD passthrough charges even power-hungry laptops
-- ✓ Wired Ethernet and SD/TF reader round out a genuine desk-station feature set
+- ✓ Two monitors at dual 4K@60Hz, per its listing title
+- ✓ A 10-in-1 dock, so one cable to the laptop runs the desk
 
 **Cons**
-- ✗ HDMI-only display output; there is no DisplayPort option
+- ✗ Its listing title doesn't name its video sockets, so check they match your monitors' inputs
 - ✗ Build quality is the weakest part of it
 
 **Who it's for:** Home and hybrid workers building a two-monitor desk.
-**Who it's not for:** Anyone needing three displays or top-tier transfer speeds for large files.
+**Who it's not for:** Anyone needing three displays.
 
 [Check price](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 3. UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W) - Best Premium
+### 3. UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 40Gbps) - Best Premium
 
 **SPP Score: 9.0 / 10** - Thunderbolt 4 docking station. Our pick for maximum capability.
 
 Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.0/10
 
-Fit for this guide: A dock guide asks for one cable to the desk, and 3x Thunderbolt 4 ports plus 2.5G Ethernet go beyond that.
+Fit for this guide: A dock guide asks for one cable to the desk, and Thunderbolt 4 at 40Gbps plus 2.5G Ethernet go beyond that.
 
-If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of what a single cable can do. Thunderbolt 4 brings 40Gbps of bandwidth, enough for dual 4K@60Hz displays or a single 8K screen, with three Thunderbolt 4 ports for daisy-chaining fast storage and other high-end gear. The 2.5G Ethernet port outruns standard Gigabit connections for those with faster broadband or a fast home network, SD/TF 4.0 card slots move camera files quickly, and 90W of charging keeps a powerful laptop fed. It's more dock than most desks need; for video editors, photographers and developers it earns its place.
+If your laptop has Thunderbolt, the Revodok Max 213 is the step up. Its Amazon listing title calls it a Thunderbolt 4 docking station, 13-in-1, at 40Gbps, and adds 2.5GbE Ethernet. Intel sets "40 Gbps minimum required bandwidth" for Thunderbolt 4. The 2.5G Ethernet port outruns standard Gigabit for those with faster broadband or a fast home network.
 
 **Pros**
-- ✓ Thunderbolt 4 at 40Gbps drives dual 4K@60Hz or a single 8K display
-- ✓ 2.5G Ethernet and SD/TF 4.0 move big files fast on and off the network
-- ✓ Three Thunderbolt 4 ports plus 90W charging handle a full professional setup
+- ✓ Thunderbolt 4 at 40Gbps, per its listing title
+- ✓ 2.5G Ethernet, past standard Gigabit, for a fast home network
 
 **Cons**
-- ✗ UGREEN rates it for two 4K screens, so a three-monitor desk wants the triple-display pick
+- ✗ The listing title doesn't give its display outputs, so check them against your screens before you buy
 - ✗ Without a Thunderbolt-capable laptop you never unlock its full bandwidth
 
 **Who it's for:** Creative professionals and power users with Thunderbolt laptops and demanding, high-bandwidth workflows.
@@ -88,15 +86,15 @@ If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of 
 
 ## Quick verdict
 
-For most desks, the **[Anker Nano Docking Station (13-in-1, Triple Display)](https://www.amazon.co.uk/dp/B0FL83BNR5?linkCode=ll2&tag=souvlakia-21)** is the one to get: triple display support, every port that matters, 100W single-cable charging and a hub for the road. If a two-monitor setup is the goal, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** covers it with room to spare. And for Thunderbolt laptops with serious workloads, the **[UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W)](https://www.amazon.co.uk/dp/B0CM33V233?linkCode=ll2&tag=souvlakia-21)** is the no-compromise choice.
+For most desks, the **[Anker Nano Docking Station (13-in-1, Triple Display)](https://www.amazon.co.uk/dp/B0FL83BNR5?linkCode=ll2&tag=souvlakia-21)** is the one to get: triple display support, Ethernet and card slots, up to 100W of laptop charging and a hub for the road. If a two-monitor setup is the goal, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** covers it at dual 4K@60Hz. And for Thunderbolt laptops with serious workloads, the **[UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 40Gbps)](https://www.amazon.co.uk/dp/B0CM33V233?linkCode=ll2&tag=souvlakia-21)** is the step up.
 
 ## Docking a Lenovo ThinkPad
 
-On a ThinkPad that charges over USB-C, the Revodok Pro 210 is the dock to start with for a two-screen desk. Whether the screens light up also depends on the laptop's port: Anker's dock troubleshooting guide warns that "If your laptop's USB-C port does not support DisplayPort Alt Mode or Thunderbolt, it may not detect a monitor through the docking station", so look for one of those on your model's spec sheet first. If the ThinkPad travels and only needs a screen and a USB-A port or two, a compact hub from our [USB-C hubs guide](best-usb-c-hub-uk.html) is the smaller tool.
+For a two-screen ThinkPad desk, the Revodok Pro 210 is the dock to start with; check its listing for the charging wattage your ThinkPad needs. Whether the screens light up also depends on the laptop's port: Anker's dock troubleshooting guide warns that "If your laptop's USB-C port does not support DisplayPort Alt Mode or Thunderbolt, it may not detect a monitor through the docking station", so look for one of those on your model's spec sheet first. If the ThinkPad travels and only needs a screen and a USB-A port or two, a compact hub from our [USB-C hubs guide](best-usb-c-hub-uk.html) is the smaller tool.
 
 ## How we chose
 
-We compared docking stations on the things that decide daily usability: how many displays they drive and at what resolution and refresh rate, total port count and type, wired networking speed, data bandwidth for external storage, and how much charging they push back to the laptop. Picks are chosen on specification and fit for home and hybrid working setups. All three link to their live Amazon listings, where you can check each dock's ports against your laptop before committing.
+We compared docking stations on the things that decide daily usability: how many displays they drive and at what resolution and refresh rate, total port count and type, wired networking speed and data bandwidth for external storage, plus laptop charging where the maker states a figure. Picks are chosen on specification and fit for home and hybrid working setups. All three link to their live Amazon listings, where you can check each dock's ports against your laptop before committing.
 
 ## FAQ
 
@@ -104,10 +102,10 @@ We compared docking stations on the things that decide daily usability: how many
 A: Thunderbolt 4 guarantees much higher bandwidth, which supports faster storage and more demanding display combinations, but it needs a Thunderbolt-capable laptop and a [Thunderbolt 4 cable](best-thunderbolt-4-cable-uk.html) to match. A standard USB-C dock works with a wider range of machines and covers most desk setups perfectly well. If you are weighing the two standards, our [USB4 vs Thunderbolt 4 explainer](usb4-vs-thunderbolt-4-explained.html) covers what each one guarantees and what it leaves optional.
 
 **Q: Can a docking station charge my laptop?**
-A: Yes, all three picks here deliver laptop charging through the same cable that carries your displays and data, so a single connection runs the whole desk. Check that the dock's charging wattage meets what your laptop expects.
+A: Many can, through the same cable that carries your displays and data, so a single connection runs the whole desk. Anker rates the Nano dock at up to 100W to the laptop; for the two UGREEN docks, check the listing for a charging figure that meets what your laptop expects.
 
 **Q: How many monitors can I run from a docking station?**
-A: It depends on both the dock and your laptop. The docks here support two or three external displays, but some laptops, notably certain MacBook models, limit how many external screens they can drive, so check your laptop's display support before buying. If a monitor you have already connected is not being picked up, our [docking station not detecting a monitor guide](docking-station-not-detecting-monitor.html) walks through the causes in the order that actually finds them.
+A: It depends on both the dock and your laptop. The Anker here drives three external displays and the Revodok Pro 210 two, but some laptops, notably certain MacBook models, limit how many external screens they can drive, so check your laptop's display support before buying. If a monitor you have already connected is not being picked up, our [docking station not detecting a monitor guide](docking-station-not-detecting-monitor.html) walks through the causes in the order that actually finds them.
 
 ---
 

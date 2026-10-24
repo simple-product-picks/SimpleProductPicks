@@ -55,21 +55,20 @@ INIU sells this as a "Laptop Power Bank" at 20000mAh and 65W. On leads, our [fas
 
 ### 3. Anker Power Bank 25000mAh Travel Essential (165W Triple USB-C) - Best Premium
 
-**SPP Score: 8.9 / 10** - 25000mAh with two built-in retractable USB-C cables plus a third USB-C port. Our pick for maximum capability.
+**SPP Score: 8.9 / 10** - 25000mAh with two built-in USB-C cables, a USB-C port and a USB-A port. Our pick for maximum capability.
 
 Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.0/10
 
 Fit for this guide: 25000mAh and three USB-C outputs suit players carrying a laptop and phone as well as the Deck.
 
-For a festival or a full day of handheld play, the Anker carries the most here: Anker's listing title gives it 25,000mAh and "165W Total Output". Its USB-C outputs are two built-in retractable cables and a USB-C port, so the Deck, a laptop and a phone can all charge from the one pack. If flying is your main use, our [best power bank for long flights](best-power-bank-for-long-flights.html) guide is the closer match.
+For a festival or a full day of handheld play, the Anker carries the most here: Anker's listing title gives it 25,000mAh and "165W Total Output". Anker lists "three USB-C ports each delivering up to 100W", two of them built-in cables, plus a USB-A port, and says you can "Connect up to four at once", so the Deck, a laptop and a phone can all charge from the one pack. If flying is your main use, our [best power bank for long flights](best-power-bank-for-long-flights.html) guide is the closer match.
 
 **Pros**
 - ✓ The most capacity here, at 25,000mAh
-- ✓ Built-in retractable USB-C cables, so the lead is part of the pack
-- ✓ Charges the Deck, a laptop and a phone at the same time
+- ✓ Two built-in USB-C cables, so the leads are part of the pack
 
 **Cons**
-- ✗ Two of its three USB-C outputs are built-in cables, so only one port takes a lead of your choice
+- ✗ 165W is the pack's total, shared between everything plugged in at once
 
 **Who it's for:** Players who want maximum runtime and one pack for the Deck, a laptop and a phone on long trips.
 **Who it's not for:** Anyone who only needs a pack for short sessions and the Deck alone.

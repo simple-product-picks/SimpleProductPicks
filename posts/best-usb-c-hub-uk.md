@@ -10,21 +10,21 @@ It's easy to buy a USB-C hub with far more ports than you'll ever plug into, so 
 
 Scorecard: Capability 8.5/10 - Versatility 9.4/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.8/10
 
-Fit for this guide: Most laptops need a screen, wired internet and a few USB-A ports, and this 7-in-1 covers exactly that.
+Fit for this guide: A laptop desk gets its monitor, a wired connection and an SD slot from this one 7-in-1.
 
-Seven ports is the count that covers most laptop desks, and this UGREEN spreads them sensibly. You get a 4K HDMI output for a monitor, a Gigabit Ethernet socket for a stable wired connection, and three USB-A ports for the mouse, keyboard and the odd memory stick. Add an SD reader and a USB-C port UGREEN rates for up to 100W pass-through charging. That's enough to turn a port-starved laptop into a proper desk without stepping up to a bulkier dock.
+This UGREEN's listing title packs the essentials into a 7-in-1: a 4K HDMI output for a monitor, a Gigabit Ethernet socket for a stable wired connection, an SD card reader and Power Delivery it rates at 100W for pass-through charging. That's enough to turn a port-starved laptop into a proper desk without stepping up to a bulkier dock.
 
 **Pros**
 - ✓ Gigabit Ethernet built in for a steadier wired connection than Wi-Fi
-- ✓ UGREEN rates the USB-C port for up to 100W pass-through charging
-- ✓ Three USB-A ports handle everyday peripherals without an extra adapter
+- ✓ Pass-through charging its listing title rates at 100W
+- ✓ An SD card reader for camera cards, per its listing title
 
 **Cons**
-- ✗ The single USB-C port is for charging, so USB-C drives fall back to USB-A
-- ✗ No microSD slot alongside the full-size SD reader
+- ✗ Its title doesn't list the USB port mix, so check it covers your peripherals
+- ✗ Its title gives 4K HDMI without a refresh rate, so check the listing if 4K at 60Hz matters
 
 **Who it's for:** Anyone who wants the everyday essentials, wired internet included, in one hub that isn't oversized.
-**Who it's not for:** People running two monitors, and anyone whose desk is one screen and nothing else, who would be paying for ports they never fill.
+**Who it's not for:** People running two monitors, who want the 10-in-1 built for them, and anyone whose desk is one screen and nothing else, who would be paying for ports they never fill.
 
 [Check price](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
 
@@ -32,25 +32,24 @@ Seven ports is the count that covers most laptop desks, and this UGREEN spreads 
 
 ### 2. Anker USB C Hub 5-in-1 with 4K HDMI - Best Budget
 
-**SPP Score: 8.7 / 10** - The honest 5-in-1 for people who don't need the extras. Our value pick.
+**SPP Score: 8.7 / 10** - A 5-in-1 for people who don't need the extras. Our value pick.
 
 Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10 - Fit 8.9/10
 
-Fit for this guide: A 5-in-1 with 4K HDMI and two USB-A ports fits a desk that plugs in nothing else.
+Fit for this guide: A 5-in-1 with 4K HDMI and 85W pass-through fits a desk that plugs in little else.
 
-If your desk is really just a monitor, a couple of USB accessories and the laptop's own charger, a 5-in-1 is plenty, and the extras on a bigger hub are just weight in the bag. This Anker keeps it to one HDMI port, two USB-A ports and a USB-C port Anker rates for up to 85W pass-through, all in a slab you can drop in a laptop sleeve. What you give up is wired Ethernet and any card reader, so it suits people whose networking is Wi-Fi and whose files arrive over the cloud rather than off a camera card.
+If your desk is really just a monitor, a couple of USB accessories and the laptop's own charger, a 5-in-1 is plenty. Anker's listing title gives this one 4K HDMI and "85W Max PD" for pass-through charging. Its title names no Ethernet or card reader, so it suits people whose networking is Wi-Fi and whose files arrive over the cloud rather than off a camera card; check the listing for its USB ports.
 
 **Pros**
-- ✓ Covers a 4K monitor and two USB-A accessories, which is all many desks need
-- ✓ Pass-through charging Anker rates at up to 85W
-- ✓ Small enough to travel with rather than live on one desk
+- ✓ 4K HDMI for a monitor, per its listing title
+- ✓ Up to 85W to the laptop through the hub, per its listing title ("85W Max PD")
 
 **Cons**
-- ✗ Wi-Fi only: no Ethernet socket, so a wired desk means stepping up to the 7-in-1
-- ✗ Two USB-A ports, so a keyboard and mouse fill it before anything else
+- ✗ Its listing title names no Ethernet socket, so a wired desk means stepping up to the 7-in-1
+- ✗ Five connections in all, the fewest here, so a busy desk outgrows it
 
 **Who it's for:** Light setups that need a screen and a few USB ports, and nothing they'll leave unused.
-**Who it's not for:** Anyone who wants wired internet, a card reader, or room to grow.
+**Who it's not for:** Anyone who wants room to grow, or a card reader the 7-in-1's title names.
 
 [Check price](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21)
 
@@ -62,17 +61,16 @@ If your desk is really just a monitor, a couple of USB accessories and the lapto
 
 Scorecard: Capability 9.8/10 - Versatility 9.8/10 - Build 8.5/10 - Value 8.9/10 - Fit 8.0/10
 
-Fit for this guide: A 10-in-1 dock with two HDMI outputs and Ethernet is more hub than a single-screen desk fills.
+Fit for this guide: A 10-in-1 dock for dual monitors is more hub than a single-screen desk fills.
 
-This is where a hub becomes a docking station. The Revodok Pro 210 is a 10-in-1, and the headline is two HDMI outputs that UGREEN rates for dual 4K at 60Hz, so you can run a genuine two-screen desk from a single cable to the laptop. Around that you get wired Ethernet, a full set of USB-C and USB-A ports, and both SD and microSD readers, with the 100W pass-through UGREEN lists, to keep the laptop charged. It's the pick for people who dock in the morning and don't want to think about ports again until home time. If you'd rather see the biggest desk docks on their own, our [USB-C docking station guide](best-usb-c-docking-station-uk.html) goes deeper on that class.
+This is where a hub becomes a docking station. UGREEN's listing title calls the Revodok Pro 210 a 10-in-1 laptop docking station for dual monitors at "Dual 4K@60Hz", so you can run a two-screen desk from a single cable to the laptop. The title doesn't break down the other ports, so check the listing for the rest of the ten. It's the pick for people who dock in the morning and don't want to think about ports again until home time. If you'd rather see the biggest desk docks on their own, our [USB-C docking station guide](best-usb-c-docking-station-uk.html) goes deeper on that class.
 
 **Pros**
-- ✓ Dual HDMI outputs UGREEN rates for two 4K screens at 60Hz
+- ✓ Two monitors at dual 4K@60Hz, per its listing title
 - ✓ A 10-in-1 layout covers a full desk from one cable to the laptop
-- ✓ Both SD and microSD readers plus wired Ethernet built in
 
 **Cons**
-- ✗ Its second USB-C port is a 5Gbps data port, so external SSD transfers won't run at full speed
+- ✗ Its listing title doesn't name its video sockets, so check they match your monitors' inputs
 - ✗ A 10-in-1 dock built for a fixed desk rather than a bag
 
 **Who it's for:** Permanent desks, especially two-monitor ones, that want everything on a single dock.
@@ -84,17 +82,17 @@ This is where a hub becomes a docking station. The Revodok Pro 210 is a 10-in-1,
 
 ## Quick verdict
 
-For most laptops the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** hits the right balance: a screen, wired internet, USB-A and a card reader without the bulk of a dock. If your desk is simpler, the **[Anker USB C Hub 5-in-1 with 4K HDMI](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21)** does the core job with nothing spare. And if you run two monitors and want everything on one dock, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** is the one to go for.
+For most laptops the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** hits the right balance: a screen, wired internet and a card reader without the bulk of a dock. If your desk is simpler, the **[Anker USB C Hub 5-in-1 with 4K HDMI](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21)** does the core job with nothing spare. And if you run two monitors and want everything on one dock, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** is the one to go for.
 
 ## Using a hub with a Steam Deck
 
-Dock a Steam Deck with the Revodok 7-in-1. UGREEN's listing names the Steam Deck among the devices it works with, and it has what a Deck on the telly uses: HDMI out, Ethernet for big downloads, and USB-A ports for a wired pad, keyboard or mouse. Plug the Deck's own charger, which Valve lists as a "PD3.0 Type C power supply, 45W", into the hub's USB-C power port and the hub passes power on to the Deck while it plays. That is the job of USB Power Delivery: "power delivery along with data over a single cable", in the USB-IF's words. Away from the telly, our [Steam Deck power bank guide](best-power-bank-for-steam-deck.html) keeps it going.
+Dock a Steam Deck with the Revodok 7-in-1. UGREEN's listing names the Steam Deck among the devices it works with, and it has what a Deck on the telly uses: HDMI out and Ethernet for big downloads; check the listing for the USB ports a wired pad, keyboard or mouse needs. Plug the Deck's own charger, which Valve lists as a "PD3.0 Type C power supply, 45W", into the hub's PD charging port and the hub passes power on to the Deck while it plays. That is the job of USB Power Delivery: "power delivery along with data over a single cable", in the USB-IF's words. Away from the telly, our [Steam Deck power bank guide](best-power-bank-for-steam-deck.html) keeps it going.
 
 ## Do you need Ethernet or an SD slot on the hub?
 
-For a wired connection, both UGREEN picks have an Ethernet socket. The 7-in-1's port is Gigabit, so if your broadband is faster than that, or the socket is all you need, our [USB-C Ethernet adapter guide](best-usb-c-ethernet-adapter.html) covers stand-alone adapters up to 5G.
+For a wired connection, the 7-in-1's listing title names Gigabit Ethernet; the 10-in-1's title doesn't name one, so check its listing. If your broadband is faster than a gigabit, or the socket is all you need, our [USB-C Ethernet adapter guide](best-usb-c-ethernet-adapter.html) covers stand-alone adapters up to 5G.
 
-For cards, the 7-in-1 takes full-size SD and the 10-in-1 adds microSD. If you offload camera cards every day, a dedicated reader is worth a look, and our [USB-C SD card reader guide](best-usb-c-sd-card-reader-uk.html) includes a dual-slot UHS-II model.
+For camera cards, the 7-in-1 has the reader built in. If you offload camera cards every day, a dedicated reader is worth a look, and our [USB-C SD card reader guide](best-usb-c-sd-card-reader-uk.html) includes a dual-slot UHS-II model.
 
 ## Hubs for a specific laptop or desk
 
@@ -105,7 +103,7 @@ For cards, the 7-in-1 takes full-size SD and the 10-in-1 adds microSD. If you of
 
 ## How we chose
 
-We started from the ports people genuinely use day to day, not the longest spec list. A hub earns its place by covering a real setup, so we weighed display output, pass-through charging wattage, whether wired Ethernet is on board, how many USB-A ports and card slots you get, and each brand's record on build. Brand claims like wattage and dual-4K support are taken from the makers' own listings, and we say so where it matters.
+We started from the ports people genuinely use day to day, not the longest spec list. A hub earns its place by covering a real setup, so we weighed display output, pass-through charging wattage, whether wired Ethernet is on board, how many connections you get, and each brand's record on build. Claims like wattage and dual-4K support are taken from each listing title, and we say so where it matters.
 
 ## FAQ
 

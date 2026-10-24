@@ -12,7 +12,7 @@ Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 9.8/10 - Value 8.9/10 
 
 Fit for this guide: Getting a laptop onto a TV or projector is the whole job, and this 0.9m cable does 4K at 60Hz.
 
-The Anker USB-C to HDMI Cable is our standout because it does the one job most people need in the simplest way possible. It's a single 0.9m lead that plugs a USB-C device straight into an HDMI display, with no dongle hanging off the port. It runs 4K output at a smooth 60Hz refresh rate. That matters for desktop work and video: many cheaper adapters cap 4K at 30Hz, which can feel laggy when moving windows or the cursor. The nylon-braided cord is built to survive being coiled into a bag and pulled out again. It's compatible with Thunderbolt 5, 4 and 3 as well as standard USB-C video output. Anker is a long-established charging and accessory brand, and a direct cable like this keeps the whole setup to one tidy connection.
+The Anker USB-C to HDMI Cable is our standout because it does the one job most people need in the simplest way possible. It's a single 0.9m lead that plugs a USB-C device straight into an HDMI display, with no dongle hanging off the port. It runs 4K output at a smooth 60Hz refresh rate. That matters for desktop work and video: some adapters cap 4K at 30Hz, which can feel laggy when moving windows or the cursor. The nylon-braided cord is built to survive being coiled into a bag and pulled out again. It's compatible with Thunderbolt 5, 4 and 3 as well as standard USB-C video output. A direct cable like this keeps the whole setup to one tidy connection.
 
 **Pros**
 - ✓ 4K resolution at 60Hz for smooth, sharp output to a monitor or TV
@@ -32,24 +32,24 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 
 ### 2. UGREEN USB C to HDMI Adapter 4K@60Hz - Best Budget
 
-**SPP Score: 8.7 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
+**SPP Score: 8.7 / 10** - 4K at 60Hz with HDR and Thunderbolt 5/4/3 compatibility. Our value pick.
 
 Scorecard: Capability 8.9/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
 
-Fit for this guide: The same 4K at 60Hz output arrives as an adapter with an aluminium shell for your own HDMI lead.
+Fit for this guide: The same 4K at 60Hz output arrives as an adapter for your own HDMI lead, and adds HDR.
 
-The UGREEN USB C to HDMI Adapter is the no-frills option that still covers the specs that matter. You get a straightforward USB-C to HDMI connection running 4K at a smooth 60Hz, with HDR support for richer contrast on a compatible screen. It is Thunderbolt 3 and 4 compatible, so it slots neatly into modern laptops, and the aluminium shell helps it shrug off life in a bag. UGREEN is a well-known accessories brand, and this adapter focuses on the essentials rather than extra ports, which keeps it simple to live with.
+The UGREEN USB C to HDMI Adapter is the no-frills option that still covers the specs that matter. You get a straightforward USB-C to HDMI connection running 4K at a smooth 60Hz, with HDR support for richer contrast on a compatible screen. Its listing title adds Thunderbolt 5, 4 and 3 compatibility, so it slots neatly into modern laptops. It focuses on the essentials rather than extra ports, which keeps it simple to live with.
 
 **Pros**
 - ✓ 4K at 60Hz for smooth, sharp motion on a modern TV or monitor
 - ✓ HDR support for richer contrast and colour on a compatible display
-- ✓ Thunderbolt 3 and 4 compatible, with a durable aluminium shell
+- ✓ Thunderbolt 5/4/3 compatible, per its listing title
 
 **Cons**
 - ✗ HDMI only, with no added USB ports or passthrough charging
 - ✗ An adapter, not a cable, so you plug your own HDMI lead into it
 
-**Who it's for:** Buyers who want a compact, dependable USB-C to HDMI link that still hits 4K at 60Hz.
+**Who it's for:** Buyers who want a simple USB-C to HDMI adapter that still hits 4K at 60Hz.
 **Who it's not for:** Anyone needing a multi-port hub with Ethernet and extra USB.
 
 [Check price](https://www.amazon.co.uk/dp/B07X25ZR56?linkCode=ll2&tag=souvlakia-21)
@@ -62,17 +62,16 @@ The UGREEN USB C to HDMI Adapter is the no-frills option that still covers the s
 
 Scorecard: Capability 9.4/10 - Versatility 9.4/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.0/10
 
-Fit for this guide: HDMI here comes with Ethernet, card slots and 10Gbps ports that a reader after one screen skips.
+Fit for this guide: HDMI here comes with Ethernet and 10Gbps data that a reader after one screen skips.
 
-The Anker USB C Hub 8-in-1 is for people who want one plug to do everything. Beyond HDMI output, it adds wired Ethernet for a stable network connection and 10Gbps USB data transfer for fast external drives, all from a single USB-C port. For a home-office or hot-desk setup, this turns a slim laptop into a proper workstation in one connection. More hub options live in our [USB-C hub guide](best-usb-c-hub-uk.html).
+The Anker USB C Hub 8-in-1 is for people who want one plug to do everything. Beyond HDMI output, it adds wired Ethernet for a stable network connection and 10Gbps USB data, per its listing title, for large file copies to external drives, all from a single USB-C port. For a home-office or hot-desk setup, this turns a slim laptop into a proper workstation in one connection. More hub options live in our [USB-C hub guide](best-usb-c-hub-uk.html).
 
 **Pros**
-- ✓ Eight ports in one hub, including HDMI, Ethernet and high-speed USB
-- ✓ 10Gbps USB data transfer for quick file copies to fast drives
+- ✓ An 8-in-1 hub, with HDMI, Ethernet and 10Gbps data in one
+- ✓ 10Gbps data named in its listing title, handy for backing up to an external drive
 - ✓ Wired Ethernet for a steadier connection than Wi-Fi alone
 
 **Cons**
-- ✗ Larger and heavier than a single-purpose HDMI adapter
 - ✗ More capability than you need if you only ever use the HDMI output
 
 **Who it's for:** Home or hybrid workers who want one hub for display, network and storage.
@@ -93,7 +92,7 @@ For HDMI, we judged each pick on what actually reaches the screen: resolution an
 ## FAQ
 
 **Q: Do I need an adapter that supports 4K at 60Hz?**
-A: If you mainly browse, work in documents or watch video, 4K at 60Hz gives smoother motion and a more comfortable feel. Cheaper 4K adapters can cap out at 30Hz, so check the spec if smoothness matters to you.
+A: If you mainly browse, work in documents or watch video, 4K at 60Hz gives smoother motion and a more comfortable feel. Some 4K adapters cap out at 30Hz, so check the spec if smoothness matters to you.
 
 **Q: Will a USB-C to HDMI adapter work with my phone or tablet?**
 A: It depends on whether your device's USB-C port supports video output (often called DisplayPort Alt Mode), so check your device's specifications, as not every USB-C port can drive an external display. If an adapter you already have shows no signal, our guide to [why a USB-C to HDMI adapter isn't working](why-usb-c-to-hdmi-adapter-not-working.html) walks through the port and adapter checks that fix it.

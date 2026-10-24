@@ -62,20 +62,19 @@ On Macworld's measurements, 30W covers an iPhone 17 with a little to spare, from
 
 Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 9.4/10 - Value 8.9/10 - Fit 7.6/10
 
-Fit for this guide: Three ports and 65W go beyond one iPhone, fitting homes where a tablet and USB-A kit share the socket.
+Fit for this guide: Three ports and 65W go beyond one iPhone, fitting homes where a tablet and other devices share the socket.
 
-Buy this one for everything except the iPhone. UGREEN lists 65W across three ports, two USB-C and one USB-A, and the USB-A earns its place: kit that never moved to USB-C keeps working without an adapter in the way. If this power class is what you're after generally, our [65W GaN charger guide](best-65w-gan-charger-uk.html) compares that tier properly. Charging an iPad rather than the phone? Our [iPad charger guide](best-usb-c-charger-for-ipad-uk.html) picks for that.
+Buy this one for everything except the iPhone. UGREEN's listing title gives it 65W across three ports in a foldable GaN plug, so the phone shares the socket with whatever else needs charging. The title doesn't break down the port mix, so check the listing if you need a USB-A socket for older kit. If this power class is what you're after generally, our [65W GaN charger guide](best-65w-gan-charger-uk.html) compares that tier properly. Charging an iPad rather than the phone? Our [iPad charger guide](best-usb-c-charger-for-ipad-uk.html) picks for that.
 
 **Pros**
 - ✓ Three ports, so the iPhone stops being the only thing that gets the socket
-- ✓ A USB-A port for whatever in the house never moved to USB-C
 - ✓ The most output of the three, per UGREEN's 65W rating
 
 **Cons**
 - ✗ For one iPhone on its own, two of the three ports sit empty
 - ✗ Apple's highest iPhone 17 figure is the 40-watt adapter, so 25 of the 65 watts serve other devices, not the phone
 
-**Who it's for:** Homes where the iPhone gets the socket after a tablet, a watch and something still on USB-A.
+**Who it's for:** Homes where the iPhone shares the plug with a tablet and a watch.
 **Who it's not for:** Anyone charging only an iPhone, which a single-port plug above already covers.
 
 [Check price](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)
@@ -84,7 +83,7 @@ Buy this one for everything except the iPhone. UGREEN lists 65W across three por
 
 ## Quick verdict
 
-For most iPhone 17 owners the **[Anker Nano 45W USB C Charger (Foldable)](https://www.amazon.co.uk/dp/B0DPR2VYQF?linkCode=ll2&tag=souvlakia-21)** is the one to buy: a single fast port that folds for the bag. For a bedside or weekend-bag plug, choose the **[UGREEN Nexode 30W USB C Charger (Foldable GaN)](https://www.amazon.co.uk/dp/B0B7B71Y5V?linkCode=ll2&tag=souvlakia-21)**. If other devices share the plug, including anything still on USB-A, choose the **[UGREEN Nexode 65W GaN Charger (3-Port)](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)**. Away from the wall completely, a [magnetic power bank](best-magsafe-power-bank-uk.html) does the other half of this job.
+For most iPhone 17 owners the **[Anker Nano 45W USB C Charger (Foldable)](https://www.amazon.co.uk/dp/B0DPR2VYQF?linkCode=ll2&tag=souvlakia-21)** is the one to buy: a single fast port that folds for the bag. For a bedside or weekend-bag plug, choose the **[UGREEN Nexode 30W USB C Charger (Foldable GaN)](https://www.amazon.co.uk/dp/B0B7B71Y5V?linkCode=ll2&tag=souvlakia-21)**. If other devices share the plug, choose the **[UGREEN Nexode 65W GaN Charger (3-Port)](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)**. Away from the wall completely, a [magnetic power bank](best-magsafe-power-bank-uk.html) does the other half of this job.
 
 ## How we chose
 

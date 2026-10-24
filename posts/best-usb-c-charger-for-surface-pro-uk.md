@@ -39,18 +39,17 @@ The cable is the reason this one leads. UGREEN builds a retractable USB-C cable 
 
 Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 8.9/10 - Value 8.9/10 - Fit 8.9/10
 
-Fit for this guide: It carries the 65W a Surface Pro asks for in a compact three-port plug, though it has no cable built in.
+Fit for this guide: It carries the 65W a Surface Pro asks for in a compact three-port travel plug.
 
-If the built-in cable isn't the part you care about, this is a compact 65W GaN travel plug with three ports, two USB-C and one USB-A, so the Surface charges and a phone can share the plug.
+If the built-in cable isn't the part you care about, UGREEN's listing title describes this as a 65W GaN "3 Port Compact Travel Plug", so the Surface and a phone can share the plug.
 
 **Pros**
-- ✓ 65W from a plug its listing calls a compact travel plug
-- ✓ Two USB-C ports plus a USB-A on one plug
+- ✓ Three ports on one plug, per its listing title
 
 **Cons**
-- ✗ No built-in cable: its outputs are two USB-C ports and a USB-A, so plan on your own USB-C to USB-C lead
+- ✗ Its listing title doesn't give the port mix, so check it has the USB-C ports you need
 
-**Who it's for:** Surface owners with a spare USB-C lead who want a small plug with room for a phone.
+**Who it's for:** Surface owners who want a small 65W plug with room for a phone.
 **Who it's not for:** A desk with more than three devices to charge; that's the four-port pick.
 
 [Check price](https://www.amazon.co.uk/dp/B0DG8XZN39?linkCode=ll2&tag=souvlakia-21)
@@ -65,7 +64,7 @@ Scorecard: Capability 9.4/10 - Versatility 8.5/10 - Build 8.9/10 - Value 8.5/10 
 
 Fit for this guide: Microsoft's recommended figures stop at 60W, so the extra watts serve a phone and earbuds beside the Surface, which suits a busy desk.
 
-This is the desk charger. It has three USB-C ports and one USB-A, and UGREEN says a built-in power dispenser adjusts the output to match device demand, quoting PD 100W, 65W, 45W and 30W.
+This is the desk charger. UGREEN's listing title gives it 100W across four ports in a GaN laptop charger plug, so the Surface, a phone and earbuds can all charge from one socket. Its title doesn't give the port mix, so look before you plan your cables.
 
 **Pros**
 - ✓ The most total output here, per UGREEN's 100W rating
@@ -83,11 +82,11 @@ This is the desk charger. It has three USB-C ports and one USB-A, and UGREEN say
 
 ## Quick verdict
 
-Most Surface Pro owners should buy the **[UGREEN Nexode 65W USB-C Charger (Built-in Retractable Cable)](https://www.amazon.co.uk/dp/B0DNSV8MLG?linkCode=ll2&tag=souvlakia-21)**: one item in the bag, cable included. If you already own a USB-C cable, the **[UGREEN 65W USB-C Charger (3-Port GaN Travel Plug)](https://www.amazon.co.uk/dp/B0DG8XZN39?linkCode=ll2&tag=souvlakia-21)** is the compact plug. For a desk where the Surface shares the plug with other devices, the **[UGREEN Nexode 100W USB-C Charger (4-Port GaN)](https://www.amazon.co.uk/dp/B0B6MZYKTF?linkCode=ll2&tag=souvlakia-21)** gives each one a port. For 65W chargers in general, our [65W GaN charger guide](best-65w-gan-charger-uk.html) covers it, and for topping the tablet up away from the wall a [laptop power bank](best-power-bank-for-laptops-uk.html) does the other half of the job.
+Most Surface Pro owners should buy the **[UGREEN Nexode 65W USB-C Charger (Built-in Retractable Cable)](https://www.amazon.co.uk/dp/B0DNSV8MLG?linkCode=ll2&tag=souvlakia-21)**: one item in the bag, cable included. If you don't need a cable built in, the **[UGREEN 65W USB-C Charger (3-Port GaN Travel Plug)](https://www.amazon.co.uk/dp/B0DG8XZN39?linkCode=ll2&tag=souvlakia-21)** is the compact three-port plug. For a desk where the Surface shares the plug with other devices, the **[UGREEN Nexode 100W USB-C Charger (4-Port GaN)](https://www.amazon.co.uk/dp/B0B6MZYKTF?linkCode=ll2&tag=souvlakia-21)** gives each one a port. For 65W chargers in general, our [65W GaN charger guide](best-65w-gan-charger-uk.html) covers it, and for topping the tablet up away from the wall a [laptop power bank](best-power-bank-for-laptops-uk.html) does the other half of the job.
 
 ## How we chose
 
-We started with Microsoft's own two support pages rather than any charger's marketing: the per-model wattage table and the USB-C fast-charging guidance. Those pages give the wattage to meet; we set our own bar at 65W, just above it, and looked for chargers that clear it and differ in what else they do. On amazon.co.uk at 65W and 100W, every charger we could recommend with confidence came from UGREEN; the other brands we checked fell short on the same tests, so all three picks come from one maker. We take no payment for placement. Check each listing for what's in the box, since only the overall pick has its cable built in.
+We started with Microsoft's own two support pages rather than any charger's marketing: the per-model wattage table and the USB-C fast-charging guidance. Those pages give the wattage to meet; we set our own bar at 65W, just above it, and looked for chargers that clear it and differ in what else they do. On amazon.co.uk at 65W and 100W, every charger we could recommend with confidence came from UGREEN; the other brands we checked fell short on the same tests, so all three picks come from one maker. We take no payment for placement. Check each listing for what's in the box; the overall pick has its cable built in.
 
 ## FAQ
 
