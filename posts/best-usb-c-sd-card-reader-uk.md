@@ -4,28 +4,28 @@ If a card copy feels slow, check the card before the reader. The card's own bus 
 
 ## Top picks
 
-### 1. JSAUX 4-in-1 USB-C SD Card Reader with USB 3.0 and Charging Port - Best Overall
+### 1. UGREEN SD Card Reader USB-C Magnetic 100W PD 312MB/s - Best Overall
 
-**SPP Score: 8.6 / 10** - Reads cards on a phone or iPad and keeps it charged. Our all-round pick.
+**SPP Score: 9.0 / 10** - Reads SD cards fast and keeps your phone charged. Our all-round pick.
 
-Scorecard: Capability 8.0/10 - Versatility 8.5/10 - Build 8.0/10 - Value 8.9/10 - Fit 9.4/10
+Scorecard: Capability 9.4/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10 - Fit 9.4/10
 
-Fit for this guide: The one reader here that works plugged into a phone or iPad and still charges, with SD, microSD and a USB-A host port.
+Fit for this guide: The fast pick here, and the only one that keeps a phone or tablet charged while it reads.
 
-A USB-C reader may end up in a phone, a tablet or a laptop, and JSAUX's listing names all three: iPhone 16 models, iPad Pro, MacBook Pro and Air, and Galaxy S8 to S24. The charging port is why it tops the list. With the reader in a phone's only socket, a charger plugged into the reader keeps the phone going while a full card empties.
+UGREEN rates this reader to 312MB/s, the UHS-II figure the SD Association quotes, so a UHS-II card copies faster here than it can in a UHS-I reader. The reason it tops the list, though, is the 100W PD pass-through: with the reader in a phone's or tablet's only port, a charger plugged into it keeps the device going while a full card empties. UGREEN's listing also calls it magnetic.
 
 **Pros**
-- ✓ Keeps a phone or iPad powered through a long copy
-- ✓ The USB-A 3.0 host port takes a flash drive alongside the card
+- ✓ Keeps a phone or tablet charged through a long copy, over a 100W PD pass-through
+- ✓ Maker-rated to 312MB/s, the UHS-II bus figure, so UHS-II cards clear the UHS-I ceiling
 
 **Cons**
-- ✗ No UHS-II rating, so it isn't the reader for the fastest copies
-- ✗ Its USB-C port is listed as a charging port, so a flash drive goes on the USB-A port
+- ✗ 312MB/s is the UHS-II bus maximum, a ceiling rather than a measured copy speed, and only UHS-II cards reach it
+- ✗ Its listing names an SD card reader; the BENFEI below reads more formats, CompactFlash included
 
-**Who it's for:** Anyone who empties cards on a phone, an iPad or a laptop and wants one reader for all of them.
+**Who it's for:** Anyone emptying SD cards onto a phone, tablet or laptop who wants speed and a charge at the same time.
 **Who it's not for:** Anyone whose cameras take CompactFlash.
 
-[Check price](https://www.amazon.co.uk/dp/B0CQ2KM215?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DRNXG4X5?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -44,44 +44,19 @@ BENFEI's listing reads SD, microSD, Memory Stick and CompactFlash, which makes i
 - ✓ No adapter needed on an older computer with only USB-A
 
 **Cons**
-- ✗ Its listing gives no UHS-II rating, so UHS-II cards are better served by the UGREEN
+- ✗ Its listing gives no UHS-II rating, so UHS-II cards are better served by the UGREEN above
 - ✗ No charging port, so on a phone or iPad you read the card or charge, not both
 
 **Who it's for:** Anyone with cards in several formats and computers both old and new.
-**Who it's not for:** A phone or iPad user who needs to charge while reading; that's the JSAUX.
+**Who it's not for:** A phone or iPad user who needs to charge while reading; that's the UGREEN.
 
 [Check price](https://www.amazon.co.uk/dp/B08P517NW5?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 3. UGREEN SD 4.0 USB-C Card Reader (Dual-Slot UHS-II) - Best Premium
-
-**SPP Score: 8.5 / 10** - The only UHS-II pick, for the fastest card copies. Our pick for speed.
-
-Scorecard: Capability 8.5/10 - Versatility 8.0/10 - Build 8.0/10 - Value 8.5/10 - Fit 8.9/10
-
-Fit for this guide: The only reader here rated for UHS-II, for photographers emptying full cards of RAW frames - but the speed only comes with UHS-II cards.
-
-Buy this one if your cards are UHS-II. UGREEN's listing calls it an SD 4.0 UHS-II reader and rates it to 312MB/s, the UHS-II figure the SD Association quotes. Its title gives it two slots, SD and microSD (TF).
-
-**Pros**
-- ✓ The only pick rated for UHS-II, to 312MB/s
-- ✓ Dual slots for SD and microSD cards in one reader
-
-**Cons**
-- ✗ 312MB/s is the UHS-II bus figure, a ceiling rather than a measured copy speed
-- ✗ Its two slots are SD and microSD, so a CF card from an older camera needs a different reader
-
-**Who it's for:** A photographer or videographer emptying full UHS-II cards of RAW files or video.
-**Who it's not for:** Anyone whose cards are all UHS-I, who gains nothing from the faster bus.
-
-[Check price](https://www.amazon.co.uk/dp/B0BNBXVLZS?linkCode=ll2&tag=souvlakia-21)
-
----
-
 ## Quick verdict
 
-For most people the **[JSAUX 4-in-1 USB-C SD Card Reader with USB 3.0 and Charging Port](https://www.amazon.co.uk/dp/B0CQ2KM215?linkCode=ll2&tag=souvlakia-21)** is the one to buy, because it charges a phone or iPad while it reads. The **[BENFEI 4-in-1 USB 3.0 and USB-C Card Reader](https://www.amazon.co.uk/dp/B08P517NW5?linkCode=ll2&tag=souvlakia-21)** is for mixed cards, CompactFlash included. The **[UGREEN SD 4.0 USB-C Card Reader (Dual-Slot UHS-II)](https://www.amazon.co.uk/dp/B0BNBXVLZS?linkCode=ll2&tag=souvlakia-21)** is for UHS-II cards and the quickest copy.
+For most people the **[UGREEN SD Card Reader USB-C Magnetic 100W PD 312MB/s](https://www.amazon.co.uk/dp/B0DRNXG4X5?linkCode=ll2&tag=souvlakia-21)** is the one to buy: it clears the UHS-I ceiling on UHS-II cards and charges a phone or tablet while it reads. The **[BENFEI 4-in-1 USB 3.0 and USB-C Card Reader](https://www.amazon.co.uk/dp/B08P517NW5?linkCode=ll2&tag=souvlakia-21)** is the cheaper pick for mixed cards, CompactFlash included.
 
 ## How we chose
 
@@ -93,7 +68,7 @@ We read each maker's listing for the card formats, ports and speeds quoted here,
 A: The SD Association puts UHS-I at up to 104MB/s and UHS-II at up to 312MB/s, so a UHS-I card stays under 104MB/s in any reader.
 
 **Q: Will these work with an iPhone or iPad?**
-A: JSAUX's listing names iPhone 16 models and iPad Pro, and BENFEI's names the iPhone 15 series. UGREEN's title names no phone or tablet, so check its listing for your model first. For what an iPad does with the card once it is connected, the Files app versus the Photos Import screen and the formats it will read, see [Can you use an SD card on an iPad?](can-you-use-an-sd-card-on-ipad.html).
+A: BENFEI's listing names the iPhone 15 series. The UGREEN reader's title names no phone or tablet, so check its listing for your device first. For what an iPad does with the card once it is connected, the Files app versus the Photos Import screen and the formats it will read, see [Can you use an SD card on an iPad?](can-you-use-an-sd-card-on-ipad.html).
 
 **Q: Should I buy a card reader or a hub with a card slot?**
 A: A reader if cards are the whole job. A hub if the same dongle also has to drive a monitor, a wired network or charging at a desk, and our [USB-C hub guide](best-usb-c-hub-uk.html) covers those.
