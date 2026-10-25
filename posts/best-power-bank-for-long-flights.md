@@ -12,7 +12,7 @@ Scorecard: Capability 9.8/10 - Versatility 8.5/10 - Build 9.4/10 - Value 8.9/10 
 
 Fit for this guide: A long-haul bag wants one pack for every device, and this one has 25000mAh behind three USB-C outputs.
 
-Hands-on: We own this one and it is the bank we take on long flights: two built-in retractable USB-C cables plus a third USB-C port cover a phone, a tablet and a laptop at once, and it has held up to daily use and travel without wear.
+Hands-on: We own this one and it is the bank we take on long flights: two built-in USB-C cables (one of them retractable) plus a third USB-C port cover a phone, a tablet and a laptop at once, and it has held up to daily use and travel without wear.
 
 With the cables built in, there's less to pack and less to leave behind. Anker's own page lists "three USB-C ports each delivering up to 100W", two of which are the built-in cables, with a USB-A port alongside.
 

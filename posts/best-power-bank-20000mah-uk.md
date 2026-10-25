@@ -109,7 +109,7 @@ A 10000mAh pack holds half the capacity: about two full charges of a 4000mAh pho
 
 ## The bank we carry ourselves
 
-The bank we own and fly with is Anker's 25000mAh Travel Essential. Its pair of built-in retractable USB-C cables plus one more USB-C port can charge phone, tablet and laptop together, and daily use and travel have left it without wear. At 25000mAh it isn't one of this page's 20000mAh picks; our [power banks for long flights guide](best-power-bank-for-long-flights.html) covers it in full.
+The bank we own and fly with is Anker's 25000mAh Travel Essential. Its two built-in USB-C cables (one of them retractable) plus one more USB-C port can charge phone, tablet and laptop together, and daily use and travel have left it without wear. At 25000mAh it isn't one of this page's 20000mAh picks; our [power banks for long flights guide](best-power-bank-for-long-flights.html) covers it in full.
 
 <figure class="owned-photos"><img class="tall" src="../assets/img/owned/anker-25000mah-165w-own-unit-cables.jpg" alt="Our own Anker 25000mAh power bank on a table, its screen at 88 percent, with both built-in cables out" width="825" height="1000" loading="lazy" decoding="async"><figcaption>Our own Anker 25000mAh unit, photographed at home with both built-in cables out.</figcaption></figure>
 
