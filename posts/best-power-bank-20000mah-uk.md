@@ -1,6 +1,6 @@
 # Best Power Bank 20000mAh 2026
 
-How much wattage is enough depends on the hungriest device you charge from one USB-C port. A bank that matches that device's own charger rating charges it at full speed, and one below it charges a laptop slower, if at all. So 45W covers phones and tablets on chargers rated 45W or less, 65W covers a laptop on a 65W charger, and a laptop that takes more wants the UGREEN. For most people the INIU Power Bank 20000mAh 65W is the one to buy, at 20000mAh and 65W in its listing title.
+How much wattage is enough depends on the hungriest device you charge from one USB-C port. A bank that matches that device's own charger rating charges it at full speed, and one below it charges a laptop slower, if at all. So 45W covers phones and tablets on chargers rated 45W or less, 65W covers a laptop on a 65W charger, and a laptop that takes more wants the UGREEN. The INIU Power Bank 20000mAh 65W is our pick of the three, at 20000mAh and 65W in its listing title.
 
 ## The three side by side
 
@@ -97,11 +97,11 @@ UGREEN says this bank "Powers laptops with up to 100W via USB-C and 145W total a
 
 ## Quick verdict
 
-Most people: the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)**, for 20000mAh at 65W. Phones and a tablet only: the **[INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)**, the same capacity on two ports. A laptop on a charger above 65W, or a lead that never gets left behind: the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)**.
+Laptops on a charger up to 65W: the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)**, for 20000mAh at 65W. Phones and a tablet only: the **[INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)**, the same capacity on two ports. A laptop on a charger above 65W, or a lead that never gets left behind: the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)**.
 
 ## Charging a laptop over USB-C
 
-A laptop charges from one port, so read a bank's single-port figure, not its total; the top output row in the table gives both for the UGREEN, while the INIU 65W's listing does not say how its 65W splits across ports. For scale, Apple lists a "140W USB-C Power Adapter" for the 16-inch MacBook Pro's fastest charge, more than any of the three gives from one port. The lead matters too: a USB-C cable rated 60W stops at 3A, so above 60W you need one rated 100W or 240W, like the [fast-charging USB-C cables we pick](best-usb-c-cable-for-fast-charging.html). If a laptop is the main thing you need to charge, our [power bank for laptops guide](best-power-bank-for-laptops-uk.html) compares that class on its own.
+A laptop charges from one port, so read a bank's single-port figure, not its total; the top output row in the table gives both for the UGREEN, while the INIU 65W's listing does not say how its 65W splits across ports. For scale, Apple pairs the 16-inch MacBook Pro's fastest charge with its "140W USB-C Power Adapter", more than any of the three gives from one port. The lead matters too: a USB-C cable rated 60W stops at 3A, so above 60W you need one rated 100W or 240W, like the [fast-charging USB-C cables we pick](best-usb-c-cable-for-fast-charging.html). If a laptop is the main thing you need to charge, our [power bank for laptops guide](best-power-bank-for-laptops-uk.html) compares that class on its own.
 
 ## Want a smaller pack?
 
@@ -109,7 +109,7 @@ A 10000mAh pack holds half the capacity: about two full charges of a 4000mAh pho
 
 ## The bank we carry ourselves
 
-The bank we own and fly with is Anker's 25000mAh Travel Essential. Its two built-in USB-C cables (one of them retractable) plus one more USB-C port can charge phone, tablet and laptop together, and daily use and travel have left it without wear. At 25000mAh it isn't one of this page's 20000mAh picks; our [power banks for long flights guide](best-power-bank-for-long-flights.html) covers it in full.
+The bank we own and fly with is Anker's 25000mAh Travel Essential. It has two USB-C cables built in, one that retracts, and a third USB-C port, so phone, tablet and laptop charge together; daily use and travel have left it without wear. At 25000mAh it isn't one of this page's 20000mAh picks; our [power banks for long flights guide](best-power-bank-for-long-flights.html) covers it in full.
 
 <figure class="owned-photos"><img class="tall" src="../assets/img/owned/anker-25000mah-165w-own-unit-cables.jpg" alt="Our own Anker 25000mAh power bank on a table, its screen at 88 percent, with both built-in cables out" width="825" height="1000" loading="lazy" decoding="async"><figcaption>Our own Anker 25000mAh unit, photographed at home with both built-in cables out.</figcaption></figure>
 
@@ -120,7 +120,7 @@ With the capacity fixed at 20000mAh, we compared what decides the buy: the USB-C
 ## FAQ
 
 **Q: Can I take a 20000mAh power bank on a flight?**
-A: Yes, in your hand luggage: at about 74Wh (20000mAh x 3.7V / 1000), it sits under the 100Wh line. The UK CAA says power banks "must only be carried as carry-on baggage", and on US flights the FAA says spare lithium batteries, power banks included, "must be carried in carry-on baggage only", with each limited to "a rating of 100 watt hours (Wh) per battery" unless your airline approves up to two larger spares of up to 160 Wh. Airlines can set stricter limits, so check yours; our [power bank flight rules guide](power-bank-flight-rules-uk.html) covers using a bank on board, and our [power banks for long flights guide](best-power-bank-for-long-flights.html) picks for cabin use.
+A: Yes, in hand luggage. A 20000mAh bank at 3.7V works out at about 74Wh, inside the FAA's 100Wh per-battery limit for US flights (larger spares, two at most, need airline approval), and both the FAA ("carry-on baggage only") and the UK CAA keep power banks out of the hold. Airlines can be stricter, so check yours; our [power bank flight rules guide](power-bank-flight-rules-uk.html) covers larger packs and using a bank on board, and our [power banks for long flights guide](best-power-bank-for-long-flights.html) picks for cabin use.
 
 **Q: How long does a 20000mAh power bank take to recharge?**
 A: Anker's charging guide lists "8-10 hours" on a standard charger and "~4-6 hours" on a fast one for a 20,000mAh bank, not for the three banks here. Your wait is set by the bank's input rating and the charger you refill it from, so check the input watts on the listing and use a charger that can supply them; our [guide to how long a power bank takes to charge](how-long-to-charge-a-power-bank.html) shows how to speed it up.
