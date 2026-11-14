@@ -47,7 +47,7 @@ If the built-in cable isn't the part you care about, UGREEN's listing title desc
 - ✓ Three ports on one plug, per its listing title
 
 **Cons**
-- ✗ Its listing title doesn't give the port mix, so check it has the USB-C ports you need
+- ✗ Check the listing for how many of its three ports are USB-C before you count on it for the Surface
 
 **Who it's for:** Surface owners who want a small 65W plug with room for a phone.
 **Who it's not for:** A desk with more than three devices to charge; that's the four-port pick.
@@ -64,7 +64,7 @@ Scorecard: Capability 9.4/10 - Versatility 8.5/10 - Build 8.9/10 - Value 8.5/10 
 
 Fit for this guide: Microsoft's recommended figures stop at 60W, so the extra watts serve a phone and earbuds beside the Surface, which suits a busy desk.
 
-This is the desk charger. UGREEN's listing title gives it 100W across four ports in a GaN laptop charger plug, so the Surface, a phone and earbuds can all charge from one socket. Its title doesn't give the port mix, so look before you plan your cables.
+This is the desk charger. UGREEN's listing title gives it 100W across four ports in a GaN laptop charger plug, so the Surface, a phone and earbuds can all charge from one socket. The listing title does not say which port types it has, so look before you plan your cables.
 
 **Pros**
 - ✓ The most total output here, per UGREEN's 100W rating
@@ -86,7 +86,7 @@ Most Surface Pro owners should buy the **[UGREEN Nexode 65W USB-C Charger (Built
 
 ## How we chose
 
-We started with Microsoft's own two support pages rather than any charger's marketing: the per-model wattage table and the USB-C fast-charging guidance. Those pages give the wattage to meet; we set our own bar at 65W, just above it, and looked for chargers that clear it and differ in what else they do. On amazon.co.uk at 65W and 100W, every charger we could recommend with confidence came from UGREEN; the other brands we checked fell short on the same tests, so all three picks come from one maker. We take no payment for placement. Check each listing for what's in the box; the overall pick has its cable built in.
+We started with Microsoft's own two support pages rather than any charger's marketing: the per-model wattage table and the USB-C fast-charging guidance. Those pages give the wattage to meet; we set our own bar at 65W, just above it, and looked for chargers that clear it and differ in what else they do. On amazon.co.uk at 65W and 100W, every charger we could recommend with confidence came from UGREEN, so all three picks come from one maker. We take no payment for placement. Check each listing for what's in the box; the overall pick has its cable built in.
 
 ## FAQ
 

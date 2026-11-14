@@ -1,6 +1,6 @@
 # Do You Need A Voltage Converter For Your Charger?
 
-## The short answer: read the input line first
+## Start with the label
 
 A charger with "Input: 100-240V" printed on it runs on the mains almost anywhere, so taking it abroad means packing just a plug adapter to fit the local socket. The adapter changes the shape of the pins; it does nothing to the voltage, and a wide-input charger does not need anything done to the voltage.
 
@@ -24,7 +24,7 @@ A converter earns its place only with a single-voltage device, meaning its label
 
 For a USB charger this case almost never applies, so carrying a converter for one is just extra bulk: a dual-voltage charger already runs on the local mains by itself. The sensible travel kit is a 100-240V charger plus a plug adapter for each socket type you will meet.
 
-If you are choosing a charger to travel with, our [65W GaN charger guide](best-65w-gan-charger-uk.html) compares compact plugs, and its FAQ covers taking one abroad. For the stretches with no socket at all, such as a long flight, the [best power bank for long flights guide](best-power-bank-for-long-flights.html) has the options that pass the cabin rules.
+If you are choosing a charger to travel with, our [65W GaN charger guide](best-65w-gan-charger-uk.html) compares compact plugs, and its FAQ covers taking one abroad. Away from any socket, a power bank fills the gap, and the [best power bank for long flights guide](best-power-bank-for-long-flights.html) compares options for travel. On the plane itself, UK rules say a bank should not be used to charge devices on board, as our [power bank flight rules guide](power-bank-flight-rules-uk.html) sets out.
 
 ## FAQ
 

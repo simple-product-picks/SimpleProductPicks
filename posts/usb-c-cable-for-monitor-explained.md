@@ -18,9 +18,9 @@ This is where the theory earns its keep, because a very common cause of a USB-C 
 
 ## Which cable to reach for
 
-If the laptop and the monitor both handle DisplayPort Alt Mode, a cable sold for USB4 or Thunderbolt is the safe default, because both standards carry video by definition and you don't have to decode a features list to trust them. The [Thunderbolt 4 cable guide](best-thunderbolt-4-cable-uk.html) lists leads proven to pass a video signal and not just power, and if you're unsure which standard your ports actually run, the [USB4 vs Thunderbolt 4 explainer](usb4-vs-thunderbolt-4-explained.html) shows how to read them.
+If the laptop and the monitor both handle DisplayPort Alt Mode, a cable sold for USB4 or Thunderbolt is the safe default, because both standards carry video by definition and you don't have to decode a features list to trust them. The [Thunderbolt 4 cable guide](best-thunderbolt-4-cable-uk.html) lists three such leads, and if you're unsure which standard your ports actually run, the [USB4 vs Thunderbolt 4 explainer](usb4-vs-thunderbolt-4-explained.html) shows how to read them.
 
-For a permanent desk, where one cable also has to power the laptop and reach several devices at once, a dock is usually the tidier answer than a bare cable; the [USB-C docking station guide](best-usb-c-docking-station-uk.html) is chosen on that need. Where a monitor only takes DisplayPort or HDMI at the back, you want a proper video adapter rather than a plain lead, which is what the [USB-C to DisplayPort adapter guide](best-usb-c-to-displayport-adapter.html) is for.
+For a permanent desk, where one cable also has to power the laptop and reach several devices at once, a dock is usually the tidier answer than a bare cable; the [USB-C docking station guide](best-usb-c-docking-station-uk.html) covers that setup. Where a monitor only takes DisplayPort or HDMI at the back, you want a proper video adapter rather than a plain lead, which is what the [USB-C to DisplayPort adapter guide](best-usb-c-to-displayport-adapter.html) is for.
 
 ## FAQ
 

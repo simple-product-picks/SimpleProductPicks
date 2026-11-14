@@ -1,12 +1,12 @@
 # Best USB-C Car Charger UK 2026
 
-Every car charger quotes a wattage. The number most people never check is the fuse behind the cigarette lighter socket. Ratings vary by car, commonly 10A to 20A, and at 12 volts that caps the socket somewhere between roughly 120 and 240 watts. Only the highest-output pick here can pass the bottom of that range, and only with several devices drawing at once. The picks below are ordered by how much of that power budget they fill: one that keeps things simple, one that splits the current across two ports, and one that tries to run the whole car off four.
+Every car charger quotes a wattage. The number most people never check is the fuse behind the cigarette lighter socket. Ratings vary by car, commonly 10A to 20A, and at 12 volts that caps the socket somewhere between roughly 120 and 240 watts. Only the highest-output pick here can pass the bottom of that range. The picks below run from one that keeps things simple, through one that splits the current across two ports, to one that tries to run the whole car off four.
 
 ## Top picks
 
 ### 1. Anker 75W USB C Car Charger (Retractable Cable) - Best Overall
 
-**SPP Score: 8.9 / 10** - 75W max with built-in retractable USB-C cable, ultra-compact. Our all-round pick.
+**SPP Score: 8.9 / 10** - 75W max with built-in retractable USB-C cable. Our all-round pick.
 
 Scorecard: Capability 8.5/10 - Versatility 7.6/10 - Build 9.4/10 - Value 8.9/10 - Fit 9.8/10
 
@@ -17,7 +17,6 @@ Anker lists this as a 75W car charger with its USB-C cable built into the body a
 **Pros**
 - ✓ Built-in retractable USB-C cable with nothing extra to buy or lose
 - ✓ 75W is more than any phone draws, and Anker lists iPad and Galaxy support alongside iPhone
-- ✓ Ultra-compact body sits low in the socket without blocking neighbouring controls
 
 **Cons**
 - ✗ No USB-A port here, so a dashcam or older accessory has nothing to plug into
@@ -47,7 +46,7 @@ INIU's 66W car charger splits its output across two ports: a USB-C at 36W and a 
 
 **Cons**
 - ✗ No cable included, so you need your own USB-C and USB-A leads
-- ✗ 36W on the USB-C port is the lower share of the total, which matters if you are charging something that draws more
+- ✗ The USB-C port tops out at 36W of the 66W total, which matters if you are charging something that draws more
 
 **Who it's for:** Drivers running a phone and a dashcam, or anyone who wants two ports without spending more.
 **Who it's not for:** Laptop users who need a single high-wattage port to keep a machine running on a long drive.
@@ -64,7 +63,7 @@ Scorecard: Capability 9.8/10 - Versatility 8.0/10 - Build 8.5/10 - Value 8.9/10 
 
 Fit for this guide: Four ports and 150W are more than a driver charging a phone in the car needs.
 
-UGREEN lists this car charger at 150W total with PD at 140W across four ports. That is the highest output here by some distance, and the four ports make it the only pick that can charge a laptop, a phone, a tablet and a dashcam from one cigarette lighter socket. Here's where the fuse context matters, though. A 150W draw sits within what a 15A fuse on a 12V circuit allows, but above the limit of a 10A fuse that some cars use on the cigarette lighter. You can check your car's fuse rating in the owner's manual or on the fuse box cover. UGREEN does not claim the charger will blow any fuses; it will draw only what connected devices ask for. But if you plug a hungry laptop into one port and a phone into another, the total draw can climb higher than what most of the lighter-duty chargers here would ever see.
+UGREEN lists this car charger as 150W total and PD140W, with four ports. That is the highest output here by some distance, and the four ports make it the only pick that can charge a laptop, a phone, a tablet and a dashcam from one cigarette lighter socket. This is where the fuse matters. A 150W draw sits within what a 15A fuse on a 12V circuit allows, but above the limit of a 10A fuse, which some cars use on that socket. Plug a hungry laptop into one port and a phone into another, and the total draw can climb past anything the two lighter-duty chargers here can deliver.
 
 **Pros**
 - ✓ Four ports and 150W total means laptop, phone, tablet and dashcam can share one socket
@@ -73,7 +72,6 @@ UGREEN lists this car charger at 150W total with PD at 140W across four ports. T
 
 **Cons**
 - ✗ With 140W going to one port, the other three share what is left of 150W
-- ✗ The largest body of the three, and it sits deeper in the socket
 
 **Who it's for:** Drivers who charge a laptop from the car, or anyone regularly powering three or four devices at once.
 **Who it's not for:** Phone-only users, who would be paying for ports and watts that sit idle every journey.
@@ -88,7 +86,7 @@ For most UK drivers, the **[Anker 75W USB C Car Charger (Retractable Cable)](htt
 
 ## How we chose
 
-We started with what actually limits a car charger: the 12V cigarette lighter socket and the fuse behind it. Fuse ratings vary by car, commonly 10A to 20A, so the real-world ceiling is roughly 120 to 240 watts regardless of what the charger is rated for, and your owner's manual has the figure for yours. With that ceiling in mind, we picked chargers that cover three different load shapes: a single phone (the Anker), a phone plus a second device (the INIU), and a laptop plus everything else (the UGREEN). We checked every link against the live Amazon UK listing the day we wrote this, scored each pick on the criteria we publish, and left port counts and wattage claims as the makers list them. We take no payment for placement and we do not display any data we have not verified ourselves. If you need a [cable for the USB-C port](best-usb-c-cable-for-fast-charging.html), our cable guide covers that end.
+We started with what actually limits a car charger: the 12V cigarette lighter socket and the fuse behind it. Fuse ratings vary by car, commonly 10A to 20A, so the real-world ceiling is roughly 120 to 240 watts regardless of what the charger is rated for, and your owner's manual has the figure for yours. With that ceiling in mind, we picked chargers that cover three different setups: a single phone (the Anker), a phone plus a second device (the INIU), and a laptop plus everything else (the UGREEN). We checked every link against the live Amazon UK listing the day we wrote this, scored each pick on the criteria we publish, and give port counts and wattages as the makers state them. We take no payment for placement. If you need a [cable for the USB-C port](best-usb-c-cable-for-fast-charging.html), our cable guide covers that end.
 
 ## FAQ
 

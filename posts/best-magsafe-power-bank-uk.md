@@ -6,24 +6,24 @@ A magnetic power bank snaps onto the back of an iPhone and charges it with no ca
 
 ### 1. Anker MagGo Power Bank 10000mAh Qi2 15W - Best Overall
 
-**SPP Score: 9.0 / 10** - Qi2 15W wireless with a foldable stand and live display. Our all-round pick.
+**SPP Score: 9.0 / 10** - Qi2 15W wireless with a built-in stand and a smart display. Our all-round pick.
 
 Scorecard: Capability 8.0/10 - Versatility 8.9/10 - Build 9.4/10 - Value 8.9/10 - Fit 9.8/10
 
-Fit for this guide: This guide wants genuine Qi2 speed, and this one is rated for the full 15W, with 10000mAh and a foldable stand behind it.
+Fit for this guide: If you want genuine Qi2 speed, this one is rated for the full 15W, with 10000mAh behind it.
 
-The MagGo is the magnetic bank that earns a place on the desk as well as in a bag. Because it's Qi2-certified you get the standard's full 15W. The foldable stand turns out to be the sleeper feature - plane tray, desk, bedside, wherever the phone needs propping while it drinks - and the small display takes the guesswork out of what's left. When speed beats convenience, Anker rates the wired USB-C port at up to 27W.
+The MagGo is the magnetic bank that earns a place on the desk as well as in a bag. Because it's Qi2-certified you get the standard's full 15W. Anker's smart display shows battery percentages and full recharge times. When speed beats convenience, Anker lists 27W USB-C fast charging for the wired port.
 
 **Pros**
 - ✓ Qi2-certified 15W magnetic charging
-- ✓ Foldable stand holds the phone at an angle while it charges
+- ✓ Built-in stand for hands-free viewing, as Anker describes it
 - ✓ Display plus 27W wired USB-C when you'd rather plug in
 
 **Cons**
 - ✗ Wireless tops out at 15W, and the newer 25W class now exists for recent iPhones
-- ✗ With the stand and the display it is the bulkiest of the three to leave snapped on a phone
+- ✗ Wireless output drops to 5W while the USB-C port is also charging a device, per Anker
 
-**Who it's for:** iPhone owners who want snap-on charging with a stand for desk, travel and video calls.
+**Who it's for:** iPhone owners who want full-speed Qi2 snap-on charging and a wired port for when the cable is quicker.
 **Who it's not for:** Anyone with a handset Apple lists at 25W who wants every watt of it.
 
 [Check price](https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21)
@@ -42,7 +42,7 @@ The INIU is the Qi2 pack you'll forget you're carrying: a 5000mAh body slim enou
 
 **Pros**
 - ✓ Qi2-certified, so it charges at the full 15W
-- ✓ Slim, light 5000mAh build that lives on the phone comfortably
+- ✓ Slim 5000mAh magnetic pack
 - ✓ USB-C cable and stand included, per INIU's listing
 
 **Cons**
@@ -58,18 +58,17 @@ The INIU is the Qi2 pack you'll forget you're carrying: a 5000mAh body slim enou
 
 ### 3. UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable) - Best Premium
 
-**SPP Score: 8.6 / 10** - Qi2 25W wireless with a built-in USB-C cable and battery display. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - Qi2 25W wireless with a built-in USB-C cable. Our pick for maximum capability.
 
 Scorecard: Capability 8.5/10 - Versatility 8.9/10 - Build 8.5/10 - Value 8.5/10 - Fit 8.5/10
 
 Fit for this guide: Handsets Apple lists at 25W get the full magnetic speed here, from Qi2 25W and a built-in cable.
 
-The MagFlow is the pick for the newest iPhones. It carries the Qi2 25W standard, which UGREEN pitches as its fastest magnetic charging for the iPhone 16 and 17 era. A built-in USB-C cable handles wired charging at PD 30W, and a battery display keeps the guesswork out. On an older iPhone it still works magnetically, just at the 15W the phone itself allows.
+The MagFlow is the pick for the newest iPhones. It carries the Qi2 25W standard, ten watts above the other two picks. A built-in USB-C cable takes care of wired charging. On an older iPhone it still works magnetically, just at the 15W the phone itself allows.
 
 **Pros**
 - ✓ Qi2 25W wireless - the fastest magnetic class, per UGREEN's rating
 - ✓ Built-in USB-C cable means wired charging with nothing extra to pack
-- ✓ Battery display plus PD 30W wired output round it out
 
 **Cons**
 - ✗ The full 25W needs a handset Apple lists for it - an iPhone 17, or a 16 Plus or 16 Pro Max; everything older caps at 15W
@@ -84,7 +83,7 @@ The MagFlow is the pick for the newest iPhones. It carries the Qi2 25W standard,
 
 ## Quick verdict
 
-For most people the **[Anker MagGo Power Bank 10000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21)** is the one to get: proper Qi2 speed, a stand that earns its keep daily, and a display that tells you what's left. For a slim 5000mAh pack that stays on the phone, take the **[INIU Slimmest Power Bank 5000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0DNFV5K62?linkCode=ll2&tag=souvlakia-21)**. And if your iPhone takes 25W, the **[UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable)](https://www.amazon.co.uk/dp/B0F37VLJQW?linkCode=ll2&tag=souvlakia-21)** is the one bank here that uses all of it. If you're still buying the plug that goes with a new iPhone, our [iPhone 17 charger guide](best-charger-for-iphone-17-uk.html) covers that end.
+For most people the **[Anker MagGo Power Bank 10000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21)** is the one to get: proper Qi2 speed and a smart display that shows the battery percentage. For a slim 5000mAh pack that stays on the phone, take the **[INIU Slimmest Power Bank 5000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0DNFV5K62?linkCode=ll2&tag=souvlakia-21)**. And if your iPhone takes 25W, the **[UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable)](https://www.amazon.co.uk/dp/B0F37VLJQW?linkCode=ll2&tag=souvlakia-21)** is the one bank here that uses all of it. If you're still buying the plug that goes with a new iPhone, our [iPhone 17 charger guide](best-charger-for-iphone-17-uk.html) covers that end.
 
 ## Which one for an iPhone 15?
 
@@ -92,7 +91,7 @@ Apple's iPhone 15 specs list "MagSafe wireless charging up to 15W", the same 15W
 
 ## How we chose
 
-Magnetic banks live or die on the wireless standard they actually carry, so that came first: all three picks are Qi2-certified. Beyond that we weighed wired speed for when the cable is quicker, extras like stands and displays that change daily use, capacity against pocketability, and honest fit for buyers. Wireless standards are exactly where listings blur the details, so follow each link to the live Amazon page and check the Qi2 wording matches what your iPhone supports before you buy.
+Magnetic banks live or die on the wireless standard they actually carry, so that came first: all three picks are Qi2-certified. Beyond that we weighed wired speed for when the cable is quicker, extras like stands and displays that change daily use, capacity against pocketability, and fit for your iPhone. Wireless standards are exactly where listings blur the details, so follow each link to the live Amazon page and check the Qi2 wording matches what your iPhone supports before you buy.
 
 ## FAQ
 
@@ -106,7 +105,7 @@ A: Through a MagSafe-compatible case, yes - the magnets are designed for it. Thi
 A: Fewer wirelessly than wired - some energy is lost as heat, so the same bank gets you noticeably less over the magnets than through the cable. If raw endurance matters more than convenience, a bigger wired bank from our [long flights guide](best-power-bank-for-long-flights.html) stretches further.
 
 **Q: Can I take one of these on a plane?**
-A: Yes, with the usual care. Check the watt-hour figure printed on the bank against your airline's limit, keep it in hand luggage rather than checked bags, and check the rules again if you're carrying several.
+A: Yes, with the usual care. Check the watt-hour figure printed on the bank against your airline's limit, keep it in hand luggage rather than checked bags, and check the rules again if you're carrying several. UK rules say a power bank should not be used to charge devices on board; our [power bank flight rules guide](power-bank-flight-rules-uk.html) has the details.
 
 ---
 
